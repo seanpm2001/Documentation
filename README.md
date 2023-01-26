@@ -10,6 +10,12 @@ This is the hub for the documentation of [`@seanpm2001`](https://github.com/sean
 
 ***
 
+## Legend
+
+* Links that have a preceding :octocat: Emoji are links to a GitHub page or repository. [:octocat: Like so](https://github.com/)
+
+***
+
 ## General
 
 ### Other documentation hubs
@@ -41,12 +47,13 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `DoorCrete`](https://github.com/seanpm2001/Doorcrete/)
 - [:octocat: `Citation database`](https://github.com/seanpm2001/Seanpm2001-Citation/)
 - [:octocat: `Privacy`](https://github.com/seanpm2001/Privacy/)
+- [:octocat: `Climate Activism`](https://github.com/seanpm2001/Climate-Activism/)
 
 > **Note** Documentation for many projects is not yet listed
 
 > **Note** Forked documentation repositories are not listed.
 
-**Todo** Create documentation repositories for MCPYE, Tetris128, UHS, SVG Video, CC++, WacOS, Meadows, Bliss Browser, Talla Browser, SeansLifeArchive, DeGoogle-your-Life, BlazeOS, and more
+**Todo** Create documentation repositories for MCPYE, Tetris128, UHS, SVG Video, CC++, WacOS, Meadows, Bliss Browser, Talla Browser, SeansLifeArchive, DeGoogle-your-Life, BlazeOS, Linux Defender, and more
 
 ### Redirect repositories
 
@@ -94,6 +101,13 @@ See also:
 - [:octocat: `Shell City`](https://github.com/seanpm2001/Shell-City/) - Project written only in Shell
 - [:octocat: `Stan Marsh`](https://github.com/seanpm2001/Stan-Marsh/) - Project written only in Stan
 
+#### Custom languages
+
+Languages made by me.
+
+- [:octocat: `URLL`](https://github.com/seanpm2001/URLL/)
+- [:octocat: `
+
 #### Guides
 
 - [:octocat: `Source code styleguide`](https://github.com/seanpm2001/SourceCode_StyleGuide/) - A highly incomplete source code styleguide
@@ -105,6 +119,7 @@ See also:
 - [:octocat: `Computing longevity`](https://github.com/seanpm2001/Computing-Longevity/)
 - [:octocat: `LapLight`](https://github.com/seanpm2001/LapLight/)
 - [:octocat: `Camera Privacy Specification`](https://github.com/seanpm2001/Camera-privacy-specification/)
+- [:octocat: `ls.txt`](https://github.com/seanpm2001/ls.txt/)
 
 **Movements**
 
@@ -123,15 +138,21 @@ See also:
 
 ***
 
+## API
+
+- [:octocat: `API-2001`](https://github.com/seanpm2001/API-2001/) - My personal API
+
+***
+
 ## File info
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2023, Wednesday, January 25th at 5:42 pm PST)`
+**File version:** `2 (2023, Wednesday, January 25th at 9:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `187`
+**Line count (including blank lines and compiler line):** `230`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -178,6 +199,28 @@ See also:
 - [x] Added the `file history` section
 - - [x] Added an entry for version 1
 - [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2023, Wedneday, January 25th at 9:12 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Added the `Legend` section
+- ...
+- - [x] Updated the `Miscellaneous documentation hubs and articles` subsection
+- ...
+- - [x] Updated the `Standards` subsection
+- [x] Added the `API` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
 
 </details>
 
