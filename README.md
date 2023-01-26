@@ -4,21 +4,24 @@
 <div align="center">
   <img alt="Documentation logo failed to load. Click/tap here to attempt to view it" src="/Documentation.png" width="256" height="256" class="center"/>
   <H1>Documentation</H1>
+  <p>The Documentation core repository for <a href="https://github.com/seanpm2001/">@seanpm2001</a></p>
 </div>
 
 This is the hub for the documentation of [`@seanpm2001`](https://github.com/seanpm2001/) due to its size, this is mainly a list of links (a portal page) it is currently an early draft, and is highly incomplete.
 
 ***
 
-## Legend
+## [Legend](#Legend)
 
 * Links that have a preceding :octocat: Emoji are links to a GitHub page or repository. [:octocat: Like so](https://github.com/)
 
+I want there to be a level of trust here. If a link seems suspicious to you, remember that this is a safe project. If you still feel unsure, hover over it.
+
 ***
 
-## General
+## [General](#General)
 
-### Other documentation hubs
+### [Other documentation hubs](#Other-documentation-hubs)
  
 _Other documentation hubs_
 
@@ -35,7 +38,7 @@ _Other documentation hubs_
 - [:octocat: `SeanTRM Documentation`](https://github.com/seanpm2001/SeanTRM-Documentation/)
 - [:octocat: `Seanspokane2015-Documentation`](https://github.com/seanpm2001/Seanspokane2015-Documentation/)
 
-### Miscellaneous documentation hubs and articles
+### [Miscellaneous documentation hubs and articles](#Miscellaneous-documentation-hubs-and-articles)
 
 _Miscellaneous documentation hubs and articles_
 
@@ -55,7 +58,7 @@ _Miscellaneous documentation hubs and articles_
 
 **Todo** Create documentation repositories for MCPYE, Tetris128, UHS, SVG Video, CC++, WacOS, Meadows, Bliss Browser, Talla Browser, SeansLifeArchive, DeGoogle-your-Life, BlazeOS, Linux Defender, and more
 
-### Redirect repositories
+### [Redirect repositories](#Redirect-repositories)
 
 Redirect repositories that link to documentation repositories
 
@@ -64,9 +67,13 @@ Redirect repositories that link to documentation repositories
 - [:octocat: `SeanTRM-Docs`](https://github.com/seanpm2001/SeanTRM-Docs/)
 - [:octocat: `Seanwallawalla-Docs`](https://github.com/seanpm2001/Seanwallawalla-Docs/)
 
+**See also:**
+
+- [:octocat: `.redirect`](https://github.com/seanpm2001/.redirect/)
+
 ***
 
-## Linguistics
+## [Linguistics](#Linguistics)
 
 _Not to be confused with [programming languages](#Programming-languages)._
 
@@ -74,18 +81,18 @@ _Not to be confused with [programming languages](#Programming-languages)._
 
 ***
 
-## Programming languages
+## [Programming languages](#Programming-languages)
 
-### General concepts
+### [General concepts](#General-concepts)
 
 - [:octocat: `Software Diversity`](https://github.com/seanpm2001/Software-Diversity/)
 - [:octocat: `Project language files`](https://github.com/seanpm2001/Project-language-file/)
 
-See also:
+**See also:**
 
 * [:octocat: `Git-Templates`](https://github.com/seanpm2001/Git-Templates/) - Contains the largest collection of my project language files
 
-### Language groups
+### [Language groups](#Language-groups)
 
 > **Note** Groups have not yet been created for all languages I use, including some major ones like Python.
 
@@ -93,26 +100,38 @@ See also:
 - [:octocat: `Seanpm2001-GoDot`](https://github.com/seanpm2001/Seanpm2001-GoDot/) - Grouping of GDScript-based projects
 - [:octocat: `The Rust Belt`](https://github.com/seanpm2001/Rust-Belt/) - Grouping of Rust-based projects.
 
-#### Language dependents
+#### [Language dependents](#Language-dependents)
 
-- [:octocat:` CMilk`](https://github.com/seanpm2001/CMilk/) - Project written only in C
+- [:octocat: `CMilk`](https://github.com/seanpm2001/CMilk/) - Project written only in C
+- [:octocat: `Halloween Assistant`](https://github.com/seanpm2001/Halloween-Assistant/) - Project written only in Boo
 - [:octocat: `Java the Hutt`](https://github.com/seanpm2001/Java_The_Hutt/) - Project written only in Java
 - [:octocat: `Metallica`](https://github.com/seanpm2001/Metallica/) - Project written only in Metal
 - [:octocat: `Shell City`](https://github.com/seanpm2001/Shell-City/) - Project written only in Shell
 - [:octocat: `Stan Marsh`](https://github.com/seanpm2001/Stan-Marsh/) - Project written only in Stan
 
-#### Custom languages
+#### [Custom languages](#Custom-languages)
 
-Languages made by me.
+> **Note** This list is in A-Z order
 
-- [:octocat: `URLL`](https://github.com/seanpm2001/URLL/)
-- [:octocat: `
+_Languages made by me._
 
-#### Guides
+- 1. [:octocat: `AGRAN`](https://github.com/seanpm2001/AGRAN-Programming-language/) **Currently unmaintained**
+- 2. [:octocat: `DroppedText`](https://github.com/seanpm2001/Dropped-Text-lang/) **Partially maintained**
+- 3. [:octocat: `DSergeant`](https://github.com/seanpm2001/DSergeant/) **Currently unmaintained**
+- 4. [:octocat: `Matrix`](https://github.com/seanpm2001/Matrix-lang/) **Currently unmaintained**
+- 5. [:octocat: `MGears`](https://github.com/seanpm2001/MGears/) **Currently unmaintained**
+- 6. [:octocat: `Objective-J#`](https://github.com/seanpm2001/Objective-JSharp/) **Currently unmaintained**
+- 7. [:octocat: `Objective-J++`](https://github.com/seanpm2001/Objective-JPP/) **Currently unmaintained**
+- 8. [:octocat: `Objective-C#`](https://github.com/seanpm2001/Objective-CSharp/) **Currently unmaintained**
+- 9. [:octocat: `URLL`](https://github.com/seanpm2001/URLL/) **Maintained**
+
+It is a personal goal to have as few languages as possible, so not all of these are maintained.
+
+#### [Guides](#Guides)
 
 - [:octocat: `Source code styleguide`](https://github.com/seanpm2001/SourceCode_StyleGuide/) - A highly incomplete source code styleguide
 
-#### Standards and movements
+#### [Standards and movements](#Standards-and-movements)
 
 **Standards**
 
@@ -128,31 +147,78 @@ Languages made by me.
 
 ***
 
-## Git tools
+## [Git tools](#Git-tools)
 
 - [:octocat: `IGNORE.md file`](https://github.com/seanpm2001/IGNORE_File/)
 - [:octocat: `Git-Templates`](https://github.com/seanpm2001/Git-Templates/)
-- [:octocat: `GitHub Organization Info`](https://github.com/seanpm2001/GitHub_Organization_Info/) - Information on my former GitHub organizations
-
-> **Note** This `README.md` file is a major stub, and will undergo significant expansion
+- [:octocat: `GitHub Organization Info (GOI)`](https://github.com/seanpm2001/GitHub_Organization_Info/) - Information on my former GitHub organizations
 
 ***
 
-## API
+## [API](#API)
 
 - [:octocat: `API-2001`](https://github.com/seanpm2001/API-2001/) - My personal API
 
 ***
 
-## File info
+## [Statisics](#Statisics)
+
+### [Git statistics](#Git-statistics)
+
+- [:octocat: `Commit Count Milestones (CCM)`](https://github.com/seanpm2001/Commit-Count-Milestones/)
+
+### [GitHub statistics](#GitHub-statistics)
+
+- [:octocat: `GitHub Statistics`](https://github.com/seanpm2001/GitHub_Statistics/)
+- [:octocat: `GitHub Stats A`](https://github.com/seanpm2001/GitHub_Stats_A/)
+- [:octocat: `GitHub Fork list`](https://github.com/seanpm2001/GitHub_Forklist/)
+- [:octocat: `GitHub Star list`](https://github.com/seanpm2001/GitHub_Starlist/)
+- [:octocat: `GitHub Watch list`](https://github.com/seanpm2001/GitHub_Watchlist/)
+- [:octocat: `GitHub Follow List`](https://github.com/seanpm2001/GitHub_FollowList/)
+
+***
+
+## [Teams and management](#Teams-and-management)
+
+### [Git teams](#Git-teams)
+
+- [:octocat: `Scope`](https://github.com/seanpm2001/Scope/)
+
+### [GitHub teams](#GitHub-Teams)
+
+_Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
+
+- [:octocat: `.github`](https://github.com/seanpm2001/.github/)
+
+### [General management](#General-management)
+
+- [:octocat: `Teams`](https://github.com/seanpm2001/Teams/)
+- [:octocat: `.redirect`](https://github.com/seanpm2001/.redirect/)
+
+***
+
+## [Personal projects](#Personal-projects)
+
+- [:octocat: `SeansAudioDB`](https://github.com/seanpm2001/SeansAudioDB/) - My music and sound effect archive
+
+### [Sensitive personal projects](#Sensitive-personal-projects)
+
+- [:octocat: `Politics`](https://github.com/seanpm2001/Politics/) - A place for my political beliefs. Politics should not leak out of political projects like this one.
+- [:octocat: `Sexuality Center`](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/) - A place for my sexual beliefs and practices. Does not contain NSFW sexual content
+
+> **Note** This `README.md` file is a major stub, and will undergo significant expansion
+
+***
+
+## [File info](#File-info)
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Wednesday, January 25th at 9:12 pm PST)`
+**File version:** `3 (2023, Thursday, January 26th at 3:57 pm PST)`
 
-**Line count (including blank lines and compiler line):** `230`
+**Line count (including blank lines and compiler line):** `342`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -168,7 +234,7 @@ Languages made by me.
 
 ***
 
-## File history
+## [File history](#File-history)
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
@@ -202,7 +268,7 @@ Languages made by me.
 
 </details>
 
-<details><summary><p lang="en"><b>Version 2 (2023, Wedneday, January 25th at 9:12 pm PST)</b></p></summary>
+<details><summary><p lang="en"><b>Version 2 (2023, Wednesday, January 25th at 9:12 pm PST)</b></p></summary>
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
@@ -224,6 +290,52 @@ Languages made by me.
 
 </details>
 
+<details><summary><p lang="en"><b>Version 3 (2023, Thursday, January 26th at 3:57 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the heading
+- - [x] Added the repository description
+- [x] Updated all sections to include anchor links in the heading text
+- [x] Updated the `Legend` section
+- [x] Updated the `General` section
+- - [x] Updated the `Other documentation hubs` subsection
+- [x] Updated the `Redirect repositories` section
+- ...
+- - [x] Updated the `Language dependants` subsection
+- - [x] Updated the `Custom languages` subsection
+- [x] Added the `Statistics` section
+- - [x] Added the `Git Statistics` subsection
+- - [x] Added the `GitHub Statistics` subsection
+- [x] Added the `Teams and management` section
+- - [x] Added the `Git Teams` subsection
+- - [x] Added the `GitHub Teams` subsection
+- - [x] Added the `General Management` subsection
+- [x] Added the `Personal projects` section
+- - [x] Added the `Sensitive personal projects` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Fixed the date in the entry for version 2
+- - [x] Added an entry for version 3
+- [x] Added the `Footer`
+- [ ] No other changes in version 3
+
 </details>
+
+</details>
+
+***
+
+###### [Footer](#Footer)
+
+You have reached the end of this page.
+
+- [:octocat: `Back to top`](#Documentation)
+- [:octocat: `Exit to GitHub`](https://github.com/)
 
 ***
