@@ -27,16 +27,33 @@ _Other documentation hubs_
 
 > **Note** This list is in A-Z order
 
+> **Note** As of 2023, Thursday, January 26th, several links don't work, as the repositories are coming soon.
+
 - [:octocat: `Android x32 Docs`](https://github.com/seanpm2001/Android-x32_Docs/)
 - [:octocat: `Android x32x64 Docs`](https://github.com/seanpm2001/Android-x32x64_Docs/)
 - [:octocat: `Android x64 Docs`](https://github.com/seanpm2001/Android-x64_Docs/)
 - [:octocat: `Android x128 Docs`](https://github.com/seanpm2001/Android-x128_Docs/)
 - [:octocat: `BASH.sh Docs`](https://github.com/seanpm2001/BASH.sh_Docs/)
+- [:octocat: `BlazeOS Docs`](https://github.com/seanpm2001/BlazeOS_Docs/)
+- [:octocat: `Bliss Browser Docs`](https://github.com/seanpm2001/Bliss_Browser_Docs/)
+- [:octocat: `BluPhone Docs`](https://github.com/seanpm2001/BluPhone_Docs/)
+- [:octocat: `CamCamPlus Docs`](https://github.com/seanpm2001/CamCamPlus_Docs/)
 - [:octocat: `Candroid Docs`](https://github.com/seanpm2001/Candroid-Docs/)
+- [:octocat: `DeGoogle your Life Docs`](https://github.com/seanpm2001/DeGoogle-your-Life_Docs/)
 - [:octocat: `iBlast Docs`](https://github.com/seanpm2001/iBlast_Docs/)
 - [:octocat: `LibreFlock Docs`](https://github.com/seanpm2001/LibreFlock_Docs/)
+- [:octocat: `Linux Defender Docs`](https://github.com/seanpm2001/Linux-Defender_Docs/)
+- [:octocat: `MCPYE Docs`](https://github.com/seanpm2001/MCPYE_Docs/)
+- [:octocat: `Meadows Docs`](https://github.com/seanpm2001/Meadows_Docs/)
 - [:octocat: `SeanTRM Documentation`](https://github.com/seanpm2001/SeanTRM-Documentation/)
 - [:octocat: `Seanspokane2015-Documentation`](https://github.com/seanpm2001/Seanspokane2015-Documentation/)
+- [:octocat: `SeansLifeArchive Docs`](https://github.com/seanpm2001/SeansLifeArchive_Docs/)
+- [:octocat: `SeansLifeArchive_Wiki`](https://github.com/seanpm2001/SeansLifeArchive_Wiki/)
+- [:octocat: `SVG Video Docs`](https://github.com/seanpm2001/SVG-Video_Docs/)
+- [:octocat: `Talla Browser Docs`](https://github.com/seanpm2001/Talla_Browser_Docs/)
+- [:octocat: `Tetris128 Docs`](https://github.com/seanpm2001/Tetris128/)
+- [:octocat: `Ukraine History Simulator Docs`](https://github.com/seanpm2001/Ukraine-History-Simulator_Docs/)
+- [:octocat: `WacOS Docs`](https://github.com/seanpm2001/WacOS_Docs/)
 
 ### [Miscellaneous documentation hubs and articles](#Miscellaneous-documentation-hubs-and-articles)
 
@@ -51,6 +68,35 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Citation database`](https://github.com/seanpm2001/Seanpm2001-Citation/)
 - [:octocat: `Privacy`](https://github.com/seanpm2001/Privacy/)
 - [:octocat: `Climate Activism`](https://github.com/seanpm2001/Climate-Activism/)
+- [:octocat: `SeansOSData`](https://github.com/seanpm2001/SeansOSData/)
+- [:octocat: `KhanAcademyData u/seanwallawallaofficial`](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/)
+- [:octocat: `NimbleBit Glossary`](https://github.com/seanpm2001/NimbleBit-Glossary/)
+- [:octocat: `Medical/Medicinal ethics`](https://github.com/seanpm2001/Medicinal-ethics/)
+- [:octocat: `GitHub Health Project Article`](https://github.com/seanpm2001/GitHub-Health-Project-Article/)
+- [:octocat: `The Microsoft Pact`](https://github.com/seanpm2001/The-Microsoft-Pact/)
+- [:octocat: `Seanpm2001 Idea Vault`](https://github.com/seanpm2001/Seanpm2001-idea-vault/)
+- [:octocat: `Myrick Family Archive`](https://github.com/seanpm2001/Myrick-Family-Archive/)
+- [:octocat: `Project designators`](https://github.com/seanpm2001/Project-Designators/)
+- [:octocat: `Copyleft`](https://github.com/seanpm2001/Copyleft/)
+- [:octocat: `Seanpm2001 Templates`](https://github.com/seanpm2001/Seanpm2001-Templates/)
+- [:octocat: `DeGoogled Android Phone VM research`](https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research/)
+- [:octocat: `GitHub Flag History`](https://github.com/seanpm2001/GitHub_Flag_History/)
+- [:octocat: `-Ibibyte mathematical reference`](https://github.com/seanpm2001/-ibibyte_Mathematical_Reference/)
+- [:octocat: `Ransomware Info`](https://github.com/seanpm2001/Ransomware-Info/)
+- [:octocat: `Seanpm2001 Hardware`](https://github.com/seanpm2001/Seanpm2001-Hardware/)
+- [:octocat: `Seanpm2001 Most Developed`](https://github.com/seanpm2001/Seanpm2001-MostDeveloped/)
+- [:octocat: `"Awesome" DRM`](https://github.com/seanpm2001/Awesome-DRM/)
+- [:octocat: `MasterMasterMaster`](https://github.com/seanpm2001/MasterMasterMaster/)
+- [:octocat: `DRM`](https://github.com/seanpm2001/DRM/)
+- [:octocat: `Awesome Online Video Editors`](https://github.com/seanpm2001/Awesome-online-video-editors/)
+- [:octocat: `Seanpm2001 Car`](https://github.com/seanpm2001/Seanpm2001-Car/)
+- [:octocat: `Project Aquarius`](https://github.com/seanpm2001/Project-Aquarius/)
+- [:octocat: `Education`](https://github.com/seanpm2001/Education/)
+- [:octocat: `LightSpeed Relay Technologies Info`](https://github.com/seanpm2001/LightSpeedRelayTechnology_Info/)
+- [:octocat: `Maintainers info`](https://github.com/seanpm2001/Maintainers-info/)
+- [:octocat: `Character Image Research`](https://github.com/seanpm2001/Character_Image_Research/)
+- [:octocat: `Walla Walla WA CottonWood Annexation Protest`](https://github.com/seanpm2001/Walla-Walla-WA-Cottonwood-Annexation-Protest/)
+- [:octocat: `The Problems with Planned Obsolescence`](https://github.com/seanpm2001/The-problems-with-planned-obsolescence/)
 
 > **Note** Documentation for many projects is not yet listed
 
@@ -135,10 +181,13 @@ It is a personal goal to have as few languages as possible, so not all of these 
 
 **Standards**
 
-- [:octocat: `Computing longevity`](https://github.com/seanpm2001/Computing-Longevity/)
-- [:octocat: `LapLight`](https://github.com/seanpm2001/LapLight/)
 - [:octocat: `Camera Privacy Specification`](https://github.com/seanpm2001/Camera-privacy-specification/)
+- [:octocat: `Computing longevity`](https://github.com/seanpm2001/Computing-Longevity/)
+- [:octocat: `DeciCube`](https://github.com/seanpm2001/DeciCube/)
+- [:octocat: `LapLight`](https://github.com/seanpm2001/LapLight/)
 - [:octocat: `ls.txt`](https://github.com/seanpm2001/ls.txt/)
+- [:octocat: `Notchware`](https://github.com/seanpm2001/Notchware/)
+- [:octocat: `Nuclear Ad Bombs specification`](https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification/)
 
 **Movements**
 
@@ -216,9 +265,9 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Thursday, January 26th at 3:57 pm PST)`
+**File version:** `4 (2023, Thursday, January 26th at 7:32 pm PST)`
 
-**Line count (including blank lines and compiler line):** `342`
+**Line count (including blank lines and compiler line):** `411`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -324,6 +373,26 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 3
 - [x] Added the `Footer`
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p lang="en"><b>Version 4 (2023, Thursday, January 26th at 7:32 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `General` section
+- - [x] Updated the `Other documentation hubs` subsection
+- - [x] Updated the `Miscellaneous documentation hubs` subsection
+- [x] Updated the `Standards and movements` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
