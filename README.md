@@ -17,6 +17,23 @@ This is the hub for the documentation of [`@seanpm2001`](https://github.com/sean
 
 I want there to be a level of trust here. If a link seems suspicious to you, remember that this is a safe project. If you still feel unsure, hover over it.
 
+**Current problem:** there are so many links, it might be overwhelming to some. This is a listing of my complete documentation set, spanning every single project. Continue at your own pace. Going through all of this will take more than 24 hours.
+
+<!-- Notes 2023.01.28
+
+Add to main documentation (v7)
+
+Food Index
+Snapcraft collection
+GitHub Pages Collection
+Vim AutoScroller
+Video Directory
+Firefox version number fix
+Team8Collection_Docs
+404DAY
+
+!-->
+
 ***
 
 ## [General](#General)
@@ -27,7 +44,7 @@ _Other documentation hubs_
 
 > **Note** This list is in A-Z order
 
-> **Note** As of 2023, Friday, January 27th, several links don't work, as the repositories are coming soon.
+> **Note** As of 2023, Saturday, January 28th, several links don't work, as the repositories are coming soon.
 
 - [:octocat: `Android x32 Docs`](https://github.com/seanpm2001/Android-x32_Docs/)
 - [:octocat: `Android x32x64 Docs`](https://github.com/seanpm2001/Android-x32x64_Docs/)
@@ -51,6 +68,7 @@ _Other documentation hubs_
 - [:octocat: `SeansLifeArchive_Wiki`](https://github.com/seanpm2001/SeansLifeArchive_Wiki/)
 - [:octocat: `SVG Video Docs`](https://github.com/seanpm2001/SVG-Video_Docs/)
 - [:octocat: `Talla Browser Docs`](https://github.com/seanpm2001/Talla_Browser_Docs/)
+- [:octocat: `Team8Collection Docs`](https://github.com/seanpm2001/Team8Collection_Docs/)
 - [:octocat: `Tetris128 Docs`](https://github.com/seanpm2001/Tetris128_Docs/)
 - [:octocat: `Ukraine History Simulator Docs`](https://github.com/seanpm2001/Ukraine-History-Simulator_Docs/)
 - [:octocat: `WacOS Docs`](https://github.com/seanpm2001/WacOS_Docs/)
@@ -59,7 +77,7 @@ _Other documentation hubs_
 
 _Miscellaneous documentation hubs and articles_
 
-> **Note** This list needs to be cleaned up, split off, and organized
+> **Note** This list needs to be cleaned up, split off, and organized.
 
 - [:octocat: `seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/)
 - [:octocat: `Seanpm2001 Specifications`](https://github.com/seanpm2001/Seanpm2001-Specifications/)
@@ -118,10 +136,16 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Blocklist`](https://github.com/seanpm2001/Blocklist/)
 - [:octocat: `Registry`](https://github.com/seanpm2001/Registry/)
 - [:octocat: `Seanpm2001 Registry`](https://github.com/seanpm2001/Seanpm2001-Registry/)
+- [:octocat: `Seanpm2001-Snapcraft`](https://github.com/seanpm2001/Seanpm2001-Snapcraft/)
+- [:octocat: `GitHub Pages Collection`](https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection/)
+- [:octocat: `Firefox Version Number fix`](https://github.com/seanpm2001/Firefox-version-number-fix/)
+- [:octocat: `404 Day`](https://github.com/seanpm2001/404Day/)
 
 > **Note** Documentation for many projects is not yet listed
 
 > **Note** Forked documentation repositories are not listed.
+
+**Note to self:** _You write a lot of documentation, don't be surprised that so many repositories fall under this category._
 
 ### [Redirect repositories](#Redirect-repositories)
 
@@ -177,6 +201,7 @@ _Not to be confused with [programming languages](#Programming-languages)._
 - [:octocat: `Shell City`](https://github.com/seanpm2001/Shell-City/) - Project written only in Shell
 - [:octocat: `Stan Marsh`](https://github.com/seanpm2001/Stan-Marsh/) - Project written only in Stan
 - [:octocat: `TclTorture`](https://github.com/seanpm2001/TclTorture/) - Project written only in tcl
+- [:octocat: `Vim AutoScroller`](https://github.com/seanpm2001/Vim-Autoscroller/) - Project written only in Vim Script
 
 #### [Custom languages](#Custom-languages)
 
@@ -273,9 +298,15 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 ## [Personal projects](#Personal-projects)
 
+> **Note** This list is currently incomplete.
+
 - [:octocat: `SeansAudioDB`](https://github.com/seanpm2001/SeansAudioDB/) - My music and sound effect archive
+- [:octocat: `SeansLifeArchive_VideoDirectory`](https://github.com/seanpm2001/SeansLifeArchive_VideoDirectory/) - My video collection archive
+- [:octocat: `SPM Food Index`](https://github.com/seanpm2001/SPM_FoodIndex/) - My food and nutritional database
 
 ### [Sensitive personal projects](#Sensitive-personal-projects)
+
+> **Note** These projects are not suitable to all audiences.
 
 - [:octocat: `Politics`](https://github.com/seanpm2001/Politics/) - A place for my political beliefs. Politics should not leak out of political projects like this one.
 - [:octocat: `Sexuality Center`](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/) - A place for my sexual beliefs and practices. Does not contain NSFW sexual content
@@ -290,9 +321,9 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `6 (2023, Friday, January 27th at 5:30 pm PST)`
+**File version:** `7 (2023, Friday, January 28th at 11:11 am PST)`
 
-**Line count (including blank lines and compiler line):** `481`
+**Line count (including blank lines and compiler line):** `538`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -463,6 +494,32 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 6
 - [ ] No other changes in version 6
+
+</details>
+
+<details><summary><p lang="en"><b>Version 7 (2023, Saturday, January 28th at 11:11 am PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `Legend` section
+- [x] Updated the `General` section
+- ...
+- - [x] Updated the `Other documentation hubs` subsection
+- - [x] Updated the `Miscellaneous documentation hubs` subsection
+- ...
+- - ...
+- - - [x] Updated the `Language dependents` subsubsection
+- [x] Updated the `Personal projects` section
+- - [x] Updated the `Sensitive personal projects` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 7
+- [ ] No other changes in version 7
 
 </details>
 
