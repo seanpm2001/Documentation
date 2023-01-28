@@ -27,7 +27,7 @@ _Other documentation hubs_
 
 > **Note** This list is in A-Z order
 
-> **Note** As of 2023, Thursday, January 26th, several links don't work, as the repositories are coming soon.
+> **Note** As of 2023, Friday, January 27th, several links don't work, as the repositories are coming soon.
 
 - [:octocat: `Android x32 Docs`](https://github.com/seanpm2001/Android-x32_Docs/)
 - [:octocat: `Android x32x64 Docs`](https://github.com/seanpm2001/Android-x32x64_Docs/)
@@ -51,13 +51,15 @@ _Other documentation hubs_
 - [:octocat: `SeansLifeArchive_Wiki`](https://github.com/seanpm2001/SeansLifeArchive_Wiki/)
 - [:octocat: `SVG Video Docs`](https://github.com/seanpm2001/SVG-Video_Docs/)
 - [:octocat: `Talla Browser Docs`](https://github.com/seanpm2001/Talla_Browser_Docs/)
-- [:octocat: `Tetris128 Docs`](https://github.com/seanpm2001/Tetris128/)
+- [:octocat: `Tetris128 Docs`](https://github.com/seanpm2001/Tetris128_Docs/)
 - [:octocat: `Ukraine History Simulator Docs`](https://github.com/seanpm2001/Ukraine-History-Simulator_Docs/)
 - [:octocat: `WacOS Docs`](https://github.com/seanpm2001/WacOS_Docs/)
 
 ### [Miscellaneous documentation hubs and articles](#Miscellaneous-documentation-hubs-and-articles)
 
 _Miscellaneous documentation hubs and articles_
+
+> **Note** This list needs to be cleaned up, split off, and organized
 
 - [:octocat: `seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/)
 - [:octocat: `Seanpm2001 Specifications`](https://github.com/seanpm2001/Seanpm2001-Specifications/)
@@ -97,12 +99,29 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Character Image Research`](https://github.com/seanpm2001/Character_Image_Research/)
 - [:octocat: `Walla Walla WA CottonWood Annexation Protest`](https://github.com/seanpm2001/Walla-Walla-WA-Cottonwood-Annexation-Protest/)
 - [:octocat: `The Problems with Planned Obsolescence`](https://github.com/seanpm2001/The-problems-with-planned-obsolescence/)
+- [:octocat: `Sponsor Info`](https://github.com/seanpm2001/Sponsor-info/)
+- [:octocat: `Perl Harbor`](https://github.com/seanpm2001/Perl_Harbor/)
+- [:octocat: `What SNU will never do`](https://github.com/seanpm2001/What-SNU-will-never-do/)
+- [:octocat: `Git-image`](https://github.com/seanpm2001/Git-image/)
+- [:octocat: `Personal Server Info`](https://github.com/seanpm2001/Personal-Server-Info/)
+- [:octocat: `Seanpm2001 NimbleBit`](https://github.com/seanpm2001/Seanpm2001-NimbleBit/)
+- [:octocat: `SMS Messaging with Sean`](https://github.com/seanpm2001/SMS-Messaging-with-Sean/)
+- [:octocat: `Computer Cursor tech support`](https://github.com/seanpm2001/Computer-cursor-tech-support/)
+- [:octocat: `Team TRM`](https://github.com/seanpm2001/Team-TRM/)
+- [:octocat: `AirBnB`](https://github.com/seanpm2001/AirBnB/)
+- [:octocat: `BWS IceBlocks`](https://github.com/seanpm2001/BWS_IceBlocks/)
+- [:octocat: `BWS IceBerg`](https://github.com/seanpm2001/BWS_IceBerg/)
+- [:octocat: `BWS IceCube`](https://github.com/seanpm2001/BWS_IceCube/)
+- [:octocat: `BWS Icicle`](https://github.com/seanpm2001/BWS_Icicle/)
+- [:octocat: `BWS Hardware Ice`](https://github.com/seanpm2001/BWS_Hardware_Ice/)
+- [:octocat: `BWS Hardware`](https://github.com/seanpm2001/BWS_Hardware/)
+- [:octocat: `Blocklist`](https://github.com/seanpm2001/Blocklist/)
+- [:octocat: `Registry`](https://github.com/seanpm2001/Registry/)
+- [:octocat: `Seanpm2001 Registry`](https://github.com/seanpm2001/Seanpm2001-Registry/)
 
 > **Note** Documentation for many projects is not yet listed
 
 > **Note** Forked documentation repositories are not listed.
-
-**Todo** Create documentation repositories for MCPYE, Tetris128, UHS, SVG Video, CC++, WacOS, Meadows, Bliss Browser, Talla Browser, SeansLifeArchive, DeGoogle-your-Life, BlazeOS, Linux Defender, and more
 
 ### [Redirect repositories](#Redirect-repositories)
 
@@ -148,6 +167,8 @@ _Not to be confused with [programming languages](#Programming-languages)._
 
 #### [Language dependents](#Language-dependents)
 
+> **Note** This list is in A-Z order
+
 - [:octocat: `CMilk`](https://github.com/seanpm2001/CMilk/) - Project written only in C
 - [:octocat: `Halloween Assistant`](https://github.com/seanpm2001/Halloween-Assistant/) - Project written only in Boo
 - [:octocat: `Java the Hutt`](https://github.com/seanpm2001/Java_The_Hutt/) - Project written only in Java
@@ -167,11 +188,12 @@ _Languages made by me._
 - 2. [:octocat: `DroppedText`](https://github.com/seanpm2001/Dropped-Text-lang/) **Partially maintained**
 - 3. [:octocat: `DSergeant`](https://github.com/seanpm2001/DSergeant/) **Currently unmaintained**
 - 4. [:octocat: `Matrix`](https://github.com/seanpm2001/Matrix-lang/) **Currently unmaintained**
-- 5. [:octocat: `MGears`](https://github.com/seanpm2001/MGears/) **Currently unmaintained**
-- 6. [:octocat: `Objective-J#`](https://github.com/seanpm2001/Objective-JSharp/) **Currently unmaintained**
-- 7. [:octocat: `Objective-J++`](https://github.com/seanpm2001/Objective-JPP/) **Currently unmaintained**
-- 8. [:octocat: `Objective-C#`](https://github.com/seanpm2001/Objective-CSharp/) **Currently unmaintained**
-- 9. [:octocat: `URLL`](https://github.com/seanpm2001/URLL/) **Maintained**
+- 5. [:octocat: `MCPYE Command Language`](https://github.com/seanpm2001/MCPYE_CommandLanguage/) **Partially maintained**
+- 6. [:octocat: `MGears`](https://github.com/seanpm2001/MGears/) **Currently unmaintained**
+- 7. [:octocat: `Objective-C#`](https://github.com/seanpm2001/Objective-CSharp/) **Currently unmaintained**
+- 8. [:octocat: `Objective-J#`](https://github.com/seanpm2001/Objective-JSharp/) **Currently unmaintained**
+- 9. [:octocat: `Objective-J++`](https://github.com/seanpm2001/Objective-JPP/) **Currently unmaintained**
+- 10. [:octocat: `URLL`](https://github.com/seanpm2001/URLL/) **Maintained**
 
 It is a personal goal to have as few languages as possible, so not all of these are maintained.
 
@@ -268,9 +290,9 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `5 (2023, Thursday, January 26th at 10:16 pm PST)`
+**File version:** `6 (2023, Friday, January 27th at 5:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `435`
+**Line count (including blank lines and compiler line):** `481`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -417,6 +439,30 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
+
+</details>
+
+<details><summary><p lang="en"><b>Version 6 (2023, Friday, January 27th at 5:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `General` section
+- ...
+- - [x] Updated the `Other documentation hubs` subsection
+- - [x] Updated the `Miscellaneous documentation hubs` subsection
+- ...
+- - ...
+- - - [x] Updated the `Custom languages` subsubsection
+- - - [x] Updated the `Language dependents` subsubsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 6
+- [ ] No other changes in version 6
 
 </details>
 
