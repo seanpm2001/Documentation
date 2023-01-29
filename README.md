@@ -50,6 +50,7 @@ _Other documentation hubs_
 - [:octocat: `Android x32x64 Docs`](https://github.com/seanpm2001/Android-x32x64_Docs/)
 - [:octocat: `Android x64 Docs`](https://github.com/seanpm2001/Android-x64_Docs/)
 - [:octocat: `Android x128 Docs`](https://github.com/seanpm2001/Android-x128_Docs/)
+- [:octocat: `AUTOMATE2001 Docs`](https://github.com/seanpm2001/AUTOMATE2001_Docs/)
 - [:octocat: `BASH.sh Docs`](https://github.com/seanpm2001/BASH.sh_Docs/)
 - [:octocat: `BlazeOS Docs`](https://github.com/seanpm2001/BlazeOS_Docs/)
 - [:octocat: `Bliss Browser Docs`](https://github.com/seanpm2001/Bliss_Browser_Docs/)
@@ -57,21 +58,30 @@ _Other documentation hubs_
 - [:octocat: `CamCamPlus Docs`](https://github.com/seanpm2001/CamCamPlus_Docs/)
 - [:octocat: `Candroid Docs`](https://github.com/seanpm2001/Candroid-Docs/)
 - [:octocat: `DeGoogle your Life Docs`](https://github.com/seanpm2001/DeGoogle-your-Life_Docs/)
+- [:octocat: `DeskLocker Docs`](https://github.com/seanpm2001/DeskLocker_Docs/)
+- [:octocat: `Health Meter Maximum Docs`](https://github.com/seanpm2001/Health-Meter-Maximum_Docs/)
 - [:octocat: `iBlast Docs`](https://github.com/seanpm2001/iBlast_Docs/)
 - [:octocat: `LibreFlock Docs`](https://github.com/seanpm2001/LibreFlock_Docs/)
 - [:octocat: `Linux Defender Docs`](https://github.com/seanpm2001/Linux-Defender_Docs/)
+- [:octocat: `Linux Marketshare Ping Tool Docs`](https://github.com/seanpm2001/Linux-Marketshare-Ping-Tool_Docs/)
 - [:octocat: `MCPYE Docs`](https://github.com/seanpm2001/MCPYE_Docs/)
 - [:octocat: `Meadows Docs`](https://github.com/seanpm2001/Meadows_Docs/)
 - [:octocat: `SeanTRM Documentation`](https://github.com/seanpm2001/SeanTRM-Documentation/)
 - [:octocat: `Seanspokane2015-Documentation`](https://github.com/seanpm2001/Seanspokane2015-Documentation/)
 - [:octocat: `SeansLifeArchive Docs`](https://github.com/seanpm2001/SeansLifeArchive_Docs/)
 - [:octocat: `SeansLifeArchive_Wiki`](https://github.com/seanpm2001/SeansLifeArchive_Wiki/)
+- [:octocat: `Slaveworks Docs`](https://github.com/seanpm2001/Slaveworks_Docs/)
 - [:octocat: `SVG Video Docs`](https://github.com/seanpm2001/SVG-Video_Docs/)
 - [:octocat: `Talla Browser Docs`](https://github.com/seanpm2001/Talla_Browser_Docs/)
 - [:octocat: `Team8Collection Docs`](https://github.com/seanpm2001/Team8Collection_Docs/)
 - [:octocat: `Tetris128 Docs`](https://github.com/seanpm2001/Tetris128_Docs/)
+- [:octocat: `TrueTorrent Docs`](https://github.com/seanpm2001/TrueTorrent_Docs/)
+- [:octocat: `Turkey Stories Docs`](https://github.com/seanpm2001/Turkey-Stories_Docs/)
 - [:octocat: `Ukraine History Simulator Docs`](https://github.com/seanpm2001/Ukraine-History-Simulator_Docs/)
+- [:octocat: `URLL Docs`](https://github.com/seanpm2001/URLL_Docs/)
 - [:octocat: `WacOS Docs`](https://github.com/seanpm2001/WacOS_Docs/)
+- [:octocat: `What Year Is It Docs`](https://github.com/seanpm2001/WYII_Docs/)
+- [:octocat: `ZooTree Docs`](https://github.com/seanpm2001/ZooTree_Docs/)
 
 ### [Miscellaneous documentation hubs and articles](#Miscellaneous-documentation-hubs-and-articles)
 
@@ -140,6 +150,7 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `GitHub Pages Collection`](https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection/)
 - [:octocat: `Firefox Version Number fix`](https://github.com/seanpm2001/Firefox-version-number-fix/)
 - [:octocat: `404 Day`](https://github.com/seanpm2001/404Day/)
+- [:octocat: `DOM`](https://github.com/seanpm2001/DOM/)
 
 > **Note** Documentation for many projects is not yet listed
 
@@ -321,9 +332,9 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `7 (2023, Friday, January 28th at 11:11 am PST)`
+**File version:** `8 (2023, Saturday, January 28th at 6:06 pm PST)`
 
-**Line count (including blank lines and compiler line):** `538`
+**Line count (including blank lines and compiler line):** `569`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -520,6 +531,26 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
+
+</details>
+
+<details><summary><p lang="en"><b>Version 8 (2023, Saturday, January 28th at 6:06 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `General` section
+- ...
+- - [x] Updated the `Other documentation hubs` subsection
+- - [x] Updated the `Miscellaneous documentation hubs` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 8
+- [ ] No other changes in version 8
 
 </details>
 
