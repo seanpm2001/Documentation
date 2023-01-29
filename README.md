@@ -151,6 +151,7 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Firefox Version Number fix`](https://github.com/seanpm2001/Firefox-version-number-fix/)
 - [:octocat: `404 Day`](https://github.com/seanpm2001/404Day/)
 - [:octocat: `DOM`](https://github.com/seanpm2001/DOM/)
+- [:octocat: `r/seanpm2001`](https://github.com/seanpm2001/r-seanpm2001/) - Subreddit data for r/seanpm2001
 
 > **Note** Documentation for many projects is not yet listed
 
@@ -332,9 +333,9 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `8 (2023, Saturday, January 28th at 6:06 pm PST)`
+**File version:** `9 (2023, Saturday, January 28th at 6:27 pm PST)`
 
-**Line count (including blank lines and compiler line):** `569`
+**Line count (including blank lines and compiler line):** `591`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -554,6 +555,26 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 </details>
 
+<details><summary><p lang="en"><b>Version 9 (2023, Saturday, January 28th at 6:27 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `General` section
+- ...
+- - [x] Updated the `Miscellaneous documentation hubs` subsection
+- [x] Updated the footer
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 9
+- [ ] No other changes in version 9
+
+</details>
+
 </details>
 
 ***
@@ -562,7 +583,8 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 You have reached the end of this page.
 
-- [:octocat: `Back to top`](#Documentation)
+- [`Back to top`](#Documentation)
 - [:octocat: `Exit to GitHub`](https://github.com/)
+- [:octocat: `Back to redirect page`](https://github.com/seanpm2001/Docs/)
 
 ***
