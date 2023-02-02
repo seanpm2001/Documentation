@@ -484,9 +484,14 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Seanpm2001 NimbleBit`](https://github.com/seanpm2001/Seanpm2001-NimbleBit/) **{Attributes: `ℹ️` `📑️` `🎮️` }**
 - [:octocat: `SeansOSData`](https://github.com/seanpm2001/SeansOSData/) **{Attributes: `🗃️` `ℹ️` `📑️` }**
 - [:octocat: `Seanpm2001 Registry`](https://github.com/seanpm2001/Seanpm2001-Registry/) **{Attributes: `ℹ️` `📑️` }**
-- [:octocat: `Seanpm2001-Snapcraft`](https://github.com/seanpm2001/Seanpm2001-Snapcraft/) **{Attributes: `ℹ️` `📑️` `🗃️` }**
+- [:octocat: `Seanpm2001 Snapcraft`](https://github.com/seanpm2001/Seanpm2001-Snapcraft/) **{Attributes: `ℹ️` `📑️` `🗃️` }**
 - [:octocat: `Seanpm2001 Specifications`](https://github.com/seanpm2001/Seanpm2001-Specifications/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `Seanpm2001 Templates`](https://github.com/seanpm2001/Seanpm2001-Templates/) **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `SeansLifeArchive / Daily Articles`](https://github.com/seanpm2001/SeansLifeArchive_Daily-articles/) **{Attributes:  `ℹ️` `📑️` `🗃️`}**
+- [:octocat: `Seanpm2001 Browsers`](https://github.com/seanpm2001/Seanpm2001-Browsers/) **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `Seanpm2001 Testing`](https://github.com/seanpm2001/Seanpm2001-Testing/) **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `SeanWallaWalla Browsers`](https://github.com/seanpm2001/Seanwallawalla-Browsers/) **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `SeanWallaWalla Health`](https://github.com/seanpm2001/Seanwallawalla-Health/) **{Attributes: `ℹ️` `📑️` }**
 
 **SN**
 
@@ -699,17 +704,17 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `12 (2023, Tuesday, January 31st at 4:25 pm PST)`
+**File version:** `13 (2023, Wednesday, February 1st at 7:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,033`
+**Line count (including blank lines and compiler line):** `1,061`
 
-**Word count:** `4,572`
+**Word count:** `4,737`
 
-**Character count (with spaces)** `37,822`
+**Character count (with spaces)** `39,190`
 
-**Character count (without spaces)** `33,369`
+**Character count (without spaces)** `34,566`
 
-**File size:** `39,287` bytes
+**File size:** `40,705` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1014,6 +1019,29 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 12
 - [ ] No other changes in version 12
+
+</details>
+
+<details><summary><p lang="en"><b>Version 13 (2023, Wednesday, February 1st at 7:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the `General` section
+- ...
+- - [x] Updated the `Miscellaneous documentation hubs` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 13
+- [ ] No other changes in version 13
 
 </details>
 
