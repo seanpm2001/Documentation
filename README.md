@@ -601,6 +601,7 @@ _Not to be confused with [programming languages](#Programming-languages)._
 - [:octocat: `Stan Marsh`](https://github.com/seanpm2001/Stan-Marsh/) - Project written only in Stan
 - [:octocat: `TclTorture`](https://github.com/seanpm2001/TclTorture/) - Project written only in tcl
 - [:octocat: `Vim AutoScroller`](https://github.com/seanpm2001/Vim-Autoscroller/) - Project written only in Vim Script
+- [:octocat: `Zag`](https://github.com/seanpm2001/Zag/) - Project written only in Zig
 
 #### [Custom languages](#Custom-languages)
 
@@ -721,17 +722,17 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `16 (2023, Monday, February 6th at 4:44 pm PST)`
+**File version:** `17 (2023, Saturday, February 11th at 6:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,149`
+**Line count (including blank lines and compiler line):** `1,173`
 
-**Word count:** `5,158`
+**Word count:** `5,292`
 
-**Character count (with spaces)** `42,396`
+**Character count (with spaces)** `43,289`
 
-**Character count (without spaces)** `37,300`
+**Character count (without spaces)** `38,046`
 
-**File size:** `44,012` bytes
+**File size:** `44,905` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1130,6 +1131,29 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 16
 - [ ] No other changes in version 16
+
+</details>
+
+<details><summary><p lang="en"><b>Version 17 (2023, Saturday, February 11th at 6:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** I was going to add in the newly created Bliss Browser documentation repository, but it was already listed here.
+
+> Changes:
+
+- [x] Updated the `Language dependents` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 17
+- [ ] No other changes in version 17
 
 </details>
 
