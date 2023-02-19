@@ -444,6 +444,7 @@ _Miscellaneous documentation hubs and articles_
 
 - [:octocat: `Maintainers info`](https://github.com/seanpm2001/Maintainers-info/) **{Attributes: `ℹ️` }**
 - [:octocat: `MasterMasterMaster`](https://github.com/seanpm2001/MasterMasterMaster/) **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `Mastodon`](https://github.com/seanpm2001/Mastodon/) **{Attributes: `ℹ️` `📑️` }**
 
 **ME**
 
@@ -508,6 +509,7 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Seanpm2001 Trivia`](https://github.com/seanpm2001/Seanpm2001-Trivia/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `Seanpm2001 Psychology`](https://github.com/seanpm2001/Seanpm2001-Psychology/) **{Attributes: `ℹ️` `📑️` `⚖️` }**
 - [:octocat: `Seanpm2001 Mastodon`](https://github.com/seanpm2001/Seanpm2001-Mastodon/) **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `Seanpm2001 Compartmentalization`](https://github.com/seanpm2001/Seanpm2001-Compartmentalization/) **{Attributes: `ℹ️` `📑️` }**
 
 **SN**
 
@@ -549,6 +551,7 @@ _Miscellaneous documentation hubs and articles_
 
 Redirect repositories that link to documentation repositories
 
+- [:octocat: `Compartmentalization`](https://github.com/seanpm2001/Compartmentalization/)
 - [:octocat: `Docs`](https://github.com/seanpm2001/Docs/)
 - [:octocat: `Seanspokane2015-Docs`](https://github.com/seanpm2001/Seanspokane2015-Docs/)
 - [:octocat: `SeanTRM-Docs`](https://github.com/seanpm2001/SeanTRM-Docs/)
@@ -634,6 +637,7 @@ It is a personal goal to have as few languages as possible, so not all of these 
 - [:octocat: `Camera Privacy Specification`](https://github.com/seanpm2001/Camera-privacy-specification/)
 - [:octocat: `Computing longevity`](https://github.com/seanpm2001/Computing-Longevity/)
 - [:octocat: `DeciCube`](https://github.com/seanpm2001/DeciCube/)
+- [:octocat: `GNU Car`](https://github.com/seanpm2001/GNU_Car/)
 - [:octocat: `LapLight`](https://github.com/seanpm2001/LapLight/)
 - [:octocat: `ls.txt`](https://github.com/seanpm2001/ls.txt/)
 - [:octocat: `Notchware`](https://github.com/seanpm2001/Notchware/)
@@ -722,17 +726,17 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `17 (2023, Saturday, February 11th at 6:30 pm PST)`
+**File version:** `18 (2023, Saturday, February 18th at 5:43 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,173`
+**Line count (including blank lines and compiler line):** `1,203`
 
-**Word count:** `5,292`
+**Word count:** `5,453`
 
-**Character count (with spaces)** `43,289`
+**Character count (with spaces)** `44,555`
 
-**Character count (without spaces)** `38,046`
+**Character count (without spaces)** `39,143`
 
-**File size:** `44,905` bytes
+**File size:** `46,189` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1138,7 +1142,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** I was going to add in the newly created Bliss Browser documentation repository, but it was already listed here.
+> **Note** _I was going to add in the newly created Bliss Browser documentation repository, but it was already listed here._
 
 > Changes:
 
@@ -1154,6 +1158,32 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 17
 - [ ] No other changes in version 17
+
+</details>
+
+<details><summary><p lang="en"><b>Version 18 (2023, Saturday, February 18th at 5:43 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Development on this project has really slowed lately._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Miscellaneous documentation hubs` subsection
+- [x] Updated the `Standards and movements` section
+- [x] Updated the `Redirect repositories` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 18
+- [ ] No other changes in version 18
 
 </details>
 
