@@ -19,6 +19,8 @@ I want there to be a level of trust here. If a link seems suspicious to you, rem
 
 ### [Emoji legend](#Emoji-legend)
 
+**Compartmentalization notice:** Many links in this portal are under active compartmentalization review.
+
 #### [Attributes](#Attributes)
 
 - `⚖️` **=** `Psychology`
@@ -181,10 +183,12 @@ _Other documentation hubs_
 
 **A**
 
+- [:octocat: `AI2001 Docs`](https://github.com/seanpm2001/AI2001_Docs/)
 - [:octocat: `Android x32 Docs`](https://github.com/seanpm2001/Android-x32_Docs/)
 - [:octocat: `Android x32x64 Docs`](https://github.com/seanpm2001/Android-x32x64_Docs/)
 - [:octocat: `Android x64 Docs`](https://github.com/seanpm2001/Android-x64_Docs/)
 - [:octocat: `Android x128 Docs`](https://github.com/seanpm2001/Android-x128_Docs/)
+- [:octocat: `Anime Studio Docs`](https://github.com/seanpm2001/Anime_Studio_Docs/)
 - [:octocat: `AUTOMATE2001 Docs`](https://github.com/seanpm2001/AUTOMATE2001_Docs/)
 
 **B**
@@ -464,6 +468,10 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Perl Harbor`](https://github.com/seanpm2001/Perl_Harbor/) **{Attributes: `⏳️` `ℹ️` `📑️` `🎆️` }**
 - [:octocat: `Personal Server Info`](https://github.com/seanpm2001/Personal-Server-Info/) **{Attributes: `ℹ️` }**
 
+**PO**
+
+- [:octocat: `Post-Neo-Classical English (PNC English)`](https://github.com/seanpm2001/Post-Neo-Classical-English/) **{Attributes: `ℹ️` `📑️`}**
+
 **PR**
 
 - [:octocat: `Privacy`](https://github.com/seanpm2001/Privacy/) **{Attributes: `ℹ️` `🔒️` }**
@@ -510,6 +518,11 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Seanpm2001 Psychology`](https://github.com/seanpm2001/Seanpm2001-Psychology/) **{Attributes: `ℹ️` `📑️` `⚖️` }**
 - [:octocat: `Seanpm2001 Mastodon`](https://github.com/seanpm2001/Seanpm2001-Mastodon/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `Seanpm2001 Compartmentalization`](https://github.com/seanpm2001/Seanpm2001-Compartmentalization/) **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `Seanpm2001 Reports`](https://github.com/seanpm2001/Seanpm2001-Reports/) **{UNATTRIBUTED}**
+- [:octocat: `Seanpm2001 GSoC`](https://github.com/seanpm2001/Seanpm2001-GSoC/) **{UNATTRIBUTED}**
+- [:octocat: `Seanpm2001 Mathematics`](https://github.com/seanpm2001/Seanpm2001-Mathematics/) **{UNATTRIBUTED}**
+- [:octocat: `Seanpm2001 Health`](https://github.com/seanpm2001/Seanpm2001-Health/) **{UNATTRIBUTED}**
+- [:octocat: `Seanpm2001 Linguistics`](https://github.com/seanpm2001/Seanpm2001-Linguistics/) **{UNATTRIBUTED}**
 
 **SN**
 
@@ -553,10 +566,16 @@ Redirect repositories that link to documentation repositories
 
 - [:octocat: `Compartmentalization`](https://github.com/seanpm2001/Compartmentalization/)
 - [:octocat: `Docs`](https://github.com/seanpm2001/Docs/)
+- [:octocat: `GSoC`](https://github.com/seanpm2001/GSoC/)
+- [:octocat: `Math`](https://github.com/seanpm2001/Math/)
+- [:octocat: `Medical Ethics`](https://github.com/seanpm2001/Medical-ethics/)
+- [:octocat: `Net-Zero`](https://github.com/seanpm2001/Net-Zero/)
+- [:octocat: `Reports`](https://github.com/seanpm2001/Reports/)
+- [:octocat: `Seanpm2001-Learn`](https://github.com/seanpm2001/Seanpm2001-Learn/)
+- [:octocat: `Seanpm2001 Math`](https://github.com/seanpm2001/Seanpm2001-Math/)
 - [:octocat: `Seanspokane2015-Docs`](https://github.com/seanpm2001/Seanspokane2015-Docs/)
 - [:octocat: `SeanTRM-Docs`](https://github.com/seanpm2001/SeanTRM-Docs/)
 - [:octocat: `Seanwallawalla-Docs`](https://github.com/seanpm2001/Seanwallawalla-Docs/)
-- [:octocat: `Net-Zero`](https://github.com/seanpm2001/Net-Zero/)
 
 **See also:**
 
@@ -726,17 +745,17 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `18 (2023, Saturday, February 18th at 5:43 pm PST)`
+**File version:** `19 (2023, Monday, March 6th at 9:30 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,203`
+**Line count (including blank lines and compiler line):** `1,248`
 
-**Word count:** `5,453`
+**Word count:** `5,726`
 
-**Character count (with spaces)** `44,555`
+**Character count (with spaces)** `46,786`
 
-**Character count (without spaces)** `39,143`
+**Character count (without spaces)** `41,148`
 
-**File size:** `46,189` bytes
+**File size:** `48,429` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1184,6 +1203,32 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 18
 - [ ] No other changes in version 18
+
+</details>
+
+<details><summary><p lang="en"><b>Version 19 (2023, Monday, March 6th at 9:30 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Development on this project has really slowed lately._
+
+> Changes:
+
+- [x] Updated the `Other documentation hubs` section
+- ...
+- - [x] Updated the `Miscellaneous documentation hubs` subsection
+- [x] Updated the `Redirect repositories` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 19
+- [ ] No other changes in version 19
 
 </details>
 
