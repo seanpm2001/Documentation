@@ -543,6 +543,7 @@ _Miscellaneous documentation hubs and articles_
 
 **TH**
 
+- [:octocat: `The Big Tent`](https://github.com/seanpm2001/The-Big-Tent/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `The Microsoft Pact`](https://github.com/seanpm2001/The-Microsoft-Pact/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `The Problems with Planned Obsolescence`](https://github.com/seanpm2001/The-problems-with-planned-obsolescence/) **{Attributes: `ℹ️` `📑️` }**
 
@@ -745,17 +746,17 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `19 (2023, Monday, March 6th at 9:30 pm PST)`
+**File version:** `20 (2023, Tuesday, March 14th at 7:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,248`
+**Line count (including blank lines and compiler line):** `1,273`
 
-**Word count:** `5,726`
+**Word count:** `5,851`
 
-**Character count (with spaces)** `46,786`
+**Character count (with spaces)** `47,659`
 
-**Character count (without spaces)** `41,148`
+**Character count (without spaces)** `41,880`
 
-**File size:** `48,429` bytes
+**File size:** `49,311` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1229,6 +1230,30 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 19
 - [ ] No other changes in version 19
+
+</details>
+
+<details><summary><p lang="en"><b>Version 20 (2023, Tuesday, March 14th at 7:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Development on this project has really slowed lately._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Miscellaneous documentation hubs` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 20
+- [ ] No other changes in version 20
 
 </details>
 
