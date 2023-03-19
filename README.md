@@ -194,6 +194,7 @@ _Other documentation hubs_
 **B**
 
 - [:octocat: `BASH.sh Docs`](https://github.com/seanpm2001/BASH.sh_Docs/)
+- [:octocat: `BerryBoot Docs`](https://github.com/seanpm2001/BerryBoot_Docs/)
 - [:octocat: `BlazeOS Docs`](https://github.com/seanpm2001/BlazeOS_Docs/)
 - [:octocat: `Bliss Browser Docs`](https://github.com/seanpm2001/Bliss_Browser_Docs/)
 - [:octocat: `BluPhone Docs`](https://github.com/seanpm2001/BluPhone_Docs/)
@@ -247,6 +248,7 @@ _This section is currently empty_
 
 **L**
 
+- [:octocat: `LANChair Docs`](https://github.com/seanpm2001/LANChair_Docs/)
 - [:octocat: `LibreFlock Docs`](https://github.com/seanpm2001/LibreFlock_Docs/)
 - [:octocat: `Linux Defender Docs`](https://github.com/seanpm2001/Linux-Defender_Docs/)
 - [:octocat: `Linux Marketshare Ping Tool Docs`](https://github.com/seanpm2001/Linux-Marketshare-Ping-Tool_Docs/)
@@ -286,6 +288,7 @@ _This section is currently empty_
 **S**
 
 - [:octocat: `Sbubbway_Docs`](https://github.com/seanpm2001/Sbubbway_Docs/)
+- [:octocat: `Scarlet Oven Docs`](https://github.com/seanpm2001/Scarlet-Oven_Docs/)
 - [:octocat: `SWave Starter Docs`](https://github.com/seanpm2001/SWave-Starter_Docs/)
 - [:octocat: `SeanTRM Documentation`](https://github.com/seanpm2001/SeanTRM-Documentation/)
 - [:octocat: `Seanspokane2015-Documentation`](https://github.com/seanpm2001/Seanspokane2015-Documentation/)
@@ -523,6 +526,7 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Seanpm2001 Mathematics`](https://github.com/seanpm2001/Seanpm2001-Mathematics/) **{UNATTRIBUTED}**
 - [:octocat: `Seanpm2001 Health`](https://github.com/seanpm2001/Seanpm2001-Health/) **{UNATTRIBUTED}**
 - [:octocat: `Seanpm2001 Linguistics`](https://github.com/seanpm2001/Seanpm2001-Linguistics/) **{UNATTRIBUTED}**
+- [:octocat: `Seanpm2001 Raspberry Pi`](https://github.com/seanpm2001/Seanpm2001-RaspberryPi/) **{Attributes: `ℹ️` `📑️`
 
 **SN**
 
@@ -746,17 +750,17 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `20 (2023, Tuesday, March 14th at 7:54 pm PST)`
+**File version:** `21 (2023, Saturday, March 18th at 7:24 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,273`
+**Line count (including blank lines and compiler line):** `1,301`
 
-**Word count:** `5,851`
+**Word count:** `6,010`
 
-**Character count (with spaces)** `47,659`
+**Character count (with spaces)** `48,810`
 
-**Character count (without spaces)** `41,880`
+**Character count (without spaces)** `42,872`
 
-**File size:** `49,311` bytes
+**File size:** `50,471` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1254,6 +1258,30 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 20
 - [ ] No other changes in version 20
+
+</details>
+
+<details><summary><p lang="en"><b>Version 21 (2023, Saturday, March 18th at 7:24 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Several links added today are for projects that are coming in the next week._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Miscellaneous documentation hubs` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 21
+- [ ] No other changes in version 21
 
 </details>
 
