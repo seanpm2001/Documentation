@@ -237,6 +237,7 @@ _Other documentation hubs_
 **I**
 
 - [:octocat: `iBlast Docs`](https://github.com/seanpm2001/iBlast_Docs/)
+- [:octocat: `iWill Docs`](https://github.com/seanpm2001/iWill_Docs/)
 
 **J**
 
@@ -284,6 +285,7 @@ _This section is currently empty_
 **R**
 
 - [:octocat: `RailRAM Train Collection Docs`](https://github.com/seanpm2001/RailRAM-Train-Collection_Docs/)
+- [:octocat: `Rick Docs`](https://github.com/seanpm2001/Rick_Docs/)
 
 **S**
 
@@ -526,7 +528,7 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Seanpm2001 Mathematics`](https://github.com/seanpm2001/Seanpm2001-Mathematics/) **{UNATTRIBUTED}**
 - [:octocat: `Seanpm2001 Health`](https://github.com/seanpm2001/Seanpm2001-Health/) **{UNATTRIBUTED}**
 - [:octocat: `Seanpm2001 Linguistics`](https://github.com/seanpm2001/Seanpm2001-Linguistics/) **{UNATTRIBUTED}**
-- [:octocat: `Seanpm2001 Raspberry Pi`](https://github.com/seanpm2001/Seanpm2001-RaspberryPi/) **{Attributes: `ℹ️` `📑️`
+- [:octocat: `Seanpm2001 Raspberry Pi`](https://github.com/seanpm2001/Seanpm2001-RaspberryPi/) **{Attributes: `ℹ️` `📑️` }**
 
 **SN**
 
@@ -750,17 +752,17 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `21 (2023, Saturday, March 18th at 7:24 pm PST)`
+**File version:** `22 (2023, Sunday, March 19th at 9:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,301`
+**Line count (including blank lines and compiler line):** `1,327`
 
-**Word count:** `6,010`
+**Word count:** `6,146`
 
-**Character count (with spaces)** `48,810`
+**Character count (with spaces)** `49,736`
 
-**Character count (without spaces)** `42,872`
+**Character count (without spaces)** `43,651`
 
-**File size:** `50,471` bytes
+**File size:** `51,397` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1282,6 +1284,30 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 21
 - [ ] No other changes in version 21
+
+</details>
+
+<details><summary><p lang="en"><b>Version 22 (2023, Sunday, March 19th at 9:12 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _All links added today are for projects that are coming in the next week._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Miscellaneous documentation hubs` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 22
+- [ ] No other changes in version 22
 
 </details>
 
