@@ -197,6 +197,7 @@ _Other documentation hubs_
 - [:octocat: `BerryBoot Docs`](https://github.com/seanpm2001/BerryBoot_Docs/)
 - [:octocat: `BlazeOS Docs`](https://github.com/seanpm2001/BlazeOS_Docs/)
 - [:octocat: `Bliss Browser Docs`](https://github.com/seanpm2001/Bliss_Browser_Docs/)
+- [:octocat: `BlockQL Docs`](https://github.com/seanpm2001/BlockQL_Docs/)
 - [:octocat: `BluPhone Docs`](https://github.com/seanpm2001/BluPhone_Docs/)
 - [:octocat: `BGemJam Docs`](https://github.com/seanpm2001/BGemJam_Docs/)
 - [:octocat: `Boom Bay Docs`](https://github.com/seanpm2001/Boom-Bay_Docs/)
@@ -249,6 +250,7 @@ _This section is currently empty_
 
 **L**
 
+- [:octocat: `L20 Docs`](https://github.com/seanpm2001/L20_Docs/)
 - [:octocat: `LANChair Docs`](https://github.com/seanpm2001/LANChair_Docs/)
 - [:octocat: `LibreFlock Docs`](https://github.com/seanpm2001/LibreFlock_Docs/)
 - [:octocat: `Linux Defender Docs`](https://github.com/seanpm2001/Linux-Defender_Docs/)
@@ -270,6 +272,7 @@ _This section is currently empty_
 **O**
 
 - [:octocat: `OpenTowers Docs`](https://github.com/seanpm2001/OpenTowers_Docs/)
+- [:octocat: `Outside Docs`](https://github.com/seanpm2001/Outside_Docs/)
 
 **P**
 
@@ -523,12 +526,14 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Seanpm2001 Psychology`](https://github.com/seanpm2001/Seanpm2001-Psychology/) **{Attributes: `ℹ️` `📑️` `⚖️` }**
 - [:octocat: `Seanpm2001 Mastodon`](https://github.com/seanpm2001/Seanpm2001-Mastodon/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `Seanpm2001 Compartmentalization`](https://github.com/seanpm2001/Seanpm2001-Compartmentalization/) **{Attributes: `ℹ️` `📑️` }**
-- [:octocat: `Seanpm2001 Reports`](https://github.com/seanpm2001/Seanpm2001-Reports/) **{UNATTRIBUTED}**
-- [:octocat: `Seanpm2001 GSoC`](https://github.com/seanpm2001/Seanpm2001-GSoC/) **{UNATTRIBUTED}**
-- [:octocat: `Seanpm2001 Mathematics`](https://github.com/seanpm2001/Seanpm2001-Mathematics/) **{UNATTRIBUTED}**
-- [:octocat: `Seanpm2001 Health`](https://github.com/seanpm2001/Seanpm2001-Health/) **{UNATTRIBUTED}**
-- [:octocat: `Seanpm2001 Linguistics`](https://github.com/seanpm2001/Seanpm2001-Linguistics/) **{UNATTRIBUTED}**
+- [:octocat: `Seanpm2001 Reports`](https://github.com/seanpm2001/Seanpm2001-Reports/) **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `Seanpm2001 GSoC`](https://github.com/seanpm2001/Seanpm2001-GSoC/)**{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `Seanpm2001 Mathematics`](https://github.com/seanpm2001/Seanpm2001-Mathematics/) **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `Seanpm2001 Health`](https://github.com/seanpm2001/Seanpm2001-Health/) **{Attributes: `ℹ️` `📑️` `🇨🇭️`}**
+- [:octocat: `Seanpm2001 Linguistics`](https://github.com/seanpm2001/Seanpm2001-Linguistics/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `Seanpm2001 Raspberry Pi`](https://github.com/seanpm2001/Seanpm2001-RaspberryPi/) **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `Seanpm2001 Joke Programs`](https://github.com/seanpm2001/Seanpm2001-JokePrograms/)  **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `SeanWallaWalla Joke Programs`](https://github.com/seanpm2001/SeanWallaWalla-JokePrograms/)  **{Attributes: `ℹ️` `📑️` }**
 
 **SN**
 
@@ -752,17 +757,17 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `22 (2023, Sunday, March 19th at 9:12 pm PST)`
+**File version:** `23 (2023, Tuesday, March 28th at 2:15 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,327`
+**Line count (including blank lines and compiler line):** `1,358`
 
-**Word count:** `6,146`
+**Word count:** `6,333`
 
-**Character count (with spaces)** `49,736`
+**Character count (with spaces)** `51,190`
 
-**Character count (without spaces)** `43,651`
+**Character count (without spaces)** `44,901`
 
-**File size:** `51,397` bytes
+**File size:** `52,922` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1308,6 +1313,32 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 22
 - [ ] No other changes in version 22
+
+</details>
+
+<details><summary><p lang="en"><b>Version 23 (2023, Tuesday, March 28th at 2:15 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _All links added today are for projects that are coming in the next week._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Miscellaneous documentation hubs` subsection <!-- Attributed, A-Z documentation !-->
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 23
+- [ ] No other changes in version 23
 
 </details>
 
