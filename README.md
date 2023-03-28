@@ -644,16 +644,17 @@ _Not to be confused with [programming languages](#Programming-languages)._
 _Languages made by me._
 
 - 1. [:octocat: `AGRAN`](https://github.com/seanpm2001/AGRAN-Programming-language/) **Currently unmaintained**
-- 2. [:octocat: `Commenter`](https://github.com/seanpm2001/Commenter-language/) **Finished, partially maintained**
-- 3. [:octocat: `DroppedText`](https://github.com/seanpm2001/Dropped-Text-lang/) **Partially maintained**
-- 4. [:octocat: `DSergeant`](https://github.com/seanpm2001/DSergeant/) **Currently unmaintained**
-- 5. [:octocat: `Matrix`](https://github.com/seanpm2001/Matrix-lang/) **Currently unmaintained**
-- 6. [:octocat: `MCPYE Command Language`](https://github.com/seanpm2001/MCPYE_CommandLanguage/) **Partially maintained**
-- 7. [:octocat: `MGears`](https://github.com/seanpm2001/MGears/) **Currently unmaintained**
-- 8. [:octocat: `Objective-C#`](https://github.com/seanpm2001/Objective-CSharp/) **Currently unmaintained**
-- 9. [:octocat: `Objective-J#`](https://github.com/seanpm2001/Objective-JSharp/) **Currently unmaintained**
-- 10. [:octocat: `Objective-J++`](https://github.com/seanpm2001/Objective-JPP/) **Currently unmaintained**
-- 11. [:octocat: `URLL`](https://github.com/seanpm2001/URLL/) **Maintained**
+- 2. [:octocat: `BlockQL`](https://github.com/seanpm2001/BlockQL/) **Partially maintained, new**
+- 3. [:octocat: `Commenter`](https://github.com/seanpm2001/Commenter-language/) **Finished, partially maintained**
+- 4. [:octocat: `DroppedText`](https://github.com/seanpm2001/Dropped-Text-lang/) **Partially maintained**
+- 5. [:octocat: `DSergeant`](https://github.com/seanpm2001/DSergeant/) **Currently unmaintained**
+- 6. [:octocat: `Matrix`](https://github.com/seanpm2001/Matrix-lang/) **Currently unmaintained**
+- 7. [:octocat: `MCPYE Command Language`](https://github.com/seanpm2001/MCPYE_CommandLanguage/) **Partially maintained**
+- 8. [:octocat: `MGears`](https://github.com/seanpm2001/MGears/) **Currently unmaintained**
+- 9. [:octocat: `Objective-C#`](https://github.com/seanpm2001/Objective-CSharp/) **Currently unmaintained**
+- 10. [:octocat: `Objective-J#`](https://github.com/seanpm2001/Objective-JSharp/) **Currently unmaintained**
+- 11. [:octocat: `Objective-J++`](https://github.com/seanpm2001/Objective-JPP/) **Currently unmaintained**
+- 12. [:octocat: `URLL`](https://github.com/seanpm2001/URLL/) **Maintained**
 
 It is a personal goal to have as few languages as possible, so not all of these are maintained.
 
@@ -757,17 +758,17 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `23 (2023, Tuesday, March 28th at 2:15 pm PST)`
+**File version:** `24 (2023, Tuesday, March 28th at 3:50 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,358`
+**Line count (including blank lines and compiler line):** `1,383`
 
-**Word count:** `6,333`
+**Word count:** `6,456`
 
-**Character count (with spaces)** `51,190`
+**Character count (with spaces)** `52,027`
 
-**Character count (without spaces)** `44,901`
+**Character count (without spaces)** `45,600`
 
-**File size:** `52,922` bytes
+**File size:** `53,759` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -1320,7 +1321,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** _All links added today are for projects that are coming in the next week._
+> **Note** _No new notes for this release._
 
 > Changes:
 
@@ -1339,6 +1340,30 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Updated the `file history` section
 - - [x] Added an entry for version 23
 - [ ] No other changes in version 23
+
+</details>
+
+<details><summary><p lang="en"><b>Version 24 (2023, Tuesday, March 28th at 3:50 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _I forgot to add BlockQL in the last release. This release fixes that_
+
+> Changes:
+
+- [x] Updated the languages listing
+- - [x] Added support for BlockQL
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 24
+- [ ] No other changes in version 24
 
 </details>
 
