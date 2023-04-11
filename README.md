@@ -7,7 +7,7 @@
   <p>The Documentation core repository for <a href="https://github.com/seanpm2001/">@seanpm2001</a></p>
 </div>
 
-This is the hub for the documentation of [`@seanpm2001`](https://github.com/seanpm2001/) due to its size, this is mainly a list of links (a portal page) it is currently an early draft, and is highly incomplete.
+This is the hub for the documentation of [`@seanpm2001`](https://github.com/seanpm2001/) due to its size, this is mainly a list of links (a glossary portal page) it is currently an early draft, and is highly incomplete.
 
 ***
 
@@ -363,6 +363,10 @@ _Miscellaneous documentation hubs and articles_
 
 - [:octocat: `AirBnB`](https://github.com/seanpm2001/AirBnB/) **{Attributes `🏘️` `ℹ️` }**
 
+**AU**
+
+- [:octocat: `Authors`](https://github.com/seanpm2001/Authors/) **{Attributes `ℹ️` }**
+
 **AW**
 
 - [:octocat: `Awesome Online Video Editors`](https://github.com/seanpm2001/Awesome-online-video-editors/) **{Attributes: `📑️` `ℹ️` }**
@@ -403,6 +407,9 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `CompuBunker`](https://github.com/seanpm2001/CompuBunker/) **{Attributes: `🔧️` `ℹ️` }**
 - [:octocat: `Computer Cursor tech support`](https://github.com/seanpm2001/Computer-cursor-tech-support/) **{Attributes: `ℹ️` }**
 - [:octocat: `Copyleft`](https://github.com/seanpm2001/Copyleft/) **{Attributes: `ℹ️` }**
+- [:octocat: `Contributors`](https://github.com/seanpm2001/Contributors/) **{Attributes: `ℹ️` }**
+- [:octocat: `Contributing`](https://github.com/seanpm2001/Contributing/) **{Attributes: `ℹ️` }**
+- [:octocat: `Credits`](https://github.com/seanpm2001/Credits/) **{Attributes: `ℹ️` }**
 
 **DE**
 
@@ -506,6 +513,7 @@ _Miscellaneous documentation hubs and articles_
 **SE**
 
 - [:octocat: `seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/) **{Attributes: `⚖️` `🌳️` `🎮️` `🗃️` `📑️` `🏘️` `🛡️` `⚔️` `🔧️` `🎆️` `💡️` `👩‍🏫️` `🗨️` `🎨️` `🗄️` `📈️` `🔒️` `🇨🇭️` `🐟️` `🕸️` `*️⃣️` `🗳️` `💸️` `🪧️` `ℹ️` `⏳️` `🚧️` }**
+- [:octocat: `Security`](https://github.com/seanpm2001/Security/) **{Attributes: `📑️` `🛡️` `ℹ️` }**
 - [:octocat: `Seanpm2001 Car`](https://github.com/seanpm2001/Seanpm2001-Car/) **{Attributes: `ℹ️` `🌳️` }**
 - [:octocat: `Seanpm2001 Hardware`](https://github.com/seanpm2001/Seanpm2001-Hardware/) **{Attributes: `ℹ️` `🔧️` }**
 - [:octocat: `Seanpm2001 Idea Vault`](https://github.com/seanpm2001/Seanpm2001-idea-vault/) **{Attributes: `ℹ️` `💡️` `🗄️` }**
@@ -533,7 +541,13 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Seanpm2001 Linguistics`](https://github.com/seanpm2001/Seanpm2001-Linguistics/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `Seanpm2001 Raspberry Pi`](https://github.com/seanpm2001/Seanpm2001-RaspberryPi/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `Seanpm2001 Joke Programs`](https://github.com/seanpm2001/Seanpm2001-JokePrograms/)  **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `Seanpm2001 Vim`](https://github.com/seanpm2001/Seanpm2001-Vim/)  **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `Seanpm2001 NSFW`](https://github.com/seanpm2001/Seanpm2001-NSFW/)  **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `Seanpm2001 SFW`](https://github.com/seanpm2001/Seanpm2001-NSFW/)  **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `SeanWallaWalla Joke Programs`](https://github.com/seanpm2001/SeanWallaWalla-JokePrograms/)  **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `SeanWallaWalla Vim`](https://github.com/seanpm2001/SeanWallaWalla-Vim/)  **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `SeanWallaWalla NSFW`](https://github.com/seanpm2001/SeanWallaWalla-NSFW/)  **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `SeanWallaWalla SFW`](https://github.com/seanpm2001/SeanWallaWalla-SFW/)  **{Attributes: `ℹ️` `📑️` }**
 
 **SN**
 
@@ -758,17 +772,17 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `24 (2023, Tuesday, March 28th at 3:50 pm PST)`
+**File version:** `25 (2023, Monday, April 10th at 5:26 pm PST)`
 
-**Line count (including blank lines and compiler line):** `1,383`
+**Line count (including blank lines and compiler line):** `1,424`
 
-**Word count:** `6,456`
+**Word count:** `6,739`
 
-**Character count (with spaces)** `52,027`
+**Character count (with spaces)** `54,601`
 
-**Character count (without spaces)** `45,600`
+**Character count (without spaces)** `47,832`
 
-**File size:** `53,759` bytes
+**File size:** `56,417` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -816,7 +830,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 1
 - [ ] No other changes in version 1
 
-</details>
+</details> <!-- V01 !-->
 
 <details><summary><p lang="en"><b>Version 2 (2023, Wednesday, January 25th at 9:12 pm PST)</b></p></summary>
 
@@ -838,7 +852,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 2
 - [ ] No other changes in version 2
 
-</details>
+</details> <!-- V02 !-->
 
 <details><summary><p lang="en"><b>Version 3 (2023, Thursday, January 26th at 3:57 pm PST)</b></p></summary>
 
@@ -875,7 +889,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - [x] Added the `Footer`
 - [ ] No other changes in version 3
 
-</details>
+</details> <!-- V03 !-->
 
 <details><summary><p lang="en"><b>Version 4 (2023, Thursday, January 26th at 7:32 pm PST)</b></p></summary>
 
@@ -895,7 +909,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 4
 - [ ] No other changes in version 4
 
-</details>
+</details> <!-- V04 !-->
 
 <details><summary><p lang="en"><b>Version 5 (2023, Thursday, January 26th at 10:16 pm PST)</b></p></summary>
 
@@ -916,7 +930,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 5
 - [ ] No other changes in version 5
 
-</details>
+</details> <!-- V05 !-->
 
 <details><summary><p lang="en"><b>Version 6 (2023, Friday, January 27th at 5:30 pm PST)</b></p></summary>
 
@@ -940,7 +954,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 6
 - [ ] No other changes in version 6
 
-</details>
+</details> <!-- V06 !-->
 
 <details><summary><p lang="en"><b>Version 7 (2023, Saturday, January 28th at 11:11 am PST)</b></p></summary>
 
@@ -966,7 +980,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 7
 - [ ] No other changes in version 7
 
-</details>
+</details> <!-- V07 !-->
 
 <details><summary><p lang="en"><b>Version 8 (2023, Saturday, January 28th at 6:06 pm PST)</b></p></summary>
 
@@ -986,7 +1000,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 8
 - [ ] No other changes in version 8
 
-</details>
+</details> <!-- V08 !-->
 
 <details><summary><p lang="en"><b>Version 9 (2023, Saturday, January 28th at 6:27 pm PST)</b></p></summary>
 
@@ -1006,7 +1020,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 9
 - [ ] No other changes in version 9
 
-</details>
+</details> <!-- V09 !-->
 
 <details><summary><p lang="en"><b>Version 10 (2023, Sunday, January 29th at 3:27 pm PST)</b></p></summary>
 
@@ -1026,7 +1040,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 10
 - [ ] No other changes in version 10
 
-</details>
+</details> <!-- V10 !-->
 
 <details><summary><p lang="en"><b>Version 11 (2023, Tuesday, January 31st at 12:06 am PST)</b></p></summary>
 
@@ -1049,7 +1063,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 11
 - [ ] No other changes in version 11
 
-</details>
+</details> <!-- V11 !-->
 
 <details><summary><p lang="en"><b>Version 12 (2023, Tuesday, January 31st at 4:25 pm PST)</b></p></summary>
 
@@ -1074,7 +1088,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 12
 - [ ] No other changes in version 12
 
-</details>
+</details> <!-- V12 !-->
 
 <details><summary><p lang="en"><b>Version 13 (2023, Wednesday, February 1st at 7:20 pm PST)</b></p></summary>
 
@@ -1097,7 +1111,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 13
 - [ ] No other changes in version 13
 
-</details>
+</details> <!-- V13 !-->
 
 <details><summary><p lang="en"><b>Version 14 (2023, Thursday, February 2nd at 3:25 pm PST)</b></p></summary>
 
@@ -1120,7 +1134,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 14
 - [ ] No other changes in version 14
 
-</details>
+</details> <!-- V14 !-->
 
 <details><summary><p lang="en"><b>Version 15 (2023, Saturday, February 4th at 6:40 pm PST)</b></p></summary>
 
@@ -1143,7 +1157,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 15
 - [ ] No other changes in version 15
 
-</details>
+</details> <!-- V15 !-->
 
 <details><summary><p lang="en"><b>Version 16 (2023, Monday, February 6th at 4:44 pm PST)</b></p></summary>
 
@@ -1168,7 +1182,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 16
 - [ ] No other changes in version 16
 
-</details>
+</details> <!-- V16 !-->
 
 <details><summary><p lang="en"><b>Version 17 (2023, Saturday, February 11th at 6:30 pm PST)</b></p></summary>
 
@@ -1191,7 +1205,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 17
 - [ ] No other changes in version 17
 
-</details>
+</details> <!-- V17 !-->
 
 <details><summary><p lang="en"><b>Version 18 (2023, Saturday, February 18th at 5:43 pm PST)</b></p></summary>
 
@@ -1217,7 +1231,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 18
 - [ ] No other changes in version 18
 
-</details>
+</details> <!-- V18 !-->
 
 <details><summary><p lang="en"><b>Version 19 (2023, Monday, March 6th at 9:30 pm PST)</b></p></summary>
 
@@ -1243,7 +1257,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 19
 - [ ] No other changes in version 19
 
-</details>
+</details> <!-- V19 !-->
 
 <details><summary><p lang="en"><b>Version 20 (2023, Tuesday, March 14th at 7:54 pm PST)</b></p></summary>
 
@@ -1267,7 +1281,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 20
 - [ ] No other changes in version 20
 
-</details>
+</details> <!-- V20 !-->
 
 <details><summary><p lang="en"><b>Version 21 (2023, Saturday, March 18th at 7:24 pm PST)</b></p></summary>
 
@@ -1291,7 +1305,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 21
 - [ ] No other changes in version 21
 
-</details>
+</details> <!-- V21 !-->
 
 <details><summary><p lang="en"><b>Version 22 (2023, Sunday, March 19th at 9:12 pm PST)</b></p></summary>
 
@@ -1315,7 +1329,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 22
 - [ ] No other changes in version 22
 
-</details>
+</details> <!-- V22 !-->
 
 <details><summary><p lang="en"><b>Version 23 (2023, Tuesday, March 28th at 2:15 pm PST)</b></p></summary>
 
@@ -1341,7 +1355,7 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 23
 - [ ] No other changes in version 23
 
-</details>
+</details> <!-- V23 !-->
 
 <details><summary><p lang="en"><b>Version 24 (2023, Tuesday, March 28th at 3:50 pm PST)</b></p></summary>
 
@@ -1365,7 +1379,34 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 - - [x] Added an entry for version 24
 - [ ] No other changes in version 24
 
-</details>
+</details> <!-- V24 !-->
+
+<details><summary><p lang="en"><b>Version 25 (2023, Monday, April 10th at 5:26 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _First update this month, several new entries addded._
+
+> Changes:
+
+- [x] **DEVELOPER** Added commented index numbers (`<!-- V01 !-->`, `<!-- V02 !-->` etc.) to all file history entries, to make navigation and reading easier
+- ...
+- - [x] Updated the `Miscellaneous documentation hubs` subsection <!-- Attributed, A-Z documentation !-->
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 25
+- [ ] No other changes in version 25
+
+</details> <!-- V25 !-->
 
 </details>
 
