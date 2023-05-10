@@ -35,8 +35,8 @@
 /ROOTFILES.base
 /SECURITY.md
 /SponsorButton.png
-/WacOS-Other.md
 /_config.yml
 /desktop.ini
+/gitlab-ci.yml
 /makefile.mk
 /pull_request_template.md
