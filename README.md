@@ -416,6 +416,7 @@ _Miscellaneous documentation hubs and articles_
 
 **CA**
 
+- [:octocat: `Calendar`](https://github.com/seanpm2001/Calendar/)
 - [:octocat: `Carbon Negative`](https://github.com/seanpm2001/Carbon-Negative/) **{Attributes `🌳️` `ℹ️` }**
 
 **CH**
@@ -783,6 +784,7 @@ _Redirect repositories that link to documentation repositories_
 - [:octocat: `Reports`](https://github.com/seanpm2001/Reports/)
 - [:octocat: `Seanpm2001-AI`](https://github.com/seanpm2001/Seanpm2001-AI)
 - [:octocat: `Seanpm2001 Apps`](https://github.com/seanpm2001/Seanpm2001-Apps/)
+- [:octocat: `Seanpm2001 GOI`](https://github.com/seanpm2001/Seanpm2001-GOI/)
 - [:octocat: `Seanpm2001-Learn`](https://github.com/seanpm2001/Seanpm2001-Learn/)
 - [:octocat: `Seanpm2001 Math`](https://github.com/seanpm2001/Seanpm2001-Math/)
 - [:octocat: `Seanspokane2015-Docs`](https://github.com/seanpm2001/Seanspokane2015-Docs/)
@@ -2987,17 +2989,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `26 (2023, Tuesday, May 9th at 6:09 pm PST)`
+**File version:** `27 (2023, Wednesday, May 10th at 5:25 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,667`
+**Line count (including blank lines and compiler line):** `3,693`
 
-**Word count:** `12,389`
+**Word count:** `12,528`
 
-**Character count (with spaces)** `106,384`
+**Character count (with spaces)** `107,369`
 
-**Character count (without spaces)** `95,858`
+**Character count (without spaces)** `96,689`
 
-**File size:** `108,200` bytes
+**File size:** `109,185` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3650,6 +3652,30 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 26
 
 </details> <!-- V26 !-->
+
+<details><summary><p lang="en"><b>Version 27 (2023, Wednesday, May 10th at 5:25 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** Second update this month (2023 May) I am going to try to update this repository daily._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 27
+- [ ] No other changes in version 27
+
+</details> <!-- V27 !-->
 
 </details>
 
