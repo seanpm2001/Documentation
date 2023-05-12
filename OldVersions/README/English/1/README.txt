@@ -739,6 +739,7 @@ _Miscellaneous documentation hubs and articles_
 **TE**
 
 - [:octocat: `Team TRM`](https://github.com/seanpm2001/Team-TRM/) **{Attributes: `ℹ️` `⏳️` }**
+- [:octocat: `Templates`](https://github.com/seanpm2001/Templates/) 
 
 **TH**
 
@@ -790,6 +791,7 @@ _Redirect repositories that link to documentation repositories_
 - [:octocat: `Seanspokane2015-Docs`](https://github.com/seanpm2001/Seanspokane2015-Docs/)
 - [:octocat: `SeanTRM-Docs`](https://github.com/seanpm2001/SeanTRM-Docs/)
 - [:octocat: `Seanwallawalla-Docs`](https://github.com/seanpm2001/Seanwallawalla-Docs/)
+- [:octocat: `Template`](https://github.com/seanpm2001/Template/)
 
 **See also:**
 
@@ -2989,17 +2991,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `27 (2023, Wednesday, May 10th at 5:25 pm PST)`
+**File version:** `28 (2023, Thursday, May 11th at 5:28 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,693`
+**Line count (including blank lines and compiler line):** `3,719`
 
-**Word count:** `12,528`
+**Word count:** `12,665`
 
-**Character count (with spaces)** `107,369`
+**Character count (with spaces)** `108,340`
 
-**Character count (without spaces)** `96,689`
+**Character count (without spaces)** `97,506`
 
-**File size:** `109,185` bytes
+**File size:** `110,156` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3676,6 +3678,30 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 27
 
 </details> <!-- V27 !-->
+
+<details><summary><p lang="en"><b>Version 28 (2023, Thursday, May 11th at 5:28 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Third update this month (2023 May) I am going to try to update this repository daily._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 28
+- [ ] No other changes in version 28
+
+</details> <!-- V28 !-->
 
 </details>
 
