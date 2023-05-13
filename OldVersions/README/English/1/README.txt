@@ -736,6 +736,10 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Sponsor Info`](https://github.com/seanpm2001/Sponsor-info/) **{Attributes: `💸️` `ℹ️` }**
 - [:octocat: `Sponsoring`](https://github.com/seanpm2001/Sponsoring/)
 
+**ST**
+
+- [:octocat: `Statistics`](https://github.com/seanpm2001/Statistics/)
+
 **TE**
 
 - [:octocat: `Team TRM`](https://github.com/seanpm2001/Team-TRM/) **{Attributes: `ℹ️` `⏳️` }**
@@ -791,6 +795,7 @@ _Redirect repositories that link to documentation repositories_
 - [:octocat: `Seanspokane2015-Docs`](https://github.com/seanpm2001/Seanspokane2015-Docs/)
 - [:octocat: `SeanTRM-Docs`](https://github.com/seanpm2001/SeanTRM-Docs/)
 - [:octocat: `Seanwallawalla-Docs`](https://github.com/seanpm2001/Seanwallawalla-Docs/)
+- [:octocat: `Stats`](https://github.com/seanpm2001/Stats/)
 - [:octocat: `Template`](https://github.com/seanpm2001/Template/)
 
 **See also:**
@@ -2991,17 +2996,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `28 (2023, Thursday, May 11th at 5:28 pm PST)`
+**File version:** `29 (2023, Friday, May 12th at 7:02 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,719`
+**Line count (including blank lines and compiler line):** `3,748`
 
-**Word count:** `12,665`
+**Word count:** `12,804`
 
-**Character count (with spaces)** `108,340`
+**Character count (with spaces)** `109,323`
 
-**Character count (without spaces)** `97,506`
+**Character count (without spaces)** `98,332`
 
-**File size:** `110,156` bytes
+**File size:** `111,139` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3702,6 +3707,30 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 28
 
 </details> <!-- V28 !-->
+
+<details><summary><p lang="en"><b>Version 29 (2023, Friday, May 12th at 7:02 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** Fourth update this month (2023 May) I am going to try to continue updating this repository daily._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 29
+- [ ] No other changes in version 29
+
+</details> <!-- V29 !-->
 
 </details>
 
