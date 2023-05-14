@@ -518,6 +518,10 @@ _Miscellaneous documentation hubs and articles_
 
 - [:octocat: `KhanAcademyData u/seanwallawallaofficial`](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/) **{Attributes: `👩‍🏫️` `ℹ️` `🗄️` `🕸️` }**
 
+**LA**
+
+- [:octocat: `Laptop`](https://github.com/seanpm2001/Laptop/)
+
 **LI**
 
 - [:octocat: `LightSpeed Relay Technologies Info`](https://github.com/seanpm2001/LightSpeedRelayTechnology_Info/) **{Attributes: `ℹ️` `💡️` }**
@@ -541,6 +545,10 @@ _Miscellaneous documentation hubs and articles_
 **NI**
 
 - [:octocat: `NimbleBit Glossary`](https://github.com/seanpm2001/NimbleBit-Glossary/) **{Attributes: `ℹ️` `📑️` `🎮️` }**
+
+**PC**
+
+- [:octocat: `PC`](https://github.com/seanpm2001/PC/)
 
 **PE**
 
@@ -2996,17 +3004,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `29 (2023, Friday, May 12th at 7:02 pm PST)`
+**File version:** `30 (2023, Saturday, May 13th at 5:20 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,748`
+**Line count (including blank lines and compiler line):** `3,780`
 
-**Word count:** `12,804`
+**Word count:** `12,944`
 
-**Character count (with spaces)** `109,323`
+**Character count (with spaces)** `110,306`
 
-**Character count (without spaces)** `98,332`
+**Character count (without spaces)** `99,155`
 
-**File size:** `111,139` bytes
+**File size:** `112,122` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3731,6 +3739,30 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 29
 
 </details> <!-- V29 !-->
+
+<details><summary><p lang="en"><b>Version 30 (2023, Saturday, May 13th at 5:20 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** Fifth update this month (2023 May) I am going to try to continue updating this repository daily._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 30
+- [ ] No other changes in version 30
+
+</details> <!-- V30 !-->
 
 </details>
 
