@@ -469,6 +469,10 @@ _Miscellaneous documentation hubs and articles_
 
 - [:octocat: `Empty repository`](https://github.com/seanpm2001/Empty_Repository/) **(Attributes: `🚧️` }**
 
+**FA**
+
+- [:octocat: `Facebook`](https://github.com/seanpm2001/Facebook/)
+
 **FE**
 
 - [:octocat: `Fedorable`](https://github.com/seanpm2001/Fedorable/) **{Attributes: `🗨️` `ℹ️` }**
@@ -759,6 +763,10 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `The Big Tent`](https://github.com/seanpm2001/The-Big-Tent/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `The Microsoft Pact`](https://github.com/seanpm2001/The-Microsoft-Pact/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `The Problems with Planned Obsolescence`](https://github.com/seanpm2001/The-problems-with-planned-obsolescence/) **{Attributes: `ℹ️` `📑️` }**
+
+**TW**
+
+- [:octocat: `Twitter`](https://github.com/seanpm2001/Twitter/)
 
 **VI**
 
@@ -3009,17 +3017,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `31 (2023, Sunday, May 14th at 5:12 pm PST)`
+**File version:** `32 (2023, Monday, May 15th at 4:52 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,809`
+**Line count (including blank lines and compiler line):** `3,841`
 
-**Word count:** `13,083`
+**Word count:** `13,223`
 
-**Character count (with spaces)** `111,288`
+**Character count (with spaces)** `112,284`
 
-**Character count (without spaces)** `99,980`
+**Character count (without spaces)** `100,816`
 
-**File size:** `113,104` bytes
+**File size:** `114,100` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3792,6 +3800,30 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 31
 
 </details> <!-- V31 !-->
+
+<details><summary><p lang="en"><b>Version 32 (2023, Monday, May 15th at 4:52 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** Seventh update this month (2023 May) I am going to try to continue updating this repository daily._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 32
+- [ ] No other changes in version 32
+
+</details> <!-- V32 !-->
 
 </details>
 
