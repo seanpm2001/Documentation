@@ -743,6 +743,7 @@ _Miscellaneous documentation hubs and articles_
 
 - [:octocat: `Sponsor Info`](https://github.com/seanpm2001/Sponsor-info/) **{Attributes: `💸️` `ℹ️` }**
 - [:octocat: `Sponsoring`](https://github.com/seanpm2001/Sponsoring/)
+- [:octocat: `Sponsors`](https://github.com/seanpm2001/Sponsors/)
 
 **ST**
 
@@ -774,6 +775,10 @@ _Miscellaneous documentation hubs and articles_
 **WI**
 
 - [:octocat: `Wiki`](https://github.com/seanpm2001/Wiki/)
+
+**YO**
+
+- [:octocat: `YouTube`](https://github.com/seanpm2001/YouTube/)
 
 > **Note** Documentation for many projects is not yet listed
 
@@ -3004,17 +3009,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `30 (2023, Saturday, May 13th at 5:20 pm PST)`
+**File version:** `31 (2023, Sunday, May 14th at 5:12 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,780`
+**Line count (including blank lines and compiler line):** `3,809`
 
-**Word count:** `12,944`
+**Word count:** `13,083`
 
-**Character count (with spaces)** `110,306`
+**Character count (with spaces)** `111,288`
 
-**Character count (without spaces)** `99,155`
+**Character count (without spaces)** `99,980`
 
-**File size:** `112,122` bytes
+**File size:** `113,104` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3763,6 +3768,30 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 30
 
 </details> <!-- V30 !-->
+
+<details><summary><p lang="en"><b>Version 31 (2023, Sunday, May 14th at 5:12 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** Sixth update this month (2023 May) I am going to try to continue updating this repository daily._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 31
+- [ ] No other changes in version 31
+
+</details> <!-- V31 !-->
 
 </details>
 
