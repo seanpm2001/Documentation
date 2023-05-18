@@ -270,7 +270,7 @@ _This section is currently empty_
 
 **N**
 
-_This section is currently empty_
+- [:octocat: `Nostalgii Docs`](https://github.com/seanpm2001/Nostalgii_Docs/)
 
 **O**
 
@@ -443,6 +443,10 @@ _Miscellaneous documentation hubs and articles_
 
 - [:octocat: `Credits`](https://github.com/seanpm2001/Credits/) **{Attributes: `ℹ️` }**
 
+**DA**
+
+- [:octocat: `Database`](https://github.com/seanpm2001/Database/)
+
 **DE**
 
 - [:octocat: `DeGoogled Android Phone VM research`](https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research/) **{Attributes: `ℹ️` }**
@@ -594,6 +598,7 @@ _Miscellaneous documentation hubs and articles_
 
 **RE**
 
+- [:octocat: `Reddit`](https://github.com/seanpm2001/Reddit/)
 - [:octocat: `Registry`](https://github.com/seanpm2001/Registry/) **{Attributes: `🗃️` `ℹ️` }**
 - [:octocat: `Repositories`](https://github.com/seanpm2001/Repositories/)
 
@@ -3026,17 +3031,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `33 (2023, Tuesday, May 16th at 8:01 pm PST)`
+**File version:** `34 (2023, Wednesday, May 17th at 7:05 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,874`
+**Line count (including blank lines and compiler line):** `3,903`
 
-**Word count:** `13,381`
+**Word count:** `13,524`
 
-**Character count (with spaces)** `113,445`
+**Character count (with spaces)** `114,476`
 
-**Character count (without spaces)** `101,810`
+**Character count (without spaces)** `102,685`
 
-**File size:** `115,261` bytes
+**File size:** `116,292` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3857,6 +3862,30 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 33
 
 </details> <!-- V33 !-->
+
+<details><summary><p lang="en"><b>Version 34 (2023, Wednesday, May 17th at 7:05 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** Ninth update this month (2023 May) I am going to try to continue updating this repository daily._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 34
+- [ ] No other changes in version 34
+
+</details> <!-- V34 !-->
 
 </details>
 
