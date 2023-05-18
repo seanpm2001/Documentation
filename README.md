@@ -815,6 +815,7 @@ _Redirect repositories that link to documentation repositories_
 - [:octocat: `Acknowledgements`](https://github.com/seanpm2001/Acknowledgements/)
 - [:octocat: `AI`](https://github.com/seanpm2001/AI/)
 - [:octocat: `Compartmentalization`](https://github.com/seanpm2001/Compartmentalization/)
+- [:octocat: `DB`](https://github.com/seanpm2001/DB/)
 - [:octocat: `Docs`](https://github.com/seanpm2001/Docs/)
 - [:octocat: `GOI`](https://github.com/seanpm2001/GOI/)
 - [:octocat: `GSoC`](https://github.com/seanpm2001/GSoC/)
@@ -3031,17 +3032,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `34 (2023, Wednesday, May 17th at 7:05 pm PST)`
+**File version:** `35 (2023, Thursday, May 18th at 3:45 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,903`
+**Line count (including blank lines and compiler line):** `3,928`
 
-**Word count:** `13,524`
+**Word count:** `13,655`
 
-**Character count (with spaces)** `114,476`
+**Character count (with spaces)** `15,384`
 
-**Character count (without spaces)** `102,685`
+**Character count (without spaces)** `103,442`
 
-**File size:** `116,292` bytes
+**File size:** `117,200` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3699,7 +3700,7 @@ Progress on this goal (incompleted list)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** Second update this month (2023 May) I am going to try to update this repository daily._
+> **Note** _Second update this month (2023 May) I am going to try to update this repository daily._
 
 > Changes:
 
@@ -3747,7 +3748,7 @@ Progress on this goal (incompleted list)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** Fourth update this month (2023 May) I am going to try to continue updating this repository daily._
+> **Note** _Fourth update this month (2023 May) I am going to try to continue updating this repository daily._
 
 > Changes:
 
@@ -3771,7 +3772,7 @@ Progress on this goal (incompleted list)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** Fifth update this month (2023 May) I am going to try to continue updating this repository daily._
+> **Note** _Fifth update this month (2023 May) I am going to try to continue updating this repository daily._
 
 > Changes:
 
@@ -3795,7 +3796,7 @@ Progress on this goal (incompleted list)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** Sixth update this month (2023 May) I am going to try to continue updating this repository daily._
+> **Note** _Sixth update this month (2023 May) I am going to try to continue updating this repository daily._
 
 > Changes:
 
@@ -3819,7 +3820,7 @@ Progress on this goal (incompleted list)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** Seventh update this month (2023 May) I am going to try to continue updating this repository daily._
+> **Note** _Seventh update this month (2023 May) I am going to try to continue updating this repository daily._
 
 > Changes:
 
@@ -3843,7 +3844,7 @@ Progress on this goal (incompleted list)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** Eighth update this month (2023 May) I am going to try to continue updating this repository daily._
+> **Note** _Eighth update this month (2023 May) I am going to try to continue updating this repository daily._
 
 > Changes:
 
@@ -3867,7 +3868,7 @@ Progress on this goal (incompleted list)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** Ninth update this month (2023 May) I am going to try to continue updating this repository daily._
+> **Note** _Ninth update this month (2023 May) I am going to try to continue updating this repository daily._
 
 > Changes:
 
@@ -3886,6 +3887,30 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 34
 
 </details> <!-- V34 !-->
+
+<details><summary><p lang="en"><b>Version 35 (2023, Thursday, May 18th at 3:45 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Tenth update this month (2023 May) I am going to try to continue updating this repository daily._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 35
+- [ ] No other changes in version 35
+
+</details> <!-- V35 !-->
 
 </details>
 
