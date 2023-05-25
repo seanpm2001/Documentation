@@ -271,6 +271,8 @@ _This section is currently empty_
 **N**
 
 - [:octocat: `Nostalgii Docs`](https://github.com/seanpm2001/Nostalgii_Docs/)
+- [`NUNIX Docs (page does not yet exist)`](https://www.example.com/)
+- - [:octocat: `NUNIX SurvivalMode Docs`](https://github.com/seanpm2001/NUNIX_SurvivalMode_Docs/)
 
 **O**
 
@@ -542,6 +544,7 @@ _Miscellaneous documentation hubs and articles_
 **MA**
 
 - [:octocat: `Maintainers info`](https://github.com/seanpm2001/Maintainers-info/) **{Attributes: `ℹ️` }**
+- [:octocat: `Malware as Art`](https://github.com/seanpm2001/Malware-as-art/)
 - [:octocat: `MasterMasterMaster`](https://github.com/seanpm2001/MasterMasterMaster/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `Mastodon`](https://github.com/seanpm2001/Mastodon/) **{Attributes: `ℹ️` `📑️` }**
 
@@ -3036,17 +3039,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `36 (2023, Saturday, May 20th at 8:07 pm PST)`
+**File version:** `37 (2023, Wednesday, May 24th at 7:23 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,956`
+**Line count (including blank lines and compiler line):** `3,983`
 
-**Word count:** `13,810`
+**Word count:** `13,993`
 
-**Character count (with spaces)** `116,429`
+**Character count (with spaces)** `117,669`
 
-**Character count (without spaces)** `104,317`
+**Character count (without spaces)** `105,365`
 
-**File size:** `118,245` bytes
+**File size:** `119,485` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3939,6 +3942,30 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 36
 
 </details> <!-- V36 !-->
+
+<details><summary><p lang="en"><b>Version 37 (2023, Wednesday, May 24th at 7:23 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** Twelfth update this month (2023 May) I am going to try to continue updating this repository daily when possible. I couldn't yesterday, as there were was no time, and before that, there were limited entries. Updates will be sparse for a while._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 37
+- [ ] No other changes in version 37
+
+</details> <!-- V37 !-->
 
 </details>
 
