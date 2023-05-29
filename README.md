@@ -219,6 +219,7 @@ _Other documentation hubs_
 
 - [:octocat: `Economica Docs`](https://github.com/seanpm2001/Economica_Docs/)
 - [:octocat: `Egg Org Docs`](https://github.com/seanpm2001/Egg-Org_Docs/)
+- [:octocat: `Er Docs`](https://github.com/seanpm2001/Er_Docs/)
 
 **F**
 
@@ -315,6 +316,7 @@ _This section is currently empty_
 - [:octocat: `Talla Browser Docs`](https://github.com/seanpm2001/Talla_Browser_Docs/)
 - [:octocat: `Team8Collection Docs`](https://github.com/seanpm2001/Team8Collection_Docs/)
 - [:octocat: `Tetris128 Docs`](https://github.com/seanpm2001/Tetris128_Docs/)
+- [:octocat: `The REAL Data Liberation Front Docs`](https://github.com/seanpm2001/The-REAL-Data-Liberation-Front_Docs/)
 - [:octocat: `TrueTorrent Docs`](https://github.com/seanpm2001/TrueTorrent_Docs/)
 - [:octocat: `Turkey Stories Docs`](https://github.com/seanpm2001/Turkey-Stories_Docs/)
 
@@ -3039,17 +3041,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `37 (2023, Wednesday, May 24th at 7:23 pm PST)`
+**File version:** `38 (2023, Monday, May 29th at 4:54 pm PST)`
 
-**Line count (including blank lines and compiler line):** `3,983`
+**Line count (including blank lines and compiler line):** `4,009`
 
-**Word count:** `13,993`
+**Word count:** `14,185`
 
-**Character count (with spaces)** `117,669`
+**Character count (with spaces)** `118,932`
 
-**Character count (without spaces)** `105,365`
+**Character count (without spaces)** `106,748`
 
-**File size:** `119,485` bytes
+**File size:** `120,748` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3923,7 +3925,7 @@ Progress on this goal (incompleted list)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** Eleventh update this month (2023 May) I am going to try to continue updating this repository daily. I couldn't yesterday, as there were no newly created entries._
+> **Note** _Eleventh update this month (2023 May) I am going to try to continue updating this repository daily. I couldn't yesterday, as there were no newly created entries._
 
 > Changes:
 
@@ -3947,7 +3949,7 @@ Progress on this goal (incompleted list)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** Twelfth update this month (2023 May) I am going to try to continue updating this repository daily when possible. I couldn't yesterday, as there were was no time, and before that, there were limited entries. Updates will be sparse for a while._
+> **Note** _Twelfth update this month (2023 May) I am going to try to continue updating this repository daily when possible. I couldn't yesterday, as there were was no time, and before that, there were limited entries. Updates will be sparse for a while._
 
 > Changes:
 
@@ -3966,6 +3968,30 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 37
 
 </details> <!-- V37 !-->
+
+<details><summary><p lang="en"><b>Version 38 (2023, Monday, May 29th at 4:54 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Thirteenth update this month (2023 May) I am going to try to continue updating this repository daily when possible. I couldn't yesterday, as there were was no time, and I had already allocated a maximum of 25 repositories to work on that day.Before that, there were limited entries. Updates will continue to be sparse for a while._
+
+> Changes:
+
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 38
+- [ ] No other changes in version 38
+
+</details> <!-- V38 !-->
 
 </details>
 
