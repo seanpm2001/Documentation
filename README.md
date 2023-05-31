@@ -324,8 +324,9 @@ _This section is currently empty_
 
 - [:octocat: `UI Tour Guide Docs`](https://github.com/seanpm2001/UI-Tour-Guide_Docs/)
 - [:octocat: `Ukraine History Simulator Docs`](https://github.com/seanpm2001/Ukraine-History-Simulator_Docs/)
-- [:octocat: `URLL Docs`](https://github.com/seanpm2001/URLL_Docs/)
 - [:octocat: `Underune Maker Docs`](https://github.com/seanpm2001/Underune-Maker_Docs/)
+- [:octocat: `Undigitized Docs`](https://github.com/seanpm2001/Undigitized_Docs/)
+- [:octocat: `URLL Docs`](https://github.com/seanpm2001/URLL_Docs/)
 - [:octocat: `UTPM Docs`](https://github.com/seanpm2001/UTPM_Docs/)
 
 **V**
@@ -349,7 +350,7 @@ _This section is currently empty_
 **Z**
 
 - [:octocat: `ZooTree Docs`](https://github.com/seanpm2001/ZooTree_Docs/)
-- [:octocat: `Zombie Life Re-animated Docs`](https://github.com/seanpm2001/Zombie-Life-Re-Animated_+Docs/)
+- [:octocat: `Zombie Life Re-animated Docs`](https://github.com/seanpm2001/Zombie-Life-Re-Animated_Docs/)
 
 ### [Miscellaneous documentation hubs and articles](#Miscellaneous-documentation-hubs-and-articles)
 
@@ -3041,17 +3042,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `38 (2023, Monday, May 29th at 4:54 pm PST)`
+**File version:** `39 (2023, Tuesday, May 30th at 9:48 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,009`
+**Line count (including blank lines and compiler line):** `4,034`
 
-**Word count:** `14,185`
+**Word count:** `14,329`
 
-**Character count (with spaces)** `118,932`
+**Character count (with spaces)** `119,881`
 
-**Character count (without spaces)** `106,748`
+**Character count (without spaces)** `107,222`
 
-**File size:** `120,748` bytes
+**File size:** `121,697` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3992,6 +3993,30 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 38
 
 </details> <!-- V38 !-->
+
+<details><summary><p lang="en"><b>Version 39 (2023, Tuesday, May 30th at 9:48 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Fourteenth update this month (2023 May) I am going to try to continue updating this repository daily when possible. _
+
+> Changes:
+
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 39
+- [ ] No other changes in version 39
+
+</details> <!-- V39 !-->
 
 </details>
 
