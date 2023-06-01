@@ -177,9 +177,11 @@ Team8Collection_Docs
  
 _Other documentation hubs_
 
-> **Note** This list is in A-Z order
+> **Note** _This list is in A-Z order_
 
-> **Note** As of 2023, Sunday, January 29th, several links don't work, as the repositories are coming soon.
+> **Note** _As of 2023, Sunday, January 29th, several links don't work, as the repositories are coming soon._
+
+> **Note** _This count also indicates how many sovereign projects (project groups) I have._
 
 **A**
 
@@ -688,6 +690,7 @@ _Miscellaneous documentation hubs and articles_
 - This category is empty
 - **V**
 - [:octocat: `Seanpm2001 Vim`](https://github.com/seanpm2001/Seanpm2001-Vim/)  **{Attributes: `ℹ️` `📑️` }**
+- [:octocat: `Seanpm2001 VSCode`](https://github.com/seanpm2001/Seanpm2001-VSCode/)
 - **W**
 - This category is empty
 - **X**
@@ -3042,17 +3045,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `39 (2023, Tuesday, May 30th at 9:48 pm PST)`
+**File version:** `40 (2023, Wednesday, May 31st at 9:03 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,034`
+**Line count (including blank lines and compiler line):** `4,064`
 
-**Word count:** `14,329`
+**Word count:** `14,477`
 
-**Character count (with spaces)** `119,881`
+**Character count (with spaces)** `120,990`
 
-**Character count (without spaces)** `107,222`
+**Character count (without spaces)** `108,150`
 
-**File size:** `121,697` bytes
+**File size:** `122,806` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -4018,6 +4021,31 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V39 !-->
 
+<details><summary><p lang="en"><b>Version 40 (2023, Wednesday, May 31st at 9:03 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** Fifteenth and final update for this month (2023 May) I am going to try to continue updating this repository daily when possible. _
+
+> Changes:
+
+- [x] Updated the footer
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 40
+- [ ] No other changes in version 40
+
+</details> <!-- V40 !-->
+
 </details>
 
 ***
@@ -4029,5 +4057,7 @@ You have reached the end of this page.
 - [`Back to top`](#Documentation)
 - [:octocat: `Exit to GitHub`](https://github.com/)
 - [:octocat: `Back to redirect page`](https://github.com/seanpm2001/Docs/)
+
+###### [EOF](#EOF)
 
 ***
