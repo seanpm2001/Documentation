@@ -302,14 +302,15 @@ _This section is currently empty_
 
 - [:octocat: `Sbubbway_Docs`](https://github.com/seanpm2001/Sbubbway_Docs/)
 - [:octocat: `Scarlet Oven Docs`](https://github.com/seanpm2001/Scarlet-Oven_Docs/)
-- [:octocat: `SWave Starter Docs`](https://github.com/seanpm2001/SWave-Starter_Docs/)
-- [:octocat: `SeanTRM Documentation`](https://github.com/seanpm2001/SeanTRM-Documentation/)
-- [:octocat: `Seanspokane2015-Documentation`](https://github.com/seanpm2001/Seanspokane2015-Documentation/)
 - [:octocat: `SeansLifeArchive Docs`](https://github.com/seanpm2001/SeansLifeArchive_Docs/)
 - [:octocat: `SeansLifeArchive_Wiki`](https://github.com/seanpm2001/SeansLifeArchive_Wiki/)
+- [:octocat: `Seanspokane2015-Documentation`](https://github.com/seanpm2001/Seanspokane2015-Documentation/)
+- [:octocat: `SeanTRM Documentation`](https://github.com/seanpm2001/SeanTRM-Documentation/)
 - [:octocat: `Slaveworks Docs`](https://github.com/seanpm2001/Slaveworks_Docs/)
-- [:octocat: `SVG Video Docs`](https://github.com/seanpm2001/SVG-Video_Docs/)
+- [:octocat: `StarVS Docs`](https://github.com/seanpm2001/StarVS_Docs/)
 - [:octocat: `Snapshot Version Control System Docs`](https://github.com/seanpm2001/Snapshot-Version-Control-System_Docs/)
+- [:octocat: `SVG Video Docs`](https://github.com/seanpm2001/SVG-Video_Docs/)
+- [:octocat: `SWave Starter Docs`](https://github.com/seanpm2001/SWave-Starter_Docs/)
 
 **T**
 
@@ -621,10 +622,10 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `SeansAudioDB Blog`](https://github.com/seanpm2001/SeansAudioDB-Blog/)
 - [:octocat: `SeansLifeArchive / Daily Articles`](https://github.com/seanpm2001/SeansLifeArchive_Daily-articles/) **{Attributes:  `ℹ️` `📑️` `🗃️`}**
 - [:octocat: `SeansOSData`](https://github.com/seanpm2001/SeansOSData/) **{Attributes: `🗃️` `ℹ️` `📑️` }**
-️` `🛡️` `⚔️` `🔧️` `🎆️` `💡️` `👩‍🏫️` `🗨️` `🎨️` `🗄️` `📈️` `🔒️` `🇨🇭️` `🐟️` `🕸️` `*️⃣️` `🗳️` `💸️` `🪧️` `ℹ️` `⏳️` `🚧️` }**
+- [:octocat: `Services`](https://github.com/seanpm2001/Services/)
 - [:octocat: `SeanPatrickMyrick`](https://github.com/seanpm2001/SeanPatrickMyrick/)
 - [:octocat: `Security`](https://github.com/seanpm2001/Security/) **{Attributes: `📑️` `🛡️` `ℹ️` }**
-- [:octocat: `seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/) **{Attributes: `⚖️` `🌳️` `🎮️` `🗃️` `📑️` `🏘
+- [:octocat: `seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/) **{Attributes: `⚖️` `🌳️` `🎮️` `🗃️` `📑️` `🏘️` `🛡️` `⚔️` `🔧️` `🎆️` `💡️` `👩‍🏫️` `🗨️` `🎨️` `🗄️` `📈️` `🔒️` `🇨🇭️` `🐟️` `🕸️` `*️⃣️` `🗳️` `💸️` `🪧️` `ℹ️` `⏳️` `🚧️` }**
 - **Seanpm2001**
 - **A**
 - [:octocat: `Seanpm2001 Apple`](https://github.com/seanpm2001/Seanpm2001-Apple/)
@@ -845,6 +846,7 @@ _Redirect repositories that link to documentation repositories_
 - [:octocat: `SeanTRM-Docs`](https://github.com/seanpm2001/SeanTRM-Docs/)
 - [:octocat: `Seanwallawalla-Docs`](https://github.com/seanpm2001/Seanwallawalla-Docs/)
 - [:octocat: `Stats`](https://github.com/seanpm2001/Stats/)
+- [:octocat: `Services`](https://github.com/seanpm2001/Services/)
 - [:octocat: `Template`](https://github.com/seanpm2001/Template/)
 
 **See also:**
@@ -3045,17 +3047,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `40 (2023, Wednesday, May 31st at 9:03 pm PST)`
+**File version:** `41 (2023, Friday, June 2nd at 10:14 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,064`
+**Line count (including blank lines and compiler line):** `4,091`
 
-**Word count:** `14,477`
+**Word count:** `14,645`
 
-**Character count (with spaces)** `120,990`
+**Character count (with spaces)** `122,148`
 
-**Character count (without spaces)** `108,150`
+**Character count (without spaces)** `109,131`
 
-**File size:** `122,806` bytes
+**File size:** `123,964` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -4045,6 +4047,31 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 40
 
 </details> <!-- V40 !-->
+
+<details><summary><p lang="en"><b>Version 41 (2023, Friday, June 2nd at 10:14 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** First update for this month (2023 June) I am going to try to continue updating this repository daily when possible. I couldn't do so yesterday, as I didn't have enough project slots._
+
+> Changes:
+
+- [x] Updated the footer
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 41
+- [ ] No other changes in version 41
+
+</details> <!-- V41 !-->
 
 </details>
 
