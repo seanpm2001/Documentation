@@ -192,6 +192,7 @@ _Other documentation hubs_
 - [:octocat: `Android x128 Docs`](https://github.com/seanpm2001/Android-x128_Docs/)
 - [:octocat: `Anime Studio Docs`](https://github.com/seanpm2001/Anime_Studio_Docs/)
 - [:octocat: `AUTOMATE2001 Docs`](https://github.com/seanpm2001/AUTOMATE2001_Docs/)
+- [:octocat: `AutoPeer Docs`](https://github.com/seanpm2001/AutoPeer_Docs/)
 
 **B**
 
@@ -3047,17 +3048,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `41 (2023, Friday, June 2nd at 10:14 pm PST)`
+**File version:** `42 (2023, Saturday, June 3rd at 9:56 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,091`
+**Line count (including blank lines and compiler line):** `4,117`
 
-**Word count:** `14,645`
+**Word count:** `14,785`
 
-**Character count (with spaces)** `122,148`
+**Character count (with spaces)** `123,117`
 
-**Character count (without spaces)** `109,131`
+**Character count (without spaces)** `109,940`
 
-**File size:** `123,964` bytes
+**File size:** `124,933` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -4072,6 +4073,31 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 41
 
 </details> <!-- V41 !-->
+
+<details><summary><p lang="en"><b>Version 42 (2023, Saturday, June 3rd at 9:56 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** Second update for this month (2023 June) I am going to try to continue updating this repository daily when possible._
+
+> Changes:
+
+- [x] Updated the footer
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 42
+- [ ] No other changes in version 42
+
+</details> <!-- V42 !-->
 
 </details>
 
