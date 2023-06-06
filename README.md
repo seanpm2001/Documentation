@@ -341,6 +341,7 @@ _This section is currently empty_
 **W**
 
 - [:octocat: `WacOS Docs`](https://github.com/seanpm2001/WacOS_Docs/)
+- [:octocat: `WarmWelcome Docs`](https://github.com/seanpm2001/WarmWelcome_Docs/)
 - [:octocat: `What Year Is It Docs`](https://github.com/seanpm2001/WYII_Docs/)
 
 **X**
@@ -3048,17 +3049,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `42 (2023, Saturday, June 3rd at 9:56 pm PST)`
+**File version:** `43 (2023, Monday, June 5th at 9:43 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,117`
+**Line count (including blank lines and compiler line):** `4,143`
 
-**Word count:** `14,785`
+**Word count:** `14,925`
 
-**Character count (with spaces)** `123,117`
+**Character count (with spaces)** `124,090`
 
-**Character count (without spaces)** `109,940`
+**Character count (without spaces)** `110,753`
 
-**File size:** `124,933` bytes
+**File size:** `125,906` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -4028,7 +4029,7 @@ Progress on this goal (incompleted list)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** Fifteenth and final update for this month (2023 May) I am going to try to continue updating this repository daily when possible. _
+> **Note** _Fifteenth and final update for this month (2023 May) I am going to try to continue updating this repository daily when possible. _
 
 > Changes:
 
@@ -4053,7 +4054,7 @@ Progress on this goal (incompleted list)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** First update for this month (2023 June) I am going to try to continue updating this repository daily when possible. I couldn't do so yesterday, as I didn't have enough project slots._
+> **Note** _First update for this month (2023 June) I am going to try to continue updating this repository daily when possible. I couldn't do so yesterday, as I didn't have enough project slots._
 
 > Changes:
 
@@ -4078,7 +4079,7 @@ Progress on this goal (incompleted list)
 
 **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
 
-> **Note** Second update for this month (2023 June) I am going to try to continue updating this repository daily when possible._
+> **Note** _Second update for this month (2023 June) I am going to try to continue updating this repository daily when possible._
 
 > Changes:
 
@@ -4098,6 +4099,31 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 42
 
 </details> <!-- V42 !-->
+
+<details><summary><p lang="en"><b>Version 43 (2023, Monday, June 5th at 9:43 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _Third update for this month (2023 June) I am going to try to continue updating this repository daily when possible._
+
+> Changes:
+
+- [x] Updated the footer
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 43
+- [ ] No other changes in version 43
+
+</details> <!-- V43 !-->
 
 </details>
 
