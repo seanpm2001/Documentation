@@ -9,9 +9,13 @@
 
 This is the hub for the documentation of [`@seanpm2001`](https://github.com/seanpm2001/) due to its size, this is mainly a list of links (a glossary portal page) it is currently an early draft, and is highly incomplete.
 
+<details open><summary><p><b>[Click/tap here to expand/collapse this entire article]</b></p></summary>
+
 ***
 
 ## [Legend](#Legend)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the legend]</b></p></summary>
 
 * Links that have a preceding :octocat: Emoji are links to a GitHub page or repository. [:octocat: Like so](https://github.com/)
 
@@ -19,9 +23,13 @@ I want there to be a level of trust here. If a link seems suspicious to you, rem
 
 ### [Emoji legend](#Emoji-legend)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the Emoji legend]</b></p></summary>
+
 **Compartmentalization notice:** Many links in this portal are under active compartmentalization review.
 
 #### [Attributes](#Attributes)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Attributes legend]</b></p></summary>
 
 - `⚖️` **=** `Psychology`
 - `🌳️` **=** `Environmentalism and nature`
@@ -149,6 +157,9 @@ I want there to be a level of trust here. If a link seems suspicious to you, rem
 `⚖️` `🌳️` `🎮️` `🗃️` `📑️` `🏘️` `🛡️` `⚔️` `🔧️` `🎆️` `💡️` `👩‍🏫️` `🗨️` `🎨️` `🗄️` `📈️` `🔒️` `🇨🇭️` `🐟️` `🕸️` `*️⃣️` `🗳️` `💸️` `🪧️` `ℹ️` `⏳️` `🚧️`
 !-->
 
+</details> <!-- Attributes legend end !-->
+
+</details> <!-- Emoji legend end !-->
 
 > **Note** _Each entry can have multiple attributes_
 
@@ -169,11 +180,17 @@ Team8Collection_Docs
 
 !-->
 
+</details> <!-- Legend end !-->
+
 ***
 
 ## [General](#General)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the general section]</b></p></summary>
+
 ### [Other documentation hubs](#Other-documentation-hubs)
+ 
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs section]</b></p></summary>
  
 _Other documentation hubs_
 
@@ -183,18 +200,29 @@ _Other documentation hubs_
 
 > **Note** _This count also indicates how many sovereign projects (project groups) I have._
 
+---
+
 **A**
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section A section]</b></p></summary>
+
 - [:octocat: `AI2001 Docs`](https://github.com/seanpm2001/AI2001_Docs/)
-- [:octocat: `Android x32 Docs`](https://github.com/seanpm2001/Android-x32_Docs/)
-- [:octocat: `Android x32x64 Docs`](https://github.com/seanpm2001/Android-x32x64_Docs/)
-- [:octocat: `Android x64 Docs`](https://github.com/seanpm2001/Android-x64_Docs/)
-- [:octocat: `Android x128 Docs`](https://github.com/seanpm2001/Android-x128_Docs/)
+- [:octocat: `Android x32x64x128 Docs (coming soon)`](https://github.com/seanpm2001/Android-x32x64x128_Docs/)
+- - [:octocat: `Android x32 Docs`](https://github.com/seanpm2001/Android-x32_Docs/)
+- - [:octocat: `Android x32x64 Docs`](https://github.com/seanpm2001/Android-x32x64_Docs/)
+- - [:octocat: `Android x64 Docs`](https://github.com/seanpm2001/Android-x64_Docs/)
+- - [:octocat: `Android x128 Docs`](https://github.com/seanpm2001/Android-x128_Docs/)
 - [:octocat: `Anime Studio Docs`](https://github.com/seanpm2001/Anime_Studio_Docs/)
 - [:octocat: `AUTOMATE2001 Docs`](https://github.com/seanpm2001/AUTOMATE2001_Docs/)
 - [:octocat: `AutoPeer Docs`](https://github.com/seanpm2001/AutoPeer_Docs/)
 
+</details> <!-- End of Other documentation hubs: A section, section !-->
+
+---
+
 **B**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section B section]</b></p></summary>
 
 - [:octocat: `BASH.sh Docs`](https://github.com/seanpm2001/BASH.sh_Docs/)
 - [:octocat: `BerryBoot Docs`](https://github.com/seanpm2001/BerryBoot_Docs/)
@@ -206,55 +234,115 @@ _Other documentation hubs_
 - [:octocat: `Boom Bay Docs`](https://github.com/seanpm2001/Boom-Bay_Docs/)
 - [:octocat: `BathHouseOS Docs`](https://github.com/seanpm2001/BathHouseOS_Docs/)
 
+</details> <!-- End of Other documentation hubs: B section, section !-->
+
+---
+
 **C**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section C section]</b></p></summary>
 
 - [:octocat: `CamCamPlus Docs`](https://github.com/seanpm2001/CamCamPlus_Docs/)
 - [:octocat: `Candroid Docs`](https://github.com/seanpm2001/Candroid-Docs/)
 
+</details> <!-- End of Other documentation hubs: C section, section !-->
+
+---
+
 **D**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section D section]</b></p></summary>
 
 - [:octocat: `DeGoogle your Life Docs`](https://github.com/seanpm2001/DeGoogle-your-Life_Docs/)
 - [:octocat: `DeskLocker Docs`](https://github.com/seanpm2001/DeskLocker_Docs/)
 - [:octocat: `DISC-O Jockey Docs`](https://github.com/seanpm2001/DISC-O_Jockey_Docs/)
 - [:octocat: `Domainiac Docs`](https://github.com/seanpm2001/Domainiac_Docs/)
 
+</details> <!-- End of Other documentation hubs: D section, section !-->
+
+---
+
 **E**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section E section]</b></p></summary>
 
 - [:octocat: `Economica Docs`](https://github.com/seanpm2001/Economica_Docs/)
 - [:octocat: `Egg Org Docs`](https://github.com/seanpm2001/Egg-Org_Docs/)
 - [:octocat: `Er Docs`](https://github.com/seanpm2001/Er_Docs/)
 
+</details> <!-- End of Other documentation hubs: E section, section !-->
+
+---
+
 **F**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section F section]</b></p></summary>
 
 - [:octocat: `FreeGenie Docs`](https://github.com/seanpm2001/FreeGenie_Docs/)
 - [:octocat: `Frog Mania Docs`](https://github.com/seanpm2001/Frog-Mania_Docs/)
 - [:octocat: `FBI Roleplay Simulator Docs`](https://github.com/seanpm2001/FBI-Roleplay-Simulator_Docs/)
 
+</details> <!-- End of Other documentation hubs: F section, section !-->
+
+---
+
 **G**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section G section]</b></p></summary>
 
 - [:octocat: `GeniBlock Docs`](https://github.com/seanpm2001/GeniBlock_Docs/)
 - [:octocat: `Gaslight Galactica Docs`](https://github.com/seanpm2001/Gaslight-Galactica_Docs/)
 
+</details> <!-- End of Other documentation hubs: G section, section !-->
+
+---
+
 **H**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section H section]</b></p></summary>
 
 - [:octocat: `Health Meter Maximum Docs`](https://github.com/seanpm2001/Health-Meter-Maximum_Docs/)
 - [:octocat: `Hyper Realistic Farm Simulator Docs`](https://github.com/seanpm2001/Hyper-Realistic-Farm-Simulator_Docs/)
 
+</details> <!-- End of Other documentation hubs: H section, section !-->
+
+---
+
 **I**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section I section]</b></p></summary>
 
 - [:octocat: `iBlast Docs`](https://github.com/seanpm2001/iBlast_Docs/)
 - [:octocat: `iCandy Docs`](https://github.com/seanpm2001/iCandy_Docs/)
 - [:octocat: `iWill Docs`](https://github.com/seanpm2001/iWill_Docs/)
 
+</details> <!-- End of Other documentation hubs: I section, section !-->
+
+---
+
 **J**
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section J section]</b></p></summary>
+
 _This section is currently empty_
+
+</details> <!-- End of Other documentation hubs: J section, section !-->
+
+---
 
 **K**
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section K section]</b></p></summary>
+
 _This section is currently empty_
 
+</details> <!-- End of Other documentation hubs: K section, section !-->
+
+---
+
 **L**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section L section]</b></p></summary>
 
 - [:octocat: `L20 Docs`](https://github.com/seanpm2001/L20_Docs/)
 - [:octocat: `LANChair Docs`](https://github.com/seanpm2001/LANChair_Docs/)
@@ -264,56 +352,106 @@ _This section is currently empty_
 - [:octocat: `Linux Marketshare Ping Tool Docs`](https://github.com/seanpm2001/Linux-Marketshare-Ping-Tool_Docs/)
 - [:octocat: `Light Speed Relay Technologies Docs`](https://github.com/seanpm2001/LightSpeed-Relay-Technologies_Docs/)
 
+</details> <!-- End of Other documentation hubs: L section, section !-->
+
+---
+
 **M**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section M section]</b></p></summary>
 
 - [:octocat: `Mammal Town Docs`](https://github.com/seanpm2001/Mammal-Town_Docs/)
 - [:octocat: `MCPYE Docs`](https://github.com/seanpm2001/MCPYE_Docs/)
 - [:octocat: `Meadows Docs`](https://github.com/seanpm2001/Meadows_Docs/)
-- [:octocat: `MEDOS Docs`](https://github.com/seanpm2001/MEDOS_Docs/)
+- - [:octocat: `MEDOS Docs`](https://github.com/seanpm2001/MEDOS_Docs/)
 - [:octocat: `MetroTechno Docs`](https://github.com/seanpm2001/MetroTechno_Docs/)
 
+</details> <!-- End of Other documentation hubs: M section, section !-->
+
+---
+
 **N**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section N section]</b></p></summary>
 
 - [:octocat: `Nostalgii Docs`](https://github.com/seanpm2001/Nostalgii_Docs/)
 - [`NUNIX Docs (page does not yet exist)`](https://www.example.com/)
 - - [:octocat: `NUNIX SurvivalMode Docs`](https://github.com/seanpm2001/NUNIX_SurvivalMode_Docs/)
 
+</details> <!-- End of Other documentation hubs: N section, section !-->
+
+---
+
 **O**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section O section]</b></p></summary>
 
 - [:octocat: `OpenTowers Docs`](https://github.com/seanpm2001/OpenTowers_Docs/)
 - [:octocat: `Outside Docs`](https://github.com/seanpm2001/Outside_Docs/)
 
+</details> <!-- End of Other documentation hubs: O section, section !-->
+
+---
+
 **P**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section P section]</b></p></summary>
 
 - [:octocat: `PetLand Docs`](https://github.com/seanpm2001/PetLand_Docs/)
 - [:octocat: `Pocket Village Docs`](https://github.com/seanpm2001/Pocket-Village_Docs/)
 - [:octocat: `PyVM Docs`](https://github.com/seanpm2001/PYVM_Docs/)
 - [:octocat: `Phoneticut Docs`](https://github.com/seanpm2001/Phoneticut_Docs/)
 
+</details> <!-- End of Other documentation hubs: P section, section !-->
+
+---
+
 **Q**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section Q section]</b></p></summary>
 
 _This section is currently empty_
 
+</details> <!-- End of Other documentation hubs: Q section, section !-->
+
+---
+
 **R**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section R section]</b></p></summary>
 
 - [:octocat: `RailRAM Train Collection Docs`](https://github.com/seanpm2001/RailRAM-Train-Collection_Docs/)
 - [:octocat: `Rick Docs`](https://github.com/seanpm2001/Rick_Docs/)
 
+</details> <!-- End of Other documentation hubs: R section, section !-->
+
+---
+
 **S**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section S section]</b></p></summary>
 
 - [:octocat: `Sbubbway_Docs`](https://github.com/seanpm2001/Sbubbway_Docs/)
 - [:octocat: `Scarlet Oven Docs`](https://github.com/seanpm2001/Scarlet-Oven_Docs/)
+- [:octocat: `SDE Docs (coming soon)`](https://github.com/seanpm2001/SDE_Docs/)
+- - [:octocat: `SDE MobileServer Docs`](https://github.com/seanpm2001/SDE_MobileServer_Docs/)
 - [:octocat: `SeansLifeArchive Docs`](https://github.com/seanpm2001/SeansLifeArchive_Docs/)
-- [:octocat: `SeansLifeArchive_Wiki`](https://github.com/seanpm2001/SeansLifeArchive_Wiki/)
-- [:octocat: `Seanspokane2015-Documentation`](https://github.com/seanpm2001/Seanspokane2015-Documentation/)
-- [:octocat: `SeanTRM Documentation`](https://github.com/seanpm2001/SeanTRM-Documentation/)
+- - [:octocat: `SeansLifeArchive_Wiki`](https://github.com/seanpm2001/SeansLifeArchive_Wiki/)
+- - [:octocat: `Seanspokane2015-Documentation`](https://github.com/seanpm2001/Seanspokane2015-Documentation/)
+- - [:octocat: `SeanTRM Documentation`](https://github.com/seanpm2001/SeanTRM-Documentation/)
 - [:octocat: `Slaveworks Docs`](https://github.com/seanpm2001/Slaveworks_Docs/)
 - [:octocat: `StarVS Docs`](https://github.com/seanpm2001/StarVS_Docs/)
 - [:octocat: `Snapshot Version Control System Docs`](https://github.com/seanpm2001/Snapshot-Version-Control-System_Docs/)
 - [:octocat: `SVG Video Docs`](https://github.com/seanpm2001/SVG-Video_Docs/)
 - [:octocat: `SWave Starter Docs`](https://github.com/seanpm2001/SWave-Starter_Docs/)
 
+</details> <!-- End of Other documentation hubs: S section, section !-->
+
+---
+
 **T**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section T section]</b></p></summary>
 
 - [:octocat: `Touch Pets Dogs 2 Rewritten Docs`](https://github.com/seanpm2001/TouchPetsDogs2Rewritten_Docs/)
 - [:octocat: `Techlaration Docs`](https://github.com/seanpm2001/Techlaration_Docs/)
@@ -324,7 +462,13 @@ _This section is currently empty_
 - [:octocat: `TrueTorrent Docs`](https://github.com/seanpm2001/TrueTorrent_Docs/)
 - [:octocat: `Turkey Stories Docs`](https://github.com/seanpm2001/Turkey-Stories_Docs/)
 
+</details> <!-- End of Other documentation hubs: T section, section !-->
+
+---
+
 **U**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section U section]</b></p></summary>
 
 - [:octocat: `UI Tour Guide Docs`](https://github.com/seanpm2001/UI-Tour-Guide_Docs/)
 - [:octocat: `Ukraine History Simulator Docs`](https://github.com/seanpm2001/Ukraine-History-Simulator_Docs/)
@@ -333,31 +477,69 @@ _This section is currently empty_
 - [:octocat: `URLL Docs`](https://github.com/seanpm2001/URLL_Docs/)
 - [:octocat: `UTPM Docs`](https://github.com/seanpm2001/UTPM_Docs/)
 
+</details> <!-- End of Other documentation hubs: U section, section !-->
+
+---
+
 **V**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section V section]</b></p></summary>
 
 - [:octocat: `Vim AutoScroller Docs`](https://github.com/seanpm2001/Vim-Autoscroller_Docs/)
 - [:octocat: `VRedRoom Docs`](https://github.com/seanpm2001/VRedRoom_Docs/)
 
+</details> <!-- End of Other documentation hubs: V section, section !-->
+
+---
+
 **W**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section W section]</b></p></summary>
 
 - [:octocat: `WacOS Docs`](https://github.com/seanpm2001/WacOS_Docs/)
 - [:octocat: `WarmWelcome Docs`](https://github.com/seanpm2001/WarmWelcome_Docs/)
 - [:octocat: `What Year Is It Docs`](https://github.com/seanpm2001/WYII_Docs/)
 
+</details> <!-- End of Other documentation hubs: W section, section !-->
+
+---
+
 **X**
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section X section]</b></p></summary>
+
 _This section is currently empty_
+
+</details> <!-- End of Other documentation hubs: X section, section !-->
+
+---
 
 **Y**
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section Y section]</b></p></summary>
+
 _This section is currently empty_
 
+</details> <!-- End of Other documentation hubs: Y section, section !-->
+
+---
+
 **Z**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section Z section]</b></p></summary>
 
 - [:octocat: `ZooTree Docs`](https://github.com/seanpm2001/ZooTree_Docs/)
 - [:octocat: `Zombie Life Re-animated Docs`](https://github.com/seanpm2001/Zombie-Life-Re-Animated_Docs/)
 
+</details> <!-- End of Other documentation hubs: Z section, section !-->
+
+</details> <!-- End of Other documentation hubs section !-->
+
+***
+
 ### [Miscellaneous documentation hubs and articles](#Miscellaneous-documentation-hubs-and-articles)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Miscellaneous documentation hubs and articles section]</b></p></summary>
 
 _Miscellaneous documentation hubs and articles_
 
@@ -367,55 +549,125 @@ _Miscellaneous documentation hubs and articles_
 
 > **TODO** Finish adding attributes to all entries.
 
+---
+
 **20**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section 20 section]</b></p></summary>
 
 - [:octocat: `2001`](https://github.com/seanpm2001/2001/)
 
+</details> <!-- End of misc documentation hubs & articles: 20 section, section !-->
+
+---
+
 **40**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section 40 section]</b></p></summary>
 
 - [:octocat: `404 Day`](https://github.com/seanpm2001/404Day/) **{Attributes: `🎆️` `💡️` }**
 
+</details> <!-- End of misc documentation hubs & articles: 40 section, section !-->
+
+---
+
 **-I**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section -I section]</b></p></summary>
 
 - [:octocat: `-Ibibyte mathematical reference`](https://github.com/seanpm2001/-ibibyte_Mathematical_Reference/) **{Attributes: `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: -I section, section !-->
+
+---
+
 **AB**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section AB section]</b></p></summary>
 
 - [:octocat: `About`](https://github.com/seanpm2001/About/)
 
+</details> <!-- End of misc documentation hubs & articles: AB section, section !-->
+
+---
+
 **AC**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section AC section]</b></p></summary>
 
 - [:octocat: `Actions`](https://github.com/seanpm2001/Actions/)
 
+</details> <!-- End of misc documentation hubs & articles: AC section, section !-->
+
+---
+
 **AI**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section AI section]</b></p></summary>
 
 - [:octocat: `AirBnB`](https://github.com/seanpm2001/AirBnB/) **{Attributes `🏘️` `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: AI section, section !-->
+
+---
+
 **AR**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section AR section]</b></p></summary>
 
 - [:octocat: `Archives`](https://github.com/seanpm2001/Archives/)
 - [:octocat: `Artificial Intelligence`](https://github.com/seanpm2001/Artificial-Intelligence/)
 
+</details> <!-- End of misc documentation hubs & articles: AR section, section !-->
+
+---
+
 **AU**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section AU section]</b></p></summary>
 
 - [:octocat: `Audio`](https://github.com/seanpm2001/Audio/)
 - [:octocat: `Authors`](https://github.com/seanpm2001/Authors/) **{Attributes `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: AU section, section !-->
+
+---
+
 **AW**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section AW section]</b></p></summary>
 
 - [:octocat: `Awesome Online Video Editors`](https://github.com/seanpm2001/Awesome-online-video-editors/) **{Attributes: `📑️` `ℹ️` }**
 
 - [:octocat: `"Awesome" DRM`](https://github.com/seanpm2001/Awesome-DRM/) **{Attributes: `📑️` `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: AW section, section !-->
+
+---
+
 **BE**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section BE section]</b></p></summary>
 
 - [:octocat: `Benchmarks`](https://github.com/seanpm2001/Benchmarks/)
 
+</details> <!-- End of misc documentation hubs & articles: BE section, section !-->
+
+---
+
 **BL**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section BL section]</b></p></summary>
 
 - [:octocat: `Blocklist`](https://github.com/seanpm2001/Blocklist/) **{Attributes: `📑️` `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: BL section, section !-->
+
+---
+
 **BW**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section BW section]</b></p></summary>
 
 - [:octocat: `BWS IceBerg`](https://github.com/seanpm2001/BWS_IceBerg/) **{Attributes: `🔧️` `ℹ️` }**
 - [:octocat: `BWS IceBlocks`](https://github.com/seanpm2001/BWS_IceBlocks/) **{Attributes: `🔧️` `ℹ️` }**
@@ -424,24 +676,54 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `BWS Hardware`](https://github.com/seanpm2001/BWS_Hardware/) **{Attributes: `🔧️` `ℹ️` }**
 - [:octocat: `BWS Hardware Ice`](https://github.com/seanpm2001/BWS_Hardware_Ice/) **{Attributes: `🔧️` `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: BW section, section !-->
+
+---
+
 **CA**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section CA section]</b></p></summary>
 
 - [:octocat: `Calendar`](https://github.com/seanpm2001/Calendar/)
 - [:octocat: `Carbon Negative`](https://github.com/seanpm2001/Carbon-Negative/) **{Attributes `🌳️` `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: CA section, section !-->
+
+---
+
 **CH**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section CH section]</b></p></summary>
 
 - [:octocat: `Character Image Research`](https://github.com/seanpm2001/Character_Image_Research/) **{Attributes: `⚖️` `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: CH section, section !-->
+
+---
+
 **CI**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section CI section]</b></p></summary>
 
 - [:octocat: `Citation database`](https://github.com/seanpm2001/Seanpm2001-Citation/) **{Attributes: `🗃️` }**
 
+</details> <!-- End of misc documentation hubs & articles: CI section, section !-->
+
+---
+
 **CL**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section CL section]</b></p></summary>
 
 - [:octocat: `Climate Activism`](https://github.com/seanpm2001/Climate-Activism/) **{Attributes `🌳️` `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: CL section, section !-->
+
+---
+
 **CO**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section CO section]</b></p></summary>
 
 - [:octocat: `CompuBunker`](https://github.com/seanpm2001/CompuBunker/) **{Attributes: `🔧️` `ℹ️` }**
 - [:octocat: `Computer Cursor tech support`](https://github.com/seanpm2001/Computer-cursor-tech-support/) **{Attributes: `ℹ️` }**
@@ -449,53 +731,125 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Contributors`](https://github.com/seanpm2001/Contributors/) **{Attributes: `ℹ️` }**
 - [:octocat: `Contributing`](https://github.com/seanpm2001/Contributing/) **{Attributes: `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: CO section, section !-->
+
+---
+
 **CR**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section CR section]</b></p></summary>
 
 - [:octocat: `Credits`](https://github.com/seanpm2001/Credits/) **{Attributes: `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: CR section, section !-->
+
+---
+
 **DA**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section DA section]</b></p></summary>
 
 - [:octocat: `Database`](https://github.com/seanpm2001/Database/)
 
+</details> <!-- End of misc documentation hubs & articles: DA section, section !-->
+
+---
+
 **DE**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section DE section]</b></p></summary>
 
 - [:octocat: `DeGoogled Android Phone VM research`](https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research/) **{Attributes: `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: DE section, section !-->
+
+---
+
 **DI**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section DI section]</b></p></summary>
 
 - [:octocat: `Discussion`](https://github.com/seanpm2001/Discussion/)
 
+</details> <!-- End of misc documentation hubs & articles: DI section, section !-->
+
+---
+
 **DO**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section DO section]</b></p></summary>
 
 - [:octocat: `DOM`](https://github.com/seanpm2001/DOM/) **{Attributes: `ℹ️` }**
 - [:octocat: `DoorCrete`](https://github.com/seanpm2001/Doorcrete/) **{Attributes: `ℹ️` }**
 - [:octocat: `Dotfiles`](https://github.com/seanpm2001/Dotfiles/)
 
+</details> <!-- End of misc documentation hubs & articles: DO section, section !-->
+
+---
+
 **DR**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section DR section]</b></p></summary>
 
 - [:octocat: `DRM`](https://github.com/seanpm2001/DRM/) **{Attributes: `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: DR section, section !-->
+
+---
+
 **ED**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section ED section]</b></p></summary>
 
 - [:octocat: `Education`](https://github.com/seanpm2001/Education/) **{Attributes: `👩‍🏫️` `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: ED section, section !-->
+
+---
+
 **EM**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section EM section]</b></p></summary>
 
 - [:octocat: `Empty repository`](https://github.com/seanpm2001/Empty_Repository/) **(Attributes: `🚧️` }**
 
+</details> <!-- End of misc documentation hubs & articles: EM section, section !-->
+
+---
+
 **FA**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section FA section]</b></p></summary>
 
 - [:octocat: `Facebook`](https://github.com/seanpm2001/Facebook/)
 
+</details> <!-- End of misc documentation hubs & articles: FA section, section !-->
+
+---
+
 **FE**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section FE section]</b></p></summary>
 
 - [:octocat: `Fedorable`](https://github.com/seanpm2001/Fedorable/) **{Attributes: `🗨️` `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: FE section, section !-->
+
+---
+
 **FI**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section FI section]</b></p></summary>
 
 - [:octocat: `Firefox Version Number fix`](https://github.com/seanpm2001/Firefox-version-number-fix/) **{Attributes: `ℹ️` `📑️` }**
 
+</details> <!-- End of misc documentation hubs & articles: FI section, section !-->
+
+---
+
 **GI**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section GI section]</b></p></summary>
 
 - [:octocat: `GitHub Flag History`](https://github.com/seanpm2001/GitHub_Flag_History/) **{Attributes: `ℹ️` `📑️` `🕸️` }**
 - [:octocat: `GitHub Health Project Article`](https://github.com/seanpm2001/GitHub-Health-Project-Article/) **{Attributes: `ℹ️` `📑️` `🕸️` }**
@@ -503,11 +857,23 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `GitHub Pages Collection`](https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection/) **{Attributes: `ℹ️` `📑️` `🕸️` `🗄️` }**
 - [:octocat: `Git-image`](https://github.com/seanpm2001/Git-image/) **{Attributes: `ℹ️` `🎨️` }**
 
+</details> <!-- End of misc documentation hubs & articles: GI section, section !-->
+
+---
+
 **GU**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section GU section]</b></p></summary>
 
 - [:octocat: `Guestbook`](https://github.com/seanpm2001/Guestbook/)
 
+</details> <!-- End of misc documentation hubs & articles: GU section, section !-->
+
+---
+
 **HI**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section HI section]</b></p></summary>
 
 - [:octocat: `History`](https://github.com/seanpm2001/History/)
 - [:octocat: `History Git`](https://github.com/seanpm2001/History_Git/)
@@ -516,77 +882,179 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `History Social Media`](https://github.com/seanpm2001/History_Social-Media/)
 - [:octocat: `History Browsing`](https://github.com/seanpm2001/History_Browsing/)
 
+</details> <!-- End of misc documentation hubs & articles: HI section, section !-->
+
+---
+
 **HO**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section HO section]</b></p></summary>
 
 - [:octocat: `Home`](https://github.com/seanpm2001/Home/)
 
+</details> <!-- End of misc documentation hubs & articles: HO section, section !-->
+
+---
+
 **IG**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section IG section]</b></p></summary>
 
 - [:octocat: `IGNORE file`](https://github.com/seanpm2001/IGNORE_File/) **{Attributes: `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: IG section, section !-->
+
+---
+
 **IM**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section IM section]</b></p></summary>
 
 - [:octocat: `Images`](https://github.com/seanpm2001/Images/)
 
+</details> <!-- End of misc documentation hubs & articles: IM section, section !-->
+
+---
+
 **IN**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section IN section]</b></p></summary>
 
 - [:octocat: `Instagram`](https://github.com/seanpm2001/Instagram/)
 
+</details> <!-- End of misc documentation hubs & articles: IN section, section !-->
+
+---
+
 **IS**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section IS section]</b></p></summary>
 
 - [:octocat: `Issues`](https://github.com/seanpm2001/Issues/)
 
+</details> <!-- End of misc documentation hubs & articles: IS section, section !-->
+
+---
+
 **KH**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section KH section]</b></p></summary>
 
 - [:octocat: `KhanAcademyData u/seanwallawallaofficial`](https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial/) **{Attributes: `👩‍🏫️` `ℹ️` `🗄️` `🕸️` }**
 
+</details> <!-- End of misc documentation hubs & articles: KH section, section !-->
+
+---
+
 **LA**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section LA section]</b></p></summary>
 
 - [:octocat: `Laptop`](https://github.com/seanpm2001/Laptop/)
 
+</details> <!-- End of misc documentation hubs & articles: LA section, section !-->
+
+---
+
 **LI**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section LI section]</b></p></summary>
 
 - [:octocat: `LightSpeed Relay Technologies Info`](https://github.com/seanpm2001/LightSpeedRelayTechnology_Info/) **{Attributes: `ℹ️` `💡️` }**
 - [:octocat: `List`](https://github.com/seanpm2001/List/)
 
+</details> <!-- End of misc documentation hubs & articles: LI section, section !-->
+
+---
+
 **MA**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section MA section]</b></p></summary>
 
 - [:octocat: `Maintainers info`](https://github.com/seanpm2001/Maintainers-info/) **{Attributes: `ℹ️` }**
 - [:octocat: `Malware as Art`](https://github.com/seanpm2001/Malware-as-art/)
 - [:octocat: `MasterMasterMaster`](https://github.com/seanpm2001/MasterMasterMaster/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `Mastodon`](https://github.com/seanpm2001/Mastodon/) **{Attributes: `ℹ️` `📑️` }**
 
+</details> <!-- End of misc documentation hubs & articles: MA section, section !-->
+
+---
+
 **ME**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section ME section]</b></p></summary>
 
 - [:octocat: `Medical/Medicinal ethics`](https://github.com/seanpm2001/Medicinal-ethics/) **{Attributes: `ℹ️` `🇨🇭️` }**
 - [:octocat: `Metric System`](https://github.com/seanpm2001/Metric-System/) **{Attributes: `ℹ️` `💡️` `🗨️` }**
 
+</details> <!-- End of misc documentation hubs & articles: ME section, section !-->
+
+---
+
 **MY**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section MY section]</b></p></summary>
 
 - [:octocat: `Myrick Family Archive`](https://github.com/seanpm2001/Myrick-Family-Archive/) **{Attributes: `ℹ️` `🗃️ ` }**
 
+</details> <!-- End of misc documentation hubs & articles: MY section, section !-->
+
+---
+
 **NI**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section NI section]</b></p></summary>
 
 - [:octocat: `NimbleBit Glossary`](https://github.com/seanpm2001/NimbleBit-Glossary/) **{Attributes: `ℹ️` `📑️` `🎮️` }**
 
+</details> <!-- End of misc documentation hubs & articles: NI section, section !-->
+
+---
+
 **PC**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section PC section]</b></p></summary>
 
 - [:octocat: `PC`](https://github.com/seanpm2001/PC/)
 
+</details> <!-- End of misc documentation hubs & articles: PC section, section !-->
+
+---
+
 **PE**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section PE section]</b></p></summary>
 
 - [:octocat: `Perl Harbor`](https://github.com/seanpm2001/Perl_Harbor/) **{Attributes: `⏳️` `ℹ️` `📑️` `🎆️` }**
 - [:octocat: `Personal Server Info`](https://github.com/seanpm2001/Personal-Server-Info/) **{Attributes: `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: PE section, section !-->
+
+---
+
 **PL**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section PL section]</b></p></summary>
 
 - [:octocat: `Please do NOT turn off your adblocker`](https://github.com/seanpm2001/Please-do-NOT-turn-off-your-adblocker/)
 
+</details> <!-- End of misc documentation hubs & articles: PL section, section !-->
+
+---
+
 **PO**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section PO section]</b></p></summary>
 
 - [:octocat: `Post-Neo-Classical English (PNC English)`](https://github.com/seanpm2001/Post-Neo-Classical-English/) **{Attributes: `ℹ️` `📑️`}**
 
+</details> <!-- End of misc documentation hubs & articles: PO section, section !-->
+
+---
+
 **PR**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section PR section]</b></p></summary>
 
 - [:octocat: `Privacy`](https://github.com/seanpm2001/Privacy/) **{Attributes: `ℹ️` `🔒️` }**
 - [:octocat: `Project Aquarius`](https://github.com/seanpm2001/Project-Aquarius/) **{Attributes: `ℹ️` `🌳️` }**
@@ -594,30 +1062,66 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `Project designators`](https://github.com/seanpm2001/Project-Designators/) **{Attributes: `ℹ️` `📑️`}**
 - [:octocat: `Pronounciation`](https://github.com/seanpm2001/Pronounce/) **{Attributes: `ℹ️` `📑️`}**
 
+</details> <!-- End of misc documentation hubs & articles: PR section, section !-->
+
+---
+
 **PS**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section PS section]</b></p></summary>
 
 - [:octocat: `Psychology: Visual Mind`](https://github.com/seanpm2001/Psychology_Visual-Mind/) **{Attributes: `⚖️` `ℹ️` }**
 
+</details> <!-- End of misc documentation hubs & articles: PS section, section !-->
+
+---
+
 **PU**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section PU section]</b></p></summary>
 
 - [:octocat: `Pull Requests`](https://github.com/seanpm2001/Pull-Requests/)
 
+</details> <!-- End of misc documentation hubs & articles: PU section, section !-->
+
+---
+
 **R/**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section R/ section]</b></p></summary>
 
 - [:octocat: `r/seanpm2001`](https://github.com/seanpm2001/r-seanpm2001/) - Subreddit data for [r/seanpm2001](https://reddit.com/r/seanpm2001/) **{Attributes: `ℹ️` `🗃️` `🕸️` }**
 
+</details> <!-- End of misc documentation hubs & articles: R/ section, section !-->
+
+---
+
 **RA**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section RA section]</b></p></summary>
 
 - [:octocat: `Ransomware Info`](https://github.com/seanpm2001/Ransomware-Info/) **{Attributes: `🛡️` `⚔️` `ℹ️` `📑️` }**
 - [:octocat: `RaspberryPi Blog`](https://github.com/seanpm2001/RaspberryPi-Blog/)
 
+</details> <!-- End of misc documentation hubs & articles: RA section, section !-->
+
+---
+
 **RE**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section RE section]</b></p></summary>
 
 - [:octocat: `Reddit`](https://github.com/seanpm2001/Reddit/)
 - [:octocat: `Registry`](https://github.com/seanpm2001/Registry/) **{Attributes: `🗃️` `ℹ️` }**
 - [:octocat: `Repositories`](https://github.com/seanpm2001/Repositories/)
 
+</details> <!-- End of misc documentation hubs & articles: RE section, section !-->
+
+---
+
 **SE**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section SE section]</b></p></summary>
 
 - [:octocat: `Search`](https://github.com/seanpm2001/Search/)
 - [:octocat: `Security`](https://github.com/seanpm2001/Security/)
@@ -628,7 +1132,13 @@ _Miscellaneous documentation hubs and articles_
 - [:octocat: `SeanPatrickMyrick`](https://github.com/seanpm2001/SeanPatrickMyrick/)
 - [:octocat: `Security`](https://github.com/seanpm2001/Security/) **{Attributes: `📑️` `🛡️` `ℹ️` }**
 - [:octocat: `seanpm2001/seanpm2001`](https://github.com/seanpm2001/seanpm2001/) **{Attributes: `⚖️` `🌳️` `🎮️` `🗃️` `📑️` `🏘️` `🛡️` `⚔️` `🔧️` `🎆️` `💡️` `👩‍🏫️` `🗨️` `🎨️` `🗄️` `📈️` `🔒️` `🇨🇭️` `🐟️` `🕸️` `*️⃣️` `🗳️` `💸️` `🪧️` `ℹ️` `⏳️` `🚧️` }**
+
+---
+
 - **Seanpm2001**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section SE : seanpm2001 subsection section]</b></p></summary>
+
 - **A**
 - [:octocat: `Seanpm2001 Apple`](https://github.com/seanpm2001/Seanpm2001-Apple/)
 - [:octocat: `Seanpm2001 Applications`](https://github.com/seanpm2001/Seanpm2001-Applications/)
@@ -702,7 +1212,15 @@ _Miscellaneous documentation hubs and articles_
 - This category is empty
 - **Z**
 - This category is empty
+
+</details> <!-- End of misc documentation hubs & articles: SE section: Seanpm2001, section !-->
+
+---
+
 - **SeanWallaWalla**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section SE : seanwallawalla subsection section]</b></p></summary>
+
 - **A**
 - This category is empty
 - **B**
@@ -756,67 +1274,159 @@ _Miscellaneous documentation hubs and articles_
 - **Z**
 - This category is empty
 
+</details> <!-- End of misc documentation hubs & articles: SE section: Seanwallawalla, section !-->
+
+---
+
+</details> <!-- End of misc documentation hubs & articles: SE section, section !-->
+
+---
+
 **SN**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section SN section]</b></p></summary>
 
 - [:octocat: `Snapshot Version Control System`](https://github.com/seanpm2001/Snapshot-version-control-system/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `Snapshots version control system`](https://github.com/seanpm2001/Snapshots-Version-Control-System/) **{Attributes: `ℹ️` `📑️` }**
 
+</details> <!-- End of misc documentation hubs & articles: SN section, section !-->
+
+---
+
 **SM**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section SM section]</b></p></summary>
 
 - [:octocat: `SMS Messaging with Sean`](https://github.com/seanpm2001/SMS-Messaging-with-Sean/) **{Attributes: `ℹ️` `📑️` `*️⃣️`}**
 
+</details> <!-- End of misc documentation hubs & articles: SM section, section !-->
+
+---
+
 **SO**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section SO section]</b></p></summary>
 
 - [:octocat: `Social Preview`](https://github.com/seanpm2001/Social-Preview/)
 
+</details> <!-- End of misc documentation hubs & articles: SO section, section !-->
+
+---
+
 **SP**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section SP section]</b></p></summary>
 
 - [:octocat: `Sponsor Info`](https://github.com/seanpm2001/Sponsor-info/) **{Attributes: `💸️` `ℹ️` }**
 - [:octocat: `Sponsoring`](https://github.com/seanpm2001/Sponsoring/)
 - [:octocat: `Sponsors`](https://github.com/seanpm2001/Sponsors/)
 
+</details> <!-- End of misc documentation hubs & articles: SP section, section !-->
+
+---
+
 **ST**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section ST section]</b></p></summary>
 
 - [:octocat: `Statistics`](https://github.com/seanpm2001/Statistics/)
 
+</details> <!-- End of misc documentation hubs & articles: ST section, section !-->
+
+---
+
 **TE**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section TE section]</b></p></summary>
 
 - [:octocat: `Team TRM`](https://github.com/seanpm2001/Team-TRM/) **{Attributes: `ℹ️` `⏳️` }**
 - [:octocat: `Templates`](https://github.com/seanpm2001/Templates/) 
 
+</details> <!-- End of misc documentation hubs & articles: TE section, section !-->
+
+---
+
 **TH**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section TH section]</b></p></summary>
 
 - [:octocat: `The Big Tent`](https://github.com/seanpm2001/The-Big-Tent/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `The Microsoft Pact`](https://github.com/seanpm2001/The-Microsoft-Pact/) **{Attributes: `ℹ️` `📑️` }**
 - [:octocat: `The Problems with Planned Obsolescence`](https://github.com/seanpm2001/The-problems-with-planned-obsolescence/) **{Attributes: `ℹ️` `📑️` }**
 
+</details> <!-- End of misc documentation hubs & articles: TH section, section !-->
+
+---
+
 **TI**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section TI section]</b></p></summary>
 
 - [:octocat: `TikTok`](https://github.com/seanpm2001/TikTok/)
 
+</details> <!-- End of misc documentation hubs & articles: TI section, section !-->
+
+---
+
 **TW**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section TW section]</b></p></summary>
 
 - [:octocat: `Twitter`](https://github.com/seanpm2001/Twitter/)
 
+</details> <!-- End of misc documentation hubs & articles: TW section, section !-->
+
+---
+
 **VI**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section VI section]</b></p></summary>
 
 - [:octocat: `Videos`](https://github.com/seanpm2001/Videos/)
 
+</details> <!-- End of misc documentation hubs & articles: VI section, section !-->
+
+---
+
 **WA**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section WA section]</b></p></summary>
 
 - [:octocat: `Walla Walla WA CottonWood Annexation Protest`](https://github.com/seanpm2001/Walla-Walla-WA-Cottonwood-Annexation-Protest/) **{Attributes: `ℹ️` `🪧️` }**
 
+</details> <!-- End of misc documentation hubs & articles: WA section, section !-->
+
+---
+
 **WH**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section WH section]</b></p></summary>
 
 - [:octocat: `What SNU will never do`](https://github.com/seanpm2001/What-SNU-will-never-do/) **{Attributes: `ℹ️` `📑️` }**
 
+</details> <!-- End of misc documentation hubs & articles: WH section, section !-->
+
+---
+
 **WI**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section WI section]</b></p></summary>
 
 - [:octocat: `Wiki`](https://github.com/seanpm2001/Wiki/)
 
+</details> <!-- End of misc documentation hubs & articles: WI section, section !-->
+
+---
+
 **YO**
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section YO section]</b></p></summary>
+
 - [:octocat: `YouTube`](https://github.com/seanpm2001/YouTube/)
+
+</details> <!-- End of misc documentation hubs & articles: YO section, section !-->
+
+---
 
 > **Note** Documentation for many projects is not yet listed
 
@@ -824,7 +1434,13 @@ _Miscellaneous documentation hubs and articles_
 
 **Note to self:** _You write a lot of documentation, don't be surprised that so many repositories fall under this category._
 
+</details> <!-- End of Misc documentation hubs & aticles section !-->
+
+***
+
 ### [Redirect repositories](#Redirect-repositories)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Redirect repositories section]</b></p></summary>
 
 _Redirect repositories that link to documentation repositories_
 
@@ -855,19 +1471,31 @@ _Redirect repositories that link to documentation repositories_
 
 - [:octocat: `.redirect`](https://github.com/seanpm2001/.redirect/)
 
+</details> <!-- End of Redirect repositories section !-->
+
+</details> <!-- End of general section !-->
+
 ***
 
 ## [Linguistics](#Linguistics)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Linguistics section]</b></p></summary>
 
 _Not to be confused with [programming languages](#Programming-languages)._
 
 - [:octocat: `PolyGlot`](https://github.com/seanpm2001/PolyGlot/)
 
+</details> <!-- End of Linguistics section !-->
+
 ***
 
 ## [Programming languages](#Programming-languages)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the Programming languages section]</b></p></summary>
+
 ### [General concepts](#General-concepts)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Programming languages: General concepts section]</b></p></summary>
 
 - [:octocat: `Software Diversity`](https://github.com/seanpm2001/Software-Diversity/)
 - [:octocat: `Project language files`](https://github.com/seanpm2001/Project-language-file/)
@@ -876,7 +1504,11 @@ _Not to be confused with [programming languages](#Programming-languages)._
 
 * [:octocat: `Git-Templates`](https://github.com/seanpm2001/Git-Templates/) - Contains the largest collection of my project language files
 
+</details> <!-- End of Programming languages: General concepts section !-->
+
 ### [Language groups](#Language-groups)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Programming languages: Language groups section]</b></p></summary>
 
 > **Note** Groups have not yet been created for all languages I use, including some major ones like Python.
 
@@ -884,7 +1516,11 @@ _Not to be confused with [programming languages](#Programming-languages)._
 - [:octocat: `Seanpm2001-GoDot`](https://github.com/seanpm2001/Seanpm2001-GoDot/) - Grouping of GDScript-based projects
 - [:octocat: `The Rust Belt`](https://github.com/seanpm2001/Rust-Belt/) - Grouping of Rust-based projects.
 
+</details> <!-- End of Programming languages: Language groups section !-->
+
 #### [Language dependents](#Language-dependents)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Programming languages: Language dependents section]</b></p></summary>
 
 > **Note** This list is in A-Z order
 
@@ -899,7 +1535,11 @@ _Not to be confused with [programming languages](#Programming-languages)._
 - [:octocat: `Vim AutoScroller`](https://github.com/seanpm2001/Vim-Autoscroller/) - Project written only in Vim Script
 - [:octocat: `Zag`](https://github.com/seanpm2001/Zag/) - Project written only in Zig
 
+</details> <!-- End of Programming languages: Language dependents section !-->
+
 #### [Custom languages](#Custom-languages)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Programming languages: Custom languages section]</b></p></summary>
 
 > **Note** This list is in A-Z order
 
@@ -920,13 +1560,23 @@ _Languages made by me._
 
 It is a personal goal to have as few languages as possible, so not all of these are maintained.
 
+</details> <!-- End of Programming languages: Custom languages section !-->
+
 #### [Guides](#Guides)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Programming languages: Guides section]</b></p></summary>
 
 - [:octocat: `Source code styleguide`](https://github.com/seanpm2001/SourceCode_StyleGuide/) - A highly incomplete source code styleguide
 
+</details> <!-- End of Programming languages: Guides section !-->
+
 #### [Standards and movements](#Standards-and-movements)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the Programming languages: Standards and movements section]</b></p></summary>
+
 **Standards**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Programming languages: Standards and movements: Standards section]</b></p></summary>
 
 - [:octocat: `Camera Privacy Specification`](https://github.com/seanpm2001/Camera-privacy-specification/)
 - [:octocat: `Computing longevity`](https://github.com/seanpm2001/Computing-Longevity/)
@@ -937,35 +1587,65 @@ It is a personal goal to have as few languages as possible, so not all of these 
 - [:octocat: `Notchware`](https://github.com/seanpm2001/Notchware/)
 - [:octocat: `Nuclear Ad Bombs specification`](https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification/)
 
+</details> <!-- End of Programming languages: Standards and movements: Standards section !-->
+
+---
+
 **Movements**
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Programming languages: Standards and movements: Movements section]</b></p></summary>
 
 - [:octocat: `Numeric Liberation Front`](https://github.com/seanpm2001/Numeric-Liberation-Front/)
 - [:octocat: `DeGoogle your Life`](https://github.com/seanpm2001/DeGoogle-your-Life/)
 - [:octocat: `UAR (United Autism Rights)`](https://github.com/seanpm2001/UnitedAutismRights_Org/)
 
+</details> <!-- End of Programming languages: Standards and movements: Movements section !-->
+
+</details> <!-- End of Programming languages: Standards and movements section !-->
+
+</details> <!-- End of Programming languages section !-->
+
 ***
 
 ## [Git tools](#Git-tools)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Git tools section]</b></p></summary>
 
 - [:octocat: `IGNORE.md file`](https://github.com/seanpm2001/IGNORE_File/)
 - [:octocat: `Git-Templates`](https://github.com/seanpm2001/Git-Templates/)
 - [:octocat: `GitHub Organization Info (GOI)`](https://github.com/seanpm2001/GitHub_Organization_Info/) - Information on my former GitHub organizations
 
+</details> <!-- End of Git tools section !-->
+
 ***
 
 ## [API](#API)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the API section]</b></p></summary>
+
 - [:octocat: `API-2001`](https://github.com/seanpm2001/API-2001/) - My personal API
+
+</details> <!-- End of API section !-->
 
 ***
 
 ## [Statistics](#Statistics)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the Statistics section]</b></p></summary>
+
 ### [Git statistics](#Git-statistics)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Git Statistics section]</b></p></summary>
 
 - [:octocat: `Commit Count Milestones (CCM)`](https://github.com/seanpm2001/Commit-Count-Milestones/)
 
+</details> <!-- End of Statistics: Git Statistics section !-->
+
+---
+
 ### [GitHub statistics](#GitHub-statistics)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the GitHub Statistics section]</b></p></summary>
 
 - [:octocat: `GitHub Statistics`](https://github.com/seanpm2001/GitHub_Statistics/)
 - [:octocat: `GitHub Stats A`](https://github.com/seanpm2001/GitHub_Stats_A/)
@@ -974,29 +1654,51 @@ It is a personal goal to have as few languages as possible, so not all of these 
 - [:octocat: `GitHub Watch list`](https://github.com/seanpm2001/GitHub_Watchlist/)
 - [:octocat: `GitHub Follow List`](https://github.com/seanpm2001/GitHub_FollowList/)
 
+</details> <!-- End of Statistics: GitHub Statistics section !-->
+
+</details> <!-- End of Statistics section !-->
+
 ***
 
 ## [Teams and management](#Teams-and-management)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the Teams and management section]</b></p></summary>
+
 ### [Git teams](#Git-teams)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Teams and management: Git Teams section]</b></p></summary>
 
 - [:octocat: `Scope`](https://github.com/seanpm2001/Scope/)
 
+</details> <!-- End of Teams and Management: Git teams section !-->
+
 ### [GitHub teams](#GitHub-Teams)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Teams and management: GitHub Teams section]</b></p></summary>
 
 _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 - [:octocat: `.github`](https://github.com/seanpm2001/.github/)
 - [:octocat: `.gitlab`](https://github.com/seanpm2001/.gitlab/)
 
+</details> <!-- End of Teams and Management: GitHub teams section !-->
+
 ### [General management](#General-management)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Teams and management: General management section]</b></p></summary>
 
 - [:octocat: `Teams`](https://github.com/seanpm2001/Teams/)
 - [:octocat: `.redirect`](https://github.com/seanpm2001/.redirect/)
 
+</details> <!-- End of Teams and Management: General management section !-->
+
+</details> <!-- End of Teams and Management section !-->
+
 ***
 
 ## [Personal projects](#Personal-projects)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Personal projects section]</b></p></summary>
 
 > **Note** This list is currently incomplete.
 
@@ -1006,24 +1708,34 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 ### [Sensitive personal projects](#Sensitive-personal-projects)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the Personal projects: sensitive personal projects section]</b></p></summary>
+
 > **Note** These projects are not suitable to all audiences.
 
 - [:octocat: `Politics`](https://github.com/seanpm2001/Politics/) - A place for my political beliefs. Politics should not leak out of political projects like this one.
 - [:octocat: `Sexuality Center`](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/) - A place for my sexual beliefs and practices. Does not contain NSFW sexual content
 
-> **Note** This `README.md` file is a major stub, and will undergo significant expansion
+</details> <!-- End of Personal projects: Sensitive personal projects section !-->
+
+</details> <!-- End of Personal projects section !-->
 
 ***
 
 ### [Reserved repositories](#Reserved-repositories)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the Reserved repositories section]</b></p></summary>
+
 **Definition**
 
 > Reserved repositories are repositories with specific names (ie: `audio`, `video`) that are used for functional documentation, but also as a reserved name.
 
+</details> <!-- End of Reserved repositories section !-->
+
 ***
 
 ## [Former organizations`](#Former-organizations)
+
+<details><summary><p><b>[Click/tap here to expand/collapse the former organizations section]</b></p></summary>
 
 Repositories will be created for each former organization.
 
@@ -3041,6 +3753,8 @@ Progress on this goal (incompleted list)
 
 </details>
 
+</details> <!-- End of former organizations section !-->
+
 ***
 
 ## [File info](#File-info)
@@ -3049,17 +3763,17 @@ Progress on this goal (incompleted list)
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `43 (2023, Monday, June 5th at 9:43 pm PST)`
+**File version:** `44 (2023, Tuesday, June 6th at 3:49 pm PST)`
 
-**Line count (including blank lines and compiler line):** `4,143`
+**Line count (including blank lines and compiler line):** `4,889`
 
-**Word count:** `14,925`
+**Word count:** `18,946`
 
-**Character count (with spaces)** `124,090`
+**Character count (with spaces)** `153,136`
 
-**Character count (without spaces)** `110,753`
+**Character count (without spaces)** `136,049`
 
-**File size:** `125,906` bytes
+**File size:** `154,952` bytes
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -3071,7 +3785,7 @@ Progress on this goal (incompleted list)
 
 > **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
-</details>
+</details> <!-- End of file info section !-->
 
 ***
 
@@ -4125,17 +4839,49 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V43 !-->
 
-</details>
+<details><summary><p lang="en"><b>Version 44 (2023, Tuesday, June 6th at 3:49 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _The fourth update for this month (2023 June) I am going to try to continue updating this repository daily when possible. Todays update was a major overhayl_
+
+> Changes:
+
+- [x] Updated all sections to include dropdowns and dropdown comments
+- ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- - - [x] Added 3 new entries
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 44
+- [ ] No other changes in version 44
+
+</details> <!-- V44 !-->
+
+</details> <!-- File history section !-->
+
+</details> <!-- The entire article !-->
 
 ***
 
 ###### [Footer](#Footer)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the footer</u></b></p></summary>
 
 You have reached the end of this page.
 
 - [`Back to top`](#Documentation)
 - [:octocat: `Exit to GitHub`](https://github.com/)
 - [:octocat: `Back to redirect page`](https://github.com/seanpm2001/Docs/)
+
+</details>
 
 ###### [EOF](#EOF)
 
