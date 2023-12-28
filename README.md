@@ -1,13 +1,331 @@
 
+<!-- TODO ADD ME:
+https://github.com/seanpm2001/Seanpm2001-Malware
+https://github.com/seanpm2001/SeanWallaWalla-Malware
+https://github.com/seanpm2001/FreeCodeCamp_Seanpm2001
+https://github.com/seanpm2001/Cranberry-Jammer_Docs
+https://github.com/seanpm2001/CranberryOS_Docs
+https://github.com/seanpm2001/iStonk_Docs
+https://github.com/seanpm2001/REDACTED[2]
+https://github.com/seanpm2001/Sugar_Shop_Docs
+https://github.com/seanpm2001/Mobile_Potions_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Docs
+https://github.com/seanpm2001/WarmWelcome_Docs
+https://github.com/seanpm2001/AutoPeer_Docs
+https://github.com/seanpm2001/StarVS_Docs
+https://github.com/seanpm2001/Cranberry-Jammer
+https://github.com/seanpm2001/3FakeIM_Docs
+https://github.com/seanpm2001/HyperSlice_Docs
+https://github.com/seanpm2001/LennyOS_Docs
+https://github.com/seanpm2001/Android-x32x64x128_Docs
+https://github.com/seanpm2001/SDE_Docs
+https://github.com/seanpm2001/MarkDownDownDown_Docs
+https://github.com/seanpm2001/Seanpm2001-P2P
+https://github.com/seanpm2001/LennyOS_Hardware
+https://github.com/seanpm2001/LennyOS_Core
+https://github.com/seanpm2001/Hyper-Realistic-Farm-Simulator_Docs
+https://github.com/seanpm2001/DeskLocker_Docs
+https://github.com/seanpm2001/GeniBlock_Docs
+https://github.com/seanpm2001/Gaslight-Galactica_Docs
+https://github.com/seanpm2001/Linux-Marketshare-Ping-Tool_Docs
+https://github.com/seanpm2001/Snapshot-Version-Control-System_Docs
+https://github.com/seanpm2001/TouchPetsDogs2Rewritten_Docs
+https://github.com/seanpm2001/LightSpeed-Relay-Technologies_Docs
+https://github.com/seanpm2001/Twit-Tac-Toe_Docs
+https://github.com/seanpm2001/SeansLifeArchive_Wiki
+https://github.com/seanpm2001/Slaveworks_Docs
+https://github.com/seanpm2001/SWave-Starter_Docs
+https://github.com/seanpm2001/SeansLifeArchive_Docs
+https://github.com/seanpm2001/NUNIX-Ethics
+https://github.com/seanpm2001/Talla_Browser_Docs
+https://github.com/seanpm2001/Techlaration_Docs
+https://github.com/seanpm2001/REDACTED[4]
+https://github.com/seanpm2001/TrueTorrent_Docs
+https://github.com/seanpm2001/Turkey-Stories_Docs
+https://github.com/seanpm2001/ZooTree_Docs
+https://github.com/seanpm2001/Zombie-Life-Re-Animated_Docs
+https://github.com/seanpm2001/REDACTED[6]
+https://github.com/seanpm2001/BGemJam_Docs
+https://github.com/seanpm2001/Boom-Bay_Docs
+https://github.com/seanpm2001/BathHouseOS_Docs
+https://github.com/seanpm2001/YKDefender_Docs
+https://github.com/seanpm2001/Kotlint-Docs
+https://github.com/seanpm2001/9x-Internet_Docs
+https://github.com/seanpm2001/KeyStroke_Docs
+https://github.com/seanpm2001/Awesome-AI2001
+https://github.com/seanpm2001/Objective-JSharp_Docs
+https://github.com/seanpm2001/NUNIX-Docs
+https://github.com/seanpm2001/Objective-CSharp_Docs
+https://github.com/seanpm2001/Objective-JPlusPlus_Docs
+https://github.com/seanpm2001/qMeadows_Docs
+https://github.com/seanpm2001/QMEFS_Docs
+https://github.com/seanpm2001/ChargeFX_Docs
+https://github.com/seanpm2001/FireDiamondSuite_Docs
+https://github.com/seanpm2001/FreeGenie_Docs
+https://github.com/seanpm2001/Frog-Mania_Docs
+https://github.com/seanpm2001/Economica_Docs
+https://github.com/seanpm2001/Egg-Org_Docs
+https://github.com/seanpm2001/NexxFetch_Docs
+https://github.com/seanpm2001/Pri-Fiy_Docs
+https://github.com/seanpm2001/Santa-Software-Suite_Docs
+https://github.com/seanpm2001/SSS_Docs
+https://github.com/seanpm2001/PYVM_Docs
+https://github.com/seanpm2001/Phoneticut_Docs
+https://github.com/seanpm2001/Perl_Harbor_Docs
+https://github.com/seanpm2001/PhoneHome_Docs
+https://github.com/seanpm2001/RailRAM-Train-Collection_Docs
+https://github.com/seanpm2001/Sbubbway_Docs
+https://github.com/seanpm2001/Halloween-Assistant_Docs
+https://github.com/seanpm2001/HerdSpeak_Docs
+https://github.com/seanpm2001/VirtualHomeApp_Docs
+https://github.com/seanpm2001/Hatium_Docs
+https://github.com/seanpm2001/UI-Tour-Guide_Docs
+https://github.com/seanpm2001/Underune-Maker_Docs
+https://github.com/seanpm2001/HXTemplate_Docs
+https://github.com/seanpm2001/NetM_Docs
+https://github.com/seanpm2001/UTPM_Docs
+https://github.com/seanpm2001/Vim-Autoscroller_Docs
+https://github.com/seanpm2001/NetV_Docs
+https://github.com/seanpm2001/NetP_Docs
+https://github.com/seanpm2001/PongMax_Docs
+https://github.com/seanpm2001/SNU_Docs
+https://github.com/seanpm2001/KeyOff_Docs
+https://github.com/seanpm2001/GK-Keyboard_Docs
+https://github.com/seanpm2001/SNU_2D_Docs
+https://github.com/seanpm2001/SNU_3D_Docs
+https://github.com/seanpm2001/DISK-O_Jockey_Docs
+https://github.com/seanpm2001/JScribe_Docs
+https://github.com/seanpm2001/Mobi_Dick_Docs
+https://github.com/seanpm2001/The-Graeyt-Macro_Docs
+https://github.com/seanpm2001/FloweredNotch_Docs
+https://github.com/seanpm2001/StartFSCK_Docs
+https://github.com/seanpm2001/AudiBass_Manager_Docs
+https://github.com/seanpm2001/MalNotch_Docs
+https://github.com/seanpm2001/FINF-DB_Docs
+https://github.com/seanpm2001/ChromaTags_ForGit_Docs
+https://github.com/seanpm2001/OuterVM-Mouse_Docs
+https://github.com/seanpm2001/GitMan_Docs
+https://github.com/seanpm2001/Hospital_Defender_Docs
+https://github.com/seanpm2001/VOI-Manor_Docs
+https://github.com/seanpm2001/Snail-Bob-Maker_Docs
+https://github.com/seanpm2001/HT-Messenger_Docs
+https://github.com/seanpm2001/GitHubby_Docs
+https://github.com/seanpm2001/Cyborg-System-Monitor_Docs
+https://github.com/seanpm2001/Snowcraft_Docs
+https://github.com/seanpm2001/SNU_4D_Docs
+https://github.com/seanpm2001/SNU_ProgrammingTools_Docs
+https://github.com/seanpm2001/EMAIL_2.0_FancyInbox_Docs
+https://github.com/seanpm2001/EMAIL_2.0_VRMail_Docs
+https://github.com/seanpm2001/SNU_2D_Ekistics_Docs
+https://github.com/seanpm2001/EMAIL_2.0_TackleBox_Docs
+https://github.com/seanpm2001/Learn_Docs
+https://github.com/seanpm2001/Matrix-lang_Docs
+https://github.com/seanpm2001/DroneMap_Docs
+https://github.com/seanpm2001/MadLibby_Docs
+https://github.com/seanpm2001/CountMausoleum_Docs
+https://github.com/seanpm2001/MicroMiniwave_Docs
+https://github.com/seanpm2001/SeansOSData_Docs
+https://github.com/seanpm2001/uOffice_Docs
+https://github.com/seanpm2001/BluPhoneOS_Docs
+https://github.com/seanpm2001/Green-Star-OS_Docs
+https://github.com/seanpm2001/EMAIL_2.0_SpamCan_Docs
+https://github.com/seanpm2001/EMAIL_2.0_PostOffice_Docs
+https://github.com/seanpm2001/EMAIL_2.0_VMail_Docs
+https://github.com/seanpm2001/EMAIL_2.0_StampCollection_Docs
+https://github.com/seanpm2001/Polyworks-SquareOff_Docs
+https://github.com/seanpm2001/Profa-or-Antifa_Docs
+https://github.com/seanpm2001/UnIoT_Docs
+https://github.com/seanpm2001/UnSaaSS_Docs
+https://github.com/seanpm2001/Year-of-the-Linux-Desktop_Docs
+https://github.com/seanpm2001/UnitedAutismRights_Docs
+https://github.com/seanpm2001/Mockerfile_Docs
+https://github.com/seanpm2001/Open-Source-Security-Camera_Docs
+https://github.com/seanpm2001/Nost_Gia_OS_Docs
+https://github.com/seanpm2001/Meadows-Classical-Developer-VM_Docs
+https://github.com/seanpm2001/ReasonableOverflow_LIBrary_Docs
+https://github.com/seanpm2001/The-Offline-Experience_Docs
+https://github.com/seanpm2001/B3_Docs
+https://github.com/seanpm2001/Go-ogle_Docs
+https://github.com/seanpm2001/OpenGov_Docs
+https://github.com/seanpm2001/Euphorium_Docs
+https://github.com/seanpm2001/EMAIL_2.0_STMP_File_Docs
+https://github.com/seanpm2001/EMAIL_2.0_MailManager_Docs
+https://github.com/seanpm2001/EMAIL_2.0_PerformanceTest_Docs
+https://github.com/seanpm2001/Project_Aquarius_Docs
+https://github.com/seanpm2001/Pen-People_Docs
+https://github.com/seanpm2001/PhD_In_PHP_Docs
+https://github.com/seanpm2001/VirtualBox_PlusPlus_Docs
+https://github.com/seanpm2001/Hatium_Alt-Tech-Index_Docs
+https://github.com/seanpm2001/ProTraApp_Docs
+https://github.com/seanpm2001/The-Pirates-Copy_Docs
+https://github.com/seanpm2001/AGRAN-Programming-language_Docs
+https://github.com/seanpm2001/BlazeOS_Peak_Docs
+https://github.com/seanpm2001/SuperPowerLaptops_Docs
+https://github.com/seanpm2001/Reactop_Docs
+https://github.com/seanpm2001/Delerium_Docs
+https://github.com/seanpm2001/DentalBar_Whitetooth_Pro_Docs
+https://github.com/seanpm2001/Project_1001_Docs
+https://github.com/seanpm2001/SeansAudioDB_AutoGrabber_Docs
+https://github.com/seanpm2001/Portal-Voice-Assistant_Docs
+https://github.com/seanpm2001/Input-Police_Docs
+https://github.com/seanpm2001/DMAIL_Stamps_Docs
+https://github.com/seanpm2001/EMAIL_-3.0_Stamps_Blockchain_Docs
+https://github.com/seanpm2001/EMAIL_-3.0_EmailFX_Blockchain_Docs
+https://github.com/seanpm2001/Password_Generator_Ultimate_Docs
+https://github.com/seanpm2001/MaprilOS_Docs
+https://github.com/seanpm2001/PVZ-Custom_Docs
+https://github.com/seanpm2001/Windows_10_Python_Edition_Docs
+https://github.com/seanpm2001/BathOS_Docs
+https://github.com/seanpm2001/ThroneOS_Docs
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Docs
+https://github.com/seanpm2001/Bliss_Browser_Languages_Docs
+https://github.com/seanpm2001/Seanpm2001-Godzilab
+https://github.com/seanpm2001/SankOS_Docs
+https://github.com/seanpm2001/AquariOS_Docs
+https://github.com/seanpm2001/DMail_Docs
+https://github.com/seanpm2001/IgniteBook_Docs
+https://github.com/seanpm2001/SNU_CSAM-K_Docs
+https://github.com/seanpm2001/DMAIL_SpamCan_Docs
+https://github.com/seanpm2001/DMAIL_PostOffice_Docs
+https://github.com/seanpm2001/DMail_MailMapper_Docs
+https://github.com/seanpm2001/DMAIL_FancyInbox_Docs
+https://github.com/seanpm2001/DMAIL_VRMail_Docs
+https://github.com/seanpm2001/DMAIL_TackleBox_Docs
+https://github.com/seanpm2001/EMAIL_2.0_MailMapper_Docs
+https://github.com/seanpm2001/BlAPK_Docs
+https://github.com/seanpm2001/The_Bandwidth_Band_Docs
+https://github.com/seanpm2001/Bliss_Browser_Tabooks_Docs
+https://github.com/seanpm2001/Bliss_Browser_Memory_Docs
+https://github.com/seanpm2001/Browsniffica_Docs
+https://github.com/seanpm2001/BootDown_Docs
+https://github.com/seanpm2001/Bosky_Docs
+https://github.com/seanpm2001/ShareBoxLIBrary_Docs
+https://github.com/seanpm2001/Mammal-Town_Docs
+https://github.com/seanpm2001/MEDOS_Docs
+https://github.com/seanpm2001/Self-Care_Bot_Docs
+https://github.com/seanpm2001/GratyBot_Docs
+https://github.com/seanpm2001/MetroTechno_Docs
+https://github.com/seanpm2001/OpenTowers_Docs
+https://github.com/seanpm2001/Seanpm2001-mhGames
+https://github.com/seanpm2001/DMAIL_VMail_Docs
+https://github.com/seanpm2001/DMAIL_MailManager_Docs
+https://github.com/seanpm2001/DMAIL_StampCollection_Docs
+https://github.com/seanpm2001/AdBool_Docs
+https://github.com/seanpm2001/Backup-Automation-Built-Bot-Y_Docs
+https://github.com/seanpm2001/NimbleBook_Docs
+https://github.com/seanpm2001/RecursionBot_Docs
+https://github.com/seanpm2001/PetLand_Docs
+https://github.com/seanpm2001/Pocket-Village_Docs
+https://github.com/seanpm2001/[REDACTED[16]
+https://github.com/seanpm2001/Blue_Dentures_Docs
+https://github.com/seanpm2001/BitChecker_Docs
+https://github.com/seanpm2001/DOS-Buddy_Docs
+https://github.com/seanpm2001/SourceBase_Docs
+https://github.com/seanpm2001/NUNIX_MediaEssentials_Docs
+https://github.com/seanpm2001/UCALC_Docs
+https://github.com/seanpm2001/UltraCompass_Docs
+https://github.com/seanpm2001/Why-you-should-avoid-Google-Protocol-Buffers
+https://github.com/seanpm2001/Why-you-should-avoid-Google-Mojom
+https://github.com/seanpm2001/MyrickFamilyArchive_Docs
+https://github.com/seanpm2001/Unblur_Tool_Docs
+https://github.com/seanpm2001/EMAIL_2.0_WG_Standardization
+https://github.com/seanpm2001/EMAIL_2.0_WG_Documentation
+https://github.com/seanpm2001/EMAIL_2.0_WG_Graphics
+https://github.com/seanpm2001/EMAIL2_Tester
+https://github.com/seanpm2001/Googler_Truce
+https://github.com/seanpm2001/SociaShame_Docs
+https://github.com/seanpm2001/Timeout-Toolkit_Docs
+https://github.com/seanpm2001/SNU_2D_Erotica_Ethnicities_Docs
+https://github.com/seanpm2001/SNU_2D_Porn_Ethnicities_Docs
+https://github.com/seanpm2001/WebM-to-NetV_Docs
+https://github.com/seanpm2001/Doorcrete_Docs
+https://github.com/seanpm2001/FBI_Roleplay_Simulator_Docs
+https://github.com/seanpm2001/Health-Meter-Maximum_Docs
+https://github.com/seanpm2001/DeciCube_Docs
+https://github.com/seanpm2001/WakeNote_Docs
+https://github.com/seanpm2001/UltraSwitch_Docs
+https://github.com/seanpm2001/Meadows-MetroMEM_Docs
+https://github.com/seanpm2001/DMAIL_VersionControlSystem_Docs
+https://github.com/seanpm2001/LinuxAteMyRAMApp_Docs
+https://github.com/seanpm2001/Kevin-MacLeod_SoftwareRadioLIBrary_Docs
+https://github.com/seanpm2001/TuxBot-OperatingSystem_Docs
+https://github.com/seanpm2001/App-Backpack_Docs
+https://github.com/seanpm2001/EMAIL_2_AutomationTools_Docs
+https://github.com/seanpm2001/BlueCalm_Docs
+https://github.com/seanpm2001/Branch-Ranch_Docs
+https://github.com/seanpm2001/EMAIL_2_Blackmail
+https://github.com/seanpm2001/Numeric-Liberation-Front_Docs
+https://github.com/seanpm2001/CH3-c-K_Docs
+https://github.com/seanpm2001/RegAggregate_Docs
+https://github.com/seanpm2001/Notchware_Docs
+https://github.com/seanpm2001/New-Years-Tag_Docs
+https://github.com/seanpm2001/Internet-Explorer6-Flavored-Markdown_Docs
+https://github.com/seanpm2001/DMAIL_AutomationTools_Docs
+https://github.com/seanpm2001/EMAIL_2_Blackmail_Docs
+https://github.com/seanpm2001/REDACTED[21]
+https://github.com/seanpm2001/REDACTED[23]
+https://github.com/seanpm2001/REDACTED[25]
+https://github.com/seanpm2001/REDACTED[27]
+https://github.com/seanpm2001/MEDOS_HDD_Docs
+https://github.com/seanpm2001/REDACTED[29]
+https://github.com/seanpm2001/WinWalla_Docs
+https://github.com/seanpm2001/DMAIL_Blackmail_Docs
+https://github.com/seanpm2001/DMAIL_SelfHost_Docs
+https://github.com/seanpm2001/REDACTED[52]
+https://github.com/seanpm2001/REDACTED[53]
+https://github.com/seanpm2001/REDACTED[63]
+https://github.com/seanpm2001/Motor-Universe-Open-Factory_Docs
+https://github.com/seanpm2001/EMAIL_2_SelfHosting_Docs
+https://github.com/seanpm2001/DMAIL_SelfHosting_Docs
+https://github.com/seanpm2001/HasItBeenDone_Docs
+https://github.com/seanpm2001/REDACTED[73]
+https://github.com/seanpm2001/NimbleByte_Docs
+https://github.com/seanpm2001/MEDOS_SSD_Docs
+https://github.com/seanpm2001/MEDOS_Floppy_Docs
+https://github.com/seanpm2001/MetroTechno_ParkingMeter_Docs
+https://github.com/seanpm2001/Bliss_Browser_Obsidian_Docs
+https://github.com/seanpm2001/MetroTechno_Speedsign_Docs
+https://github.com/seanpm2001/MetroTechno_TrafficLight_Docs
+https://github.com/seanpm2001/MetroTechno_Crosswalk_Docs
+https://github.com/seanpm2001/Bliss_Browser_TabNab_Docs
+https://github.com/seanpm2001/OuterVM_Docs
+https://github.com/seanpm2001/Meadows-Battery-Diagnostics-Tool_Docs
+https://github.com/seanpm2001/NUNIX_ManuType_Docs
+https://github.com/seanpm2001/DMAIL_MailEffects_Docs
+https://github.com/seanpm2001/FolderArtist_Docs
+https://github.com/seanpm2001/KornHub_Docs
+https://github.com/seanpm2001/GitAttributes-Collection
+https://github.com/seanpm2001/SafeWINE_Docs
+https://github.com/seanpm2001/Erratum
+https://github.com/seanpm2001/Redacted
+https://github.com/seanpm2001/Private
+https://github.com/seanpm2001/i18n
+https://github.com/seanpm2001/a11y
+https://github.com/seanpm2001/Workflows
+https://github.com/seanpm2001/GitHub-Actions
+https://github.com/seanpm2001/Meta
+https://github.com/seanpm2001/Logos
+https://github.com/seanpm2001/Region-related-software
+https://github.com/seanpm2001/Gallery
+https://github.com/seanpm2001/SEAN9000
+https://github.com/seanpm2001/Discussions
+https://github.com/seanpm2001/VSCode
+https://github.com/seanpm2001/404
+https://github.com/seanpm2001/DLLinux
+https://github.com/seanpm2001/DLLinux_Docs
+!-->
+
 ***
 
 <div align="center">
-  <img alt="Documentation logo failed to load. Click/tap here to attempt to view it" src="/Documentation.png" width="256" height="256" class="center"/>
+  <img alt="Documentation logo failed to load. Click/tap here to attempt to view it" src="/Documentation.png" title="Documentation logo/icon" width="256" height="256" class="center"/>
   <H1>Documentation</H1>
   <p>The Documentation core repository for <a href="https://github.com/seanpm2001/">@seanpm2001</a></p>
 </div>
 
 This is the hub for the documentation of [`@seanpm2001`](https://github.com/seanpm2001/) due to its size, this is mainly a list of links (a glossary portal page) it is currently an early draft, and is highly incomplete.
+
+Despite the extremely large amount of documentation I have made available on GitHub, as of 2023, Thursday, December 28th, there are still over 50000 lines of notes that have not been made public (not just in my pinned notes file, where I keep over 1.7 Megabytes of notes in plain text)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entire article]</b></p></summary>
 
@@ -497,6 +815,74 @@ _This section is currently empty_
 <details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs: section W section]</b></p></summary>
 
 - [:octocat: `WacOS Docs`](https://github.com/seanpm2001/WacOS_Docs/)
+- - [:octocat: `BaSYS_Docs`](https://github.com/seanpm2001/BaSYS_Docs/)
+- - - [:octocat: `BaSYS_1_Docs`](https://github.com/seanpm2001/BaSYS_1_Docs/)
+- - - [:octocat: `BaSYS_2_Docs`](https://github.com/seanpm2001/BaSYS_2_Docs/)
+- - - [:octocat: `BaSYS_3_Docs`](https://github.com/seanpm2001/BaSYS_3_Docs/)
+- - - [:octocat: `BaSYS_4_Docs`](https://github.com/seanpm2001/BaSYS_4_Docs/)
+- - - [:octocat: `BaSYS_5_Docs`](https://github.com/seanpm2001/BaSYS_5_Docs/)
+- - - [:octocat: `BaSYS_6_Docs`](https://github.com/seanpm2001/BaSYS_6_Docs/)
+- - **Classic WacOS Docs** (repository coming soon)
+- - - [:octocat: `WacOS_7_Docs`](https://github.com/seanpm2001/WacOS_7_Docs/)
+- - - [:octocat: `WacOS_8_Docs`](https://github.com/seanpm2001/WacOS_8_Docs/)
+- - - [:octocat: `WacOS_9_Docs`](https://github.com/seanpm2001/WacOS_9_Docs/)
+- - [:octocat: `WacOS_X_Docs`](https://github.com/seanpm2001/WacOS-X_Docs/)
+- - - [:octocat: `WacOS_X_Public-Beta_Docs`](https://github.com/seanpm2001/WacOS_X_Public-Beta_Docs/)
+- - - [:octocat: `WacOS_X_10.0_Docs`](https://github.com/seanpm2001/WacOS_X_10.0_Docs/)
+- - - [:octocat: `WacOS_X_10.1_Docs`](https://github.com/seanpm2001/WacOS_X_10.1_Docs/)
+- - - [:octocat: `WacOS_X_10.2_Docs`](https://github.com/seanpm2001/WacOS_X_10.2_Docs/)
+- - - [:octocat: `WacOS_X_10.3_Docs`](https://github.com/seanpm2001/WacOS_X_10.3_Docs/)
+- - - [:octocat: `WacOS_X_10.4_Docs`](https://github.com/seanpm2001/WacOS_X_10.4_Docs/)
+- - - [:octocat: `WacOS_X_10.5_Docs`](https://github.com/seanpm2001/WacOS_X_10.5_Docs/)
+- - - [:octocat: `WacOS_X_10.6_Docs`](https://github.com/seanpm2001/WacOS_X_10.6_Docs/)
+- - - [:octocat: `WacOS_X_10.7_Docs`](https://github.com/seanpm2001/WacOS_X_10.7_Docs/)
+- - [:octocat: `WOAHS-X_Docs`](https://github.com/seanpm2001/WOAHS-X_Docs/)
+- - - [:octocat: `WOAHS_X_10.8_Docs`](https://github.com/seanpm2001/WOAHS_X_10.8_Docs/)
+- - - [:octocat: `WOAHS_X_10.9_Docs`](https://github.com/seanpm2001/WOAHS_X_10.9_Docs/)
+- - - [:octocat: `WOAHS_X_10.10_Docs`](https://github.com/seanpm2001/WOAHS_X_10.10_Docs/)
+- - - [:octocat: `WOAHS_X_10.11_Docs`](https://github.com/seanpm2001/WOAHS_X_10.11_Docs/)
+- - **Modern WacOS Docs** (repository coming soon)
+- - - [:octocat: `WacOS_10.12_Docs`](https://github.com/seanpm2001/WacOS_10.12_Docs/)
+- - - [:octocat: `WacOS_10.13_Docs`](https://github.com/seanpm2001/WacOS_10.13_Docs/)
+- - - [:octocat: `WacOS_10.14_Docs`](https://github.com/seanpm2001/WacOS_10.14_Docs/)
+- - - [:octocat: `WacOS_10.15_Docs`](https://github.com/seanpm2001/WacOS_10.15_Docs/)
+- - - [:octocat: `WacOS_10.16_Docs`](https://github.com/seanpm2001/WacOS_10.16_Docs/)
+- - - [:octocat: `WacOS_11_Docs`](https://github.com/seanpm2001/WacOS_11_Docs/)
+- - - [:octocat: `WacOS_12_Docs`](https://github.com/seanpm2001/WacOS_12_Docs/)
+- - - [:octocat: `WacOS_13_Docs`](https://github.com/seanpm2001/WacOS_13_Docs/)
+- - - [:octocat: `WacOS_14_Docs`](https://github.com/seanpm2001/WacOS_14_Docs/)
+- - [:octocat: `whyPhoneOS_Docs`](https://github.com/seanpm2001/WhyPhoneOS_Docs/)
+- - - [:octocat: `whyPhoneOS_1_Docs`](https://github.com/seanpm2001/whyPhoneOS_1_Docs/)
+- - - [:octocat: `whyPhoneOS_2_Docs`](https://github.com/seanpm2001/whyPhoneOS_2_Docs/)
+- - - [:octocat: `whyPhoneOS_3_Docs`](https://github.com/seanpm2001/whyPhoneOS_3_Docs/)
+- - [:octocat: `wOS_Docs`](https://github.com/seanpm2001/wOS_Docs/)
+- - - [:octocat: `wOS_4_Docs`](https://github.com/seanpm2001/wOS_4_Docs/)
+- - - [:octocat: `wOS_5_Docs`](https://github.com/seanpm2001/wOS_5_Docs/)
+- - - [:octocat: `wOS_6_Docs`](https://github.com/seanpm2001/wOS_6_Docs/)
+- - - [:octocat: `wOS_7_Docs`](https://github.com/seanpm2001/wOS_7_Docs/)
+- - - [:octocat: `wOS_8_Docs`](https://github.com/seanpm2001/wOS_8_Docs/)
+- - - [:octocat: `wOS_9_Docs`](https://github.com/seanpm2001/wOS_9_Docs/)
+- - - [:octocat: `wOS_10_Docs`](https://github.com/seanpm2001/wOS_10_Docs/)
+- - - [:octocat: `wOS_11_Docs`](https://github.com/seanpm2001/wOS_11_Docs/)
+- - - [:octocat: `wOS_12_Docs`](https://github.com/seanpm2001/wOS_12_Docs/)
+- - - [:octocat: `wOS_13_Docs`](https://github.com/seanpm2001/wOS_13_Docs/)
+- - - [:octocat: `wOS_14_Docs`](https://github.com/seanpm2001/wOS_14_Docs/)
+- - - [:octocat: `wOS_15_Docs`](https://github.com/seanpm2001/wOS_15_Docs/)
+- - - [:octocat: `wOS_16_Docs`](https://github.com/seanpm2001/wOS_16_Docs/)
+- - - [:octocat: `wOS_17_Docs`](https://github.com/seanpm2001/wOS_17_Docs/)
+- - [:octocat: `WacTVOS_Docs`](https://github.com/seanpm2001/WacTVOS_Docs/)
+- - - **NULL**
+- - [:octocat: Sir-Isaac-NewtonOS_Docs`](https://github.com/seanpm2001/Sir-Isaac-NewtonOS_Docs/)
+- - - **NULL**
+- - [:octocat: Sir-Isaac-NewtonScript_Docs`](https://github.com/seanpm2001/Sir-Isaac-NewtonScript_Docs/)
+- - - **NULL**
+- - [:octocat: WhyWatchOS_Docs`](https://github.com/seanpm2001/WhyWatchOS_Docs/)
+- - - **NULL**
+- - [:octocat: WhyPadOS_Docs`](https://github.com/seanpm2001/WhyWatchOS_Docs/)
+- - - **NULL**
+- - [:octocat: `WacPaint_Docs`](https://github.com/seanpm2001/WacPaint_Docs/)
+- - [:octocat: `WacWrite_Docs`](https://github.com/seanpm2001/WacWrite_Docs/)
+- - [:octocat: `Kiri_Docs`](https://github.com/seanpm2001/Kiri_Docs/)
 - [:octocat: `WarmWelcome Docs`](https://github.com/seanpm2001/WarmWelcome_Docs/)
 - [:octocat: `What Year Is It Docs`](https://github.com/seanpm2001/WYII_Docs/)
 
@@ -911,6 +1297,17 @@ _Miscellaneous documentation hubs and articles_
 <details open><summary><p><b>[Click/tap here to expand/collapse the misc documentation hubs & articles: section IM section]</b></p></summary>
 
 - [:octocat: `Images`](https://github.com/seanpm2001/Images/)
+- [:octocat: `ImageVS_Docs`](https://github.com/seanpm2001/ImageVS_Docs/)
+- - [:octocat: `PNGVS_Docs`](https://github.com/seanpm2001/PNGVS_Docs/)
+- - [:octocat: `SVGVS_Docs`](https://github.com/seanpm2001/SVGVS_Docs/)
+- - [:octocat: `GIFVS_Docs`](https://github.com/seanpm2001/GIFVS_Docs/)
+- - [:octocat: `JPEGVS_Docs`](https://github.com/seanpm2001/JPEGVS_Docs/)
+- - [:octocat: `TIFVS_Docs`](https://github.com/seanpm2001/TIFVS_Docs/)
+- - [:octocat: `BMPVS_Docs`](https://github.com/seanpm2001/BMPVS_Docs/)
+- - [:octocat: `HEIFVS_Docs`](https://github.com/seanpm2001/HEIFVS_Docs/)
+- - [:octocat: `JP2VS_Docs`](https://github.com/seanpm2001/JP2VS_Docs/)
+- - [:octocat: `NETPVS_Docs`](https://github.com/seanpm2001/NETPVS_Docs/)
+- - [:octocat: `WEBPVS_Docs`](https://github.com/seanpm2001/WEBPVS_Docs/)
 
 </details> <!-- End of misc documentation hubs & articles: IM section, section !-->
 
@@ -1451,6 +1848,7 @@ _Redirect repositories that link to documentation repositories_
 - [:octocat: `Docs`](https://github.com/seanpm2001/Docs/)
 - [:octocat: `GOI`](https://github.com/seanpm2001/GOI/)
 - [:octocat: `GSoC`](https://github.com/seanpm2001/GSoC/)
+- [:octocat: `Logo`](https://github.com/seanpm2001/Logo)
 - [:octocat: `Math`](https://github.com/seanpm2001/Math/)
 - [:octocat: `Medical Ethics`](https://github.com/seanpm2001/Medical-ethics/)
 - [:octocat: `Net-Zero`](https://github.com/seanpm2001/Net-Zero/)
@@ -1489,7 +1887,96 @@ _Not to be confused with [programming languages](#Programming-languages)._
 
 ***
 
+## [Style guides](#Style-guides)
+
+<img src="/Graphics/Stylesheet_Icon/StylesheetsIcon1.png" alt="Stylesheet icon failed to load" title="Style guides logo" width="256" height="256">
+
+> [:octocat: `@seanpm2001 Manual of Style (MoS)`](https://github.com/seanpm2001/Seanpm2001-Manual-of-Style/)
+
+> [:octocat: `@seanpm2001 Style Guides`](https://github.com/seanpm2001/Seanpm2001-StyleGuides/)
+
+### [Software tool style guides](#Software-tool-style-guides)
+
+- [:octocat: `@seanpm2001 Fork style guide`](https://github.com/seanpm2001/Seanpm2001_Fork_Style-Guide/)
+- More coming soon
+
+### [Programming language style guides](#Programming-language-style-guides)
+
+- [:octocat: `@seanpm2001 Boo Style guide`](https://github.com/seanpm2001/Seanpm2001_Boo_Style-Guide/)
+- [:octocat: `@seanpm2001 C Style guide`](https://github.com/seanpm2001/Seanpm2001_C_Style-Guide/)
+- [:octocat: `@seanpm2001 C++ Style guide`](https://github.com/seanpm2001/Seanpm2001_CPlusPlus_Style-Guide/)
+- [:octocat: `@seanpm2001 D Style guide`](https://github.com/seanpm2001/Seanpm2001_D_Style-Guide/)
+- [:octocat: `@seanpm2001 Elixir Style guide`](https://github.com/seanpm2001/Seanpm2001_Elixir_Style-Guide/)
+- [:octocat: `@seanpm2001 Haskell Style guide`](https://github.com/seanpm2001/Seanpm2001_Haskell_Style-Guide/)
+- [:octocat: `@seanpm2001 HTML Style guide`](https://github.com/seanpm2001/Seanpm2001_HTML_Style-Guide/)
+- [:octocat: `@seanpm2001 Java Style guide`](https://github.com/seanpm2001/Seanpm2001_Java_Style-Guide/)
+- [:octocat: `@seanpm2001 JavaScript Style guide`](https://github.com/seanpm2001/Seanpm2001_JavaScript_Style-Guide/)
+- [:octocat: `@seanpm2001 Julia Style guide`](https://github.com/seanpm2001/Seanpm2001_Julia_Style-Guide/)
+- [:octocat: `@seanpm2001 Lua Style guide`](https://github.com/seanpm2001/Seanpm2001_Lua_Style-Guide/)
+- [:octocat: `@seanpm2001 Nim Style guide`](https://github.com/seanpm2001/Seanpm2001_Nim_Style-Guide/)
+- [:octocat: `@seanpm2001 Pascal Style guide`](https://github.com/seanpm2001/Seanpm2001_Pascal_Style-Guide/)
+- [:octocat: `@seanpm2001 Perl Style guide`](https://github.com/seanpm2001/Seanpm2001_Perl_Style-Guide/)
+- [:octocat: `@seanpm2001 Python Style guide`](https://github.com/seanpm2001/Seanpm2001_Python_Style-Guide/)
+- [:octocat: `@seanpm2001 PHP Style guide`](https://github.com/seanpm2001/Seanpm2001_PHP_Style-Guide/)
+- [:octocat: `@seanpm2001 R Style guide`](https://github.com/seanpm2001/Seanpm2001_R_Style-Guide/)
+- [:octocat: `@seanpm2001 Raku Style guide`](https://github.com/seanpm2001/Seanpm2001_Raku_Style-Guide/)
+- [:octocat: `@seanpm2001 Ruby Style guide`](https://github.com/seanpm2001/Seanpm2001_Ruby_Style-Guide/)
+- [:octocat: `@seanpm2001 Rust Style guide`](https://github.com/seanpm2001/Seanpm2001_Rust_Style-Guide/)
+- [:octocat: `@seanpm2001 Red Style guide`](https://github.com/seanpm2001/Seanpm2001_Red_Style-Guide/)
+- [:octocat: `@seanpm2001 Shell Style guide`](https://github.com/seanpm2001/Seanpm2001_Shell_Style-Guide/)
+- [:octocat: `@seanpm2001 Scala Style guide`](https://github.com/seanpm2001/Seanpm2001_Scala_Style-Guide/)
+- [:octocat: `@seanpm2001 Swift Style guide`](https://github.com/seanpm2001/Seanpm2001_Swift_Style-Guide/)
+- More coming soon
+
+***
+
+## [Criticism](#Criticism)
+
+<!-- <img src="" alt="" title="" width="" height=""> !-->
+
+> [:octocat: `Criticism`](https://github.com/seanpm2001/Criticism/)
+
+- [:octocat: `Criticism of Apple Inc`](https://github.com/seanpm2001/Criticism-of-AppleInc/)
+- [:octocat: `Criticism of Amazon.com Inc.`](https://github.com/seanpm2001/Criticism-of-AmazonCompany/)
+- [:octocat: `Criticism of Copyright`](https://github.com/seanpm2001/Criticism-of-Copyright/)
+- [:octocat: `Criticism of Google`](https://github.com/seanpm2001/Criticism-of-Google/)
+- [:octocat: `Criticism of @seanpm20001`](https://github.com/seanpm2001/Criticism-of-Seanpm2001/)
+- [:octocat: `Criticism of Zoom (Software)`](https://github.com/seanpm2001/Criticism-of-ZoomSoftware/)
+
+> [:octocat: `Private Criticism Repository #1`](https://github.com/seanpm2001/Criticism-Confidential1/)
+
+***
+
+## [Terms](#Terms)
+
+<!-- <img src="" alt="" title="" width="" height=""> !-->
+
+- [:octocat: `Gitzkrieg`](https://github.com/seanpm2001/Gitzkrieg/)
+- [:octocat: `Jobsolete`](https://github.com/seanpm2001/Jobsolete/)
+- [:octocat: `Web -3.0`](https://github.com/seanpm2001/Web-negative-3/)
+
+***
+
+## [Events](#Events)
+
+<!-- <img src="" alt="" title="" width="" height=""> !-->
+
+### [Events in July](#Events-in-July)
+
+- [:octocat: `Emoji Day`](https://github.com/seanpm2001/Emoji-Day)
+
+### [Events in October](#Events-in-October)
+
+- [:octocat: `Hacktoberfest`](https://github.com/seanpm2001/Hacktoberfest/)
+- - [:octocat: `Seanpm2001-Hacktoberfest`](https://github.com/seanpm2001/Seanpm2001-Hacktoberfest/)
+- - - Q: Why did you make a Hacktoberfest repository on the last day of (2022) October?
+- - - A: It was on my list of things to do. I was not prepared for Hacktoberfest this year, and I wanted to draw as little attention to this as possible.
+
+***
+
 ## [Programming languages](#Programming-languages)
+
+<!-- <img src="" alt="" title="" width="" height=""> !-->
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the Programming languages section]</b></p></summary>
 
@@ -3761,25 +4248,16 @@ Progress on this goal (incompleted list)
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-**File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-
-**File version:** `44 (2023, Tuesday, June 6th at 3:49 pm PST)`
-
-**Line count (including blank lines and compiler line):** `4,889`
-
-**Word count:** `18,946`
-
-**Character count (with spaces)** `153,136`
-
-**Character count (without spaces)** `136,049`
-
-**File size:** `154,952` bytes
-
-**Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
-
-**Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
-
-**All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+- **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+- **File version:** `45 (2023, Thursday, December 28th at 3:00 pm PST)`
+- **Line count (including blank lines and compiler line):** `5,586`
+- **Word count:** `23,668`
+- **Character count (with spaces)** `187,744`
+- **Character count (without spaces)** `168,656`
+- **File size:** `189,560` ***bytes***
+- **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+- **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+- **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
 
 > **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
@@ -3793,9 +4271,12 @@ Progress on this goal (incompleted list)
 
 <details><summary><p lang="en"><b>Click/tap here to expand/collapse the file history section for this project</b></p></summary>
 
+---
+
 <details><summary><p lang="en"><b>Version 1 (2023, Wedneday, January 25th at 5:42 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V1.md`](/OldVersions/README/English/1/README_V1.md)
 
 > Changes:
 
@@ -3823,9 +4304,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V01 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 2 (2023, Wednesday, January 25th at 9:12 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V9.md`](/OldVersions/README/English/1/README_V2.md)
 
 > Changes:
 
@@ -3845,9 +4329,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V02 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 3 (2023, Thursday, January 26th at 3:57 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V3.md`](/OldVersions/README/English/1/README_V3.md)
 
 > Changes:
 
@@ -3882,9 +4369,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V03 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 4 (2023, Thursday, January 26th at 7:32 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V4.md`](/OldVersions/README/English/1/README_V4.md)
 
 > Changes:
 
@@ -3902,9 +4392,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V04 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 5 (2023, Thursday, January 26th at 10:16 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V5.md`](/OldVersions/README/English/1/README_V5.md)
 
 > Changes:
 
@@ -3923,9 +4416,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V05 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 6 (2023, Friday, January 27th at 5:30 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V6.md`](/OldVersions/README/English/1/README_V6.md)
 
 > Changes:
 
@@ -3947,9 +4443,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V06 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 7 (2023, Saturday, January 28th at 11:11 am PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V7.md`](/OldVersions/README/English/1/README_V7.md)
 
 > Changes:
 
@@ -3973,9 +4472,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V07 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 8 (2023, Saturday, January 28th at 6:06 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V9.md`](/OldVersions/README/English/1/README_V8.md)
 
 > Changes:
 
@@ -3993,9 +4495,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V08 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 9 (2023, Saturday, January 28th at 6:27 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V9.md`](/OldVersions/README/English/1/README_V9.md)
 
 > Changes:
 
@@ -4013,9 +4518,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V09 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 10 (2023, Sunday, January 29th at 3:27 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V10.md`](/OldVersions/README/English/1/README_V10.md)
 
 > Changes:
 
@@ -4033,9 +4541,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V10 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 11 (2023, Tuesday, January 31st at 12:06 am PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V11.md`](/OldVersions/README/English/1/README_V11.md)
 
 > Changes:
 
@@ -4056,9 +4567,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V11 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 12 (2023, Tuesday, January 31st at 4:25 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V12.md`](/OldVersions/README/English/1/README_V12.md)
 
 > Changes:
 
@@ -4081,9 +4595,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V12 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 13 (2023, Wednesday, February 1st at 7:20 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V13.md`](/OldVersions/README/English/1/README_V13.md)
 
 > Changes:
 
@@ -4104,9 +4621,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V13 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 14 (2023, Thursday, February 2nd at 3:25 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V14.md`](/OldVersions/README/English/1/README_V14.md)
 
 > Changes:
 
@@ -4127,9 +4647,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V14 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 15 (2023, Saturday, February 4th at 6:40 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V15.md`](/OldVersions/README/English/1/README_V15.md)
 
 > Changes:
 
@@ -4150,9 +4673,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V15 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 16 (2023, Monday, February 6th at 4:44 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V16.md`](/OldVersions/README/English/1/README_V16.md)
 
 > Changes:
 
@@ -4175,9 +4701,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V16 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 17 (2023, Saturday, February 11th at 6:30 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V17.md`](/OldVersions/README/English/1/README_V17.md)
 
 > **Note** _I was going to add in the newly created Bliss Browser documentation repository, but it was already listed here._
 
@@ -4198,9 +4727,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V17 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 18 (2023, Saturday, February 18th at 5:43 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V18.md`](/OldVersions/README/English/1/README_V18.md)
 
 > **Note** _Development on this project has really slowed lately._
 
@@ -4224,9 +4756,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V18 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 19 (2023, Monday, March 6th at 9:30 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V19.md`](/OldVersions/README/English/1/README_V19.md)
 
 > **Note** _Development on this project has really slowed lately._
 
@@ -4250,9 +4785,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V19 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 20 (2023, Tuesday, March 14th at 7:54 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V20.md`](/OldVersions/README/English/1/README_V20.md)
 
 > **Note** _Development on this project has really slowed lately._
 
@@ -4274,9 +4812,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V20 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 21 (2023, Saturday, March 18th at 7:24 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V21.md`](/OldVersions/README/English/1/README_V21.md)
 
 > **Note** _Several links added today are for projects that are coming in the next week._
 
@@ -4298,9 +4839,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V21 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 22 (2023, Sunday, March 19th at 9:12 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V22.md`](/OldVersions/README/English/1/README_V22.md)
 
 > **Note** _All links added today are for projects that are coming in the next week._
 
@@ -4322,9 +4866,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V22 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 23 (2023, Tuesday, March 28th at 2:15 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V23.md`](/OldVersions/README/English/1/README_V23.md)
 
 > **Note** _No new notes for this release._
 
@@ -4348,9 +4895,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V23 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 24 (2023, Tuesday, March 28th at 3:50 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V24.md`](/OldVersions/README/English/1/README_V24.md)
 
 > **Note** _I forgot to add BlockQL in the last release. This release fixes that_
 
@@ -4372,9 +4922,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V24 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 25 (2023, Monday, April 10th at 5:26 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V25.md`](/OldVersions/README/English/1/README_V25.md)
 
 > **Note** _First update this month (2023 April) several new entries addded._
 
@@ -4399,9 +4952,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V25 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 26 (2023, Tuesday, May 9th at 6:09 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V26.md`](/OldVersions/README/English/1/README_V26.md)
 
 > **Note** _First update this month (2023 May) several dozen new entries addded._
 
@@ -4427,9 +4983,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V26 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 27 (2023, Wednesday, May 10th at 5:25 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V27.md`](/OldVersions/README/English/1/README_V27.md)
 
 > **Note** _Second update this month (2023 May) I am going to try to update this repository daily._
 
@@ -4451,9 +5010,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V27 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 28 (2023, Thursday, May 11th at 5:28 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V28.md`](/OldVersions/README/English/1/README_V28.md)
 
 > **Note** _Third update this month (2023 May) I am going to try to update this repository daily._
 
@@ -4475,9 +5037,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V28 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 29 (2023, Friday, May 12th at 7:02 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V29.md`](/OldVersions/README/English/1/README_V29.md)
 
 > **Note** _Fourth update this month (2023 May) I am going to try to continue updating this repository daily._
 
@@ -4499,9 +5064,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V29 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 30 (2023, Saturday, May 13th at 5:20 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V30.md`](/OldVersions/README/English/1/README_V30.md)
 
 > **Note** _Fifth update this month (2023 May) I am going to try to continue updating this repository daily._
 
@@ -4523,9 +5091,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V30 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 31 (2023, Sunday, May 14th at 5:12 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V31.md`](/OldVersions/README/English/1/README_V31.md)
 
 > **Note** _Sixth update this month (2023 May) I am going to try to continue updating this repository daily._
 
@@ -4547,9 +5118,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V31 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 32 (2023, Monday, May 15th at 4:52 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V32.md`](/OldVersions/README/English/1/README_V32.md)
 
 > **Note** _Seventh update this month (2023 May) I am going to try to continue updating this repository daily._
 
@@ -4571,9 +5145,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V32 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 33 (2023, Tuesday, May 16th at 8:01 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V33.md`](/OldVersions/README/English/1/README_V33.md)
 
 > **Note** _Eighth update this month (2023 May) I am going to try to continue updating this repository daily._
 
@@ -4595,9 +5172,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V33 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 34 (2023, Wednesday, May 17th at 7:05 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V34.md`](/OldVersions/README/English/1/README_V34.md)
 
 > **Note** _Ninth update this month (2023 May) I am going to try to continue updating this repository daily._
 
@@ -4619,9 +5199,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V34 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 35 (2023, Thursday, May 18th at 3:45 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V35.md`](/OldVersions/README/English/1/README_V35.md)
 
 > **Note** _Tenth update this month (2023 May) I am going to try to continue updating this repository daily._
 
@@ -4643,9 +5226,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V35 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 36 (2023, Saturday, May 20th at 8:07 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V36.md`](/OldVersions/README/English/1/README_V36.md)
 
 > **Note** _Eleventh update this month (2023 May) I am going to try to continue updating this repository daily. I couldn't yesterday, as there were no newly created entries._
 
@@ -4667,9 +5253,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V36 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 37 (2023, Wednesday, May 24th at 7:23 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V37.md`](/OldVersions/README/English/1/README_V37.md)
 
 > **Note** _Twelfth update this month (2023 May) I am going to try to continue updating this repository daily when possible. I couldn't yesterday, as there were was no time, and before that, there were limited entries. Updates will be sparse for a while._
 
@@ -4691,9 +5280,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V37 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 38 (2023, Monday, May 29th at 4:54 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V38.md`](/OldVersions/README/English/1/README_V38.md)
 
 > **Note** _Thirteenth update this month (2023 May) I am going to try to continue updating this repository daily when possible. I couldn't yesterday, as there were was no time, and I had already allocated a maximum of 25 repositories to work on that day.Before that, there were limited entries. Updates will continue to be sparse for a while._
 
@@ -4715,9 +5307,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V38 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 39 (2023, Tuesday, May 30th at 9:48 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V39.md`](/OldVersions/README/English/1/README_V39.md)
 
 > **Note** _Fourteenth update this month (2023 May) I am going to try to continue updating this repository daily when possible. _
 
@@ -4739,9 +5334,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V39 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 40 (2023, Wednesday, May 31st at 9:03 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V40.md`](/OldVersions/README/English/1/README_V40.md)
 
 > **Note** _Fifteenth and final update for this month (2023 May) I am going to try to continue updating this repository daily when possible. _
 
@@ -4764,9 +5362,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V40 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 41 (2023, Friday, June 2nd at 10:14 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V41.md`](/OldVersions/README/English/1/README_V41.md)
 
 > **Note** _First update for this month (2023 June) I am going to try to continue updating this repository daily when possible. I couldn't do so yesterday, as I didn't have enough project slots._
 
@@ -4789,9 +5390,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V41 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 42 (2023, Saturday, June 3rd at 9:56 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V42.md`](/OldVersions/README/English/1/README_V42.md)
 
 > **Note** _Second update for this month (2023 June) I am going to try to continue updating this repository daily when possible._
 
@@ -4814,9 +5418,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V42 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 43 (2023, Monday, June 5th at 9:43 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V43.md`](/OldVersions/README/English/1/README_V43.md)
 
 > **Note** _Third update for this month (2023 June) I am going to try to continue updating this repository daily when possible._
 
@@ -4839,9 +5446,12 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V43 !-->
 
+---
+
 <details><summary><p lang="en"><b>Version 44 (2023, Tuesday, June 6th at 3:49 pm PST)</b></p></summary>
 
-**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V44.md`](/OldVersions/README/English/1/README_V44.md)
 
 > **Note** _The fourth update for this month (2023 June) I am going to try to continue updating this repository daily when possible. Todays update was a major overhayl_
 
@@ -4865,9 +5475,53 @@ Progress on this goal (incompleted list)
 
 </details> <!-- V44 !-->
 
-</details> <!-- File history section !-->
+---
 
-</details> <!-- The entire article !-->
+<details><summary><p lang="en"><b>Version 45 (2023, Thursday, December 28th at 03:00 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V45.md`](/OldVersions/README/English/1/45-100/README_V45.md)
+
+> **Why such a long delay on updating the core documentation repository?**
+
+> > _In the second half of 2023, I focused extensively on creating documentation repositories, and decided to wait until the flow of new data became very low before updating the documentation repository (which as of writing this draft, 2023 November 7th, hasn't been done yet)_
+
+> **Note** _The first release in over 6 months. I hope to try and update more frequently. This update was incomplete, as I only spent a little over an hour on it. I plan to gradually go through the rest of the new queue. Continuing for 1 consecutive day_
+
+> Changes:
+
+- [x] ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- - - [x] Added many new entries
+- [x] Added the `Style Guides` section
+- - [x] Added the `Software Style Guides` subsection
+- - [x] Added the `Programming language style guides` subsection
+- [x] Added the `Criticism` section
+- [x] Added the `Terms` section
+- [x] Added the `Events` section
+- - [x] Added the `Events in July` subsection
+- - [x] Added the `Events in October` subsection
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Updated all 45 entries to include an option to view the archived version of each revision
+- - [x] Added an entry for version 45
+- [x] Updated the footer
+- [ ] No other changes in version 45
+
+</details> <!-- V45 !-->
+
+---
+
+**End of file history for this version.**
+
+</details> <!-- File history section !-->
 
 ***
 
@@ -4875,14 +5529,57 @@ Progress on this goal (incompleted list)
 
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse the footer</u></b></p></summary>
 
-You have reached the end of this page.
+> ***You have reached the end of this page.***
 
 - [`Back to top`](#Documentation)
 - [:octocat: `Exit to GitHub`](https://github.com/)
 - [:octocat: `Back to redirect page`](https://github.com/seanpm2001/Docs/)
+- [:octocat: `Exit to Bing`](https://bing.com/)
+- [:octocat: `Exit to DuckDuckGo`](https://duckduckgo.com/)
+- [:octocat: `Exit to Ecosia`](https://ecosia.org/)
+- [:octocat: `Exit to Swisscows`](https://swisscows.com/)
 
 </details>
 
 ###### [EOF](#EOF)
 
+</details> <!-- The entire article !-->
+
 ***
+
+<!--
+***
+
+# Documentation
+
+This is the master documentation repository for seanpm2001. For just seanpm2001 documentation, see [`Seanpm2001-Docs`](https://github.com/seanpm2001/Seanpm2001-Docs/) for just older documentation, see [`Seanwallawalla-Docs`](https://github.com/seanpm2001/Seanwallawalla-Docs/), [`SeanTRM docs`](https://github.com/seanpm2001/SeanTRM-Docs/), and [`Seanspokane2015 Docs`](https://github.com/seanpm2001/Seanspokane2015-Docs/)
+
+<!-- Repos to create
+
+Seanpm2001-Docs [Redirect]
+Seanpm2001-Documentation
+Seanwallawalla-Docs [Redirect]
+Seanwallawalla-Documentation
+SeanTRM-Docs [Redirect]
+SeanTRM-Documentation
+Seanspokane2015-Docs [Redirect]
+Seanspokane2015-Documentation
+
+!-->
+<!--
+Why so many repositories?:
+
+1. Lots of projects
+1a> Hundreds/thousands of projects
+
+2. Splitting projects into many parts
+
+2a> increasing development speed
+2b> Easier navigation
+2c> Faster commit times
+
+3. Tons of forks
+
+An API of one (person)
+
+!-->
