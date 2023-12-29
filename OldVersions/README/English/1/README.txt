@@ -1,7 +1,17 @@
 
+<!-- TODO:
+Add icons for:
+Guides
+Standards
+Movements
+!-->
+
 <!-- TODO ADD ME:
 https://github.com/seanpm2001/Seanpm2001-Malware
 https://github.com/seanpm2001/SeanWallaWalla-Malware
+https://github.com/seanpm2001/Seanpm2001-P2P
+https://github.com/seanpm2001/Seanpm2001-mhGames
+https://github.com/seanpm2001/Seanpm2001-Godzilab
 https://github.com/seanpm2001/FreeCodeCamp_Seanpm2001
 https://github.com/seanpm2001/Cranberry-Jammer_Docs
 https://github.com/seanpm2001/CranberryOS_Docs
@@ -20,7 +30,6 @@ https://github.com/seanpm2001/LennyOS_Docs
 https://github.com/seanpm2001/Android-x32x64x128_Docs
 https://github.com/seanpm2001/SDE_Docs
 https://github.com/seanpm2001/MarkDownDownDown_Docs
-https://github.com/seanpm2001/Seanpm2001-P2P
 https://github.com/seanpm2001/LennyOS_Hardware
 https://github.com/seanpm2001/LennyOS_Core
 https://github.com/seanpm2001/Hyper-Realistic-Farm-Simulator_Docs
@@ -112,12 +121,6 @@ https://github.com/seanpm2001/HT-Messenger_Docs
 https://github.com/seanpm2001/GitHubby_Docs
 https://github.com/seanpm2001/Cyborg-System-Monitor_Docs
 https://github.com/seanpm2001/Snowcraft_Docs
-https://github.com/seanpm2001/SNU_4D_Docs
-https://github.com/seanpm2001/SNU_ProgrammingTools_Docs
-https://github.com/seanpm2001/EMAIL_2.0_FancyInbox_Docs
-https://github.com/seanpm2001/EMAIL_2.0_VRMail_Docs
-https://github.com/seanpm2001/SNU_2D_Ekistics_Docs
-https://github.com/seanpm2001/EMAIL_2.0_TackleBox_Docs
 https://github.com/seanpm2001/Learn_Docs
 https://github.com/seanpm2001/Matrix-lang_Docs
 https://github.com/seanpm2001/DroneMap_Docs
@@ -128,10 +131,6 @@ https://github.com/seanpm2001/SeansOSData_Docs
 https://github.com/seanpm2001/uOffice_Docs
 https://github.com/seanpm2001/BluPhoneOS_Docs
 https://github.com/seanpm2001/Green-Star-OS_Docs
-https://github.com/seanpm2001/EMAIL_2.0_SpamCan_Docs
-https://github.com/seanpm2001/EMAIL_2.0_PostOffice_Docs
-https://github.com/seanpm2001/EMAIL_2.0_VMail_Docs
-https://github.com/seanpm2001/EMAIL_2.0_StampCollection_Docs
 https://github.com/seanpm2001/Polyworks-SquareOff_Docs
 https://github.com/seanpm2001/Profa-or-Antifa_Docs
 https://github.com/seanpm2001/UnIoT_Docs
@@ -148,9 +147,6 @@ https://github.com/seanpm2001/B3_Docs
 https://github.com/seanpm2001/Go-ogle_Docs
 https://github.com/seanpm2001/OpenGov_Docs
 https://github.com/seanpm2001/Euphorium_Docs
-https://github.com/seanpm2001/EMAIL_2.0_STMP_File_Docs
-https://github.com/seanpm2001/EMAIL_2.0_MailManager_Docs
-https://github.com/seanpm2001/EMAIL_2.0_PerformanceTest_Docs
 https://github.com/seanpm2001/Project_Aquarius_Docs
 https://github.com/seanpm2001/Pen-People_Docs
 https://github.com/seanpm2001/PhD_In_PHP_Docs
@@ -168,34 +164,18 @@ https://github.com/seanpm2001/Project_1001_Docs
 https://github.com/seanpm2001/SeansAudioDB_AutoGrabber_Docs
 https://github.com/seanpm2001/Portal-Voice-Assistant_Docs
 https://github.com/seanpm2001/Input-Police_Docs
-https://github.com/seanpm2001/DMAIL_Stamps_Docs
-https://github.com/seanpm2001/EMAIL_-3.0_Stamps_Blockchain_Docs
-https://github.com/seanpm2001/EMAIL_-3.0_EmailFX_Blockchain_Docs
 https://github.com/seanpm2001/Password_Generator_Ultimate_Docs
 https://github.com/seanpm2001/MaprilOS_Docs
 https://github.com/seanpm2001/PVZ-Custom_Docs
 https://github.com/seanpm2001/Windows_10_Python_Edition_Docs
 https://github.com/seanpm2001/BathOS_Docs
 https://github.com/seanpm2001/ThroneOS_Docs
-https://github.com/seanpm2001/Bliss_Browser_OSMode_Docs
-https://github.com/seanpm2001/Bliss_Browser_Languages_Docs
-https://github.com/seanpm2001/Seanpm2001-Godzilab
 https://github.com/seanpm2001/SankOS_Docs
 https://github.com/seanpm2001/AquariOS_Docs
-https://github.com/seanpm2001/DMail_Docs
 https://github.com/seanpm2001/IgniteBook_Docs
 https://github.com/seanpm2001/SNU_CSAM-K_Docs
-https://github.com/seanpm2001/DMAIL_SpamCan_Docs
-https://github.com/seanpm2001/DMAIL_PostOffice_Docs
-https://github.com/seanpm2001/DMail_MailMapper_Docs
-https://github.com/seanpm2001/DMAIL_FancyInbox_Docs
-https://github.com/seanpm2001/DMAIL_VRMail_Docs
-https://github.com/seanpm2001/DMAIL_TackleBox_Docs
-https://github.com/seanpm2001/EMAIL_2.0_MailMapper_Docs
 https://github.com/seanpm2001/BlAPK_Docs
 https://github.com/seanpm2001/The_Bandwidth_Band_Docs
-https://github.com/seanpm2001/Bliss_Browser_Tabooks_Docs
-https://github.com/seanpm2001/Bliss_Browser_Memory_Docs
 https://github.com/seanpm2001/Browsniffica_Docs
 https://github.com/seanpm2001/BootDown_Docs
 https://github.com/seanpm2001/Bosky_Docs
@@ -206,10 +186,6 @@ https://github.com/seanpm2001/Self-Care_Bot_Docs
 https://github.com/seanpm2001/GratyBot_Docs
 https://github.com/seanpm2001/MetroTechno_Docs
 https://github.com/seanpm2001/OpenTowers_Docs
-https://github.com/seanpm2001/Seanpm2001-mhGames
-https://github.com/seanpm2001/DMAIL_VMail_Docs
-https://github.com/seanpm2001/DMAIL_MailManager_Docs
-https://github.com/seanpm2001/DMAIL_StampCollection_Docs
 https://github.com/seanpm2001/AdBool_Docs
 https://github.com/seanpm2001/Backup-Automation-Built-Bot-Y_Docs
 https://github.com/seanpm2001/NimbleBook_Docs
@@ -228,15 +204,9 @@ https://github.com/seanpm2001/Why-you-should-avoid-Google-Protocol-Buffers
 https://github.com/seanpm2001/Why-you-should-avoid-Google-Mojom
 https://github.com/seanpm2001/MyrickFamilyArchive_Docs
 https://github.com/seanpm2001/Unblur_Tool_Docs
-https://github.com/seanpm2001/EMAIL_2.0_WG_Standardization
-https://github.com/seanpm2001/EMAIL_2.0_WG_Documentation
-https://github.com/seanpm2001/EMAIL_2.0_WG_Graphics
-https://github.com/seanpm2001/EMAIL2_Tester
 https://github.com/seanpm2001/Googler_Truce
 https://github.com/seanpm2001/SociaShame_Docs
 https://github.com/seanpm2001/Timeout-Toolkit_Docs
-https://github.com/seanpm2001/SNU_2D_Erotica_Ethnicities_Docs
-https://github.com/seanpm2001/SNU_2D_Porn_Ethnicities_Docs
 https://github.com/seanpm2001/WebM-to-NetV_Docs
 https://github.com/seanpm2001/Doorcrete_Docs
 https://github.com/seanpm2001/FBI_Roleplay_Simulator_Docs
@@ -245,23 +215,18 @@ https://github.com/seanpm2001/DeciCube_Docs
 https://github.com/seanpm2001/WakeNote_Docs
 https://github.com/seanpm2001/UltraSwitch_Docs
 https://github.com/seanpm2001/Meadows-MetroMEM_Docs
-https://github.com/seanpm2001/DMAIL_VersionControlSystem_Docs
 https://github.com/seanpm2001/LinuxAteMyRAMApp_Docs
 https://github.com/seanpm2001/Kevin-MacLeod_SoftwareRadioLIBrary_Docs
 https://github.com/seanpm2001/TuxBot-OperatingSystem_Docs
 https://github.com/seanpm2001/App-Backpack_Docs
-https://github.com/seanpm2001/EMAIL_2_AutomationTools_Docs
 https://github.com/seanpm2001/BlueCalm_Docs
 https://github.com/seanpm2001/Branch-Ranch_Docs
-https://github.com/seanpm2001/EMAIL_2_Blackmail
 https://github.com/seanpm2001/Numeric-Liberation-Front_Docs
 https://github.com/seanpm2001/CH3-c-K_Docs
 https://github.com/seanpm2001/RegAggregate_Docs
 https://github.com/seanpm2001/Notchware_Docs
 https://github.com/seanpm2001/New-Years-Tag_Docs
 https://github.com/seanpm2001/Internet-Explorer6-Flavored-Markdown_Docs
-https://github.com/seanpm2001/DMAIL_AutomationTools_Docs
-https://github.com/seanpm2001/EMAIL_2_Blackmail_Docs
 https://github.com/seanpm2001/REDACTED[21]
 https://github.com/seanpm2001/REDACTED[23]
 https://github.com/seanpm2001/REDACTED[25]
@@ -269,29 +234,18 @@ https://github.com/seanpm2001/REDACTED[27]
 https://github.com/seanpm2001/MEDOS_HDD_Docs
 https://github.com/seanpm2001/REDACTED[29]
 https://github.com/seanpm2001/WinWalla_Docs
-https://github.com/seanpm2001/DMAIL_Blackmail_Docs
-https://github.com/seanpm2001/DMAIL_SelfHost_Docs
 https://github.com/seanpm2001/REDACTED[52]
 https://github.com/seanpm2001/REDACTED[53]
 https://github.com/seanpm2001/REDACTED[63]
 https://github.com/seanpm2001/Motor-Universe-Open-Factory_Docs
-https://github.com/seanpm2001/EMAIL_2_SelfHosting_Docs
-https://github.com/seanpm2001/DMAIL_SelfHosting_Docs
 https://github.com/seanpm2001/HasItBeenDone_Docs
 https://github.com/seanpm2001/REDACTED[73]
 https://github.com/seanpm2001/NimbleByte_Docs
 https://github.com/seanpm2001/MEDOS_SSD_Docs
 https://github.com/seanpm2001/MEDOS_Floppy_Docs
-https://github.com/seanpm2001/MetroTechno_ParkingMeter_Docs
-https://github.com/seanpm2001/Bliss_Browser_Obsidian_Docs
-https://github.com/seanpm2001/MetroTechno_Speedsign_Docs
-https://github.com/seanpm2001/MetroTechno_TrafficLight_Docs
-https://github.com/seanpm2001/MetroTechno_Crosswalk_Docs
-https://github.com/seanpm2001/Bliss_Browser_TabNab_Docs
 https://github.com/seanpm2001/OuterVM_Docs
 https://github.com/seanpm2001/Meadows-Battery-Diagnostics-Tool_Docs
 https://github.com/seanpm2001/NUNIX_ManuType_Docs
-https://github.com/seanpm2001/DMAIL_MailEffects_Docs
 https://github.com/seanpm2001/FolderArtist_Docs
 https://github.com/seanpm2001/KornHub_Docs
 https://github.com/seanpm2001/GitAttributes-Collection
@@ -311,7 +265,6 @@ https://github.com/seanpm2001/SEAN9000
 https://github.com/seanpm2001/Discussions
 https://github.com/seanpm2001/VSCode
 https://github.com/seanpm2001/404
-https://github.com/seanpm2001/DLLinux
 https://github.com/seanpm2001/DLLinux_Docs
 !-->
 
@@ -325,7 +278,11 @@ https://github.com/seanpm2001/DLLinux_Docs
 
 This is the hub for the documentation of [`@seanpm2001`](https://github.com/seanpm2001/) due to its size, this is mainly a list of links (a glossary portal page) it is currently an early draft, and is highly incomplete.
 
-Despite the extremely large amount of documentation I have made available on GitHub, as of 2023, Thursday, December 28th, there are still over 50000 lines of notes that have not been made public (not just in my pinned notes file, where I keep over 1.7 Megabytes of notes in plain text)
+**This is one of my top 10 vital repositories. It should be used as a starting point to discover my projects and how they work.**
+
+> **Note** Despite the extremely large amount of documentation I have made available on GitHub, as of 2023, Thursday, December 28th, there are still over 50000 lines of notes that have not been made public (not just in my pinned notes file, where I keep over 1.7/1.8 Megabytes of notes in plain text)
+
+> **Note** Since the updates that started on 2023, December 28th, there have been some entries that link to repositories with incomplete documentation. There is a lot to do with these repositories, and it will take a long time to get them ready,
 
 <details open><summary><p><b>[Click/tap here to expand/collapse this entire article]</b></p></summary>
 
@@ -504,10 +461,14 @@ Team8Collection_Docs
 
 ## [General](#General)
 
+<img src="/Graphics/General/PNG/General_2400px.png" alt="General logo failed to load" title="General documentation icon" width="256" height="256">
+
 <details open><summary><p><b>[Click/tap here to expand/collapse the general section]</b></p></summary>
 
 ### [Other documentation hubs](#Other-documentation-hubs)
- 
+
+<img src="/Graphics/Documentation-Hubs/PNG/hub-icon_2000px.png" alt="Documentation Hubs logo failed to load" title="Documentation Hubs logo" width="256" height="256">
+
 <details open><summary><p><b>[Click/tap here to expand/collapse the other documentation hubs section]</b></p></summary>
  
 _Other documentation hubs_
@@ -546,6 +507,12 @@ _Other documentation hubs_
 - [:octocat: `BerryBoot Docs`](https://github.com/seanpm2001/BerryBoot_Docs/)
 - [:octocat: `BlazeOS Docs`](https://github.com/seanpm2001/BlazeOS_Docs/)
 - [:octocat: `Bliss Browser Docs`](https://github.com/seanpm2001/Bliss_Browser_Docs/)
+- - [:octocat: `Bliss_Browser_OSMode_Docs`](https://github.com/seanpm2001/Bliss_Browser_OSMode_Docs/)
+- - [:octocat: `Bliss_Browser_Languages_Docs`](https://github.com/seanpm2001/Bliss_Browser_Languages_Docs/)
+- - [:octocat: `Bliss_Browser_TaBooks_Docs`](https://github.com/seanpm2001/Bliss_Browser_Tabooks_Docs/)
+- - [:octocat: `Bliss_Browser_Memory_Docs`](https://github.com/seanpm2001/Bliss_Browser_Memory_Docs/)
+- - [:octocat: `Bliss_Browser_TabNab_Docs`](https://github.com/seanpm2001/Bliss_Browser_TabNab_Docs/)
+- - [:octocat: `Bliss_Browser_Obsidian_Docs`](https://github.com/seanpm2001/Bliss_Browser_Obsidian_Docs/)
 - [:octocat: `BlockQL Docs`](https://github.com/seanpm2001/BlockQL_Docs/)
 - [:octocat: `BluPhone Docs`](https://github.com/seanpm2001/BluPhone_Docs/)
 - [:octocat: `BGemJam Docs`](https://github.com/seanpm2001/BGemJam_Docs/)
@@ -574,7 +541,26 @@ _Other documentation hubs_
 - [:octocat: `DeGoogle your Life Docs`](https://github.com/seanpm2001/DeGoogle-your-Life_Docs/)
 - [:octocat: `DeskLocker Docs`](https://github.com/seanpm2001/DeskLocker_Docs/)
 - [:octocat: `DISC-O Jockey Docs`](https://github.com/seanpm2001/DISC-O_Jockey_Docs/)
+- [:octocat: `DMAIL_Docs`](https://github.com/seanpm2001/DMail_Docs/)
+- - [:octocat: `DMAIL_SpamCan_Docs`](https://github.com/seanpm2001/DMAIL_SpamCan_Docs/)
+- - [:octocat: `DMAIL_PostOffice_Docs`](https://github.com/seanpm2001/DMAIL_PostOffice_Docs/)
+- - [:octocat: `DMAIL_MailMapper_Docs`](https://github.com/seanpm2001/DMail_MailMapper_Docs/)
+- - [:octocat: `DMAIL_FancyInbox_Docs`](https://github.com/seanpm2001/DMAIL_FancyInbox_Docs/)
+- - [:octocat: `DMAIL_VRMail_Docs`](https://github.com/seanpm2001/DMAIL_VRMail_Docs/)
+- - [:octocat: `DMAIL_TackleBox_Docs`](https://github.com/seanpm2001/DMAIL_TackleBox_Docs/)
+- - [:octocat: `DMAIL_VMail_Docs`](https://github.com/seanpm2001/DMAIL_VMail_Docs/)
+- - [:octocat: `DMAIL_MailManager_Docs`](https://github.com/seanpm2001/DMAIL_MailManager_Docs/)
+- - [:octocat: `DMAIL_StampCollection_Docs`](https://github.com/seanpm2001/DMAIL_StampCollection_Docs/)
+- - [:octocat: `DMAIL_VersionControlSystem_Docs`](https://github.com/seanpm2001/DMAIL_VersionControlSystem_Docs/)
+- - [:octocat: `DMAIL_AutomationTools_Docs`](https://github.com/seanpm2001/DMAIL_AutomationTools_Docs/)
+- - [:octocat: `DMAIL_Blackmail_Docs`](https://github.com/seanpm2001/DMAIL_Blackmail_Docs/)
+- - [:octocat: `DMAIL_SelfHost_Docs`](https://github.com/seanpm2001/DMAIL_SelfHost_Docs/)
+- - [:octocat: `DMAIL_SelfHosting_Docs`](https://github.com/seanpm2001/DMAIL_SelfHosting_Docs/)
+- - [:octocat: `DMAIL_Stamps_Docs`](https://github.com/seanpm2001/DMAIL_Stamps_Docs/)
+- - [:octocat: `DMAIL_MailEffects_Docs`](https://github.com/seanpm2001/DMAIL_MailEffects_Docs/)
 - [:octocat: `Domainiac Docs`](https://github.com/seanpm2001/Domainiac_Docs/)
+
+
 
 </details> <!-- End of Other documentation hubs: D section, section !-->
 
@@ -586,6 +572,29 @@ _Other documentation hubs_
 
 - [:octocat: `Economica Docs`](https://github.com/seanpm2001/Economica_Docs/)
 - [:octocat: `Egg Org Docs`](https://github.com/seanpm2001/Egg-Org_Docs/)
+- **EMAIL 2.0 Docs** (repository coming soon)
+- - [:octocat: `EMAIL_2.0_FancyInbox_Docs`](https://github.com/seanpm2001/EMAIL_2.0_FancyInbox_Docs/)
+- - [:octocat: `EMAIL_2.0_VRMail_Docs`](https://github.com/seanpm2001/EMAIL_2.0_VRMail_Docs/)
+- - [:octocat: `EMAIL_2.0_TackleBox_Docs`](https://github.com/seanpm2001/EMAIL_2.0_TackleBox_Docs/)
+- - [:octocat: `EMAIL_2.0_SpamCan_Docs`](https://github.com/seanpm2001/EMAIL_2.0_SpamCan_Docs/)
+- - [:octocat: `EMAIL_2.0_PostOffice_Docs`](https://github.com/seanpm2001/EMAIL_2.0_PostOffice_Docs/)
+- - [:octocat: `EMAIL_2.0_VMail_Docs`](https://github.com/seanpm2001/EMAIL_2.0_VMail_Docs/)
+- - [:octocat: `EMAIL_2.0_StampCollection_Docs`](https://github.com/seanpm2001/EMAIL_2.0_StampCollection_Docs/)
+- - [:octocat: `EMAIL_2.0_STMP_File_Docs`](https://github.com/seanpm2001/EMAIL_2.0_STMP_File_Docs/)
+- - [:octocat: `EMAIL_2.0_MailManager_Docs`](https://github.com/seanpm2001/EMAIL_2.0_MailManager_Docs/)
+- - [:octocat: `EMAIL_2.0_PerformanceTest_Docs`](https://github.com/seanpm2001/EMAIL_2.0_PerformanceTest_Docs/)
+- - [:octocat: `EMAIL_2.0_MailMapper_Docs`](https://github.com/seanpm2001/EMAIL_2.0_MailMapper_Docs/)
+- - [:octocat: `EMAIL2_Tester_Docs`](https://github.com/seanpm2001/EMAIL2_Tester) **Coming soon**
+- - [:octocat: `EMAIL_2_AutomationTools_Docs`](https://github.com/seanpm2001/EMAIL_2_AutomationTools_Docs/)
+- - [:octocat: `EMAIL_2_Blackmail_Docs`](https://github.com/seanpm2001/EMAIL_2_Blackmail_Docs/)
+- - [:octocat: `EMAIL_2_SelfHosting_Docs`](https://github.com/seanpm2001/EMAIL_2_SelfHosting_Docs/)
+- **Working groups (WG)**
+- - - [:octocat: `EMAIL_2.0_WG_Standardization`](https://github.com/seanpm2001/EMAIL_2.0_WG_Standardization/)
+- - - [:octocat: `EMAIL_2.0_WG_Documentation`](https://github.com/seanpm2001/EMAIL_2.0_WG_Documentation/)
+- - - [:octocat: `EMAIL_2.0_WG_Graphics`](https://github.com/seanpm2001/EMAIL_2.0_WG_Graphics)
+- **EMAIL -3.0 Docs** (repository coming soon)
+- - [:octocat: `EMAIL_-3.0_Stamps_Blockchain_Docs`](https://github.com/seanpm2001/EMAIL_-3.0_Stamps_Blockchain_Docs/)
+- - [:octocat: `EMAIL_-3.0_EmailFX_Blockchain_Docs`](https://github.com/seanpm2001/EMAIL_-3.0_EmailFX_Blockchain_Docs/)
 - [:octocat: `Er Docs`](https://github.com/seanpm2001/Er_Docs/)
 
 </details> <!-- End of Other documentation hubs: E section, section !-->
@@ -683,6 +692,10 @@ _This section is currently empty_
 - [:octocat: `Meadows Docs`](https://github.com/seanpm2001/Meadows_Docs/)
 - - [:octocat: `MEDOS Docs`](https://github.com/seanpm2001/MEDOS_Docs/)
 - [:octocat: `MetroTechno Docs`](https://github.com/seanpm2001/MetroTechno_Docs/)
+- - [:octocat: `MetroTechno_ParkingMeter_Docs`](https://github.com/seanpm2001/MetroTechno_ParkingMeter_Docs/)
+- - [:octocat: `MetroTechno_SpeedSign_Docs`](https://github.com/seanpm2001/MetroTechno_Speedsign_Docs/)
+- - [:octocat: `MetroTechno_TrafficLight_Docs`](https://github.com/seanpm2001/MetroTechno_TrafficLight_Docs/)
+- - [:octocat: `MetroTechno_Crosswalk_Docs`](https://github.com/seanpm2001/MetroTechno_Crosswalk_Docs/)
 
 </details> <!-- End of Other documentation hubs: M section, section !-->
 
@@ -758,10 +771,20 @@ _This section is currently empty_
 - - [:octocat: `Seanspokane2015-Documentation`](https://github.com/seanpm2001/Seanspokane2015-Documentation/)
 - - [:octocat: `SeanTRM Documentation`](https://github.com/seanpm2001/SeanTRM-Documentation/)
 - [:octocat: `Slaveworks Docs`](https://github.com/seanpm2001/Slaveworks_Docs/)
+- **SNU Docs** (repository coming soon)
+- - **SNU 2D Docs** (repository coming soon)
+- - - [:octocat: `SNU_2D_Ekistics_Docs`](https://github.com/seanpm2001/SNU_2D_Ekistics_Docs/)
+- - - **SNU 2D Erotica Docs** (repository coming soon)
+- - - - [:octocat: `SNU_2D_Erotica_Ethnicities_Docs`](https://github.com/seanpm2001/SNU_2D_Erotica_Ethnicities_Docs/)
+- - - **SNU 2D Porn Docs** (repository coming soon)
+- - - - [:octocat: `SNU_2D_Porn_Ethnicities_Docs`](https://github.com/seanpm2001/SNU_2D_Porn_Ethnicities_Docs/)
+- - [:octocat: `SNU_4D_Docs`](https://github.com/seanpm2001/SNU_4D_Docs/)
+- - [:octocat: `SNU_ProgrammingTools_Docs`](https://github.com/seanpm2001/SNU_ProgrammingTools_Docs/)
 - [:octocat: `StarVS Docs`](https://github.com/seanpm2001/StarVS_Docs/)
 - [:octocat: `Snapshot Version Control System Docs`](https://github.com/seanpm2001/Snapshot-Version-Control-System_Docs/)
 - [:octocat: `SVG Video Docs`](https://github.com/seanpm2001/SVG-Video_Docs/)
 - [:octocat: `SWave Starter Docs`](https://github.com/seanpm2001/SWave-Starter_Docs/)
+
 
 </details> <!-- End of Other documentation hubs: S section, section !-->
 
@@ -924,6 +947,8 @@ _This section is currently empty_
 ***
 
 ### [Miscellaneous documentation hubs and articles](#Miscellaneous-documentation-hubs-and-articles)
+
+<img src="/Graphics/Documentation-Hubs/PNG/hub-icon_2000px.png" alt="Documentation Hubs logo failed to load" title="Documentation Hubs logo" width="256" height="256">
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the Miscellaneous documentation hubs and articles section]</b></p></summary>
 
@@ -1837,6 +1862,8 @@ _Miscellaneous documentation hubs and articles_
 
 ### [Redirect repositories](#Redirect-repositories)
 
+<img src="/Graphics/Redirection/PNG/Redirect-Icon1.png" alt="Redirection icon failed to load" title="Redirection icon" width="256" height="256">
+
 <details open><summary><p><b>[Click/tap here to expand/collapse the Redirect repositories section]</b></p></summary>
 
 _Redirect repositories that link to documentation repositories_
@@ -1877,6 +1904,8 @@ _Redirect repositories that link to documentation repositories_
 
 ## [Linguistics](#Linguistics)
 
+<img src="/Graphics/Linguistics/PNG/LinguisticsIcon1_3D_1920px.png" alt="Linguistics icon failed to load" title="Linguistics icon" width="256" height="256">
+
 <details open><summary><p><b>[Click/tap here to expand/collapse the Linguistics section]</b></p></summary>
 
 _Not to be confused with [programming languages](#Programming-languages)._
@@ -1891,16 +1920,24 @@ _Not to be confused with [programming languages](#Programming-languages)._
 
 <img src="/Graphics/Stylesheet_Icon/StylesheetsIcon1.png" alt="Stylesheet icon failed to load" title="Style guides logo" width="256" height="256">
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the Style guides section]</b></p></summary>
+
 > [:octocat: `@seanpm2001 Manual of Style (MoS)`](https://github.com/seanpm2001/Seanpm2001-Manual-of-Style/)
 
 > [:octocat: `@seanpm2001 Style Guides`](https://github.com/seanpm2001/Seanpm2001-StyleGuides/)
 
 ### [Software tool style guides](#Software-tool-style-guides)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the Software tool style guides subsection]</b></p></summary>
+
 - [:octocat: `@seanpm2001 Fork style guide`](https://github.com/seanpm2001/Seanpm2001_Fork_Style-Guide/)
 - More coming soon
 
+</details> <!-- End of Software tool style guides section !-->
+
 ### [Programming language style guides](#Programming-language-style-guides)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Programming Language style guides subsection]</b></p></summary>
 
 - [:octocat: `@seanpm2001 Boo Style guide`](https://github.com/seanpm2001/Seanpm2001_Boo_Style-Guide/)
 - [:octocat: `@seanpm2001 C Style guide`](https://github.com/seanpm2001/Seanpm2001_C_Style-Guide/)
@@ -1928,11 +1965,17 @@ _Not to be confused with [programming languages](#Programming-languages)._
 - [:octocat: `@seanpm2001 Swift Style guide`](https://github.com/seanpm2001/Seanpm2001_Swift_Style-Guide/)
 - More coming soon
 
+</details> <!-- End of Programming Language style guides section !-->
+
+</details> <!-- End of style guides section !-->
+
 ***
 
 ## [Criticism](#Criticism)
 
-<!-- <img src="" alt="" title="" width="" height=""> !-->
+<img src="/Graphics/Criticism/PNG/WarningSign_256px.png" alt="Criticism icon failed to load" title="Warning sign" width="256" height="256">
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Criticism section]</b></p></summary>
 
 > [:octocat: `Criticism`](https://github.com/seanpm2001/Criticism/)
 
@@ -1945,38 +1988,56 @@ _Not to be confused with [programming languages](#Programming-languages)._
 
 > [:octocat: `Private Criticism Repository #1`](https://github.com/seanpm2001/Criticism-Confidential1/)
 
+</details> <!-- End of Criticism section !-->
+
 ***
 
 ## [Terms](#Terms)
 
-<!-- <img src="" alt="" title="" width="" height=""> !-->
+<img src="/Graphics/Terms/PNG/Dictionary-01-Terms_320px.png" alt="Terms icon failed to load" title="Terms icon" width="256" height="256">
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Terms section]</b></p></summary>
 
 - [:octocat: `Gitzkrieg`](https://github.com/seanpm2001/Gitzkrieg/)
 - [:octocat: `Jobsolete`](https://github.com/seanpm2001/Jobsolete/)
 - [:octocat: `Web -3.0`](https://github.com/seanpm2001/Web-negative-3/)
 
+</details> <!-- End of Terms section !-->
+
 ***
 
 ## [Events](#Events)
 
-<!-- <img src="" alt="" title="" width="" height=""> !-->
+<img src="/Graphics/Events/PNG/calendar-events_512px.png" alt="Events icon failed to load" title="Calendar icon" width="256" height="256">
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Events section]</b></p></summary>
 
 ### [Events in July](#Events-in-July)
 
+<details open><summary><p><b>[Click/tap here to expand/collapse the Events in July subsection]</b></p></summary>
+
 - [:octocat: `Emoji Day`](https://github.com/seanpm2001/Emoji-Day)
 
+</details> <!-- End of Events in July subsection !-->
+
 ### [Events in October](#Events-in-October)
+
+<details open><summary><p><b>[Click/tap here to expand/collapse the Events in October subsection]</b></p></summary>
 
 - [:octocat: `Hacktoberfest`](https://github.com/seanpm2001/Hacktoberfest/)
 - - [:octocat: `Seanpm2001-Hacktoberfest`](https://github.com/seanpm2001/Seanpm2001-Hacktoberfest/)
 - - - Q: Why did you make a Hacktoberfest repository on the last day of (2022) October?
 - - - A: It was on my list of things to do. I was not prepared for Hacktoberfest this year, and I wanted to draw as little attention to this as possible.
 
+</details> <!-- End of Events in October subsection !-->
+
+</details> <!-- End of Events section !-->
+
 ***
 
 ## [Programming languages](#Programming-languages)
 
-<!-- <img src="" alt="" title="" width="" height=""> !-->
+<img src="/Graphics/Programming-Languages/PNG/Programming-Languages_Python_2000px.png" alt="Programming languages icon failed to load" title="Python language logo" width="256" height="256">
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the Programming languages section]</b></p></summary>
 
@@ -2096,6 +2157,8 @@ It is a personal goal to have as few languages as possible, so not all of these 
 
 ## [Git tools](#Git-tools)
 
+<img src="/Graphics/Statistics/PNG/Wrench-icon-512px.png" alt="Git tools icon failed to load" title="Git tools icon" width="256" height="256">
+
 <details open><summary><p><b>[Click/tap here to expand/collapse the Git tools section]</b></p></summary>
 
 - [:octocat: `IGNORE.md file`](https://github.com/seanpm2001/IGNORE_File/)
@@ -2108,6 +2171,8 @@ It is a personal goal to have as few languages as possible, so not all of these 
 
 ## [API](#API)
 
+<img src="/Graphics/API/PNG/api-474px.png" alt="API icon failed to load" title="API icon" width="256" height="256">
+
 <details open><summary><p><b>[Click/tap here to expand/collapse the API section]</b></p></summary>
 
 - [:octocat: `API-2001`](https://github.com/seanpm2001/API-2001/) - My personal API
@@ -2118,9 +2183,13 @@ It is a personal goal to have as few languages as possible, so not all of these 
 
 ## [Statistics](#Statistics)
 
+<img src="/Graphics/Statistics/PNG/Graph-Statistics.png" alt="Statistics icon failed to load" title="Statistics icon" width="256" height="256">
+
 <details open><summary><p><b>[Click/tap here to expand/collapse the Statistics section]</b></p></summary>
 
 ### [Git statistics](#Git-statistics)
+
+<img src="/Graphics/Statistics/PNG/Wrench-icon-512px.png" alt="Software tools icon failed to load" title="Software tools icon" width="256" height="256">
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the Git Statistics section]</b></p></summary>
 
@@ -2149,9 +2218,13 @@ It is a personal goal to have as few languages as possible, so not all of these 
 
 ## [Teams and management](#Teams-and-management)
 
+<img src="/Graphics/Teams/PNG/Teams.png" alt="Teams icon failed to load" title="Teams icon" width="256" height="256">
+
 <details open><summary><p><b>[Click/tap here to expand/collapse the Teams and management section]</b></p></summary>
 
 ### [Git teams](#Git-teams)
+
+<img src="/Graphics/Teams/Unused/PNG/group-of-members-users-icon.png" alt="Teams subicon failed to load" title="Teams subicon" width="256" height="256">
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the Teams and management: Git Teams section]</b></p></summary>
 
@@ -2160,6 +2233,8 @@ It is a personal goal to have as few languages as possible, so not all of these 
 </details> <!-- End of Teams and Management: Git teams section !-->
 
 ### [GitHub teams](#GitHub-Teams)
+
+<img src="/Graphics/Teams/Unused/PNG/group-of-members-users-icon.png" alt="Teams subicon failed to load" title="Teams subicon" width="256" height="256">
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the Teams and management: GitHub Teams section]</b></p></summary>
 
@@ -2171,6 +2246,8 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 </details> <!-- End of Teams and Management: GitHub teams section !-->
 
 ### [General management](#General-management)
+
+<img src="/Graphics/Teams/Unused/PNG/group-of-members-users-icon.png" alt="Teams subicon failed to load" title="Teams subicon" width="256" height="256">
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the Teams and management: General management section]</b></p></summary>
 
@@ -2184,6 +2261,8 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 ***
 
 ## [Personal projects](#Personal-projects)
+
+<img src="/Graphics/Personal-Projects/PNG/Personal-Projects_256px.png" alt="Personal projects icon failed to load" title="Personal projects icon" width="256" height="256">
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the Personal projects section]</b></p></summary>
 
@@ -2210,6 +2289,8 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 ### [Reserved repositories](#Reserved-repositories)
 
+<img src="/Graphics/Reserved/PNG/Reserved-1024px.png" alt="Reserved icon failed to load" title="Reserved repositories icon" width="256" height="256">
+
 <details open><summary><p><b>[Click/tap here to expand/collapse the Reserved repositories section]</b></p></summary>
 
 **Definition**
@@ -2220,11 +2301,15 @@ _Not to be confused with [:octocat: GitHub Teams](https://teams.github.com/)._
 
 ***
 
-## [Former organizations`](#Former-organizations)
+## [Former organizations](#Former-organizations)
+
+<img src="/Graphics/Organizations/PNG/GitHubOrganizationIcon_Custom1.png" alt="GOI icon failed to load" title="Organizations icon" width="256" height="256">
 
 <details><summary><p><b>[Click/tap here to expand/collapse the former organizations section]</b></p></summary>
 
 Repositories will be created for each former organization.
+
+Note: There are no current or former GitHub Enterprises owned/operated by [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
 
 <details open><summary><p><b>[Click/tap here to expand/collapse the list of the former 1000 organizations]</b></p></summary>
 
@@ -4249,12 +4334,12 @@ Progress on this goal (incompleted list)
 <details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
 - **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
-- **File version:** `45 (2023, Thursday, December 28th at 3:00 pm PST)`
-- **Line count (including blank lines and compiler line):** `5,586`
-- **Word count:** `23,668`
-- **Character count (with spaces)** `187,744`
-- **Character count (without spaces)** `168,656`
-- **File size:** `189,560` ***bytes***
+- **File version:** `46 (2023, Friday, December 29th at 03:49 pm PST)`
+- **Line count (including blank lines and compiler line):** `5,720`
+- **Word count:** `24,973`
+- **Character count (with spaces)** `197,021`
+- **Character count (without spaces)** `176,899`
+- **File size:** `198,837` ***bytes***
 - **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 - **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
 - **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
@@ -5516,6 +5601,55 @@ Progress on this goal (incompleted list)
 - [ ] No other changes in version 45
 
 </details> <!-- V45 !-->
+
+---
+
+<details><summary><p lang="en"><b>Version 46 (2023, Friday, December 29th at 03:49 pm PST)</b></p></summary>
+
+- **This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+- **View this version separately:** [`README_V46.md`](/OldVersions/README/English/1/45-100/README_V46.md)
+
+> **Why such a long delay on updating the core documentation repository?**
+
+> **Note** _I gave myself 30 minutes to work on this today (besides the images, which I did yesterday) I added 51 links from the queue. The queue still has 246 entries, which may take up until early 2024 January to finish. Continuing for a 2nd consecutive day_
+
+> Changes:
+
+- [x] Updated the title section to include updated documentation
+- [x] ...
+- - [x] Updated the `Other documentation hubs` subsection <!-- General documentation !-->
+- - - [x] Added many new entries
+- [x] Added images to several entries
+- [x] Updated the `Style Guides` section
+- - [x] Added dropdown support
+- - [x] Added the `Software tool style guides` subsection
+- - - [x] Added dropdown support
+- - [x] Added the `Programming language style guides` subsection
+- - - [x] Added dropdown support
+- [x] Updated the `Criticism` section
+- - [x] Added dropdown support
+- [x] Updated the `Terms` section
+- - [x] Added dropdown support
+- [x] Updated the `Events` section
+- - [x] Updated the `Events in July` subsection
+- - - [x] Added dropdown support
+- - [x] Updated the `Events in October` subsection
+- - - [x] Added dropdown support
+- - [x] Added dropdown support
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- - [x] Updated the word count
+- - [x] Updated the character count (with spaces)
+- - [x] Updated the character count (without spaces)
+- - [x] Updated the byte size
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 46
+- [x] Updated the footer
+- [ ] No other changes in version 46
+
+</details> <!-- V46 !-->
 
 ---
 
