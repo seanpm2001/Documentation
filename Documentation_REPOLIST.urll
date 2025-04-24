@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Tuesday, April 22nd
+//// As of 2025, Wednesday, April 23rd
 
 //// ----------------------------------------------------- \\\\
 //// Documentation Project (?)
@@ -17,89 +17,16 @@
 //// Add entries prior to 2023, September 1st
 //// Sort into categories
 
-https://github.com/seanpm2001/Learn-Ignore-List
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ignore-List
-https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2022_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_7x_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_8x_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008_Docs
-https://github.com/seanpm2001/SoftMicro_Drapes_Server_2012 (use code "maya" for an apocalyptic theme, world ends in 2012)
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2012_Docs
-https://github.com/seanpm2001/SoftMicro_Drapes_Server_2016
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2016_Docs
-https://github.com/seanpm2001/SoftMicro_Drapes_Server_2019
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2019_Docs
 https://github.com/seanpm2001/Silkworm_web_browser_Docs
-https://github.com/seanpm2001/Learn-MiniYAML
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MiniYAML
-https://github.com/seanpm2001/Bliss_Browser_Volt
-https://github.com/seanpm2001/Bliss_Browser_EdgeQL
-https://github.com/seanpm2001/Bliss_Browser_Edge
-https://github.com/seanpm2001/Bliss_Browser_Talon
-https://github.com/seanpm2001/Bliss_Browser_Faust
-https://github.com/seanpm2001/Bliss_Browser_Fennel
-https://github.com/seanpm2001/Bliss_Browser_Imba
-https://github.com/seanpm2001/Bliss_Browser_LigoLANG
-https://github.com/seanpm2001/Learn-NMODL
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NMODL
-https://github.com/seanpm2001/Bliss_Browser_Catrobat
-https://github.com/seanpm2001/Bliss_Browser_CODEOWNERS
-https://github.com/seanpm2001/Bliss_Browser_Frege
-https://github.com/seanpm2001/Bliss_Browser_Grace
-https://github.com/seanpm2001/Bliss_Browser_Sieve
-https://github.com/seanpm2001/Bliss_Browser_Ink
-https://github.com/seanpm2001/Bliss_Browser_LoomScript
-https://github.com/seanpm2001/Bliss_Browser_ObjectScript
-https://github.com/seanpm2001/Learn-NWScript
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NWScript
-https://github.com/seanpm2001/Bliss_Browser_Mint
-https://github.com/seanpm2001/Bliss_Browser_Nit
-https://github.com/seanpm2001/Bliss_Browser_Pan
-https://github.com/seanpm2001/Bliss_Browser_Roc
-https://github.com/seanpm2001/Bliss_Browser_Pep8
-https://github.com/seanpm2001/Bliss_Browser_Rez
-https://github.com/seanpm2001/Bliss_Browser_RBS
-https://github.com/seanpm2001/Bliss_Browser_Jolie
-https://github.com/seanpm2001/Bliss_Browser_IGOR-Pro
-https://github.com/seanpm2001/Bliss_Browser_HOCON
-https://github.com/seanpm2001/Bliss_Browser_Ioke
-https://github.com/seanpm2001/Bliss_Browser_JCL
-https://github.com/seanpm2001/Bliss_Browser_Janet
-https://github.com/seanpm2001/Bliss_Browser_Jison
-https://github.com/seanpm2001/Bliss_Browser_Jison-Lex
-https://github.com/seanpm2001/Bliss_Browser_LSL
-https://github.com/seanpm2001/Bliss_Browser_Luau
-https://github.com/seanpm2001/Bliss_Browser_Opa
-https://github.com/seanpm2001/Bliss_Browser_Ox
-https://github.com/seanpm2001/Bliss_Browser_Oz
-https://github.com/seanpm2001/Bliss_Browser_Pact
-https://github.com/seanpm2001/Bliss_Browser_Redcode
-https://github.com/seanpm2001/Bliss_Browser_Mirah
-https://github.com/seanpm2001/Bliss_Browser_Slint
-https://github.com/seanpm2001/Bliss_Browser_Odin
-https://github.com/seanpm2001/Bliss_Browser_OMGROFL
-https://github.com/seanpm2001/Bliss_Browser_Golo
-https://github.com/seanpm2001/Bliss_Browser_Turtle
-https://github.com/seanpm2001/Learn-Praat
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Praat
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Amazon_Drive
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Degoo
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Dropbox
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Google_Drive
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_MediaFire
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_OneDrive
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_PCloud
-https://github.com/seanpm2001/Learn-Prisma
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Prisma
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_ProtonDrive
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_SNU-Drive
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_SNU
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_WacOS_Cloud
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Yandex_Cloud
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Yandex_Disk
-https://github.com/seanpm2001/SNU_2D_CloudDrive_Plans
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Docs
-https://github.com/seanpm2001/Learn-Promela
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Promela
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Amazon_Drive_Docs
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Degoo_Docs
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Dropbox_Docs
@@ -108,8 +35,6 @@ https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_MediaFire_Docs
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_OneDrive_Docs
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_PCloud_Docs
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_ProtonDrive_Docs
-https://github.com/seanpm2001/Learn-Pyret
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Pyret
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_SNU-Drive_Docs
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_SNU_Docs
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_WacOS_Cloud_Docs
@@ -118,8 +43,6 @@ https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Yandex_Disk_Docs
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Plans_Docs
 https://github.com/seanpm2001/Android-x64_Android5.0_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_5A_Docs
-https://github.com/seanpm2001/Learn-Shen
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Shen
 https://github.com/seanpm2001/Android-x64_Android5.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android5.1_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android5.1_Vanilla_Edition_Docs
@@ -148,8 +71,6 @@ https://github.com/seanpm2001/Android-x64_LiveCD_7B_Docs
 https://github.com/seanpm2001/Android-x64_Android8.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android8.0_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android8.0_Vanilla_Edition_Docs
-https://github.com/seanpm2001/Learn-ATS
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ATS
 https://github.com/seanpm2001/Android-x64_Android8.0_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_8A_Docs
 https://github.com/seanpm2001/Android-x64_Android8.1_LiveCD_Edition_Docs
@@ -158,8 +79,6 @@ https://github.com/seanpm2001/Android-x64_Android8.1_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android8.1_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_8B_Docs
 https://github.com/seanpm2001/Android-x64_Android9.0_LiveCD_Edition_Docs
-https://github.com/seanpm2001/Learn-CameLIGO
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CameLIGO
 https://github.com/seanpm2001/Android-x64_Android9_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android9_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android9_Heavy_Edition_Docs
@@ -168,28 +87,6 @@ https://github.com/seanpm2001/Android-x64_Android10_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android10_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android10_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android10_Heavy_Edition_Docs
-https://github.com/seanpm2001/Learn-Jule
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jule
-https://github.com/seanpm2001/Bliss_Browser_HTTP-Lang
-https://github.com/seanpm2001/Bliss_Browser_SVG
-https://github.com/seanpm2001/Bliss_Browser_EJS
-https://github.com/seanpm2001/Bliss_Browser_HiveQL
-https://github.com/seanpm2001/Bliss_Browser_INI
-https://github.com/seanpm2001/Bliss_Browser_JSON
-https://github.com/seanpm2001/Bliss_Browser_Jupyter-Notebook
-https://github.com/seanpm2001/Bliss_Browser_Pod6
-https://github.com/seanpm2001/Learn-Glimmer-JS
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Glimmer-JS
-https://github.com/seanpm2001/Bliss_Browser_RDoc
-https://github.com/seanpm2001/Bliss_Browser_SQL
-https://github.com/seanpm2001/Bliss_Browser_TSQL
-https://github.com/seanpm2001/Bliss_Browser_XSLT
-https://github.com/seanpm2001/Bliss_Browser_Puppet
-https://github.com/seanpm2001/Bliss_Browser_TeX
-https://github.com/seanpm2001/Bliss_Browser_BibTeX
-https://github.com/seanpm2001/Bliss_Browser_B4X
-https://github.com/seanpm2001/Learn-Glimmer-TS
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Glimmer-TS
 https://github.com/seanpm2001/BlazeOS_Peak_Video_Docs
 https://github.com/seanpm2001/BWS_Hardware_Docs
 https://github.com/seanpm2001/BWS_Hardware_Ice_Docs
@@ -218,28 +115,14 @@ https://github.com/seanpm2001/Android-x64_Android12.1_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android12.1_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android12.1_Heavy_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_12B_Docs
-https://github.com/seanpm2001/Learn-Glyph
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Glyph
-https://github.com/seanpm2001/DMAIL_EmailSamples
 https://github.com/seanpm2001/DMAIL_EmailSamples_Docs
-https://github.com/seanpm2001/DMAIL_ClassicEMail
 https://github.com/seanpm2001/DMAIL_ClassicEMail_Docs
-https://github.com/seanpm2001/EMAIL2_ClassicEMail
 https://github.com/seanpm2001/EMAIL2_ClassicEMail_Docs
-https://github.com/seanpm2001/EMAIL2_Filters_Sieve
 https://github.com/seanpm2001/EMAIL2_Filters_Sieve_Docs
-https://github.com/seanpm2001/Learn-2-Dimensional-Array
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_2-Dimensional-Array
-https://github.com/seanpm2001/DMAIL_Filters_Sieve
 https://github.com/seanpm2001/DMAIL_Filters_Sieve_Docs
-https://github.com/seanpm2001/ProTraApp_GoDot
 https://github.com/seanpm2001/ProTraApp_GoDot_Docs
-https://github.com/seanpm2001/ProTraApp_Love
 https://github.com/seanpm2001/ProTraApp_Love_Docs
-https://github.com/seanpm2001/ProTraApp_Box2D
 https://github.com/seanpm2001/ProTraApp_Box2D_Docs
-https://github.com/seanpm2001/Learn-4D
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_4D
 https://github.com/seanpm2001/Map
 https://github.com/seanpm2001/Maps
 https://github.com/seanpm2001/Design
@@ -248,19 +131,10 @@ https://github.com/seanpm2001/Artifacts
 https://github.com/seanpm2001/License
 https://github.com/seanpm2001/Licenses
 https://github.com/seanpm2001/SBOM2001
-https://github.com/seanpm2001/Learn-Adobe-Font-Metrics
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Adobe-Font-Metrics
-https://github.com/seanpm2001/ProTraApp_Unity
 https://github.com/seanpm2001/ProTraApp_Unity_Docs
-https://github.com/seanpm2001/ProTraApp_UnrealEngine
 https://github.com/seanpm2001/ProTraApp_UnrealEngine_Docs
-https://github.com/seanpm2001/ProTraApp_WebGL
 https://github.com/seanpm2001/ProTraApp_WebGL_Docs
-https://github.com/seanpm2001/ProTraApp_Java
 https://github.com/seanpm2001/ProTraApp_Java_Docs
-https://github.com/seanpm2001/Learn-Alpine-ABuild
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Alpine-ABuild
-https://github.com/seanpm2001/ProTraApp_Python
 https://github.com/seanpm2001/ProTraApp_Python_Docs
 https://github.com/seanpm2001/ProTraApp_Tcl
 https://github.com/seanpm2001/ProTraApp_Tcl_Docs
@@ -4375,8 +4249,8 @@ https://github.com/seanpm2001/Backup-Automation-Built-Bot-Y_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Tuesday, April 22nd at 05:16 pm PST)
-//// Line count (including blank lines and compiler line): 4,383
+//// File version: 2 (2025, Wednesday, April 23rd at 05:51 pm PST)
+//// Line count (including blank lines and compiler line): 4,257
 //// ----------------------------------------------------- \\\\
 
 //// End of file
