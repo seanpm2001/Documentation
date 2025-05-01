@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Tuesday, April 29th
+//// As of 2025, Wednesday, April 30th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (?)
+//// Documentation Project (2,060) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -28,6 +28,9 @@
 //// DEGOOGLE
 //// ARTICLES
 
+//// Unsure
+//// Do Learn repositories count as documentation repositories?
+
 //// TODO
 //// Sort list A-Z
 
@@ -38,8 +41,6 @@ https://github.com/seanpm2001/Maps
 https://github.com/seanpm2001/Design
 https://github.com/seanpm2001/Designs
 https://github.com/seanpm2001/Artifacts
-https://github.com/seanpm2001/License
-https://github.com/seanpm2001/Licenses
 https://github.com/seanpm2001/Packages
 https://github.com/seanpm2001/Games
 https://github.com/seanpm2001/404
@@ -47,6 +48,58 @@ https://github.com/seanpm2001/L10N
 https://github.com/seanpm2001/Dashboard
 https://github.com/seanpm2001/Code-of-Conduct
 https://github.com/seanpm2001/Seanpm2001_Code-of-Conduct
+https://github.com/seanpm2001/GSoD
+https://github.com/seanpm2001/Seanpm2001-GSoD
+https://github.com/seanpm2001/CLI
+https://github.com/seanpm2001/GUI
+https://github.com/seanpm2001/Radio
+https://github.com/seanpm2001/Philanthropy
+https://github.com/seanpm2001/Blog
+https://github.com/seanpm2001/API
+https://github.com/seanpm2001/Logo
+https://github.com/seanpm2001/Meta
+https://github.com/seanpm2001/Logos
+https://github.com/seanpm2001/Labels
+https://github.com/seanpm2001/Erratum
+https://github.com/seanpm2001/Redacted
+https://github.com/seanpm2001/Private
+https://github.com/seanpm2001/Email
+
+//// Licensing and legal
+
+https://github.com/seanpm2001/Legal
+https://github.com/seanpm2001/License
+https://github.com/seanpm2001/Licenses
+https://github.com/seanpm2001/CLA
+
+//// README chunks (rename needed)
+
+https://github.com/seanpm2001/-This-repository
+https://github.com/seanpm2001/-This-repository_Docs
+https://github.com/seanpm2001/-Footer
+https://github.com/seanpm2001/-Footer_Docs
+https://github.com/seanpm2001/-File_Info
+https://github.com/seanpm2001/-File_Info_Docs
+https://github.com/seanpm2001/-File_History
+https://github.com/seanpm2001/-File_History_Docs
+https://github.com/seanpm2001/-Translation_Section
+https://github.com/seanpm2001/-Translation_Section_Docs
+https://github.com/seanpm2001/-Index
+https://github.com/seanpm2001/-Index_Docs
+
+//// The Dictionary
+
+https://github.com/seanpm2001/Web-negative-3
+https://github.com/seanpm2001/Gitzkrieg
+
+//// //// Fedorable
+
+https://github.com/seanpm2001/Fedorable_Docs
+
+//// 4096
+
+https://github.com/seanpm2001/4096_Docs
+https://github.com/seanpm2001/FourThousandNinetySix_Docs
 
 //// Administrative Units
 
@@ -80,6 +133,16 @@ https://github.com/seanpm2001/-Galaxy
 https://github.com/seanpm2001/-Galaxy_Docs
 https://github.com/seanpm2001/_Administration
 https://github.com/seanpm2001/_Administration_Docs
+https://github.com/seanpm2001/-Region
+https://github.com/seanpm2001/-Region_Docs
+https://github.com/seanpm2001/-Planet
+https://github.com/seanpm2001/-Planet_Docs
+https://github.com/seanpm2001/-Republic
+https://github.com/seanpm2001/-Republic_Docs
+https://github.com/seanpm2001/-Municipality
+https://github.com/seanpm2001/-Municipality_Docs
+https://github.com/seanpm2001/-Province
+https://github.com/seanpm2001/-Province_Docs
 
 //// Android x32
 
@@ -236,6 +299,10 @@ https://github.com/seanpm2001/Android-x32x64_LiveCD_13A_Edition_Docs
 https://github.com/seanpm2001/Android-x32x64_LiveCD_14A_Edition_Docs
 https://github.com/seanpm2001/Android-x32x64_LiveCD_15A_Edition_Docs
 
+//// Android x32x64x128
+
+https://github.com/seanpm2001/Android_x32x64x128_Docs
+
 //// Android x64
 
 https://github.com/seanpm2001/Android-x64_Android5.0_Heavy_Edition_Docs
@@ -373,6 +440,8 @@ https://github.com/seanpm2001/Android-x64_Android16.1_Vanilla_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android16.1_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android16.1_LiveCD_Edition_Docs
 https://github.com/seanpm2001/Android-x64_LiveCD_16B_Docs
+https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition_Docs
+https://github.com/seanpm2001/Android-x64_Workspace_Firefox_Docs
 
 //// ARCHIVE: GitHub Pages
 
@@ -382,9 +451,6 @@ https://github.com/seanpm2001/ARCHIVE_AUTOMATE-2001.github.io
 https://github.com/seanpm2001/ARCHIVE_BGemJam-game.github.io
 https://github.com/seanpm2001/ARCHIVE_BluPhone.github.io
 https://github.com/seanpm2001/ARCHIVE_Boom-Bay.github.io
-https://github.com/seanpm2001/CamCamPlus_Datamosh-Filters_Docs
-https://github.com/seanpm2001/CamCamPlus_ASCII-Filters_Docs
-https://github.com/seanpm2001/UniFile_Docs
 https://github.com/seanpm2001/ARCHIVE_Bootdown-dev.github.io
 https://github.com/seanpm2001/ARCHIVE_Bosky-dev.github.io
 https://github.com/seanpm2001/ARCHIVE_CamCamPlus.github.io
@@ -509,6 +575,12 @@ https://github.com/seanpm2001/BlazeOS_ePubStation_Docs
 https://github.com/seanpm2001/BlazeOS_bpage_Docs
 https://github.com/seanpm2001/BlazeOS_Userland_Docs
 https://github.com/seanpm2001/Blazed_Cafe_Docs
+https://github.com/seanpm2001/BlazeOS_Peak_Docs
+https://github.com/seanpm2001/BlAPK_Docs
+
+//// //// B3
+
+https://github.com/seanpm2001/B3_Docs
 
 //// //// BWS
 
@@ -519,9 +591,51 @@ https://github.com/seanpm2001/BWS_IceCube_Docs
 https://github.com/seanpm2001/BWS_IceBlocks_Docs
 https://github.com/seanpm2001/BWS_IceBerg_Docs
 
+//// //// Euphorium
+
+https://github.com/seanpm2001/Euphorium_Docs
+
+//// //// Mobi Dick
+
+https://github.com/seanpm2001/Mobi_Dick_Docs
+
 //// //// Silkworm Web Browser
 
 https://github.com/seanpm2001/Silkworm_web_browser_Docs
+
+//// BlueberryOS
+
+https://github.com/seanpm2001/BlueberryOS_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Calendar
+https://github.com/seanpm2001/BlueberryOS_Packages_Docs
+https://github.com/seanpm2001/BlueberryOS_JVM_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_BlueberryMessenger_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_FileManager_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Maps_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Visual-Voicemail_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Browser_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Market_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Notepad_D*ocs
+https://github.com/seanpm2001/BlueberryOS_Apps_Phone_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Pictures_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Ringtones_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Videos_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Voice-Notes_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Podcasts_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Contacts_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Options_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Messages_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Media_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_SocialFeeds_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Wallpapers_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Weather_Docs
+https://github.com/seanpm2001/BlueberryOS_Desktop_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Clock_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Calculator_Docs
+https://github.com/seanpm2001/BlueberryOS_Apps_Calendar_Docs
+https://github.com/seanpm2001/Black-and-blue-Friday
+https://github.com/seanpm2001/Is-it-Black-and-blue-Friday_Docs
 
 //// Booty
 
@@ -547,6 +661,44 @@ https://github.com/seanpm2001/Booty_OpenGovOS_Docs
 https://github.com/seanpm2001/Booty_LennyOS_Docs
 https://github.com/seanpm2001/Booty_UCALC_Docs
 
+//// CamCamPlus
+
+https://github.com/seanpm2001/CamCamPlus_Hyperslice-Extension_Docs
+https://github.com/seanpm2001/CamCamPlus_AnalogCamera-Extension_Docs
+https://github.com/seanpm2001/CamCamPlus_MoireRate_Docs
+https://github.com/seanpm2001/CamCamPlus_Datamosh-Filters_Docs
+https://github.com/seanpm2001/CamCamPlus_ASCII-Filters_Docs
+
+//// Candroid
+
+https://github.com/seanpm2001/Candroid-Rotate_Docs
+https://github.com/seanpm2001/Candroid-Flashlight_Docs
+https://github.com/seanpm2001/Candroid-Video_Docs
+https://github.com/seanpm2001/Candroid-TV_Docs
+https://github.com/seanpm2001/Candroid-Wallpaper_Docs
+https://github.com/seanpm2001/Candroid-Settings_Docs
+https://github.com/seanpm2001/Candroid-Contacts_Docs
+https://github.com/seanpm2001/Candroid-Calendar_Docs
+https://github.com/seanpm2001/Candroid-Voicemail_Docs
+https://github.com/seanpm2001/Candroid-Clock_Docs
+https://github.com/seanpm2001/Candroid-Camera_Docs
+https://github.com/seanpm2001/Candroid-Browser_Docs
+https://github.com/seanpm2001/Candroid-Photo-Viewer_Docs
+https://github.com/seanpm2001/Candroid-App-Store_Docs
+https://github.com/seanpm2001/Candroid-Battery-Monitor_Docs
+https://github.com/seanpm2001/Candroid-Assistant_Docs
+https://github.com/seanpm2001/Candroid-Market_Docs
+https://github.com/seanpm2001/Candroid-Easter-Egg_Docs
+https://github.com/seanpm2001/Candroid-Debug_Docs
+https://github.com/seanpm2001/Candroid-Phone_Docs
+https://github.com/seanpm2001/Candroid-FileCabinet_Docs
+https://github.com/seanpm2001/Candroid-Keyboard_Docs
+https://github.com/seanpm2001/Candroid-Notepad_Docs
+https://github.com/seanpm2001/Candroid-Mail_Docs
+https://github.com/seanpm2001/Candroid-Calculator_Docs
+https://github.com/seanpm2001/Candroid-Tube_Docs
+https://github.com/seanpm2001/Candroid-Development-Studio_Docs
+
 //// ClosedAI
 
 https://github.com/seanpm2001/ClosedAI
@@ -556,6 +708,24 @@ https://github.com/seanpm2001/ClosedAI_GPT4
 https://github.com/seanpm2001/ClosedAI_DALLE
 https://github.com/seanpm2001/ClosedAI_GPT
 
+//// Collectives
+
+https://github.com/seanpm2001/Framework-collective
+https://github.com/seanpm2001/Core-collective
+https://github.com/seanpm2001/Security-collective
+https://github.com/seanpm2001/Productive-collective
+https://github.com/seanpm2001/Video-game-collective
+https://github.com/seanpm2001/Desktop-Environment-collective
+https://github.com/seanpm2001/Documentation-collective
+https://github.com/seanpm2001/Operating-Systems-collective
+https://github.com/seanpm2001/Web-Browser-collective
+https://github.com/seanpm2001/LIBrary-collective
+https://github.com/seanpm2001/Linguistic-collective
+https://github.com/seanpm2001/Comedy-collective
+https://github.com/seanpm2001/Miscellaneous-collective
+https://github.com/seanpm2001/Collectives
+https://github.com/seanpm2001/Collective
+
 //// Countries
 
 https://github.com/seanpm2001/Countries
@@ -563,6 +733,7 @@ https://github.com/seanpm2001/Belgium
 https://github.com/seanpm2001/Brazil
 https://github.com/seanpm2001/Canada
 https://github.com/seanpm2001/European-Union
+https://github.com/seanpm2001/Finland
 https://github.com/seanpm2001/France
 https://github.com/seanpm2001/Ireland
 https://github.com/seanpm2001/Israel
@@ -619,6 +790,44 @@ https://github.com/seanpm2001/DMAIL_FancyInbox_Docs
 https://github.com/seanpm2001/DMAIL_VRMail_Docs
 https://github.com/seanpm2001/DMAIL_TackleBox_Docs
 
+//// EMAIL 2
+
+https://github.com/seanpm2001/EMAIL_2.0_STMP_File_Docs
+https://github.com/seanpm2001/EMAIL_2.0_MailManager_Docs
+https://github.com/seanpm2001/EMAIL_2.0_PerformanceTest_Docs
+https://github.com/seanpm2001/EMAIL_2.0_MailMapper_Docs
+https://github.com/seanpm2001/EMAIL_2.0_SpamCan_Docs
+https://github.com/seanpm2001/EMAIL_2.0_PostOffice_Docs
+https://github.com/seanpm2001/EMAIL_2.0_VMail_Docs
+https://github.com/seanpm2001/EMAIL_2.0_StampCollection_Docs
+https://github.com/seanpm2001/EMAIL_2.0_Docs
+https://github.com/seanpm2001/EMAIL_2.0_Stamps_Docs
+https://github.com/seanpm2001/EMAIL_2.0_EmailFX_Docs
+https://github.com/seanpm2001/EMAIL_2.0_FancyInbox_Docs
+https://github.com/seanpm2001/EMAIL_2.0_VRMail_Docs
+https://github.com/seanpm2001/EMAIL_2.0_TackleBox_Docs
+https://github.com/seanpm2001/EMAIL-3_Tester_Docs
+https://github.com/seanpm2001/EMAIL_2_Screening_Docs
+https://github.com/seanpm2001/EMAIL_2_Gallery_Docs
+https://github.com/seanpm2001/EMAIL_2_SelfHosting_Docs
+https://github.com/seanpm2001/EMAIL_2_Blackmail_Docs
+https://github.com/seanpm2001/EMAIL_2_AutomationTools_Docs
+https://github.com/seanpm2001/EMAIL_2_VersionControlSystem_Docs
+https://github.com/seanpm2001/EMAIL_2.0_WG_Standardization
+https://github.com/seanpm2001/EMAIL_2.0_WG_Documentation
+https://github.com/seanpm2001/EMAIL_2.0_WG_Graphics
+https://github.com/seanpm2001/EMAIL2_ClassicEMail_Docs
+https://github.com/seanpm2001/EMAIL2_Filters_Sieve_Docs
+
+//// EMAIL -3.0
+
+https://github.com/seanpm2001/EMAIL_-3.0_WG
+https://github.com/seanpm2001/EMAIL_-3.0_WG_Blockchain
+https://github.com/seanpm2001/EMAIL_-3.0_WG_Standardization
+https://github.com/seanpm2001/EMAIL_-3.0_Stamps_Blockchain_Docs
+https://github.com/seanpm2001/EMAIL_-3.0_EmailFX_Blockchain_Docs
+https://github.com/seanpm2001/EMAIL_-3.0_Docs
+
 //// JScribe
 
 https://github.com/seanpm2001/JScribe_Docs
@@ -664,6 +873,40 @@ https://github.com/seanpm2001/LocksmithOS_Users_Docs
 https://github.com/seanpm2001/LocksmithOS_Passkey_Docs
 https://github.com/seanpm2001/LocksmithOS_USB_Docs
 
+//// MailOS
+
+https://github.com/seanpm2001/MailOS_Docs
+https://github.com/seanpm2001/MailOS_Server_Docs
+https://github.com/seanpm2001/MailOS_PostOffice_Docs
+https://github.com/seanpm2001/MailOS_PackageManager_Docs
+https://github.com/seanpm2001/MailOS_Web_Docs
+
+//// NUNIX
+
+https://github.com/seanpm2001/NUNIX_MemoryManager_Docs
+https://github.com/seanpm2001/NUNIX_Ethics_Collective-ConsciousNET_Docs
+https://github.com/seanpm2001/NUNIX-Guidelines_Docs
+https://github.com/seanpm2001/NUNIX_Kernel_Docs
+https://github.com/seanpm2001/NUNIX_MediaEssentials_Literature_Docs
+https://github.com/seanpm2001/NUNIX_SurvivalMode_HungerE_Docs
+https://github.com/seanpm2001/NUNIX_SurvivalMode_Safety_Docs
+https://github.com/seanpm2001/NUNIX_VoiceBox_Docs
+https://github.com/seanpm2001/NUNIX_VoiceBox_AccentBeyond_Docs
+https://github.com/seanpm2001/NUNIX_MediaEssentials_Docs
+https://github.com/seanpm2001/NUNIX_ManuType_Docs
+https://github.com/seanpm2001/NUNIX_NXBClock_Docs
+https://github.com/seanpm2001/NUNIX-Datasets_Docs
+https://github.com/seanpm2001/NUNIX-Programs_Docs
+https://github.com/seanpm2001/NUNIX_Nose_Docs
+https://github.com/seanpm2001/NUNIX_Mouth_Docs
+https://github.com/seanpm2001/NUNIX_HAP_Docs
+https://github.com/seanpm2001/NUNIX-HAP_DreamScene_Docs
+https://github.com/seanpm2001/NUNIX-Ethics_Docs
+
+//// Oh Hi Markdown
+
+https://github.com/seanpm2001/Oh_Hi_MarkDown_Docs
+
 //// PrestigePreview
 
 https://github.com/seanpm2001/PrestigePreview_GoDot
@@ -687,10 +930,66 @@ https://github.com/seanpm2001/PrestigePreview_Tcl_Docs
 https://github.com/seanpm2001/PrestigePreview_Lua
 https://github.com/seanpm2001/PrestigePreview_Lua_Docs
 
+//// ProTraApp
+
+https://github.com/seanpm2001/ProTraApp_GoDot_Docs
+https://github.com/seanpm2001/ProTraApp_Love_Docs
+https://github.com/seanpm2001/ProTraApp_Box2D_Docs
+https://github.com/seanpm2001/ProTraApp_Unity_Docs
+https://github.com/seanpm2001/ProTraApp_UnrealEngine_Docs
+https://github.com/seanpm2001/ProTraApp_WebGL_Docs
+https://github.com/seanpm2001/ProTraApp_Java_Docs
+https://github.com/seanpm2001/ProTraApp_Python_Docs
+https://github.com/seanpm2001/ProTraApp_Tcl
+https://github.com/seanpm2001/ProTraApp_Tcl_Docs
+https://github.com/seanpm2001/ProTraApp_Lua
+https://github.com/seanpm2001/ProTraApp_Lua_Docs
+
 //// SBOM2001
 
 https://github.com/seanpm2001/SBOM2001
 https://github.com/seanpm2001/SBOM2001_Docs
+
+//// SDE
+
+//// //// SDE Merry
+
+https://github.com/seanpm2001/SDE_Parousel_Docs
+https://github.com/seanpm2001/SDE_ADroidCarousel_Docs
+https://github.com/seanpm2001/SDE_Karousel_Docs
+https://github.com/seanpm2001/SDE_Scarousel_Docs
+https://github.com/seanpm2001/SDE_iCarousel_Docs
+https://github.com/seanpm2001/SDE_WebCarousel_Docs
+https://github.com/seanpm2001/SDE_Darousel_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Imager_Docs
+https://github.com/seanpm2001/SDE_DNetCarousel_Docs
+https://github.com/seanpm2001/SDE_PyCarousel_Docs
+https://github.com/seanpm2001/SDE_CCarousel_Docs
+https://github.com/seanpm2001/SDE_Merry_Docs
+
+//// //// SDE MobileServer
+
+https://github.com/seanpm2001/SDE_MobileServer_TestZone_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Android_Docs
+https://github.com/seanpm2001/SDE_MobileServer_FireOS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_iPadOS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_iOS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Ubuntu_Docs
+https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_CraftCMS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Ruffle_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_WordPress_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MediaWiki_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_SNU_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_SMPP_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Jekyll_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_mdBook_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Gatsby_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax_Docs
+https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap_Docs
+https://github.com/seanpm2001/SDE_MobileServer_PluginManager_Docs
 
 //// Seanpm2001 WorldDB
 
@@ -1034,6 +1333,24 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of-th
 
 //// SNU
 
+//// //// SNU 2D Beliefs
+
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Agnosticism_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Christianity_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Atheism_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Buddhism_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Judaism_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Jainism_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Baha-i-ism_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Islam_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Hinduism_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Scientology_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Samaritanism_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Druze_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Sikhism_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Mormonism_Docs
+https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt_Docs
+
 //// //// SNU 2D CloudDrive
 
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Docs
@@ -1051,6 +1368,14 @@ https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_WacOS_Cloud_Docs
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Yandex_Cloud_Docs
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Modes_Yandex_Disk_Docs
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Plans_Docs
+
+//// SNU 2D Erotica
+
+https://github.com/seanpm2001/SNU_2D_Erotica_Ethnicities_Docs
+
+//// SNU 2D Porn
+
+https://github.com/seanpm2001/SNU_2D_Porn_Ethnicities_Docs
 
 //// SoftMicro
 
@@ -1087,6 +1412,10 @@ https://github.com/seanpm2001/SoftMicro_Drapes_9x_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_10x_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_11x_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_12x_Docs
+https://github.com/seanpm2001/Drapes_95_Beta_Docs
+https://github.com/seanpm2001/Drapes_98_Beta_Docs
+https://github.com/seanpm2001/Drapes_2000_Beta_Docs
+https://github.com/seanpm2001/Drapes_3000_Beta_Docs
 
 //// //// SoftMicro Drapes Server
 
@@ -1134,6 +1463,253 @@ https://github.com/seanpm2001/Team8Collection_City_Docs
 https://github.com/seanpm2001/Team8Collection_Restaurant_Docs
 https://github.com/seanpm2001/Team8Collection_Bakery_Docs
 
+//// UniFile
+
+https://github.com/seanpm2001/UniFile_Docs
+
+//// WacOS
+
+
+//// //// Ample Intelligence
+
+https://github.com/seanpm2001/Ample-Intelligence_Docs
+
+//// //// BaSYS
+
+https://github.com/seanpm2001/BaSYS_Docs
+https://github.com/seanpm2001/BaSYS_1_Docs
+https://github.com/seanpm2001/BaSYS_2_Docs
+https://github.com/seanpm2001/BaSYS_3_Docs
+https://github.com/seanpm2001/BaSYS_4_Docs
+https://github.com/seanpm2001/BaSYS_5_Docs
+https://github.com/seanpm2001/BaSYS_6_Docs
+
+//// //// Classic WacOS
+
+https://github.com/seanpm2001/WacOS_7_Docs
+https://github.com/seanpm2001/WacOS_8_Docs
+https://github.com/seanpm2001/WacOS_9_Docs
+
+//// //// OnESTEP
+
+https://github.com/seanpm2001/OnESTEP_Docs
+
+//// //// iCandy
+
+https://github.com/seanpm2001/iCandy_Desktop_Docs
+https://github.com/seanpm2001/iCandy_Mobile_Docs
+https://github.com/seanpm2001/iCandy_TV_Docs
+https://github.com/seanpm2001/iCandy_Wrist_Docs
+https://github.com/seanpm2001/iCandy_Tablet_Docs
+https://github.com/seanpm2001/iCandy_Pod_Docs
+
+//// //// Kiri
+
+https://github.com/seanpm2001/Kiri_Docs
+
+//// //// OpenAPFS
+
+https://github.com/seanpm2001/OpenAPFS_Docs
+
+//// //// OpenCyberdog
+
+https://github.com/seanpm2001/OpenCyberdog_Browser_Docs
+
+//// //// Savannah Browser
+
+https://github.com/seanpm2001/Savannah_Browser_Docs
+
+//// //// Sir Isaac NewtonOS
+
+https://github.com/seanpm2001/SirIsaacNewtonOS_Docs
+https://github.com/seanpm2001/Sir-Isaac-NewtonOS_Docs
+
+//// //// Sir Isaac NewtonScript
+
+https://github.com/seanpm2001/SirIsaacNewtonScript_Docs
+https://github.com/seanpm2001/Sir-Isaac-NewtonScript_Docs
+
+//// //// VisorOS
+
+https://github.com/seanpm2001/VisorOS_Docs
+https://github.com/seanpm2001/VisorOS_1_Docs
+https://github.com/seanpm2001/VisorOS_2_Docs
+
+//// //// WacOS API
+
+https://github.com/seanpm2001/WacOS_API_Docs
+
+//// //// WacOS Apple Picker
+
+https://github.com/seanpm2001/WacOS_Apple-Picker_Docs
+
+//// //// WacOS Apple Valley Picker
+
+https://github.com/seanpm2001/WacOS_Apple-Valley-Picker_Docs
+
+//// //// WacOS Big Cat Picker
+
+https://github.com/seanpm2001/WacOS_Big-Cat-Picker_Docs
+
+//// //// WacOS Classic
+
+https://github.com/seanpm2001/WacOS_Classic_Calculator_Docs
+
+//// //// WacOS DOS Mode
+
+https://github.com/seanpm2001/WacOS_DOSMode_Docs
+https://github.com/seanpm2001/WacOS_DOSMode_4-bit_Docs
+https://github.com/seanpm2001/WacOS_DOSMode_8-bit_Docs
+
+//// //// WacOS M4 Sherman
+
+https://github.com/seanpm2001/WacOS_M4Sherman_Docs
+
+//// //// WacOS Modern
+
+https://github.com/seanpm2001/WacOS_10.12_Docs
+https://github.com/seanpm2001/WacOS_10.13_Docs
+https://github.com/seanpm2001/WacOS_10.14_Docs
+https://github.com/seanpm2001/WacOS_10.15_Docs
+https://github.com/seanpm2001/WacOS_10.16_Docs
+https://github.com/seanpm2001/WacOS_11_Docs
+https://github.com/seanpm2001/WacOS_12_Docs
+https://github.com/seanpm2001/WacOS_13_Docs
+https://github.com/seanpm2001/WacOS_14_Docs
+https://github.com/seanpm2001/WacOS_15_Docs
+https://github.com/seanpm2001/WacOS_Kiri_Docs
+https://github.com/seanpm2001/WacOS_Weather_Docs
+https://github.com/seanpm2001/WacOS_Calculator_Docs
+https://github.com/seanpm2001/WacOS_Cloud_Docs
+
+//// //// WacOS X
+
+https://github.com/seanpm2001/WacOS_X_Public-Beta_Docs
+https://github.com/seanpm2001/WacOS_X_10.0_Docs
+https://github.com/seanpm2001/WacOS_X_10.1_Docs
+https://github.com/seanpm2001/WacOS_X_10.2_Docs
+https://github.com/seanpm2001/WacOS_X_10.3_Docs
+https://github.com/seanpm2001/WacOS_X_10.4_Docs
+https://github.com/seanpm2001/WacOS_X_10.5_Docs
+https://github.com/seanpm2001/WacOS_X_10.6_Docs
+https://github.com/seanpm2001/WacOS_X_10.7_Docs
+https://github.com/seanpm2001/WacOS-X_Docs
+https://github.com/seanpm2001/WacOS_X_Calculator_Docs
+
+//// //// WacOS In Ease
+
+https://github.com/seanpm2001/WacOS_In-Ease_Docs
+
+//// //// WacOS OpenGS
+
+https://github.com/seanpm2001/WacOS_OpenGS_Docs
+
+//// //// WacOS OpenHFS
+
+https://github.com/seanpm2001/WacOS_OpenHFS_Docs
+
+//// //// WacPaint
+
+https://github.com/seanpm2001/Wac-Paint_Docs
+https://github.com/seanpm2001/WacPaint_Docs
+
+//// //// WacOS WAMMY
+
+https://github.com/seanpm2001/WacOS_WAMMY_Docs
+
+//// //// WacTVOS
+
+https://github.com/seanpm2001/WacTVOS_Docs
+https://github.com/seanpm2001/WacTVOS_1_Docs
+https://github.com/seanpm2001/WacTVOS_2_Docs
+https://github.com/seanpm2001/WacTVOS_3_Docs
+https://github.com/seanpm2001/WacTVOS_4_Docs
+https://github.com/seanpm2001/WacTVOS_5_Docs
+https://github.com/seanpm2001/WacTVOS_6_Docs
+https://github.com/seanpm2001/WacTVOS_7_Docs
+https://github.com/seanpm2001/WacTVOS_8_Docs
+https://github.com/seanpm2001/WacTVOS_9_Docs
+https://github.com/seanpm2001/WacTVOS_10_Docs
+https://github.com/seanpm2001/WacTVOS_11_Docs
+https://github.com/seanpm2001/WacTVOS_12_Docs
+https://github.com/seanpm2001/WacTVOS_13_Docs
+https://github.com/seanpm2001/WacTVOS_14_Docs
+https://github.com/seanpm2001/WacTVOS_15_Docs
+https://github.com/seanpm2001/WacTVOS_16_Docs
+https://github.com/seanpm2001/WacTVOS_Calculator_Docs
+
+//// //// WacWrite
+
+https://github.com/seanpm2001/Wac-Write_Docs
+https://github.com/seanpm2001/WacWrite_Docs
+
+//// //// WhyPadOS
+
+https://github.com/seanpm2001/whyPadOS_13_Docs
+https://github.com/seanpm2001/whyPadOS_14_Docs
+https://github.com/seanpm2001/whyPadOS_15_Docs
+https://github.com/seanpm2001/whyPadOS_16_Docs
+https://github.com/seanpm2001/whyPadOS_18_Docs
+https://github.com/seanpm2001/WhyPadOS_Docs
+https://github.com/seanpm2001/WhyPadOS_Compass_Docs
+https://github.com/seanpm2001/WhyPadOS_Kiri_Docs
+https://github.com/seanpm2001/WhyPadOS_Calculator_Docs
+https://github.com/seanpm2001/WhyPadOS_Weather_Docs
+
+//// //// WhyPhoneOS
+
+https://github.com/seanpm2001/whyPhoneOS_1_Docs
+https://github.com/seanpm2001/whyPhoneOS_2_Docs
+https://github.com/seanpm2001/whyPhoneOS_3_Docs
+https://github.com/seanpm2001/WhyPhoneOS_Docs
+https://github.com/seanpm2001/WhyPhoneOS_Kiri_Docs
+https://github.com/seanpm2001/whyPhoneOS_Weather_Docs
+
+//// //// WhyWatchOS
+
+https://github.com/seanpm2001/WhyWatchOS_Docs
+https://github.com/seanpm2001/whyWatchOS_1_Docs
+https://github.com/seanpm2001/whyWatchOS_2_Docs
+https://github.com/seanpm2001/whyWatchOS_3_Docs
+https://github.com/seanpm2001/whyWatchOS_4_Docs
+https://github.com/seanpm2001/whyWatchOS_5_Docs
+https://github.com/seanpm2001/whyWatchOS_6_Docs
+https://github.com/seanpm2001/whyWatchOS_7_Docs
+https://github.com/seanpm2001/whyWatchOS_8_Docs
+https://github.com/seanpm2001/whyWatchOS_9_Docs
+https://github.com/seanpm2001/whyWatchOS_10_Docs
+https://github.com/seanpm2001/whyWatchOS_11_Docs
+https://github.com/seanpm2001/WhyWatchOS_Compass_Docs
+https://github.com/seanpm2001/WhyWatchOS_Kiri_Docs
+https://github.com/seanpm2001/whyWatchOS_Weather_Docs
+https://github.com/seanpm2001/WhyWatchOS_Calculator_Docs
+
+//// //// WOAHS X
+
+https://github.com/seanpm2001/WOAHS_X_10.8_Docs
+https://github.com/seanpm2001/WOAHS_X_10.9_Docs
+https://github.com/seanpm2001/WOAHS_X_10.10_Docs
+https://github.com/seanpm2001/WOAHS_X_10.11_Docs
+https://github.com/seanpm2001/WOAHS-X_Docs
+https://github.com/seanpm2001/WOAHS-X_Calculator_Docs
+//// //// wOS
+
+https://github.com/seanpm2001/wOS_Docs
+https://github.com/seanpm2001/wOS_4_Docs
+https://github.com/seanpm2001/wOS_5_Docs
+https://github.com/seanpm2001/wOS_6_Docs
+https://github.com/seanpm2001/wOS_7_Docs
+https://github.com/seanpm2001/wOS_10_Docs
+https://github.com/seanpm2001/wOS_11_Docs
+https://github.com/seanpm2001/wOS_12_Docs
+https://github.com/seanpm2001/wOS_13_Docs
+https://github.com/seanpm2001/wOS_14_Docs
+https://github.com/seanpm2001/wOS_15_Docs
+https://github.com/seanpm2001/wOS_16_Docs
+https://github.com/seanpm2001/wOS_18_Docs
+https://github.com/seanpm2001/wOS_Compass_Docs
+https://github.com/seanpm2001/wOS_Calculator_Docs
+
 //// WinWalla
 
 https://github.com/seanpm2001/WinWalla_Docs
@@ -1156,23 +1732,6 @@ https://github.com/seanpm2001/2025
 //// TODO Data as of 2025, April 29th
 
 https://github.com/seanpm2001/SeansLifeArchive_Extras_Journal-Calendar_Docs
-https://github.com/seanpm2001/NUNIX_Ethics_Collective-ConsciousNET_Docs
-https://github.com/seanpm2001/EMAIL2_ClassicEMail_Docs
-https://github.com/seanpm2001/EMAIL2_Filters_Sieve_Docs
-https://github.com/seanpm2001/ProTraApp_GoDot_Docs
-https://github.com/seanpm2001/ProTraApp_Love_Docs
-https://github.com/seanpm2001/ProTraApp_Box2D_Docs
-https://github.com/seanpm2001/ProTraApp_Unity_Docs
-https://github.com/seanpm2001/ProTraApp_UnrealEngine_Docs
-https://github.com/seanpm2001/ProTraApp_WebGL_Docs
-https://github.com/seanpm2001/ProTraApp_Java_Docs
-https://github.com/seanpm2001/ProTraApp_Python_Docs
-https://github.com/seanpm2001/ProTraApp_Tcl
-https://github.com/seanpm2001/ProTraApp_Tcl_Docs
-https://github.com/seanpm2001/ProTraApp_Lua
-https://github.com/seanpm2001/ProTraApp_Lua_Docs
-https://github.com/seanpm2001/-This-repository
-https://github.com/seanpm2001/-This-repository_Docs
 https://github.com/seanpm2001/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V1
 https://github.com/seanpm2001/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V2
 https://github.com/seanpm2001/SeansLifeArchive_Images_ModernSmurfsVillage_Y2025_V3
@@ -1183,12 +1742,8 @@ https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory_Y202
 https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory_Y2025_V4
 https://github.com/seanpm2001/UCALC_Games_Mad-Business_Docs
 https://github.com/seanpm2001/Meadows_Icon-Glossary_Docs
-https://github.com/seanpm2001/CamCamPlus_Hyperslice-Extension_Docs
-https://github.com/seanpm2001/CamCamPlus_AnalogCamera-Extension_Docs
 https://github.com/seanpm2001/ReverseFallacy_Docs
-https://github.com/seanpm2001/Candroid-Development-Studio_Docs
 https://github.com/seanpm2001/Bliss_Browser_Report-Broken-Site_Docs
-https://github.com/seanpm2001/CamCamPlus_MoireRate_Docs
 https://github.com/seanpm2001/OpenGovOS_Docs
 https://github.com/seanpm2001/SNU_Account_Fail2Ban_Docs
 https://github.com/seanpm2001/Bliss-Browser_InternetMode_Docs
@@ -1252,38 +1807,23 @@ https://github.com/seanpm2001/Spokane-Washington
 https://github.com/seanpm2001/vCoin_Docs
 https://github.com/seanpm2001/iCoin_Docs
 https://github.com/seanpm2001/PikeHeader_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Agnosticism_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Christianity_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Atheism_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Buddhism_Docs
-https://github.com/seanpm2001/Android_x32x64x128_Docs
 https://github.com/seanpm2001/DALL-E_LLaMA_Docs
 https://github.com/seanpm2001/Open-Media-Rating-System_Docs
 https://github.com/seanpm2001/OMRS_Docs
 https://github.com/seanpm2001/Open-Media-Rating-System_Database_Docs
-https://github.com/seanpm2001/Android-x64_Workspace_Firefox_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Jainism_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Baha-i-ism_Docs
 https://github.com/seanpm2001/AZWS_Encryption_Docs
 https://github.com/seanpm2001/IsraeLinux_Docs
 https://github.com/seanpm2001/CMilk_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Judaism_Docs
 https://github.com/seanpm2001/AI-Generated-Video-Games
 https://github.com/seanpm2001/AI-Generated-Books
 https://github.com/seanpm2001/AI-Generated-Movies
 https://github.com/seanpm2001/AI-Generated-Software
 https://github.com/seanpm2001/AI-Generated-AI
 https://github.com/seanpm2001/SNU_2D_CloudDrive_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Islam_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Hinduism_Docs
 https://github.com/seanpm2001/uOffice_Spreaded_Docs
 https://github.com/seanpm2001/uOffice_Data-Complex_Docs
 https://github.com/seanpm2001/uOffice_Presentation_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Scientology_Docs
-https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition_Docs
 https://github.com/seanpm2001/UCALC_Calc-Mode_Greater-than-with-decimals_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Samaritanism_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Druze_Docs
 https://github.com/seanpm2001/Monty.py_Docs
 https://github.com/seanpm2001/Seanpm2001-ProtonDrive
 https://github.com/seanpm2001/Seanpm2001-ProtonVPN
@@ -1309,12 +1849,8 @@ https://github.com/seanpm2001/ProtonAccount
 https://github.com/seanpm2001/ProtonPass
 https://github.com/seanpm2001/GMail
 https://github.com/seanpm2001/Google-Play
-https://github.com/seanpm2001/Legal
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Sikhism_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Mormonism_Docs
 https://github.com/seanpm2001/Android-x64_Android5.0_DeGoogled_Edition_Docs
 https://github.com/seanpm2001/Android-x64_Android5.0_Vanilla_Edition_Docs
-https://github.com/seanpm2001/SNU_2D_Beliefs_Category_Cult.Ancient-Egypt_Docs
 https://github.com/seanpm2001/r-seanpm2001_Docs
 https://github.com/seanpm2001/AcroSlideXLIBrary_Docs
 https://github.com/seanpm2001/SlideXMagic_Docs
@@ -1373,7 +1909,6 @@ https://github.com/seanpm2001/Seanpm2001-Telegram
 https://github.com/seanpm2001/CodeDotOrg
 https://github.com/seanpm2001/SeanWallaWalla-CodeDotOrg
 https://github.com/seanpm2001/Seanpm2001-CodeDotOrg
-https://github.com/seanpm2001/Is-it-Black-and-blue-Friday_Docs
 https://github.com/seanpm2001/ALEKS
 https://github.com/seanpm2001/SeanWallaWalla-ALEKS
 https://github.com/seanpm2001/Seanpm2001-ALEKS
@@ -1421,8 +1956,6 @@ https://github.com/seanpm2001/Seanpm2001-NitroType
 https://github.com/seanpm2001/Seanpm2001-Happy-Wheels
 https://github.com/seanpm2001/Seanpm2001-Growtopia
 https://github.com/seanpm2001/Seanpm2001-Club-Penguin
-https://github.com/seanpm2001/Finland
-https://github.com/seanpm2001/Collective
 https://github.com/seanpm2001/VRBO
 https://github.com/seanpm2001/Seanpm2001-VRBO
 https://github.com/seanpm2001/ProtonMail
@@ -1431,31 +1964,11 @@ https://github.com/seanpm2001/Amazon
 https://github.com/seanpm2001/Seanpm2001-Amazon
 https://github.com/seanpm2001/Outlook
 https://github.com/seanpm2001/Seanpm2001-Outlook
-https://github.com/seanpm2001/Philanthropy
-https://github.com/seanpm2001/Blog
-https://github.com/seanpm2001/API
 https://github.com/seanpm2001/Seanpm2001-Languages
 https://github.com/seanpm2001/Seanpm2001-BitBucket
 https://github.com/seanpm2001/Seanpm2001-Philanthropy
 https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_PBS-Kids_Docs
-https://github.com/seanpm2001/-Planet
-https://github.com/seanpm2001/-Planet_Docs
-https://github.com/seanpm2001/NUNIX-Guidelines_Docs
-https://github.com/seanpm2001/NUNIX_Kernel_Docs
-https://github.com/seanpm2001/NUNIX_MediaEssentials_Literature_Docs
-https://github.com/seanpm2001/-Region
-https://github.com/seanpm2001/-Region_Docs
-https://github.com/seanpm2001/NUNIX_SurvivalMode_HungerE_Docs
-https://github.com/seanpm2001/NUNIX_SurvivalMode_Safety_Docs
-https://github.com/seanpm2001/-Republic
-https://github.com/seanpm2001/-Republic_Docs
-https://github.com/seanpm2001/NUNIX_VoiceBox_Docs
-https://github.com/seanpm2001/NUNIX_VoiceBox_AccentBeyond_Docs
 https://github.com/seanpm2001/PNCE
-https://github.com/seanpm2001/-Municipality
-https://github.com/seanpm2001/-Municipality_Docs
-https://github.com/seanpm2001/-Province
-https://github.com/seanpm2001/-Province_Docs
 https://github.com/seanpm2001/PNCE_Docs
 https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_ABC_Docs
 https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_NBC_Docs
@@ -1463,43 +1976,8 @@ https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_CBS_Docs
 https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_BBC_Docs
 https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_DIY-Network_Docs
 https://github.com/seanpm2001/Bliss-Browser_WebRTC_Docs
-https://github.com/seanpm2001/wOS_18_Docs
-https://github.com/seanpm2001/whyPadOS_18_Docs
-https://github.com/seanpm2001/WacOS_15_Docs
 https://github.com/seanpm2001/Tone-Indicator-Standard_Docs
-https://github.com/seanpm2001/VisorOS_Docs
-https://github.com/seanpm2001/VisorOS_1_Docs
-https://github.com/seanpm2001/VisorOS_2_Docs
-https://github.com/seanpm2001/whyWatchOS_11_Docs
-https://github.com/seanpm2001/Ample-Intelligence_Docs
-https://github.com/seanpm2001/GSoD
-https://github.com/seanpm2001/Seanpm2001-GSoD
-https://github.com/seanpm2001/CLI
-https://github.com/seanpm2001/GUI
 https://github.com/seanpm2001/GitHex_Docs
-https://github.com/seanpm2001/iCandy_Desktop_Docs
-https://github.com/seanpm2001/iCandy_Mobile_Docs
-https://github.com/seanpm2001/iCandy_TV_Docs
-https://github.com/seanpm2001/iCandy_Wrist_Docs
-https://github.com/seanpm2001/iCandy_Tablet_Docs
-https://github.com/seanpm2001/iCandy_Pod_Docs
-https://github.com/seanpm2001/SDE_Parousel_Docs
-https://github.com/seanpm2001/SDE_ADroidCarousel_Docs
-https://github.com/seanpm2001/SDE_Karousel_Docs
-https://github.com/seanpm2001/SDE_Scarousel_Docs
-https://github.com/seanpm2001/SDE_iCarousel_Docs
-https://github.com/seanpm2001/SDE_WebCarousel_Docs
-https://github.com/seanpm2001/SDE_Darousel_Docs
-https://github.com/seanpm2001/-Footer
-https://github.com/seanpm2001/-Footer_Docs
-https://github.com/seanpm2001/-File_Info
-https://github.com/seanpm2001/-File_Info_Docs
-https://github.com/seanpm2001/-File_History
-https://github.com/seanpm2001/-File_History_Docs
-https://github.com/seanpm2001/-Translation_Section
-https://github.com/seanpm2001/-Translation_Section_Docs
-https://github.com/seanpm2001/-Index
-https://github.com/seanpm2001/-Index_Docs
 https://github.com/seanpm2001/Santa-Software-Suite_Elf_Docs
 https://github.com/seanpm2001/World-Census-Project_Docs
 https://github.com/seanpm2001/Meadows_Progress-Bar-LIBrary_Docs
@@ -1513,26 +1991,17 @@ https://github.com/seanpm2001/Blue_Dentures_Docs
 https://github.com/seanpm2001/BitChecker_Docs
 https://github.com/seanpm2001/DOS-Buddy_Docs
 https://github.com/seanpm2001/SourceBase_Docs
-https://github.com/seanpm2001/NUNIX_MediaEssentials_Docs
 https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UltraCompass_Docs
 https://github.com/seanpm2001/Why-you-should-avoid-Google-Protocol-Buffers
 https://github.com/seanpm2001/Why-you-should-avoid-Google-Mojom
 https://github.com/seanpm2001/MyrickFamilyArchive_Docs
 https://github.com/seanpm2001/Unblur_Tool_Docs
-https://github.com/seanpm2001/EMAIL_2.0_WG_Standardization
-https://github.com/seanpm2001/EMAIL_2.0_WG_Documentation
-https://github.com/seanpm2001/EMAIL_2.0_WG_Graphics
 https://github.com/seanpm2001/Googler_Truce
 https://github.com/seanpm2001/SociaShame_Docs
 https://github.com/seanpm2001/Timeout-Toolkit_Docs
-https://github.com/seanpm2001/SNU_2D_Erotica_Ethnicities_Docs
-https://github.com/seanpm2001/SNU_2D_Porn_Ethnicities_Docs
 https://github.com/seanpm2001/WebM-to-NetV_Docs
-https://github.com/seanpm2001/WacPaint_Docs
-https://github.com/seanpm2001/WacWrite_Docs
 https://github.com/seanpm2001/Doorcrete_Docs
-https://github.com/seanpm2001/Kiri_Docs
 https://github.com/seanpm2001/FBI_Roleplay_Simulator_Docs
 https://github.com/seanpm2001/Health-Meter-Maximum_Docs
 https://github.com/seanpm2001/DeciCube_Docs
@@ -1541,13 +2010,11 @@ https://github.com/seanpm2001/Region-related-software
 https://github.com/seanpm2001/UltraSwitch_Docs
 https://github.com/seanpm2001/LapLight_Docs
 https://github.com/seanpm2001/3D-Webpage-Inspector_Docs
-https://github.com/seanpm2001/EMAIL_2_VersionControlSystem_Docs
 https://github.com/seanpm2001/Meadows-MetroMEM_Docs
 https://github.com/seanpm2001/LinuxAteMyRAMApp_Docs
 https://github.com/seanpm2001/Kevin-MacLeod_SoftwareRadioLIBrary_Docs
 https://github.com/seanpm2001/TuxBot-OperatingSystem_Docs
 https://github.com/seanpm2001/App-Backpack_Docs
-https://github.com/seanpm2001/EMAIL_2_AutomationTools_Docs
 https://github.com/seanpm2001/BlueCalm_Docs
 https://github.com/seanpm2001/Branch-Ranch_Docs
 https://github.com/seanpm2001/Numeric-Liberation-Front_Docs
@@ -1561,17 +2028,10 @@ https://github.com/seanpm2001/Meadows_Character_Manager_Docs
 https://github.com/seanpm2001/Seanpm2001_Fork_Style-Guide
 https://github.com/seanpm2001/Seanpm2001_Ruby_Style-Guide
 https://github.com/seanpm2001/Seanpm2001_Python_Style-Guide
-https://github.com/seanpm2001/Web-negative-3
-https://github.com/seanpm2001/EMAIL_2_Blackmail_Docs
-https://github.com/seanpm2001/Gitzkrieg
 https://github.com/seanpm2001/DLLinux_Docs
-https://github.com/seanpm2001/Logos
 https://github.com/seanpm2001/Seanpm2001-Government_Docs
 https://github.com/seanpm2001/MEDOS_HDD_Docs
-https://github.com/seanpm2001/Logo
-https://github.com/seanpm2001/Meta
 https://github.com/seanpm2001/Motor-Universe-Open-Factory_Docs
-https://github.com/seanpm2001/EMAIL_2_SelfHosting_Docs
 https://github.com/seanpm2001/HasItBeenDone_Docs
 https://github.com/seanpm2001/NimbleByte_Docs
 https://github.com/seanpm2001/MEDOS_SSD_Docs
@@ -1584,212 +2044,58 @@ https://github.com/seanpm2001/MetroTechno_Crosswalk_Docs
 https://github.com/seanpm2001/Bliss_Browser_TabNab_Docs
 https://github.com/seanpm2001/OuterVM_Docs
 https://github.com/seanpm2001/Meadows-Battery-Diagnostics-Tool_Docs
-https://github.com/seanpm2001/NUNIX_ManuType_Docs
 https://github.com/seanpm2001/Seanpm2001-Manual-of-Style
 https://github.com/seanpm2001/Seanpm2001_C_Style-Guide
-https://github.com/seanpm2001/BaSYS_1_Docs
-https://github.com/seanpm2001/BaSYS_2_Docs
 https://github.com/seanpm2001/ImageVS_Docs
 https://github.com/seanpm2001/Seanpm2001_CPlusPlus_Style-Guide
-https://github.com/seanpm2001/BaSYS_3_Docs
-https://github.com/seanpm2001/BaSYS_4_Docs
 https://github.com/seanpm2001/PNGVS_Docs
 https://github.com/seanpm2001/Seanpm2001_Java_Style-Guide
-https://github.com/seanpm2001/BaSYS_5_Docs
-https://github.com/seanpm2001/BaSYS_6_Docs
 https://github.com/seanpm2001/SVGVS_Docs
 https://github.com/seanpm2001/Seanpm2001_Perl_Style-Guide
-https://github.com/seanpm2001/WacOS_7_Docs
-https://github.com/seanpm2001/WacOS_8_Docs
 https://github.com/seanpm2001/GIFVS
 https://github.com/seanpm2001/GIFVS_Docs
 https://github.com/seanpm2001/Seanpm2001_D_Style-Guide
-https://github.com/seanpm2001/WacOS_9_Docs
-https://github.com/seanpm2001/WacOS_X_Public-Beta_Docs
 https://github.com/seanpm2001/JPEGVS_Docs
-https://github.com/seanpm2001/WacOS_X_10.0_Docs
-https://github.com/seanpm2001/WacOS_X_10.1_Docs
 https://github.com/seanpm2001/TIFVS_Docs
 https://github.com/seanpm2001/Seanpm2001_Nim_Style-Guide
-https://github.com/seanpm2001/WacOS_X_10.2_Docs
-https://github.com/seanpm2001/WacOS_X_10.3_Docs
 https://github.com/seanpm2001/BMPVS_Docs
 https://github.com/seanpm2001/Seanpm2001_R_Style-Guide
-https://github.com/seanpm2001/WacOS_X_10.4_Docs
-https://github.com/seanpm2001/WacOS_X_10.5_Docs
 https://github.com/seanpm2001/HEIFVS_Docs
 https://github.com/seanpm2001/Seanpm2001_HTML_Style-Guide
-https://github.com/seanpm2001/WacOS_X_10.6_Docs
-https://github.com/seanpm2001/WacOS_X_10.7_Docs
 https://github.com/seanpm2001/JP2VS_Docs
 https://github.com/seanpm2001/Seanpm2001_JavaScript_Style-Guide
-https://github.com/seanpm2001/WOAHS_X_10.8_Docs
-https://github.com/seanpm2001/WOAHS_X_10.9_Docs
 https://github.com/seanpm2001/NETPVS_Docs
 https://github.com/seanpm2001/Seanpm2001_Elixir_Style-Guide
-https://github.com/seanpm2001/WOAHS_X_10.10_Docs
-https://github.com/seanpm2001/WOAHS_X_10.11_Docs
 https://github.com/seanpm2001/WEBPVS_Docs
 https://github.com/seanpm2001/Seanpm2001_Julia_Style-Guide
-https://github.com/seanpm2001/WacOS_10.12_Docs
-https://github.com/seanpm2001/WacOS_10.13_Docs
 https://github.com/seanpm2001/FolderArtist_Docs
 https://github.com/seanpm2001/Seanpm2001_Rust_Style-Guide
-https://github.com/seanpm2001/WacOS_10.14_Docs
-https://github.com/seanpm2001/WacOS_10.15_Docs
 https://github.com/seanpm2001/Seanpm2001_Shell_Style-Guide
 https://github.com/seanpm2001/Seanpm2001_PHP_Style-Guide
 https://github.com/seanpm2001/Seanpm2001_Raku_Style-Guide
-https://github.com/seanpm2001/WacOS_10.16_Docs
-https://github.com/seanpm2001/WacOS_11_Docs
 https://github.com/seanpm2001/Seanpm2001_Boo_Style-Guide
 https://github.com/seanpm2001/Seanpm2001_Scala_Style-Guide
 https://github.com/seanpm2001/Seanpm2001_Red_Style-Guide
-https://github.com/seanpm2001/WacOS_12_Docs
-https://github.com/seanpm2001/WacOS_13_Docs
 https://github.com/seanpm2001/Seanpm2001_Swift_Style-Guide
 https://github.com/seanpm2001/Seanpm2001_Haskell_Style-Guide
 https://github.com/seanpm2001/Seanpm2001_Pascal_Style-Guide
-https://github.com/seanpm2001/WacOS_14_Docs
-https://github.com/seanpm2001/whyPhoneOS_1_Docs
 https://github.com/seanpm2001/KornHub_Docs
 https://github.com/seanpm2001/Seanpm2001-StyleGuides
-https://github.com/seanpm2001/whyPhoneOS_2_Docs
-https://github.com/seanpm2001/whyPhoneOS_3_Docs
 https://github.com/seanpm2001/Criticism-of-AmazonCompany
 https://github.com/seanpm2001/Criticism-of-AppleInc
-https://github.com/seanpm2001/wOS_4_Docs
-https://github.com/seanpm2001/wOS_5_Docs
 https://github.com/seanpm2001/SafeWINE_Docs
-https://github.com/seanpm2001/Erratum
-https://github.com/seanpm2001/wOS_10_Docs
-https://github.com/seanpm2001/wOS_11_Docs
 https://github.com/seanpm2001/GitAttributes-Collection
-https://github.com/seanpm2001/wOS_12_Docs
-https://github.com/seanpm2001/wOS_13_Docs
-https://github.com/seanpm2001/Redacted
-https://github.com/seanpm2001/wOS_14_Docs
-https://github.com/seanpm2001/wOS_15_Docs
-https://github.com/seanpm2001/Private
 https://github.com/seanpm2001/Saltine-Cracker-Award
-https://github.com/seanpm2001/wOS_16_Docs
-https://github.com/seanpm2001/whyPadOS_13_Docs
-https://github.com/seanpm2001/whyPadOS_16_Docs
-https://github.com/seanpm2001/SirIsaacNewtonOS_Docs
-https://github.com/seanpm2001/WacOS_OpenGS_Docs
-https://github.com/seanpm2001/SirIsaacNewtonScript_Docs
 https://github.com/seanpm2001/Seanpm2001_Markdown_Style-Guide
-https://github.com/seanpm2001/OnESTEP_Docs
-https://github.com/seanpm2001/Wac-Paint_Docs
-https://github.com/seanpm2001/Wac-Write_Docs
-https://github.com/seanpm2001/Labels
-https://github.com/seanpm2001/BlueberryOS_Docs
-https://github.com/seanpm2001/whyWatchOS_1_Docs
-https://github.com/seanpm2001/whyWatchOS_2_Docs
-https://github.com/seanpm2001/whyWatchOS_3_Docs
-https://github.com/seanpm2001/whyWatchOS_4_Docs
-https://github.com/seanpm2001/whyWatchOS_7_Docs
-https://github.com/seanpm2001/whyWatchOS_8_Docs
-https://github.com/seanpm2001/whyWatchOS_9_Docs
-https://github.com/seanpm2001/whyWatchOS_10_Docs
-https://github.com/seanpm2001/MailOS_Docs
-https://github.com/seanpm2001/WacTVOS_1_Docs
-https://github.com/seanpm2001/WacTVOS_2_Docs
-https://github.com/seanpm2001/WacTVOS_3_Docs
-https://github.com/seanpm2001/WacTVOS_4_Docs
-https://github.com/seanpm2001/WacTVOS_5_Docs
-https://github.com/seanpm2001/WacTVOS_6_Docs
-https://github.com/seanpm2001/WacTVOS_7_Docs
-https://github.com/seanpm2001/WacTVOS_8_Docs
 https://github.com/seanpm2001/VRedroomOS_Docs
-https://github.com/seanpm2001/WacTVOS_9_Docs
-https://github.com/seanpm2001/WacTVOS_10_Docs
-https://github.com/seanpm2001/WacTVOS_11_Docs
-https://github.com/seanpm2001/WacTVOS_12_Docs
-https://github.com/seanpm2001/WacTVOS_13_Docs
-https://github.com/seanpm2001/WacTVOS_14_Docs
-https://github.com/seanpm2001/WacTVOS_15_Docs
-https://github.com/seanpm2001/WacTVOS_16_Docs
-https://github.com/seanpm2001/WacOS_M4Sherman_Docs
-https://github.com/seanpm2001/WacOS_DOSMode_Docs
-https://github.com/seanpm2001/WacOS_DOSMode_4-bit_Docs
-https://github.com/seanpm2001/WacOS_DOSMode_8-bit_Docs
-https://github.com/seanpm2001/WacOS_WAMMY_Docs
-https://github.com/seanpm2001/Savannah_Browser_Docs
-https://github.com/seanpm2001/OpenCyberdog_Browser_Docs
-https://github.com/seanpm2001/OpenAPFS_Docs
-https://github.com/seanpm2001/WhyWatchOS_Compass_Docs
-https://github.com/seanpm2001/WhyPadOS_Compass_Docs
-https://github.com/seanpm2001/wOS_Compass_Docs
-https://github.com/seanpm2001/WhyWatchOS_Kiri_Docs
-https://github.com/seanpm2001/WhyPadOS_Kiri_Docs
-https://github.com/seanpm2001/WhyPhoneOS_Kiri_Docs
-https://github.com/seanpm2001/WhyPadOS_Weather_Docs
-https://github.com/seanpm2001/whyPhoneOS_Weather_Docs
-https://github.com/seanpm2001/WacOS_Kiri_Docs
-https://github.com/seanpm2001/whyWatchOS_Weather_Docs
-https://github.com/seanpm2001/WacOS_Weather_Docs
-https://github.com/seanpm2001/WacTVOS_Calculator_Docs
-https://github.com/seanpm2001/WhyWatchOS_Calculator_Docs
-https://github.com/seanpm2001/WhyPadOS_Calculator_Docs
-https://github.com/seanpm2001/wOS_Calculator_Docs
-https://github.com/seanpm2001/WacOS_Calculator_Docs
-https://github.com/seanpm2001/WacOS_X_Calculator_Docs
-https://github.com/seanpm2001/WacOS_Classic_Calculator_Docs
-https://github.com/seanpm2001/WOAHS-X_Calculator_Docs
-https://github.com/seanpm2001/WacOS_In-Ease_Docs
-https://github.com/seanpm2001/WacOS_Cloud_Docs
-https://github.com/seanpm2001/WacOS_API_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps
-https://github.com/seanpm2001/WacOS_OpenHFS_Docs
-https://github.com/seanpm2001/Candroid-Rotate_Docs
-https://github.com/seanpm2001/Candroid-Flashlight_Docs
-https://github.com/seanpm2001/Candroid-Video_Docs
-https://github.com/seanpm2001/Candroid-TV_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Calendar
-https://github.com/seanpm2001/Candroid-Wallpaper_Docs
-https://github.com/seanpm2001/Candroid-Settings_Docs
-https://github.com/seanpm2001/Candroid-Contacts_Docs
-https://github.com/seanpm2001/Candroid-Calendar_Docs
-https://github.com/seanpm2001/Candroid-Voicemail_Docs
-https://github.com/seanpm2001/Candroid-Clock_Docs
-https://github.com/seanpm2001/Candroid-Camera_Docs
-https://github.com/seanpm2001/Candroid-Browser_Docs
-https://github.com/seanpm2001/Candroid-Photo-Viewer_Docs
-https://github.com/seanpm2001/Candroid-App-Store_Docs
-https://github.com/seanpm2001/Candroid-Battery-Monitor_Docs
-https://github.com/seanpm2001/Candroid-Assistant_Docs
-https://github.com/seanpm2001/Candroid-Market_Docs
-https://github.com/seanpm2001/Candroid-Easter-Egg_Docs
-https://github.com/seanpm2001/NUNIX_NXBClock_Docs
-https://github.com/seanpm2001/Candroid-FileCabinet_Docs
-https://github.com/seanpm2001/Candroid-Keyboard_Docs
-https://github.com/seanpm2001/Candroid-Notepad_Docs
-https://github.com/seanpm2001/Candroid-Mail_Docs
-https://github.com/seanpm2001/Candroid-Calculator_Docs
-https://github.com/seanpm2001/Candroid-Tube_Docs
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Party-Horn
 https://github.com/seanpm2001/AI2001_Category-Audio-SC-Instruments-S-Tabor
-https://github.com/seanpm2001/CLA
-https://github.com/seanpm2001/NUNIX-Datasets_Docs
-https://github.com/seanpm2001/NUNIX-Programs_Docs
 https://github.com/seanpm2001/Seanpm2001_Elm_Style-guide
-https://github.com/seanpm2001/Email
 https://github.com/seanpm2001/Seanpm2001-Mailing-List
-https://github.com/seanpm2001/wOS_6_Docs
-https://github.com/seanpm2001/wOS_7_Docs
 https://github.com/seanpm2001/V7Tags_Docs
 https://github.com/seanpm2001/Project-Alberta_Docs
-https://github.com/seanpm2001/whyPadOS_14_Docs
-https://github.com/seanpm2001/whyPadOS_15_Docs
 https://github.com/seanpm2001/Bliss-Browser_ArmaDillo_Mode_Docs
 https://github.com/seanpm2001/Meadows_Timeless_Mode_Docs
-https://github.com/seanpm2001/Candroid-Debug_Docs
-https://github.com/seanpm2001/Candroid-Phone_Docs
-https://github.com/seanpm2001/MailOS_Server_Docs
-https://github.com/seanpm2001/MailOS_PostOffice_Docs
-https://github.com/seanpm2001/whyWatchOS_5_Docs
-https://github.com/seanpm2001/whyWatchOS_6_Docs
 https://github.com/seanpm2001/SeansLifeArchive_Images_Disco-Zoo_Website
 https://github.com/seanpm2001/SeansLifeArchive_Images_LegoTower_Website
 https://github.com/seanpm2001/SeansLifeArchive_Images_TinyDeathStar_Website
@@ -1802,62 +2108,26 @@ https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld-CarFactory_Webs
 https://github.com/seanpm2001/SeansLifeArchive_Images_Clash-of-Clans_Website
 https://github.com/seanpm2001/Takeout-Tuesdays_Website
 https://github.com/seanpm2001/AI2001_Website
-https://github.com/seanpm2001/BlueberryOS_Packages_Docs
-https://github.com/seanpm2001/BlueberryOS_JVM_Docs
 https://github.com/seanpm2001/Bliss_Browser_Website
-https://github.com/seanpm2001/MailOS_PackageManager_Docs
-https://github.com/seanpm2001/MailOS_Web_Docs
 https://github.com/seanpm2001/Seanpm2001_Docs_Gaming-Schedule
 https://github.com/seanpm2001/SeansLifeArchive_Images_Bit-City_Website
-https://github.com/seanpm2001/BlueberryOS_Apps_BlueberryMessenger_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_FileManager_Docs
 https://github.com/seanpm2001/SeansLifeArchive_Images_Clash-Royale_Website
-https://github.com/seanpm2001/BlueberryOS_Apps_Maps_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Visual-Voicemail_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Browser_Docs
-https://github.com/seanpm2001/MCPYE_mcfunction_Docs
-https://github.com/seanpm2001/Favicon-Pages_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Market_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Notepad_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Phone_Docs
 https://github.com/seanpm2001/SeansLifeArchive_Images_HayDay_Website
-https://github.com/seanpm2001/BlueberryOS_Apps_Pictures_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Ringtones_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Videos_Docs
+https://github.com/seanpm2001/MCPYE_mcfunction_Docs
 https://github.com/seanpm2001/DeGoogle-your-Life_Google-Carbon-language
-https://github.com/seanpm2001/BlueberryOS_Apps_Voice-Notes_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Podcasts_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Contacts_Docs
-https://github.com/seanpm2001/WacOS_Apple-Valley-Picker_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Options_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Messages_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Media_Docs
+https://github.com/seanpm2001/Favicon-Pages_Docs
 https://github.com/seanpm2001/ChaccaronMaccaronType_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_SocialFeeds_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Wallpapers_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Weather_Docs
 https://github.com/seanpm2001/VRedroomOS_Horny-Jail_Docs
 https://github.com/seanpm2001/PDNet-Plus-Plus_Docs
-https://github.com/seanpm2001/Radio
-https://github.com/seanpm2001/WacOS_Big-Cat-Picker_Docs
-https://github.com/seanpm2001/WacOS_Apple-Picker_Docs
 https://github.com/seanpm2001/PDNet-Plus-Plus_Channels_Docs
 https://github.com/seanpm2001/Seanpm2001-Radio
 https://github.com/seanpm2001/Bliss-Browser-Anklebar_Docs
-https://github.com/seanpm2001/BlueberryOS_Desktop_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Docs
 https://github.com/seanpm2001/GitHub_Stats_B
 https://github.com/seanpm2001/MCPYE_DenizenScript_Docs
 https://github.com/seanpm2001/MCPYE_ZenScript_Docs
 https://github.com/seanpm2001/Public-Media-Gallery_Docs
 https://github.com/seanpm2001/Seanpm2001-Public-Media-Gallery
-https://github.com/seanpm2001/BlueberryOS_Apps_Clock_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Calculator_Docs
-https://github.com/seanpm2001/BlueberryOS_Apps_Calendar_Docs
 https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_Disney_Docs
-https://github.com/seanpm2001/Black-and-blue-Friday
-https://github.com/seanpm2001/Framework-collective
-https://github.com/seanpm2001/Core-collective
 https://github.com/seanpm2001/uOffice-Joke-Programs-PieMan_Docs
 https://github.com/seanpm2001/uOffice-Spellcheck_Docs
 https://github.com/seanpm2001/LibreFlock_Brazil_Docs
@@ -1867,33 +2137,12 @@ https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_WarnerBros_Docs
 https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_MGM_Docs
 https://github.com/seanpm2001/LibreFlock_Seasonal_Docs
 https://github.com/seanpm2001/Post-Neo-Classical-English_Docs
-https://github.com/seanpm2001/EMAIL_2_Screening_Docs
-https://github.com/seanpm2001/NUNIX_MemoryManager_Docs
-https://github.com/seanpm2001/EMAIL_2_Gallery_Docs
 https://github.com/seanpm2001/Guinea-Myrick-Memorial
-https://github.com/seanpm2001/NUNIX_Nose_Docs
-https://github.com/seanpm2001/NUNIX_Mouth_Docs
-https://github.com/seanpm2001/Security-collective
-https://github.com/seanpm2001/Productive-collective
-https://github.com/seanpm2001/Video-game-collective
-https://github.com/seanpm2001/Desktop-Environment-collective
-https://github.com/seanpm2001/Documentation-collective
-https://github.com/seanpm2001/NUNIX_HAP_Docs
 https://github.com/seanpm2001/uOffice-LIBrary-DVCS_Docs
-https://github.com/seanpm2001/Operating-Systems-collective
-https://github.com/seanpm2001/Web-Browser-collective
-https://github.com/seanpm2001/LIBrary-collective
-https://github.com/seanpm2001/Linguistic-collective
-https://github.com/seanpm2001/Comedy-collective
-https://github.com/seanpm2001/NUNIX-HAP_DreamScene_Docs
-https://github.com/seanpm2001/NUNIX-Ethics_Docs
 https://github.com/seanpm2001/TrueEEG_Docs
 https://github.com/seanpm2001/HT_Messenger_Docs
 https://github.com/seanpm2001/RNAssistant_Docs
-https://github.com/seanpm2001/Miscellaneous-collective
-https://github.com/seanpm2001/Collectives
 https://github.com/seanpm2001/Windows-XP_Blog
-https://github.com/seanpm2001/EMAIL-3_Tester_Docs
 https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_Fox_Docs
 https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_PBS_Docs
 https://github.com/seanpm2001/Seanpm2001-DRM-Blocklist_Docs
@@ -1914,9 +2163,6 @@ https://github.com/seanpm2001/LSRT_Docs
 https://github.com/seanpm2001/OVPVMO_Docs
 https://github.com/seanpm2001/BASH.sh_European-Union_Docs
 https://github.com/seanpm2001/BASH.sh_United-Kingdom_Docs
-https://github.com/seanpm2001/SDE_DNetCarousel_Docs
-https://github.com/seanpm2001/SDE_PyCarousel_Docs
-https://github.com/seanpm2001/SDE_CCarousel_Docs
 https://github.com/seanpm2001/LightSpeedRelay_WaitingRoom_Docs
 https://github.com/seanpm2001/LightSpeedRelay_Database_Docs
 https://github.com/seanpm2001/LightSpeedRelay_DatabaseTools_Docs
@@ -1931,7 +2177,6 @@ https://github.com/seanpm2001/Santa-Software-Suite_ChristmasArcade_Docs
 https://github.com/seanpm2001/SSS_Client_Docs
 https://github.com/seanpm2001/Santa-Software-Suite_Client_Docs
 https://github.com/seanpm2001/Santa-Software-Suite_Core_Docs
-https://github.com/seanpm2001/SDE_Merry_Docs
 https://github.com/seanpm2001/LightSpeedRelayTechnology_Docs
 https://github.com/seanpm2001/DCalendar_Docs
 https://github.com/seanpm2001/DSuite_Docs
@@ -1944,8 +2189,6 @@ https://github.com/seanpm2001/UltraSuite_Docs
 https://github.com/seanpm2001/Bad-Code-Collection_Docs
 https://github.com/seanpm2001/StealthGeo_Fonts_Docs
 https://github.com/seanpm2001/StealthGeo_Docs
-https://github.com/seanpm2001/4096_Docs
-https://github.com/seanpm2001/FourThousandNinetySix_Docs
 https://github.com/seanpm2001/uDonate_Docs
 https://github.com/seanpm2001/LANChair_LANMan_Docs
 https://github.com/seanpm2001/LANChair_Messenger_Docs
@@ -1990,29 +2233,7 @@ https://github.com/seanpm2001/Git-image_Docs
 https://github.com/seanpm2001/Senior_Design_Docs
 https://github.com/seanpm2001/IGNORE_File_Docs
 https://github.com/seanpm2001/Boilerplate-cabinet_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Imager_Docs
-https://github.com/seanpm2001/SDE_MobileServer_TestZone_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Android_Docs
-https://github.com/seanpm2001/SDE_MobileServer_FireOS_Docs
-https://github.com/seanpm2001/SDE_MobileServer_iPadOS_Docs
-https://github.com/seanpm2001/SDE_MobileServer_iOS_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Ubuntu_Docs
-https://github.com/seanpm2001/SDE_MobileServer_PostMarketOS_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_CraftCMS_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_Ruffle_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_WordPress_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_MediaWiki_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_SNU_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_SMPP_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_Jekyll_Docs
 https://github.com/seanpm2001/George-P-Floyd-Memorial_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_mdBook_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_Gatsby_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_NuxtJS_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax_Docs
-https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap_Docs
-https://github.com/seanpm2001/SDE_MobileServer_PluginManager_Docs
 https://github.com/seanpm2001/MemeMachine-2019_Docs
 https://github.com/seanpm2001/Seanpm2001-Public-Media-Gallery_Docs
 https://github.com/seanpm2001/3DE_Docs
@@ -2022,17 +2243,13 @@ https://github.com/seanpm2001/ScreenTeX_Docs
 https://github.com/seanpm2001/CrossCompatXU_Docs
 https://github.com/seanpm2001/TrueCalm_Docs
 https://github.com/seanpm2001/SafeT_Docs
-https://github.com/seanpm2001/Learn-Pogoscript
-https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Pogoscript
 https://github.com/seanpm2001/README-Desktop-LIBrary_Docs
 https://github.com/seanpm2001/CottonTree-LIBrary_Docs
 https://github.com/seanpm2001/Virtual-VHS_Docs
 https://github.com/seanpm2001/Stock-Elevator-LIBrary_Docs
-https://github.com/seanpm2001/Fedorable_Docs
 https://github.com/seanpm2001/Rasple_Docs
 https://github.com/seanpm2001/Camera-privacy-specification_Docs
 https://github.com/seanpm2001/SearchKX_Docs
-https://github.com/seanpm2001/Oh_Hi_MarkDown_Docs
 https://github.com/seanpm2001/Sbubbway-generator_Docs
 https://github.com/seanpm2001/Java_The_Hutt_Docs
 https://github.com/seanpm2001/ls.txt_Docs
@@ -2047,8 +2264,6 @@ https://github.com/seanpm2001/DroppedTextLang_Docs
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Ads
 https://github.com/seanpm2001/Seanpm2001-SUPERCELL
 https://github.com/seanpm2001/SUPERCELL
-https://github.com/seanpm2001/EMAIL_2.0_Docs
-https://github.com/seanpm2001/EMAIL_-3.0_Docs
 https://github.com/seanpm2001/VirtualHomeApp_Docs
 https://github.com/seanpm2001/Hatium_Docs
 https://github.com/seanpm2001/UI-Tour-Guide_Docs
@@ -2068,9 +2283,6 @@ https://github.com/seanpm2001/GK-Keyboard_Docs
 https://github.com/seanpm2001/SNU_2D_Docs
 https://github.com/seanpm2001/SNU_3D_Docs
 https://github.com/seanpm2001/DISK-O_Jockey_Docs
-https://github.com/seanpm2001/EMAIL_2.0_Stamps_Docs
-https://github.com/seanpm2001/EMAIL_2.0_EmailFX_Docs
-https://github.com/seanpm2001/Mobi_Dick_Docs
 https://github.com/seanpm2001/The-Graeyt-Macro_Docs
 https://github.com/seanpm2001/FloweredNotch_Docs
 https://github.com/seanpm2001/StartFSCK_Docs
@@ -2088,35 +2300,18 @@ https://github.com/seanpm2001/GitHubby_Docs
 https://github.com/seanpm2001/Cyborg-System-Monitor_Docs
 https://github.com/seanpm2001/Snowcraft_Docs
 https://github.com/seanpm2001/SNU_4D_Docs
-https://github.com/seanpm2001/SNU_ProgrammingTools_Docs
-https://github.com/seanpm2001/EMAIL_2.0_FancyInbox_Docs
-https://github.com/seanpm2001/EMAIL_2.0_VRMail_Docs
 https://github.com/seanpm2001/SNU_2D_Ekistics_Docs
-https://github.com/seanpm2001/EMAIL_2.0_TackleBox_Docs
-https://github.com/seanpm2001/WhyPadOS_Docs
-https://github.com/seanpm2001/WhyPhoneOS_Docs
+https://github.com/seanpm2001/SNU_ProgrammingTools_Docs
 https://github.com/seanpm2001/Learn_Docs
 https://github.com/seanpm2001/Matrix-lang_Docs
-https://github.com/seanpm2001/WacOS-X_Docs
-https://github.com/seanpm2001/WOAHS-X_Docs
 https://github.com/seanpm2001/DroneMap_Docs
 https://github.com/seanpm2001/MadLibby_Docs
-https://github.com/seanpm2001/WacTVOS_Docs
-https://github.com/seanpm2001/wOS_Docs
 https://github.com/seanpm2001/CountMausoleum_Docs
 https://github.com/seanpm2001/MicroMiniwave_Docs
-https://github.com/seanpm2001/BaSYS_Docs
-https://github.com/seanpm2001/Sir-Isaac-NewtonOS_Docs
 https://github.com/seanpm2001/SeansOSData_Docs
 https://github.com/seanpm2001/uOffice_Docs
-https://github.com/seanpm2001/Sir-Isaac-NewtonScript_Docs
-https://github.com/seanpm2001/WhyWatchOS_Docs
 https://github.com/seanpm2001/BluPhoneOS_Docs
 https://github.com/seanpm2001/Green-Star-OS_Docs
-https://github.com/seanpm2001/EMAIL_2.0_SpamCan_Docs
-https://github.com/seanpm2001/EMAIL_2.0_PostOffice_Docs
-https://github.com/seanpm2001/EMAIL_2.0_VMail_Docs
-https://github.com/seanpm2001/EMAIL_2.0_StampCollection_Docs
 https://github.com/seanpm2001/Polyworks-SquareOff_Docs
 https://github.com/seanpm2001/Profa-or-Antifa_Docs
 https://github.com/seanpm2001/UnIoT_Docs
@@ -2129,16 +2324,8 @@ https://github.com/seanpm2001/Nost_Gia_OS_Docs
 https://github.com/seanpm2001/Meadows-Classical-Developer-VM_Docs
 https://github.com/seanpm2001/ReasonableOverflow_LIBrary_Docs
 https://github.com/seanpm2001/The-Offline-Experience_Docs
-https://github.com/seanpm2001/B3_Docs
 https://github.com/seanpm2001/Go-ogle_Docs
 https://github.com/seanpm2001/OpenGov_Docs
-https://github.com/seanpm2001/Euphorium_Docs
-https://github.com/seanpm2001/EMAIL_2.0_STMP_File_Docs
-https://github.com/seanpm2001/EMAIL_2.0_MailManager_Docs
-https://github.com/seanpm2001/EMAIL_2.0_PerformanceTest_Docs
-https://github.com/seanpm2001/EMAIL_-3.0_WG
-https://github.com/seanpm2001/EMAIL_-3.0_WG_Blockchain
-https://github.com/seanpm2001/EMAIL_-3.0_WG_Standardization
 https://github.com/seanpm2001/Project_Aquarius_Docs
 https://github.com/seanpm2001/Pen-People_Docs
 https://github.com/seanpm2001/PhD_In_PHP_Docs
@@ -2147,7 +2334,6 @@ https://github.com/seanpm2001/Hatium_Alt-Tech-Index_Docs
 https://github.com/seanpm2001/ProTraApp_Docs
 https://github.com/seanpm2001/The-Pirates-Copy_Docs
 https://github.com/seanpm2001/AGRAN-Programming-language_Docs
-https://github.com/seanpm2001/BlazeOS_Peak_Docs
 https://github.com/seanpm2001/SuperPowerLaptops_Docs
 https://github.com/seanpm2001/Reactop_Docs
 https://github.com/seanpm2001/Delerium_Docs
@@ -2157,8 +2343,6 @@ https://github.com/seanpm2001/SeansAudioDB_AutoGrabber_Docs
 https://github.com/seanpm2001/Portal-Voice-Assistant_Docs
 https://github.com/seanpm2001/Input-Police_Docs
 https://github.com/seanpm2001/NetM_WebM-to-NetV
-https://github.com/seanpm2001/EMAIL_-3.0_Stamps_Blockchain_Docs
-https://github.com/seanpm2001/EMAIL_-3.0_EmailFX_Blockchain_Docs
 https://github.com/seanpm2001/Windows_Server_2016_Python_Edition_Docs
 https://github.com/seanpm2001/UShortcut_Pro_Docs
 https://github.com/seanpm2001/PrestigePreview_Docs
@@ -2179,8 +2363,6 @@ https://github.com/seanpm2001/SankOS_Docs
 https://github.com/seanpm2001/AquariOS_Docs
 https://github.com/seanpm2001/IgniteBook_Docs
 https://github.com/seanpm2001/SNU_CSAM-K_Docs
-https://github.com/seanpm2001/EMAIL_2.0_MailMapper_Docs
-https://github.com/seanpm2001/BlAPK_Docs
 https://github.com/seanpm2001/The_Bandwidth_Band_Docs
 https://github.com/seanpm2001/Bliss_Browser_Tabooks_Docs
 https://github.com/seanpm2001/Bliss_Browser_Memory_Docs
@@ -2224,8 +2406,8 @@ https://github.com/seanpm2001/Backup-Automation-Built-Bot-Y_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 8 (2025, Tuesday, April 29th at 06:12 pm PST)
-//// Line count (including blank lines and compiler line): 2,232
+//// File version: 9 (2025, Wednesday, April 30th at 06:05 pm PST)
+//// Line count (including blank lines and compiler line): 2,414
 //// ----------------------------------------------------- \\\\
 
 //// End of file
