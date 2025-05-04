@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, May 2nd
+//// As of 2025, Saturday, May 3rd
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (2,933) (many not listed yet)
+//// Documentation Project (2,938) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -15,7 +15,7 @@
 //// TODO:
 //// Remove non-documentation entries ✔️
 //// Add entries prior to 2023, September 1st 🕛️
-//// Sort into categories 🕛️
+//// Sort into categories 🕣️
 //// Add ore DeGoogle-your-Life articles 🕛️
 
 //// Types of documentation repositories
@@ -135,6 +135,10 @@ https://github.com/seanpm2001/Seanpm2001_Markdown_Style-Guide
 https://github.com/seanpm2001/Seanpm2001-StyleGuides
 https://github.com/seanpm2001/Seanpm2001-Emoji-Style-Guide
 
+//// -Ibibyte Mathematical Reference
+
+https://github.com/seanpm2001/-ibibyte_Mathematical_Reference_Docs
+
 //// 3DE
 
 https://github.com/seanpm2001/3DE_Docs
@@ -198,6 +202,10 @@ https://github.com/seanpm2001/-Municipality
 https://github.com/seanpm2001/-Municipality_Docs
 https://github.com/seanpm2001/-Province
 https://github.com/seanpm2001/-Province_Docs
+
+//// Advanced Eye Chart
+
+https://github.com/seanpm2001/Advanced_Eye_Chart_Docs
 
 //// AI2001
 
@@ -654,6 +662,10 @@ https://github.com/seanpm2001/AZWS_Encryption_Docs
 
 https://github.com/seanpm2001/Backup-Automation-Built-Bot-Y_Docs
 
+//// Bad Code Collection
+
+https://github.com/seanpm2001/Bad-Code-Collection_Docs
+
 //// BASH.sh
 
 https://github.com/seanpm2001/BASH.sh_European-Union_Docs
@@ -757,10 +769,15 @@ https://github.com/seanpm2001/Is-it-Black-and-blue-Friday_Docs
 //// BlueCalm
 
 https://github.com/seanpm2001/BlueCalm_Docs
+https://github.com/seanpm2001/BlueCalm_Theme_Docs
 
 //// Blue Dentures
 
 https://github.com/seanpm2001/Blue_Dentures_Docs
+
+//// BoilerPlate Cabinet
+
+https://github.com/seanpm2001/Boilerplate-cabinet_Docs
 
 //// Booty
 
@@ -805,6 +822,10 @@ https://github.com/seanpm2001/CH3-c-K_Docs
 //// Chaccaron Maccaron Type
 
 https://github.com/seanpm2001/ChaccaronMaccaronType_Docs
+
+//// Camera Privacy Specification
+
+https://github.com/seanpm2001/Camera-privacy-specification_Docs
 
 //// Candroid
 
@@ -871,6 +892,22 @@ https://github.com/seanpm2001/Miscellaneous-collective
 https://github.com/seanpm2001/Collectives
 https://github.com/seanpm2001/Collective
 
+//// Computer Cursor Tech Support
+
+https://github.com/seanpm2001/Computer-cursor-tech-support_Docs
+
+//// CompuSmell
+
+https://github.com/seanpm2001/CompuSmell_Docs
+
+//// Computing Longevity
+
+https://github.com/seanpm2001/Computing-Longevity_Docs
+
+//// CottonTree LIBrary
+
+https://github.com/seanpm2001/CottonTree-LIBrary_Docs
+
 //// Countries
 
 https://github.com/seanpm2001/Countries
@@ -901,6 +938,10 @@ https://github.com/seanpm2001/Criticism-of-Copyright
 https://github.com/seanpm2001/Criticism-of-ZoomSoftware
 https://github.com/seanpm2001/Criticism-of-AmazonCompany
 https://github.com/seanpm2001/Criticism-of-AppleInc
+
+//// CrossCompatXU
+
+https://github.com/seanpm2001/CrossCompatXU_Docs
 
 //// DALL-E LLaMA
 
@@ -1041,13 +1082,42 @@ https://github.com/seanpm2001/FBI_Roleplay_Simulator_Docs
 
 https://github.com/seanpm2001/FolderArtist_Docs
 
+//// Fortran Fortress
+
+https://github.com/seanpm2001/Fortran-fortress_Docs
+
+//// George P. Floyd Memorial
+
+https://github.com/seanpm2001/George-P-Floyd-Memorial_Docs
+
+//// GitAttributes Collection
+
+https://github.com/seanpm2001/GitAttributes-Collection
+https://github.com/seanpm2001/GitAttributes-Collection_Docs
+
 //// GitHex
 
 https://github.com/seanpm2001/GitHex_Docs
 
+//// Git-Image
+
+https://github.com/seanpm2001/Git-image_Docs
+
 //// GitHub Stats
 
 https://github.com/seanpm2001/GitHub_Stats_B
+
+//// GNU Car
+
+https://github.com/seanpm2001/GNU_Car_Docs
+
+//// GoDot Launcher
+
+https://github.com/seanpm2001/GoDot_Launcher_Docs
+
+//// Goodbye World
+
+https://github.com/seanpm2001/Goodbye-World_Docs
 
 //// Guinea Myrick Memorial
 
@@ -1068,6 +1138,10 @@ https://github.com/seanpm2001/HT_Messenger_Docs
 //// iCoin
 
 https://github.com/seanpm2001/iCoin_Docs
+
+//// IGNORE file
+
+https://github.com/seanpm2001/IGNORE_File_Docs
 
 //// ImageVS
 
@@ -1107,9 +1181,18 @@ https://github.com/seanpm2001/Kommunism_Docs
 
 https://github.com/seanpm2001/KornHub_Docs
 
+//// LANChair
+
+https://github.com/seanpm2001/LANChair_LANMan_Docs
+https://github.com/seanpm2001/LANChair_Messenger_Docs
+
 //// LapLight
 
 https://github.com/seanpm2001/LapLight_Docs
+
+//// Large Number ULIB
+
+https://github.com/seanpm2001/LargeNumber_ULIB_Docs
 
 //// Learn
 
@@ -1989,6 +2072,7 @@ https://github.com/seanpm2001/Learn-Quake
 https://github.com/seanpm2001/Learn-Slang
 https://github.com/seanpm2001/Learn-Rouge
 https://github.com/seanpm2001/Learn-Vim-Help-File
+https://github.com/seanpm2001/Learn-Vim-Help-File
 
 //// LennyOS
 
@@ -2023,6 +2107,10 @@ https://github.com/seanpm2001/LightSpeedRelay_DatabaseTools_Docs
 https://github.com/seanpm2001/LightSpeedRelayChat_Docs
 https://github.com/seanpm2001/LightSpeedRelayTechnology_Docs
 https://github.com/seanpm2001/LSRT_Docs
+
+//// LinkLax
+
+https://github.com/seanpm2001/LinkLax_Docs
 
 //// Linux Ate My RAM
 
@@ -2086,6 +2174,10 @@ https://github.com/seanpm2001/MEDOS_SSD_Docs
 https://github.com/seanpm2001/MEDOS_Floppy_Docs
 https://github.com/seanpm2001/MEDOS_Docs
 
+//// Meme Machine 2019
+
+https://github.com/seanpm2001/MemeMachine-2019_Docs
+
 //// MetroTechno
 
 https://github.com/seanpm2001/MetroTechno_SpeedViolations_Docs
@@ -2107,6 +2199,7 @@ https://github.com/seanpm2001/Motor-Universe-Open-Factory_Docs
 //// Myrick Family Archive
 
 https://github.com/seanpm2001/MyrickFamilyArchive_Docs
+https://github.com/seanpm2001/Myrick-family-archive_Docs
 
 //// MyAI
 
@@ -2131,9 +2224,17 @@ https://github.com/seanpm2001/NimbleBook_Docs
 
 https://github.com/seanpm2001/NimbleByte_Docs
 
+//// Nostalgia Project
+
+https://github.com/seanpm2001/Nostalgia-project_Docs
+
 //// Notchware
 
 https://github.com/seanpm2001/Notchware_Docs
+
+//// Nuclear Ad Bombs Specification
+
+https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification_Docs
 
 //// Numeric Liberation Front
 
@@ -2181,6 +2282,10 @@ https://github.com/seanpm2001/Open-Media-Rating-System_Docs
 https://github.com/seanpm2001/OMRS_Docs
 https://github.com/seanpm2001/Open-Media-Rating-System_Database_Docs
 
+//// OS Census
+
+https://github.com/seanpm2001/OS_Census_Docs
+
 //// OuterVM
 
 https://github.com/seanpm2001/OuterVM_Docs
@@ -2209,6 +2314,7 @@ https://github.com/seanpm2001/PDNet-Plus-Plus_Channel_PBS-Kids_Docs
 //// Petland
 
 https://github.com/seanpm2001/PetLand_Docs
+https://github.com/seanpm2001/Petland-Software_Docs
 
 //// PhoneHome
 
@@ -2227,6 +2333,10 @@ https://github.com/seanpm2001/Post-Neo-Classical-English_Docs
 //// Pocket Village
 
 https://github.com/seanpm2001/Pocket-Village_Docs
+
+//// PolyGlot
+
+https://github.com/seanpm2001/PolyGlot_Docs
 
 //// PrestigePreview
 
@@ -2286,6 +2396,18 @@ https://github.com/seanpm2001/PyNuke128_Docs
 
 //// No projects from @seanpm2001 start with the letter Q
 
+//// Rasple
+
+https://github.com/seanpm2001/Rasple_Docs
+
+//// Ratiyo
+
+https://github.com/seanpm2001/Ratiyo_Docs
+
+//// README Desktop LIBrary
+
+https://github.com/seanpm2001/README-Desktop-LIBrary_Docs
+
 //// RecursionBot
 
 https://github.com/seanpm2001/RecursionBot_Docs
@@ -2314,6 +2436,10 @@ https://github.com/seanpm2001/RNAssistant_Docs
 
 https://github.com/seanpm2001/r-seanpm2001_Docs
 
+//// SafeT
+
+https://github.com/seanpm2001/SafeT_Docs
+
 //// SafeWINE
 
 https://github.com/seanpm2001/SafeWINE_Docs
@@ -2336,6 +2462,14 @@ https://github.com/seanpm2001/Santa-Software-Suite_Core_Docs
 
 https://github.com/seanpm2001/SBOM2001
 https://github.com/seanpm2001/SBOM2001_Docs
+
+//// Sbubbway Generator
+
+https://github.com/seanpm2001/Sbubbway-generator_Docs
+
+//// ScreenTeX
+
+https://github.com/seanpm2001/ScreenTeX_Docs
 
 //// ScriptKidd ToolKit
 
@@ -2917,6 +3051,32 @@ https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth-Moon_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Jupiter_Docs
 https://github.com/seanpm2001/Seanpm2001_WorldDB_DB_Earth_Peoples-Republic-of-the-Congo-_-FormerCountry_Docs
 
+//// SearchKX
+
+https://github.com/seanpm2001/SearchKX_Docs
+
+//// SeansLifeArchive
+
+https://github.com/seanpm2001/SeansLifeArchive_Extras_Journal-Calendar_Docs
+
+//// SeanWallaWalla
+
+https://github.com/seanpm2001/Seanwallawalla-Bots
+https://github.com/seanpm2001/Seanwallawalla-Security
+https://github.com/seanpm2001/Seanwallawalla_Audio
+https://github.com/seanpm2001/Seanwallawalla-Gaming
+https://github.com/seanpm2001/Seanwallawalla_Malware
+https://github.com/seanpm2001/SeanWallaWalla_Health
+https://github.com/seanpm2001/SeanWallaWalla_Operating_Systems
+
+//// Self-Replicating Machine Research
+
+https://github.com/seanpm2001/Self-Replicating-Machine-Research_Docs
+
+//// Senior Design
+
+https://github.com/seanpm2001/Senior_Design_Docs
+
 //// Setup Go! (2004) action
 
 https://github.com/seanpm2001/Setup-Go2004-GitHubAction_Docs
@@ -2928,6 +3088,10 @@ https://github.com/seanpm2001/SimZonns_Docs
 //// SlideXMagic
 
 https://github.com/seanpm2001/SlideXMagic_Docs
+
+//// Snapshot Version Control System
+
+https://github.com/seanpm2001/Snapshots-Version-Control-System_Docs
 
 //// SNU
 
@@ -3070,6 +3234,10 @@ https://github.com/seanpm2001/SoftMicro_Drapes_Server_2016_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2019_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2022_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_Server_2025_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_R2_Beta_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008_Beta_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2008_R2_Beta_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2012_Beta_Docs
 
 //// //// SoftMicro Drapes Film Maker
 
@@ -3109,6 +3277,10 @@ https://github.com/seanpm2001/Spokane-Washington
 https://github.com/seanpm2001/StealthGeo_Fonts_Docs
 https://github.com/seanpm2001/StealthGeo_Docs
 
+//// Stock Elevator LIBrary
+
+https://github.com/seanpm2001/Stock-Elevator-LIBrary_Docs
+
 //// Takeout Tuesdays
 
 https://github.com/seanpm2001/Takeout_Tuesdays_Docs
@@ -3128,6 +3300,10 @@ https://github.com/seanpm2001/Team8Collection_City_Docs
 https://github.com/seanpm2001/Team8Collection_Restaurant_Docs
 https://github.com/seanpm2001/Team8Collection_Bakery_Docs
 
+//// The Dystopian Dictionary
+
+https://github.com/seanpm2001/The-Dystopian-Dictionary_Docs
+
 //// Timeout ToolKit
 
 https://github.com/seanpm2001/Timeout-Toolkit_Docs
@@ -3135,6 +3311,10 @@ https://github.com/seanpm2001/Timeout-Toolkit_Docs
 //// Tone Indicator Standard
 
 https://github.com/seanpm2001/Tone-Indicator-Standard_Docs
+
+//// TrueCalm
+
+https://github.com/seanpm2001/TrueCalm_Docs
 
 //// TrueEEG
 
@@ -3150,9 +3330,17 @@ https://github.com/seanpm2001/UCALC_Games_Mad-Business_Docs
 https://github.com/seanpm2001/UCALC_Calc-Mode_Greater-than-with-decimals_Docs
 https://github.com/seanpm2001/UCALC_Docs
 
+//// uDonate
+
+https://github.com/seanpm2001/uDonate_Docs
+
 //// UltraCompass
 
 https://github.com/seanpm2001/UltraCompass_Docs
+
+//// Ultra Image Studio
+
+https://github.com/seanpm2001/Ultra-Image-Studio_Docs
 
 //// UltraSwitch
 
@@ -3193,6 +3381,18 @@ https://github.com/seanpm2001/V7Tags_Docs
 //// vCoin
 
 https://github.com/seanpm2001/vCoin_Docs
+
+//// V-ReShot
+
+https://github.com/seanpm2001/V_ReShot_Docs
+
+//// VirtualHome
+
+https://github.com/seanpm2001/VirtualHome_Docs
+
+//// Virtual VHS
+
+https://github.com/seanpm2001/Virtual-VHS_Docs
 
 //// VRedRoomOS
 
@@ -3454,6 +3654,11 @@ https://github.com/seanpm2001/WebM-to-NetV_Docs
 
 https://github.com/seanpm2001/WebP-to-NetP_Docs
 
+//// What Year Is It (WYII)
+
+https://github.com/seanpm2001/WYII-TrendTool_Docs
+https://github.com/seanpm2001/What-Year-Is-It_Docs
+
 //// Windows 10 Python Edition
 
 https://github.com/seanpm2001/Windows_10_Python_Edition_Docs
@@ -3497,67 +3702,8 @@ https://github.com/seanpm2001/YKDefenderVM_Docs
 
 https://github.com/seanpm2001/Zag_Docs
 
-//// TODO Data as of 2025, May 2nd
+//// TODO Data as of 2025, May 3rd (100 left)
 
-https://github.com/seanpm2001/SeansLifeArchive_Extras_Journal-Calendar_Docs
-https://github.com/seanpm2001/GitAttributes-Collection
-https://github.com/seanpm2001/Bad-Code-Collection_Docs
-https://github.com/seanpm2001/uDonate_Docs
-https://github.com/seanpm2001/LANChair_LANMan_Docs
-https://github.com/seanpm2001/LANChair_Messenger_Docs
-https://github.com/seanpm2001/Snapshots-Version-Control-System_Docs
-https://github.com/seanpm2001/Self-Replicating-Machine-Research_Docs
-https://github.com/seanpm2001/Computer-cursor-tech-support_Docs
-https://github.com/seanpm2001/Goodbye-World_Docs
-https://github.com/seanpm2001/Ratiyo_Docs
-https://github.com/seanpm2001/GNU_Car_Docs
-https://github.com/seanpm2001/GoDot_Launcher_Docs
-https://github.com/seanpm2001/-ibibyte_Mathematical_Reference_Docs
-https://github.com/seanpm2001/Seanwallawalla-Bots
-https://github.com/seanpm2001/Seanwallawalla-Security
-https://github.com/seanpm2001/Seanwallawalla_Audio
-https://github.com/seanpm2001/Seanwallawalla-Gaming
-https://github.com/seanpm2001/Seanwallawalla_Malware
-https://github.com/seanpm2001/GitAttributes-Collection_Docs
-https://github.com/seanpm2001/LargeNumber_ULIB_Docs
-https://github.com/seanpm2001/Advanced_Eye_Chart_Docs
-https://github.com/seanpm2001/SeanWallaWalla_Health
-https://github.com/seanpm2001/SeanWallaWalla_Operating_Systems
-https://github.com/seanpm2001/BlueCalm_Theme_Docs
-https://github.com/seanpm2001/Myrick-family-archive_Docs
-https://github.com/seanpm2001/Nostalgia-project_Docs
-https://github.com/seanpm2001/Computing-Longevity_Docs
-https://github.com/seanpm2001/CompuSmell_Docs
-https://github.com/seanpm2001/PolyGlot_Docs
-https://github.com/seanpm2001/VirtualHome_Docs
-https://github.com/seanpm2001/V_ReShot_Docs
-https://github.com/seanpm2001/Petland-Software_Docs
-https://github.com/seanpm2001/OS_Census_Docs
-https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification_Docs
-https://github.com/seanpm2001/WYII-TrendTool_Docs
-https://github.com/seanpm2001/What-Year-Is-It_Docs
-https://github.com/seanpm2001/The-Dystopian-Dictionary_Docs
-https://github.com/seanpm2001/Fortran-fortress_Docs
-https://github.com/seanpm2001/Git-image_Docs
-https://github.com/seanpm2001/Senior_Design_Docs
-https://github.com/seanpm2001/IGNORE_File_Docs
-https://github.com/seanpm2001/Boilerplate-cabinet_Docs
-https://github.com/seanpm2001/George-P-Floyd-Memorial_Docs
-https://github.com/seanpm2001/MemeMachine-2019_Docs
-https://github.com/seanpm2001/Ultra-Image-Studio_Docs
-https://github.com/seanpm2001/LinkLax_Docs
-https://github.com/seanpm2001/ScreenTeX_Docs
-https://github.com/seanpm2001/CrossCompatXU_Docs
-https://github.com/seanpm2001/TrueCalm_Docs
-https://github.com/seanpm2001/SafeT_Docs
-https://github.com/seanpm2001/README-Desktop-LIBrary_Docs
-https://github.com/seanpm2001/CottonTree-LIBrary_Docs
-https://github.com/seanpm2001/Virtual-VHS_Docs
-https://github.com/seanpm2001/Stock-Elevator-LIBrary_Docs
-https://github.com/seanpm2001/Rasple_Docs
-https://github.com/seanpm2001/Camera-privacy-specification_Docs
-https://github.com/seanpm2001/SearchKX_Docs
-https://github.com/seanpm2001/Sbubbway-generator_Docs
 https://github.com/seanpm2001/Java_The_Hutt_Docs
 https://github.com/seanpm2001/ls.txt_Docs
 https://github.com/seanpm2001/SmartZIP_Docs
@@ -3682,8 +3828,8 @@ https://github.com/seanpm2001/CompuBunker_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 11 (2025, Friday, May 2nd at 06:23 pm PST)
-//// Line count (including blank lines and compiler line): 3,690
+//// File version: 12 (2025, Saturday, May 3rd at 06:10 pm PST)
+//// Line count (including blank lines and compiler line): 3,836
 //// ----------------------------------------------------- \\\\
 
 //// End of file
