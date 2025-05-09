@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, May 7th
+//// As of 2025, Thursday, May 8th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (2,958) (many not listed yet)
+//// Documentation Project (2,963) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -958,6 +958,10 @@ https://github.com/seanpm2001/Criticism-of-AppleInc
 
 https://github.com/seanpm2001/CrossCompatXU_Docs
 
+//// Cyborg System Monitor
+
+https://github.com/seanpm2001/Cyborg-System-Monitor_Docs
+
 //// DALL-E LLaMA
 
 https://github.com/seanpm2001/DALL-E_LLaMA_Docs
@@ -1034,6 +1038,10 @@ https://github.com/seanpm2001/Doorcrete_Docs
 //// DOS Buddy
 
 https://github.com/seanpm2001/DOS-Buddy_Docs
+
+//// DroneMap
+
+https://github.com/seanpm2001/DroneMap_Docs
 
 //// DroppedText Language
 
@@ -1125,6 +1133,10 @@ https://github.com/seanpm2001/Flag-Simulator_DesktopApp_Python_Docs
 https://github.com/seanpm2001/Flag-Simulator_DesktopApp_Java_Docs
 https://github.com/seanpm2001/Flag-Simulator_DesktopApp_C_Docs
 https://github.com/seanpm2001/Flag-Simulator_DesktopApp_Rust_Docs
+https://github.com/seanpm2001/Flag-Simulator_MobileApp_Java_Docs
+https://github.com/seanpm2001/Flag-Simulator_MobileApp_Kotlin_Docs
+https://github.com/seanpm2001/Flag-Simulator_MobileApp_Swift_Docs
+https://github.com/seanpm2001/Flag-Simulator_MobileApp_C_Docs
 
 //// FloweredNotch
 
@@ -1156,9 +1168,17 @@ https://github.com/seanpm2001/GitHex_Docs
 
 https://github.com/seanpm2001/Git-image_Docs
 
+//// GitHubby
+
+https://github.com/seanpm2001/GitHubby_Docs
+
 //// GitHub Stats
 
 https://github.com/seanpm2001/GitHub_Stats_B
+
+//// GitMan
+
+https://github.com/seanpm2001/GitMan_Docs
 
 //// GK Keyboard
 
@@ -1192,9 +1212,14 @@ https://github.com/seanpm2001/Hatium_Docs
 
 https://github.com/seanpm2001/Health-Meter-Maximum_Docs
 
+//// Hospital Defender
+
+https://github.com/seanpm2001/Hospital_Defender_Docs
+
 //// HT Messenger
 
 https://github.com/seanpm2001/HT_Messenger_Docs
+https://github.com/seanpm2001/HT-Messenger_Docs
 
 //// HXTemplate
 
@@ -2149,6 +2174,7 @@ https://github.com/seanpm2001/Learn-Vim-Help-File
 https://github.com/seanpm2001/Learn-Win32-Message-File
 https://github.com/seanpm2001/Learn-WGet-Config
 https://github.com/seanpm2001/Learn-Survex-Data
+https://github.com/seanpm2001/Learn-ShellSession
 
 //// LennyOS
 
@@ -2231,6 +2257,10 @@ https://github.com/seanpm2001/MailOS_Web_Docs
 //// MalNotch
 
 https://github.com/seanpm2001/MalNotch_Docs
+
+//// Matrix Language
+
+https://github.com/seanpm2001/Matrix-lang_Docs
 
 //// MCPYE
 
@@ -3182,9 +3212,17 @@ https://github.com/seanpm2001/SlideXMagic_Docs
 
 https://github.com/seanpm2001/SmartZIP_Docs
 
+//// Snail Bob Maker
+
+https://github.com/seanpm2001/Snail-Bob-Maker_Docs
+
 //// Snapshot Version Control System
 
 https://github.com/seanpm2001/Snapshots-Version-Control-System_Docs
+
+//// Snowcraft
+
+https://github.com/seanpm2001/Snowcraft_Docs
 
 //// SNU
 
@@ -3522,6 +3560,10 @@ https://github.com/seanpm2001/VirtualHomeApp_Docs
 
 https://github.com/seanpm2001/Virtual-VHS_Docs
 
+//// VOI Manor
+
+https://github.com/seanpm2001/VOI-Manor_Docs
+
 //// VRedRoomOS
 
 https://github.com/seanpm2001/VRedroomOS_Horny-Jail_Docs
@@ -3830,18 +3872,8 @@ https://github.com/seanpm2001/YKDefenderVM_Docs
 
 https://github.com/seanpm2001/Zag_Docs
 
-//// TODO Data as of 2025, May 7th (70 left)
+//// TODO Data as of 2025, May 8th (60 left)
 
-https://github.com/seanpm2001/GitMan_Docs
-https://github.com/seanpm2001/Hospital_Defender_Docs
-https://github.com/seanpm2001/VOI-Manor_Docs
-https://github.com/seanpm2001/Snail-Bob-Maker_Docs
-https://github.com/seanpm2001/HT-Messenger_Docs
-https://github.com/seanpm2001/GitHubby_Docs
-https://github.com/seanpm2001/Cyborg-System-Monitor_Docs
-https://github.com/seanpm2001/Snowcraft_Docs
-https://github.com/seanpm2001/Matrix-lang_Docs
-https://github.com/seanpm2001/DroneMap_Docs
 https://github.com/seanpm2001/MadLibby_Docs
 https://github.com/seanpm2001/CountMausoleum_Docs
 https://github.com/seanpm2001/MicroMiniwave_Docs
@@ -3926,8 +3958,8 @@ https://github.com/seanpm2001/CompuBunker_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 16 (2025, Wednesday, May 7th at 06:33 pm PST)
-//// Line count (including blank lines and compiler line): 3,934
+//// File version: 17 (2025, Thursday, May 8th at 06:35 pm PST)
+//// Line count (including blank lines and compiler line): 3,966
 //// ----------------------------------------------------- \\\\
 
 //// End of file
