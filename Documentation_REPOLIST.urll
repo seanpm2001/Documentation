@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, May 8th
+//// As of 2025, Friday, May 9th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (2,963) (many not listed yet)
+//// Documentation Project (2,968) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1200,6 +1200,13 @@ https://github.com/seanpm2001/Goodbye-World_Docs
 
 https://github.com/seanpm2001/Guinea-Myrick-Memorial
 
+//// Gurgle
+
+https://github.com/seanpm2001/Gurgle_Docs
+https://github.com/seanpm2001/Gurgle_Gemini_Docs
+https://github.com/seanpm2001/Gurgle_GuLang_Docs
+https://github.com/seanpm2001/Gurgle_Gu_Docs
+
 //// Has It Been Done
 
 https://github.com/seanpm2001/HasItBeenDone_Docs
@@ -2175,6 +2182,7 @@ https://github.com/seanpm2001/Learn-Win32-Message-File
 https://github.com/seanpm2001/Learn-WGet-Config
 https://github.com/seanpm2001/Learn-Survex-Data
 https://github.com/seanpm2001/Learn-ShellSession
+https://github.com/seanpm2001/Learn-ShellCheck-Config
 
 //// LennyOS
 
@@ -3958,8 +3966,8 @@ https://github.com/seanpm2001/CompuBunker_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 17 (2025, Thursday, May 8th at 06:35 pm PST)
-//// Line count (including blank lines and compiler line): 3,966
+//// File version: 18 (2025, Friday, May 9th at 07:31 pm PST)
+//// Line count (including blank lines and compiler line): 3,974
 //// ----------------------------------------------------- \\\\
 
 //// End of file
