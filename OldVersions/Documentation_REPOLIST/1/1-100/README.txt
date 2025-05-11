@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, May 9th
+//// As of 2025, Saturday, May 10th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (2,968) (many not listed yet)
+//// Documentation Project (2,973) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1206,6 +1206,11 @@ https://github.com/seanpm2001/Gurgle_Docs
 https://github.com/seanpm2001/Gurgle_Gemini_Docs
 https://github.com/seanpm2001/Gurgle_GuLang_Docs
 https://github.com/seanpm2001/Gurgle_Gu_Docs
+https://github.com/seanpm2001/Gurgle_GFAIL_Docs
+https://github.com/seanpm2001/Gurgle_Chromosome_Docs
+https://github.com/seanpm2001/Gurgle_Minus_Docs
+https://github.com/seanpm2001/Gurgle_Search_Docs
+https://github.com/seanpm2001/Gurgle_ViewTube_Docs
 
 //// Has It Been Done
 
@@ -3966,8 +3971,8 @@ https://github.com/seanpm2001/CompuBunker_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 18 (2025, Friday, May 9th at 07:31 pm PST)
-//// Line count (including blank lines and compiler line): 3,974
+//// File version: 19 (2025, Saturday, May 10th at 06:50 pm PST)
+//// Line count (including blank lines and compiler line): 3,979
 //// ----------------------------------------------------- \\\\
 
 //// End of file
