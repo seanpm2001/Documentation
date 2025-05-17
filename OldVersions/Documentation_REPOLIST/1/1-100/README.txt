@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, May 15th
+//// As of 2025, Friday, May 16th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (2,998) (many not listed yet)
+//// Documentation Project (3,003) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -814,6 +814,10 @@ https://github.com/seanpm2001/BluPhoneOS_Docs
 
 https://github.com/seanpm2001/Boilerplate-cabinet_Docs
 
+//// BootDown
+
+https://github.com/seanpm2001/BootDown_Docs
+
 //// Booty
 
 https://github.com/seanpm2001/Booty_Docs
@@ -837,6 +841,10 @@ https://github.com/seanpm2001/Booty_AquariOS_Docs
 https://github.com/seanpm2001/Booty_OpenGovOS_Docs
 https://github.com/seanpm2001/Booty_LennyOS_Docs
 https://github.com/seanpm2001/Booty_UCALC_Docs
+
+//// Bosky
+
+https://github.com/seanpm2001/Bosky_Docs
 
 //// Branch Ranch
 
@@ -934,6 +942,10 @@ https://github.com/seanpm2001/Comedy-collective
 https://github.com/seanpm2001/Miscellaneous-collective
 https://github.com/seanpm2001/Collectives
 https://github.com/seanpm2001/Collective
+
+//// CompuBunker
+
+https://github.com/seanpm2001/CompuBunker_Docs
 
 //// Computer Cursor Tech Support
 
@@ -1240,6 +1252,10 @@ https://github.com/seanpm2001/GoDot_Launcher_Docs
 
 https://github.com/seanpm2001/Goodbye-World_Docs
 
+//// GratyBot
+
+https://github.com/seanpm2001/GratyBot_Docs
+
 //// Green Star OS
 
 https://github.com/seanpm2001/Green-Star-OS_Docs
@@ -1280,6 +1296,10 @@ https://github.com/seanpm2001/Gurgle_Pikasso_Docs
 https://github.com/seanpm2001/Gurgle_Orcut_Docs
 https://github.com/seanpm2001/Gurgle_Hangover_Docs
 https://github.com/seanpm2001/Gurgle_Pics_Docs
+https://github.com/seanpm2001/Gurgle_NarrowVineDRM_Docs
+https://github.com/seanpm2001/Gurgle_Code_Docs
+https://github.com/seanpm2001/Gurgle_ChromosomeOS_Docs
+https://github.com/seanpm2001/Gurgle_Fucksia_Docs
 
 //// Has It Been Done
 
@@ -2266,6 +2286,7 @@ https://github.com/seanpm2001/Learn-Witcher-Script
 https://github.com/seanpm2001/Learn-MFM-MissKey
 https://github.com/seanpm2001/Learn-KDL
 https://github.com/seanpm2001/Learn-NPM-Config
+https://github.com/seanpm2001/Learn-X-BitMap
 
 //// LennyOS
 
@@ -2353,6 +2374,10 @@ https://github.com/seanpm2001/MailOS_Web_Docs
 
 https://github.com/seanpm2001/MalNotch_Docs
 
+//// Mammal Town
+
+https://github.com/seanpm2001/Mammal-Town_Docs
+
 //// MaprilOS
 
 https://github.com/seanpm2001/MaprilOS_Docs
@@ -2393,6 +2418,7 @@ https://github.com/seanpm2001/MemeMachine-2019_Docs
 
 //// MetroTechno
 
+https://github.com/seanpm2001/MetroTechno_Docs
 https://github.com/seanpm2001/MetroTechno_SpeedViolations_Docs
 https://github.com/seanpm2001/MetroTechno_IncidentReporter_Docs
 https://github.com/seanpm2001/MetroTechno_TravelAssist_Docs
@@ -2436,6 +2462,10 @@ https://github.com/seanpm2001/NetV_Docs
 //// New Years Tag
 
 https://github.com/seanpm2001/New-Years-Tag_Docs
+
+//// NimbleBit Glossary
+
+https://github.com/seanpm2001/NimbleBit-Glossary_Docs
 
 //// NimbleBook
 
@@ -2511,6 +2541,10 @@ https://github.com/seanpm2001/Open-Media-Rating-System_Database_Docs
 //// Open Source Security Camera
 
 https://github.com/seanpm2001/Open-Source-Security-Camera_Docs
+
+//// OpenTowers
+
+https://github.com/seanpm2001/OpenTowers_Docs
 
 //// OS Census
 
@@ -3366,6 +3400,10 @@ https://github.com/seanpm2001/Seanwallawalla_Malware
 https://github.com/seanpm2001/SeanWallaWalla_Health
 https://github.com/seanpm2001/SeanWallaWalla_Operating_Systems
 
+//// Self-Care Bot
+
+https://github.com/seanpm2001/Self-Care_Bot_Docs
+
 //// Self-Replicating Machine Research
 
 https://github.com/seanpm2001/Self-Replicating-Machine-Research_Docs
@@ -3377,6 +3415,10 @@ https://github.com/seanpm2001/Senior_Design_Docs
 //// Setup Go! (2004) action
 
 https://github.com/seanpm2001/Setup-Go2004-GitHubAction_Docs
+
+//// ShareBoxLIBrary
+
+https://github.com/seanpm2001/ShareBoxLIBrary_Docs
 
 //// SimZonns
 
@@ -4098,18 +4140,9 @@ https://github.com/seanpm2001/YKDefenderVM_Docs
 
 https://github.com/seanpm2001/Zag_Docs
 
-//// TODO Data as of 2025, May 15th (10 left)
+//// TODO Data as of 2025, May 16th (0 left)
 
-https://github.com/seanpm2001/BootDown_Docs
-https://github.com/seanpm2001/Bosky_Docs
-https://github.com/seanpm2001/ShareBoxLIBrary_Docs
-https://github.com/seanpm2001/Mammal-Town_Docs
-https://github.com/seanpm2001/Self-Care_Bot_Docs
-https://github.com/seanpm2001/GratyBot_Docs
-https://github.com/seanpm2001/MetroTechno_Docs
-https://github.com/seanpm2001/OpenTowers_Docs
-https://github.com/seanpm2001/NimbleBit-Glossary_Docs
-https://github.com/seanpm2001/CompuBunker_Docs
+//// Queue is empty \\\\
 
 //// TODO: NOTE: Repositories prior to 2023.09.01 are not currently listed
 
@@ -4134,8 +4167,8 @@ https://github.com/seanpm2001/CompuBunker_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 24 (2025, Thursday, May 15th at 07:09 pm PST)
-//// Line count (including blank lines and compiler line): 4,142
+//// File version: 25 (2025, Friday, May 16th at 05:40 pm PST)
+//// Line count (including blank lines and compiler line): 4,175
 //// ----------------------------------------------------- \\\\
 
 //// End of file
