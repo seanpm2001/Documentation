@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, May 16th
+//// As of 2025, Saturday, May 17th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,003) (many not listed yet)
+//// Documentation Project (3,010) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -151,6 +151,13 @@ https://github.com/seanpm2001/3D-Webpage-Inspector_Docs
 
 https://github.com/seanpm2001/4096_Docs
 https://github.com/seanpm2001/FourThousandNinetySix_Docs
+
+//// Ad
+
+https://github.com/seanpm2001/Ad
+https://github.com/seanpm2001/Advertisement
+https://github.com/seanpm2001/Ad_Statement
+https://github.com/seanpm2001/Ad-Statement
 
 //// AdBool
 
@@ -1001,6 +1008,10 @@ https://github.com/seanpm2001/Criticism-of-AppleInc
 //// CrossCompatXU
 
 https://github.com/seanpm2001/CrossCompatXU_Docs
+
+//// CrowdPoll
+
+https://github.com/seanpm2001/CrowdPoll_Docs
 
 //// Cyborg System Monitor
 
@@ -3778,6 +3789,11 @@ https://github.com/seanpm2001/uOffice-Spellcheck_Docs
 
 https://github.com/seanpm2001/UriOS_Docs
 
+//// URLL
+
+https://github.com/seanpm2001/URLL_WHATWG_Docs
+https://github.com/seanpm2001/URLL_W3C_Docs
+
 //// UShortcut Pro
 
 https://github.com/seanpm2001/UShortcut_Pro_Docs
@@ -4167,8 +4183,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 25 (2025, Friday, May 16th at 05:40 pm PST)
-//// Line count (including blank lines and compiler line): 4,175
+//// File version: 26 (2025, Saturday, May 17th at 05:47 pm PST)
+//// Line count (including blank lines and compiler line): 4,191
 //// ----------------------------------------------------- \\\\
 
 //// End of file
