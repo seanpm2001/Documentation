@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Saturday, May 17th
+//// As of 2025, Sunday, May 18th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,010) (many not listed yet)
+//// Documentation Project (3,014) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -3584,6 +3584,8 @@ https://github.com/seanpm2001/SoftMicro_Drapes_9.x_Beta_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_10.x_Beta_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_11.x_Beta_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_12.x_Beta_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_7x_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_8x_Docs
 
 //// //// SoftMicro Drapes Server
 
@@ -3679,6 +3681,8 @@ https://github.com/seanpm2001/Team8Collection_Farm_Docs
 https://github.com/seanpm2001/Team8Collection_City_Docs
 https://github.com/seanpm2001/Team8Collection_Restaurant_Docs
 https://github.com/seanpm2001/Team8Collection_Bakery_Docs
+https://github.com/seanpm2001/Team8Collection
+https://github.com/seanpm2001/Team8-Collection
 
 //// The Bandwidth Band
 
@@ -4183,8 +4187,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 26 (2025, Saturday, May 17th at 05:47 pm PST)
-//// Line count (including blank lines and compiler line): 4,191
+//// File version: 27 (2025, Sunday, May 18th at 05:21 pm PST)
+//// Line count (including blank lines and compiler line): 4,195
 //// ----------------------------------------------------- \\\\
 
 //// End of file
