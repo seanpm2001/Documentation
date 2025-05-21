@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, May 19th
+//// As of 2025, Tuesday, May 20th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,019) (many not listed yet)
+//// Documentation Project (3,028) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -238,6 +238,14 @@ https://github.com/seanpm2001/Anime_Studio_OpenAnime_Docs
 https://github.com/seanpm2001/Anime_Studio_AnimAI_Docs
 https://github.com/seanpm2001/Anime_Studio_Manga-Studio_Docs
 https://github.com/seanpm2001/Anime_Studio_Subs-and-Dubs_Docs
+https://github.com/seanpm2001/Anime_Studio_Video-Editor_Docs
+https://github.com/seanpm2001/Anime_Studio_ApplicationCore_Docs
+https://github.com/seanpm2001/Anime_Studio_Hentai_Docs
+https://github.com/seanpm2001/Anime_Studio_AvatarStudio_Docs
+https://github.com/seanpm2001/Anime_Studio_StyleManager_Docs
+https://github.com/seanpm2001/Anime_Studio_Library_Docs
+https://github.com/seanpm2001/Anime_Studio_Exporter_Docs
+https://github.com/seanpm2001/Anime_Studio_Image-Editor_Docs
 
 //// Android x32
 
@@ -2306,6 +2314,7 @@ https://github.com/seanpm2001/Learn-KDL
 https://github.com/seanpm2001/Learn-NPM-Config
 https://github.com/seanpm2001/Learn-X-BitMap
 https://github.com/seanpm2001/Learn-QuickBasic
+https://github.com/seanpm2001/Learn-Redirect-Rules
 
 //// LennyOS
 
@@ -4195,8 +4204,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 28 (2025, Monday, May 19th at 07:46 pm PST)
-//// Line count (including blank lines and compiler line): 4,203
+//// File version: 29 (2025, Tuesday, May 20th at 05:23 pm PST)
+//// Line count (including blank lines and compiler line): 4,212
 //// ----------------------------------------------------- \\\\
 
 //// End of file
