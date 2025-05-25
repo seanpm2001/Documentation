@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, May 23rd
+//// As of 2025, Saturday, May 24th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,049) (many not listed yet)
+//// Documentation Project (3,054) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -3622,6 +3622,9 @@ https://github.com/seanpm2001/SoftMicro_Drapes_11.x_Beta_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_12.x_Beta_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_7x_Docs
 https://github.com/seanpm2001/SoftMicro_Drapes_8x_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_XD_Beta_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_7x_Beta_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_8x_Beta_Docs
 
 //// //// SoftMicro Drapes Server
 
@@ -3643,6 +3646,8 @@ https://github.com/seanpm2001/Drapes_Server_2003_R2_Beta_Docs
 https://github.com/seanpm2001/Drapes_Server_2008_Beta_Docs
 https://github.com/seanpm2001/Drapes_Server_2008_R2_Beta_Docs
 https://github.com/seanpm2001/Drapes_Server_2012_Beta_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2012_R2_Docs
+https://github.com/seanpm2001/SoftMicro_Drapes_Server_2003_Beta_Docs
 
 //// //// SoftMicro Drapes Film Maker
 
@@ -4228,8 +4233,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 32 (2025, Friday, May 23rd at 06:29 pm PST)
-//// Line count (including blank lines and compiler line): 4,236
+//// File version: 33 (2025, Saturday, May 24th at 06:31 pm PST)
+//// Line count (including blank lines and compiler line): 4,241
 //// ----------------------------------------------------- \\\\
 
 //// End of file
