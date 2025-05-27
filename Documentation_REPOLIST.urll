@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Sunday, May 25th
+//// As of 2025, Monday, May 26th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,059) (many not listed yet)
+//// Documentation Project (3,065) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -796,6 +796,9 @@ https://github.com/seanpm2001/Bliss-Browser_Offline-Games_Browser-Battle_Docs
 https://github.com/seanpm2001/Bliss-Browser_ReloadButton_Docs
 https://github.com/seanpm2001/Bliss-Browser_Web-Accessibility-Initiative-WAI_Docs
 https://github.com/seanpm2001/Bliss_Browser_Extensions_Docs
+https://github.com/seanpm2001/Bliss_Browser_Extensions_Domainiac_Docs
+https://github.com/seanpm2001/Bliss_Browser_Extensions_AdBlockCollection_Docs
+https://github.com/seanpm2001/Bliss_Browser_Extensions_PopupBlocker_Docs
 
 //// BlueberryOS
 
@@ -1023,6 +1026,8 @@ https://github.com/seanpm2001/United-States
 https://github.com/seanpm2001/Wales
 https://github.com/seanpm2001/Georgia
 https://github.com/seanpm2001/Estonia
+https://github.com/seanpm2001/Latvia
+https://github.com/seanpm2001/Moldova
 
 //// Criticism
 
@@ -2333,6 +2338,7 @@ https://github.com/seanpm2001/Learn-Redirect-Rules
 https://github.com/seanpm2001/Learn-LTSpice-Symbol
 https://github.com/seanpm2001/Learn-Formatted
 https://github.com/seanpm2001/Learn-TextMate-Properties
+https://github.com/seanpm2001/Learn-Terraform-Template
 
 //// LennyOS
 
@@ -4241,8 +4247,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 34 (2025, Sunday, May 25th at 06:41 pm PST)
-//// Line count (including blank lines and compiler line): 4,249
+//// File version: 35 (2025, Monday, May 26th at 06:10 pm PST)
+//// Line count (including blank lines and compiler line): 4,255
 //// ----------------------------------------------------- \\\\
 
 //// End of file
