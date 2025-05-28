@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, May 26th
+//// As of 2025, Tuesday, May 27th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,065) (many not listed yet)
+//// Documentation Project (3,071) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1028,6 +1028,8 @@ https://github.com/seanpm2001/Georgia
 https://github.com/seanpm2001/Estonia
 https://github.com/seanpm2001/Latvia
 https://github.com/seanpm2001/Moldova
+https://github.com/seanpm2001/Turkey
+https://github.com/seanpm2001/Afghanistan
 
 //// Criticism
 
@@ -2339,6 +2341,7 @@ https://github.com/seanpm2001/Learn-LTSpice-Symbol
 https://github.com/seanpm2001/Learn-Formatted
 https://github.com/seanpm2001/Learn-TextMate-Properties
 https://github.com/seanpm2001/Learn-Terraform-Template
+https://github.com/seanpm2001/Learn-SSH-Config
 
 //// LennyOS
 
@@ -2372,6 +2375,9 @@ https://github.com/seanpm2001/LifeMill_Sousveillance_Docs
 https://github.com/seanpm2001/LifeMill_LifeArchive_Docs
 https://github.com/seanpm2001/LifeMill_Dashboard_Docs
 https://github.com/seanpm2001/LifeMill_Scribe_Docs
+https://github.com/seanpm2001/Lifemill_Camera_Docs
+https://github.com/seanpm2001/LifeMill_PKB_Docs
+https://github.com/seanpm2001/LifeMill_Contacts_Docs
 
 //// LightSpeed Relay Technologies (LSRT)
 
@@ -4247,8 +4253,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 35 (2025, Monday, May 26th at 06:10 pm PST)
-//// Line count (including blank lines and compiler line): 4,255
+//// File version: 36 (2025, Tuesday, May 27th at 06:22 pm PST)
+//// Line count (including blank lines and compiler line): 4,261
 //// ----------------------------------------------------- \\\\
 
 //// End of file
