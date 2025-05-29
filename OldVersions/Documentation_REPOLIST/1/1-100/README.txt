@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Tuesday, May 27th
+//// As of 2025, Wednesday, May 28th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,071) (many not listed yet)
+//// Documentation Project (3,077) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1030,6 +1030,8 @@ https://github.com/seanpm2001/Latvia
 https://github.com/seanpm2001/Moldova
 https://github.com/seanpm2001/Turkey
 https://github.com/seanpm2001/Afghanistan
+https://github.com/seanpm2001/Sudan
+https://github.com/seanpm2001/South-Sudan
 
 //// Criticism
 
@@ -2342,6 +2344,7 @@ https://github.com/seanpm2001/Learn-Formatted
 https://github.com/seanpm2001/Learn-TextMate-Properties
 https://github.com/seanpm2001/Learn-Terraform-Template
 https://github.com/seanpm2001/Learn-SSH-Config
+https://github.com/seanpm2001/Learn-Roff-Manpage
 
 //// LennyOS
 
@@ -2378,6 +2381,9 @@ https://github.com/seanpm2001/LifeMill_Scribe_Docs
 https://github.com/seanpm2001/Lifemill_Camera_Docs
 https://github.com/seanpm2001/LifeMill_PKB_Docs
 https://github.com/seanpm2001/LifeMill_Contacts_Docs
+https://github.com/seanpm2001/LifeMill_Explorer_Docs
+https://github.com/seanpm2001/LifeMill_WebApp_Docs
+https://github.com/seanpm2001/LifeMill_DesktopApp_Docs
 
 //// LightSpeed Relay Technologies (LSRT)
 
@@ -4253,8 +4259,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 36 (2025, Tuesday, May 27th at 06:22 pm PST)
-//// Line count (including blank lines and compiler line): 4,261
+//// File version: 37 (2025, Wednesday, May 28th at 06:50 pm PST)
+//// Line count (including blank lines and compiler line): 4,267
 //// ----------------------------------------------------- \\\\
 
 //// End of file
