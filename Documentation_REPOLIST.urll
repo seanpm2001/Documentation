@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, May 28th
+//// As of 2025, Thursday, May 29th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,077) (many not listed yet)
+//// Documentation Project (3,083) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1032,6 +1032,8 @@ https://github.com/seanpm2001/Turkey
 https://github.com/seanpm2001/Afghanistan
 https://github.com/seanpm2001/Sudan
 https://github.com/seanpm2001/South-Sudan
+https://github.com/seanpm2001/Egypt
+https://github.com/seanpm2001/Korea
 
 //// Criticism
 
@@ -2345,6 +2347,7 @@ https://github.com/seanpm2001/Learn-TextMate-Properties
 https://github.com/seanpm2001/Learn-Terraform-Template
 https://github.com/seanpm2001/Learn-SSH-Config
 https://github.com/seanpm2001/Learn-Roff-Manpage
+https://github.com/seanpm2001/Learn-Readline-Config
 
 //// LennyOS
 
@@ -2384,6 +2387,7 @@ https://github.com/seanpm2001/LifeMill_Contacts_Docs
 https://github.com/seanpm2001/LifeMill_Explorer_Docs
 https://github.com/seanpm2001/LifeMill_WebApp_Docs
 https://github.com/seanpm2001/LifeMill_DesktopApp_Docs
+https://github.com/seanpm2001/LifeMill_MobileApp_Docs
 
 //// LightSpeed Relay Technologies (LSRT)
 
@@ -2589,6 +2593,8 @@ https://github.com/seanpm2001/NUNIX_Mouth_Docs
 https://github.com/seanpm2001/NUNIX_HAP_Docs
 https://github.com/seanpm2001/NUNIX-HAP_DreamScene_Docs
 https://github.com/seanpm2001/NUNIX-Ethics_Docs
+https://github.com/seanpm2001/NUNIX_Emotions_Nostalgia_Docs
+https://github.com/seanpm2001/NUNIX_Emotions_Love_Docs
 
 //// Oh Hi Markdown
 
@@ -4259,8 +4265,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 37 (2025, Wednesday, May 28th at 06:50 pm PST)
-//// Line count (including blank lines and compiler line): 4,267
+//// File version: 38 (2025, Thursday, May 29th at 07:09 pm PST)
+//// Line count (including blank lines and compiler line): 4,273
 //// ----------------------------------------------------- \\\\
 
 //// End of file
