@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, May 29th
+//// As of 2025, Friday, May 30th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,083) (many not listed yet)
+//// Documentation Project (3,089) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1034,6 +1034,8 @@ https://github.com/seanpm2001/Sudan
 https://github.com/seanpm2001/South-Sudan
 https://github.com/seanpm2001/Egypt
 https://github.com/seanpm2001/Korea
+https://github.com/seanpm2001/Romania
+https://github.com/seanpm2001/Malta
 
 //// Criticism
 
@@ -2348,6 +2350,7 @@ https://github.com/seanpm2001/Learn-Terraform-Template
 https://github.com/seanpm2001/Learn-SSH-Config
 https://github.com/seanpm2001/Learn-Roff-Manpage
 https://github.com/seanpm2001/Learn-Readline-Config
+https://github.com/seanpm2001/Learn-Propeller-Spin
 
 //// LennyOS
 
@@ -2595,6 +2598,9 @@ https://github.com/seanpm2001/NUNIX-HAP_DreamScene_Docs
 https://github.com/seanpm2001/NUNIX-Ethics_Docs
 https://github.com/seanpm2001/NUNIX_Emotions_Nostalgia_Docs
 https://github.com/seanpm2001/NUNIX_Emotions_Love_Docs
+https://github.com/seanpm2001/NUNIX_Emotions_Euphoria_Docs
+https://github.com/seanpm2001/NUNIX_Emotions_Happiness_Docs
+https://github.com/seanpm2001/NUNIX_Emotions_Sadness_Docs
 
 //// Oh Hi Markdown
 
@@ -4265,8 +4271,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 38 (2025, Thursday, May 29th at 07:09 pm PST)
-//// Line count (including blank lines and compiler line): 4,273
+//// File version: 39 (2025, Friday, May 30th at 05:58 pm PST)
+//// Line count (including blank lines and compiler line): 4,279
 //// ----------------------------------------------------- \\\\
 
 //// End of file
