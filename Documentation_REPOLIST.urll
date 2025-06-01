@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, May 30th
+//// As of 2025, Saturday, May 31st
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,089) (many not listed yet)
+//// Documentation Project (3,095) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1036,6 +1036,8 @@ https://github.com/seanpm2001/Egypt
 https://github.com/seanpm2001/Korea
 https://github.com/seanpm2001/Romania
 https://github.com/seanpm2001/Malta
+https://github.com/seanpm2001/Poland
+https://github.com/seanpm2001/Italy
 
 //// Criticism
 
@@ -2601,6 +2603,10 @@ https://github.com/seanpm2001/NUNIX_Emotions_Love_Docs
 https://github.com/seanpm2001/NUNIX_Emotions_Euphoria_Docs
 https://github.com/seanpm2001/NUNIX_Emotions_Happiness_Docs
 https://github.com/seanpm2001/NUNIX_Emotions_Sadness_Docs
+https://github.com/seanpm2001/NUNIX_Emotions_Anger_Docs
+https://github.com/seanpm2001/NUNIX_Emotions_Fear_Docs
+https://github.com/seanpm2001/NUNIX_Emotions_Disgust_Docs
+https://github.com/seanpm2001/NUNIX_Emotions_Empathy_Docs
 
 //// Oh Hi Markdown
 
@@ -4271,8 +4277,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 39 (2025, Friday, May 30th at 05:58 pm PST)
-//// Line count (including blank lines and compiler line): 4,279
+//// File version: 40 (2025, Saturday, May 31st at 06:53 pm PST)
+//// Line count (including blank lines and compiler line): 4,285
 //// ----------------------------------------------------- \\\\
 
 //// End of file
