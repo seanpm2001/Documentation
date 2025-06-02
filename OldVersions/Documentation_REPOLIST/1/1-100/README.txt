@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Saturday, May 31st
+//// As of 2025, Sunday, June 1st
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,095) (many not listed yet)
+//// Documentation Project (3,102) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -67,6 +67,7 @@ https://github.com/seanpm2001/Redacted
 https://github.com/seanpm2001/Private
 https://github.com/seanpm2001/Email
 https://github.com/seanpm2001/Googler_Truce
+https://github.com/seanpm2001/Funding
 
 //// 📌️ Awards
 
@@ -1038,6 +1039,9 @@ https://github.com/seanpm2001/Romania
 https://github.com/seanpm2001/Malta
 https://github.com/seanpm2001/Poland
 https://github.com/seanpm2001/Italy
+https://github.com/seanpm2001/Jamaica
+https://github.com/seanpm2001/Mexico
+https://github.com/seanpm2001/Uganda
 
 //// Criticism
 
@@ -2378,6 +2382,7 @@ https://github.com/seanpm2001/LibreFlock_Space_Docs
 https://github.com/seanpm2001/LibreFlock_Classic_Docs
 https://github.com/seanpm2001/LibreFlock_Seasonal_Docs
 https://github.com/seanpm2001/LibreFlock_Website
+https://github.com/seanpm2001/LibreFlock_Notebooks_Docs
 
 //// LifeMill
 
@@ -3609,6 +3614,11 @@ https://github.com/seanpm2001/SNU_4D_Docs
 https://github.com/seanpm2001/SNU_Account_Docs
 https://github.com/seanpm2001/SNU_Account_Fail2Ban_Docs
 
+//// //// SNU CardStack
+
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_3TowerStrategy_Docs
+
 //// //// SNU CSAM-K
 
 https://github.com/seanpm2001/SNU_CSAM-K_Docs
@@ -4277,8 +4287,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 40 (2025, Saturday, May 31st at 06:53 pm PST)
-//// Line count (including blank lines and compiler line): 4,285
+//// File version: 41 (2025, Sunday, June 1st at 07:58 pm PST)
+//// Line count (including blank lines and compiler line): 4,295
 //// ----------------------------------------------------- \\\\
 
 //// End of file
