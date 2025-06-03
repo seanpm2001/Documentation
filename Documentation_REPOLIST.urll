@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Sunday, June 1st
+//// As of 2025, Monday, June 2nd
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,102) (many not listed yet)
+//// Documentation Project (3,108) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1042,6 +1042,8 @@ https://github.com/seanpm2001/Italy
 https://github.com/seanpm2001/Jamaica
 https://github.com/seanpm2001/Mexico
 https://github.com/seanpm2001/Uganda
+https://github.com/seanpm2001/Portugal
+https://github.com/seanpm2001/Spain
 
 //// Criticism
 
@@ -2357,6 +2359,7 @@ https://github.com/seanpm2001/Learn-SSH-Config
 https://github.com/seanpm2001/Learn-Roff-Manpage
 https://github.com/seanpm2001/Learn-Readline-Config
 https://github.com/seanpm2001/Learn-Propeller-Spin
+https://github.com/seanpm2001/Learn-OpenType-Feature-File
 
 //// LennyOS
 
@@ -3618,6 +3621,9 @@ https://github.com/seanpm2001/SNU_Account_Fail2Ban_Docs
 
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_3TowerStrategy_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_3TowerStrategy_SeanWallaWalla-CardRoyale_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Banking_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Banking_TwentyOne_Docs
 
 //// //// SNU CSAM-K
 
@@ -4287,8 +4293,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 41 (2025, Sunday, June 1st at 07:58 pm PST)
-//// Line count (including blank lines and compiler line): 4,295
+//// File version: 42 (2025, Monday, June 2nd at 08:17 pm PST)
+//// Line count (including blank lines and compiler line): 4,301
 //// ----------------------------------------------------- \\\\
 
 //// End of file
