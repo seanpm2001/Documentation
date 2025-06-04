@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, June 2nd
+//// As of 2025, Tuesday, June 3rd
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,108) (many not listed yet)
+//// Documentation Project (3,114) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1044,6 +1044,8 @@ https://github.com/seanpm2001/Mexico
 https://github.com/seanpm2001/Uganda
 https://github.com/seanpm2001/Portugal
 https://github.com/seanpm2001/Spain
+https://github.com/seanpm2001/Denmark
+https://github.com/seanpm2001/Iceland
 
 //// Criticism
 
@@ -2360,6 +2362,7 @@ https://github.com/seanpm2001/Learn-Roff-Manpage
 https://github.com/seanpm2001/Learn-Readline-Config
 https://github.com/seanpm2001/Learn-Propeller-Spin
 https://github.com/seanpm2001/Learn-OpenType-Feature-File
+https://github.com/seanpm2001/Learn-OpenType-Property-File
 
 //// LennyOS
 
@@ -3624,6 +3627,9 @@ https://github.com/seanpm2001/SNU_CardStack_GameHouse_3TowerStrategy_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_3TowerStrategy_SeanWallaWalla-CardRoyale_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_Banking_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_Banking_TwentyOne_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Banking_TwentyOne-Thresholds_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_CatchAndCollect_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Collecting_Docs
 
 //// //// SNU CSAM-K
 
@@ -4293,8 +4299,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 42 (2025, Monday, June 2nd at 08:17 pm PST)
-//// Line count (including blank lines and compiler line): 4,301
+//// File version: 43 (2025, Tuesday, June 3rd at 07:59 pm PST)
+//// Line count (including blank lines and compiler line): 4,307
 //// ----------------------------------------------------- \\\\
 
 //// End of file
