@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Tuesday, June 3rd
+//// As of 2025, Wednesday, June 4th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,114) (many not listed yet)
+//// Documentation Project (3,120) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1046,6 +1046,8 @@ https://github.com/seanpm2001/Portugal
 https://github.com/seanpm2001/Spain
 https://github.com/seanpm2001/Denmark
 https://github.com/seanpm2001/Iceland
+https://github.com/seanpm2001/Scotland
+https://github.com/seanpm2001/Netherlands
 
 //// Criticism
 
@@ -2362,7 +2364,8 @@ https://github.com/seanpm2001/Learn-Roff-Manpage
 https://github.com/seanpm2001/Learn-Readline-Config
 https://github.com/seanpm2001/Learn-Propeller-Spin
 https://github.com/seanpm2001/Learn-OpenType-Feature-File
-https://github.com/seanpm2001/Learn-OpenType-Property-File
+https://github.com/seanpm2001/Learn-OpenStep-Property-List
+https://github.com/seanpm2001/Learn-OpenRC-RunScript
 
 //// LennyOS
 
@@ -3630,6 +3633,9 @@ https://github.com/seanpm2001/SNU_CardStack_GameHouse_Banking_TwentyOne_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_Banking_TwentyOne-Thresholds_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_CatchAndCollect_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_Collecting_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Comparing_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Fishing_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Legacy2017_Docs
 
 //// //// SNU CSAM-K
 
@@ -4299,8 +4305,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 43 (2025, Tuesday, June 3rd at 07:59 pm PST)
-//// Line count (including blank lines and compiler line): 4,307
+//// File version: 44 (2025, Wednesday, June 4th at 07:18 pm PST)
+//// Line count (including blank lines and compiler line): 4,313
 //// ----------------------------------------------------- \\\\
 
 //// End of file
