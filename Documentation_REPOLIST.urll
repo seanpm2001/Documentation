@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, June 4th
+//// As of 2025, Thursday, June 5th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,120) (many not listed yet)
+//// Documentation Project (3,126) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1048,6 +1048,8 @@ https://github.com/seanpm2001/Denmark
 https://github.com/seanpm2001/Iceland
 https://github.com/seanpm2001/Scotland
 https://github.com/seanpm2001/Netherlands
+https://github.com/seanpm2001/Luxembourg
+https://github.com/seanpm2001/Vietnam
 
 //// Criticism
 
@@ -2366,6 +2368,8 @@ https://github.com/seanpm2001/Learn-Propeller-Spin
 https://github.com/seanpm2001/Learn-OpenType-Feature-File
 https://github.com/seanpm2001/Learn-OpenStep-Property-List
 https://github.com/seanpm2001/Learn-OpenRC-RunScript
+https://github.com/seanpm2001/Learn-OpenAPI-Specification-V2
+https://github.com/seanpm2001/Learn-OpenAPI-Specification-V3
 
 //// LennyOS
 
@@ -3636,6 +3640,8 @@ https://github.com/seanpm2001/SNU_CardStack_GameHouse_Collecting_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_Comparing_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_Fishing_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_Legacy2017_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Matching_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Poker_Docs
 
 //// //// SNU CSAM-K
 
@@ -4305,8 +4311,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 44 (2025, Wednesday, June 4th at 07:18 pm PST)
-//// Line count (including blank lines and compiler line): 4,313
+//// File version: 45 (2025, Thursday, June 5th at 06:08 pm PST)
+//// Line count (including blank lines and compiler line): 4,319
 //// ----------------------------------------------------- \\\\
 
 //// End of file
