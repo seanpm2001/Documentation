@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, June 5th
+//// As of 2025, Sunday, June 8th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,126) (many not listed yet)
+//// Documentation Project (3,131) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -3642,6 +3642,11 @@ https://github.com/seanpm2001/SNU_CardStack_GameHouse_Fishing_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_Legacy2017_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_Matching_Docs
 https://github.com/seanpm2001/SNU_CardStack_GameHouse_Poker_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Roleplay_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Shedding_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Shedding_CrazyEights_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Shedding_Solitaire_Docs
+https://github.com/seanpm2001/SNU_CardStack_GameHouse_Tricking_Docs
 
 //// //// SNU CSAM-K
 
@@ -4311,8 +4316,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 45 (2025, Thursday, June 5th at 06:08 pm PST)
-//// Line count (including blank lines and compiler line): 4,319
+//// File version: 46 (2025, Sunday, June 8th at 09:08 pm PST)
+//// Line count (including blank lines and compiler line): 4,324
 //// ----------------------------------------------------- \\\\
 
 //// End of file
