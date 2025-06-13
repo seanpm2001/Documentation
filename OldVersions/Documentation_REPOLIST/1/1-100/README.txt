@@ -3,10 +3,10 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, June 11th
+//// As of 2025, tHURSDAY, June 12th
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,139) (many not listed yet)
+//// Documentation Project (3,140) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2375,6 +2375,7 @@ https://github.com/seanpm2001/Learn-OpenAPI-Specification-V3
 https://github.com/seanpm2001/Learn-OMNeT-PlusPlus-NED
 https://github.com/seanpm2001/Learn-OMNeT-PlusPlus-MSG
 https://github.com/seanpm2001/Learn-GMIC
+https://github.com/seanpm2001/Learn-ZModel
 
 //// LennyOS
 
@@ -4324,8 +4325,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 49 (2025, Wednesday, June 11th at 06:44 pm PST)
-//// Line count (including blank lines and compiler line): 4,332
+//// File version: 50 (2025, Thursday, June 12th at 06:51 pm PST)
+//// Line count (including blank lines and compiler line): 4,333
 //// ----------------------------------------------------- \\\\
 
 //// End of file
