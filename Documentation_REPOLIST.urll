@@ -3,10 +3,12 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Saturday, June 14th
+//// As of 2025, Sunday, June 15th
+
+//// TODO: Check documentation repositories for the WacOS project
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,143) (many not listed yet)
+//// Documentation Project (3,148) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -4060,6 +4062,7 @@ https://github.com/seanpm2001/Sir-Isaac-NewtonScript_Docs
 https://github.com/seanpm2001/VisorOS_Docs
 https://github.com/seanpm2001/VisorOS_1_Docs
 https://github.com/seanpm2001/VisorOS_2_Docs
+https://github.com/seanpm2001/VisorOS_26_Docs
 
 //// //// WacOS API
 
@@ -4107,6 +4110,7 @@ https://github.com/seanpm2001/WacOS_Kiri_Docs
 https://github.com/seanpm2001/WacOS_Weather_Docs
 https://github.com/seanpm2001/WacOS_Calculator_Docs
 https://github.com/seanpm2001/WacOS_Cloud_Docs
+https://github.com/seanpm2001/WacOS_26_Docs
 
 //// //// WacOS X
 
@@ -4181,6 +4185,7 @@ https://github.com/seanpm2001/WhyPadOS_Compass_Docs
 https://github.com/seanpm2001/WhyPadOS_Kiri_Docs
 https://github.com/seanpm2001/WhyPadOS_Calculator_Docs
 https://github.com/seanpm2001/WhyPadOS_Weather_Docs
+https://github.com/seanpm2001/whyPadOS_26_Docs
 
 //// //// WhyPhoneOS
 
@@ -4205,6 +4210,7 @@ https://github.com/seanpm2001/whyWatchOS_8_Docs
 https://github.com/seanpm2001/whyWatchOS_9_Docs
 https://github.com/seanpm2001/whyWatchOS_10_Docs
 https://github.com/seanpm2001/whyWatchOS_11_Docs
+https://github.com/seanpm2001/WhyWatchOS_26_Docs
 https://github.com/seanpm2001/WhyWatchOS_Compass_Docs
 https://github.com/seanpm2001/WhyWatchOS_Kiri_Docs
 https://github.com/seanpm2001/whyWatchOS_Weather_Docs
@@ -4234,6 +4240,7 @@ https://github.com/seanpm2001/wOS_14_Docs
 https://github.com/seanpm2001/wOS_15_Docs
 https://github.com/seanpm2001/wOS_16_Docs
 https://github.com/seanpm2001/wOS_18_Docs
+https://github.com/seanpm2001/wOS_26_Docs
 https://github.com/seanpm2001/wOS_Compass_Docs
 https://github.com/seanpm2001/wOS_Calculator_Docs
 
@@ -4328,8 +4335,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 52 (2025, Saturday, June 14th at 05:40 pm PST)
-//// Line count (including blank lines and compiler line): 4,336
+//// File version: 53 (2025, Sunday, June 15th at 07:03 pm PST)
+//// Line count (including blank lines and compiler line): 4,343
 //// ----------------------------------------------------- \\\\
 
 //// End of file
