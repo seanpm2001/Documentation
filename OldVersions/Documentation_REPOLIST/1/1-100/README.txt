@@ -3,12 +3,12 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Tuesday, June 24th
+//// As of 2025, Wednesday, June 25th
 
 //// TODO: Check documentation repositories for the WacOS project
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,155) (many not listed yet)
+//// Documentation Project (3,156) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2388,6 +2388,7 @@ https://github.com/seanpm2001/Learn-TL-Verilog
 https://github.com/seanpm2001/Learn-TI-Program
 https://github.com/seanpm2001/Learn-RON
 https://github.com/seanpm2001/Learn-Rocq-Prover
+https://github.com/seanpm2001/Learn-Record-Jar
 
 //// LennyOS
 
@@ -4342,8 +4343,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 60 (2025, Tuesday, June 24th at 07:49 pm PST)
-//// Line count (including blank lines and compiler line): 4,350
+//// File version: 61 (2025, Wednesday, June 25th at 08:50 pm PST)
+//// Line count (including blank lines and compiler line): 4,351
 //// ----------------------------------------------------- \\\\
 
 //// End of file
