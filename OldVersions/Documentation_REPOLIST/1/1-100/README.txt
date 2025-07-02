@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, June 30th
+//// As of 2025, Tuesday, July 1st
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -15,7 +15,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,159) (many not listed yet)
+//// Documentation Project (3,161) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -77,6 +77,7 @@ https://github.com/seanpm2001/Private
 https://github.com/seanpm2001/Email
 https://github.com/seanpm2001/Googler_Truce
 https://github.com/seanpm2001/Funding
+https://github.com/seanpm2001/Archives
 
 //// 📌️ Awards
 
@@ -2399,6 +2400,7 @@ https://github.com/seanpm2001/Learn-Record-Jar
 https://github.com/seanpm2001/Learn-ReasonLIGO
 https://github.com/seanpm2001/Learn-Raw-Token-Data
 https://github.com/seanpm2001/Learn-Python-Console
+https://github.com/seanpm2001/Learn-Protocol-Buffer-Text-Format
 
 //// LennyOS
 
@@ -4353,8 +4355,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 64 (2025, Monday, June 30th at 07:28 pm PST)
-//// Line count (including blank lines and compiler line): 4,361
+//// File version: 65 (2025, Tuesday, July 1st at 06:42 pm PST)
+//// Line count (including blank lines and compiler line): 4,363
 //// ----------------------------------------------------- \\\\
 
 //// End of file
