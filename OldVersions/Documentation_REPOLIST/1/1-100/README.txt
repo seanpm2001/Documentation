@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, July 7th
+//// As of 2025, Tuesday, July 8th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -16,7 +16,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,164) (many not listed yet)
+//// Documentation Project (3,169) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -79,6 +79,10 @@ https://github.com/seanpm2001/Email
 https://github.com/seanpm2001/Googler_Truce
 https://github.com/seanpm2001/Funding
 https://github.com/seanpm2001/Archives
+
+//// 📌️ Redirects
+
+https://github.com/seanpm2001/Archived
 
 //// 📌️ Awards
 
@@ -2406,6 +2410,7 @@ https://github.com/seanpm2001/Learn-PIP-Requirements
 https://github.com/seanpm2001/Learn-Object-Data-Instance-Notation
 https://github.com/seanpm2001/Learn-BiBTeX-Style
 https://github.com/seanpm2001/Learn-OASv2-yaml
+https://github.com/seanpm2001/Learn-OASv2-json
 
 //// LennyOS
 
@@ -2834,6 +2839,7 @@ https://github.com/seanpm2001/ProTraApp_Tcl
 https://github.com/seanpm2001/ProTraApp_Tcl_Docs
 https://github.com/seanpm2001/ProTraApp_Lua
 https://github.com/seanpm2001/ProTraApp_Lua_Docs
+https://github.com/seanpm2001/ProTraApp_GameOfAllGames_Docs
 
 //// Public Media Gallery
 
@@ -3691,6 +3697,10 @@ https://github.com/seanpm2001/SNU_CardStack_Users_Docs
 
 https://github.com/seanpm2001/SNU_CSAM-K_Docs
 
+//// //// SNU EvidenceLocker
+
+https://github.com/seanpm2001/SNU_EvidenceLocker_AddToEvidenceLocker_Docs
+
 //// SociaShame
 
 https://github.com/seanpm2001/SociaShame_Docs
@@ -3965,6 +3975,7 @@ https://github.com/seanpm2001/UriOS_Docs
 
 https://github.com/seanpm2001/URLL_WHATWG_Docs
 https://github.com/seanpm2001/URLL_W3C_Docs
+https://github.com/seanpm2001/URLL-VSCode_Docs
 
 //// UShortcut Pro
 
@@ -4360,8 +4371,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 69 (2025, Monday, July 7th at 07:03 pm PST)
-//// Line count (including blank lines and compiler line): 4,368
+//// File version: 70 (2025, Tuesday, July 8th at 07:29 pm PST)
+//// Line count (including blank lines and compiler line): 4,379
 //// ----------------------------------------------------- \\\\
 
 //// End of file
