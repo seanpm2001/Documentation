@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Tuesday, July 8th
+//// As of 2025, Wednesday, July 9th (published a day late, 2025, July 10th)
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -16,7 +16,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,169) (many not listed yet)
+//// Documentation Project (3,174) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -817,6 +817,10 @@ https://github.com/seanpm2001/Bliss_Browser_Extensions_Docs
 https://github.com/seanpm2001/Bliss_Browser_Extensions_Domainiac_Docs
 https://github.com/seanpm2001/Bliss_Browser_Extensions_AdBlockCollection_Docs
 https://github.com/seanpm2001/Bliss_Browser_Extensions_PopupBlocker_Docs
+https://github.com/seanpm2001/Bliss_Browser_WebChild_Docs
+https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Toddler-I_Docs
+https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Toddler-II_Docs
+https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Child-I_Docs
 
 //// BlueberryOS
 
@@ -2411,6 +2415,7 @@ https://github.com/seanpm2001/Learn-Object-Data-Instance-Notation
 https://github.com/seanpm2001/Learn-BiBTeX-Style
 https://github.com/seanpm2001/Learn-OASv2-yaml
 https://github.com/seanpm2001/Learn-OASv2-json
+https://github.com/seanpm2001/Learn-OASv3-yaml
 
 //// LennyOS
 
@@ -4371,8 +4376,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 70 (2025, Tuesday, July 8th at 07:29 pm PST)
-//// Line count (including blank lines and compiler line): 4,379
+//// File version: 71 (2025, Thursday, July 10th at 06:02 pm PST) - Published 1 day late
+//// Line count (including blank lines and compiler line): 4,384
 //// ----------------------------------------------------- \\\\
 
 //// End of file
