@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, July 10th
+//// As of 2025, Friday, July 11th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -17,7 +17,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,179) (many not listed yet)
+//// Documentation Project (3,188) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2422,6 +2422,7 @@ https://github.com/seanpm2001/Learn-OASv2-yaml
 https://github.com/seanpm2001/Learn-OASv2-json
 https://github.com/seanpm2001/Learn-OASv3-yaml
 https://github.com/seanpm2001/Learn-OASv3-json
+https://github.com/seanpm2001/Learn-Aiken
 
 //// LennyOS
 
@@ -2582,6 +2583,17 @@ https://github.com/seanpm2001/MetroTechno_Crosswalk_Docs
 //// MicroMiniwave
 
 https://github.com/seanpm2001/MicroMiniwave_Docs
+
+//// Mission Statement
+
+https://github.com/seanpm2001/Mission-Statement
+https://github.com/seanpm2001/Mission-Statement_Docs
+https://github.com/seanpm2001/Mission_Statement
+https://github.com/seanpm2001/Mission_Statement_Docs
+https://github.com/seanpm2001/Seanpm2001_Mission-Statement
+https://github.com/seanpm2001/Seanpm2001_Mission-Statement_Docs
+https://github.com/seanpm2001/Seanpm2001_Mission_Statement
+https://github.com/seanpm2001/Seanpm2001_Mission_Statement_Docs
 
 //// Mockerfile
 
@@ -4382,8 +4394,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 72 (2025, Thursday, July 10th at 06:03 pm PST)
-//// Line count (including blank lines and compiler line): 4,390
+//// File version: 73 (2025, Friday, July 11th at 06:34 pm PST)
+//// Line count (including blank lines and compiler line): 4,402
 //// ----------------------------------------------------- \\\\
 
 //// End of file
