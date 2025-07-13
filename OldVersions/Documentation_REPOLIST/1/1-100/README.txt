@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, July 11th
+//// As of 2025, Saturday, July 12th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -17,7 +17,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,188) (many not listed yet)
+//// Documentation Project (3,193) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1078,6 +1078,14 @@ https://github.com/seanpm2001/Luxembourg
 https://github.com/seanpm2001/Vietnam
 https://github.com/seanpm2001/Laos
 https://github.com/seanpm2001/Cambodia
+
+//// Crime City Rewritten
+
+https://github.com/seanpm2001/Crime-City-Rewritten_Android_Docs
+https://github.com/seanpm2001/Crime-City-Rewritten_iOS_Docs
+https://github.com/seanpm2001/Crime-City-Rewritten_DebianLinux_Docs
+https://github.com/seanpm2001/Crime-City-Rewritten_RedHatLinux_Docs
+https://github.com/seanpm2001/Crime-City-Rewritten_ArchLinux_Docs
 
 //// Criticism
 
@@ -4394,8 +4402,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 73 (2025, Friday, July 11th at 06:34 pm PST)
-//// Line count (including blank lines and compiler line): 4,402
+//// File version: 74 (2025, Saturday, July 12th at 07:16 pm PST)
+//// Line count (including blank lines and compiler line): 4,410
 //// ----------------------------------------------------- \\\\
 
 //// End of file
