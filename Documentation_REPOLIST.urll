@@ -3,21 +3,22 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Tuesday, July 15th
+//// As of 2025, Wednesday, July 16th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.07.10: I forgot to update the core documentation repository yesterday, data from yesterday was written, but not published until today
+//// 2025.07.16: I forgot to update the core documentation repository again yesterday, data from yesterday was written, but not published until today
 
 //// OLD MESSAGES
 
+//// 2025.07.10: I forgot to update the core documentation repository yesterday, data from yesterday was written, but not published until today
 //// 2025.07.07: Development on this repository didn't die for the past 3 days, there was just nothing to add
 //// 2025.06.30: Development on this repository didn't die for the past 3 days, there was just nothing to add
 //// 2025.06.27: I am starting to get tired of the single link updates, but the file has to be maintained, and this is a way to keep it up to date.
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,205) (many not listed yet)
+//// Documentation Project (3,210) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2437,6 +2438,7 @@ https://github.com/seanpm2001/Learn-OASv3-json
 https://github.com/seanpm2001/Learn-Aiken
 https://github.com/seanpm2001/Learn-NetLinx-ERB
 https://github.com/seanpm2001/Learn-X-Font-Directory-Index
+https://github.com/seanpm2001/Learn-Type-Language
 
 //// LennyOS
 
@@ -2749,6 +2751,10 @@ https://github.com/seanpm2001/Seanpm2001-Overworld
 https://github.com/seanpm2001/SeanWallaWalla-Overworld
 https://github.com/seanpm2001/PVZ_Custom_Overworld_Docs
 https://github.com/seanpm2001/BGemJam_Overworld_Docs
+https://github.com/seanpm2001/Underune-Maker_Overworld_Docs
+https://github.com/seanpm2001/The-Pirates-Copy_Oveworld_Docs
+https://github.com/seanpm2001/Slaveworks_Oveworld_Docs
+https://github.com/seanpm2001/Boom-Bay_Overworld_Docs
 
 //// OVPVMO
 
@@ -4429,8 +4435,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 76 (2025, Wednesday, July 16th at 06:59 pm PST) - Published 1 day late
-//// Line count (including blank lines and compiler line): 4,437
+//// File version: 77 (2025, Wednesday, July 16th at 07:01 pm PST)
+//// Line count (including blank lines and compiler line): 4,443
 //// ----------------------------------------------------- \\\\
 
 //// End of file
