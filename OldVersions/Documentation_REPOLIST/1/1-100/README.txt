@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, July 14th
+//// As of 2025, Tuesday, July 15th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -17,7 +17,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,199) (many not listed yet)
+//// Documentation Project (3,205) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2436,6 +2436,7 @@ https://github.com/seanpm2001/Learn-OASv3-yaml
 https://github.com/seanpm2001/Learn-OASv3-json
 https://github.com/seanpm2001/Learn-Aiken
 https://github.com/seanpm2001/Learn-NetLinx-ERB
+https://github.com/seanpm2001/Learn-X-Font-Directory-Index
 
 //// LennyOS
 
@@ -2740,6 +2741,14 @@ https://github.com/seanpm2001/OS_Census_Docs
 
 https://github.com/seanpm2001/OuterVM_Docs
 https://github.com/seanpm2001/OuterVM-Mouse_Docs
+
+//// Overworld
+
+https://github.com/seanpm2001/Overworld
+https://github.com/seanpm2001/Seanpm2001-Overworld
+https://github.com/seanpm2001/SeanWallaWalla-Overworld
+https://github.com/seanpm2001/PVZ_Custom_Overworld_Docs
+https://github.com/seanpm2001/BGemJam_Overworld_Docs
 
 //// OVPVMO
 
@@ -4420,8 +4429,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 75 (2025, Monday, July 14th at 06:36 pm PST)
-//// Line count (including blank lines and compiler line): 4,428
+//// File version: 76 (2025, Wednesday, July 16th at 06:59 pm PST) - Published 1 day late
+//// Line count (including blank lines and compiler line): 4,437
 //// ----------------------------------------------------- \\\\
 
 //// End of file
