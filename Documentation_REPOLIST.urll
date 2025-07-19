@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, July 7th
+//// As of 2025, Friday, July 18th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -18,7 +18,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,215) (many not listed yet)
+//// Documentation Project (3,220) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -1011,6 +1011,10 @@ https://github.com/seanpm2001/Comedy-collective
 https://github.com/seanpm2001/Miscellaneous-collective
 https://github.com/seanpm2001/Collectives
 https://github.com/seanpm2001/Collective
+
+//// Colonel Panic
+
+https://github.com/seanpm2001/Colonel-Panic_Docs
 
 //// CompuBunker
 
@@ -2440,6 +2444,7 @@ https://github.com/seanpm2001/Learn-NetLinx-ERB
 https://github.com/seanpm2001/Learn-X-Font-Directory-Index
 https://github.com/seanpm2001/Learn-Type-Language
 https://github.com/seanpm2001/Learn-Motorola-68K-Assembly
+https://github.com/seanpm2001/Learn-Microsoft-Developer-Studio-Project
 
 //// LennyOS
 
@@ -2574,6 +2579,7 @@ https://github.com/seanpm2001/Meadows-Battery-Diagnostics-Tool_Docs
 https://github.com/seanpm2001/Meadows_Timeless_Mode_Docs
 https://github.com/seanpm2001/Meadows-Classical-Developer-VM_Docs
 https://github.com/seanpm2001/Meadows_CrashSuite_Bad-OOM-N_Docs
+https://github.com/seanpm2001/Meadows_Kernel-Panic_Docs
 
 //// //// MEDOS
 
@@ -2760,6 +2766,8 @@ https://github.com/seanpm2001/iBlast_Overworld_Docs
 https://github.com/seanpm2001/Ukraine-History-Simulator_Overworld_Docs
 https://github.com/seanpm2001/LibreFlock_Overworld_Docs
 https://github.com/seanpm2001/Tetris128_Overworld_Docs
+https://github.com/seanpm2001/Turkey-Stories_Overworld_Docs
+https://github.com/seanpm2001/Snail-Bob-Maker_Overworld_Docs
 
 //// OVPVMO
 
@@ -4440,8 +4448,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 78 (2025, Thursday, July 17th at 07:12 pm PST)
-//// Line count (including blank lines and compiler line): 4,448
+//// File version: 79 (2025, Friday, July 18th at 08:17 pm PST)
+//// Line count (including blank lines and compiler line): 4,456
 //// ----------------------------------------------------- \\\\
 
 //// End of file
