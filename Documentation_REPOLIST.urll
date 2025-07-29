@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Saturday, July 26th
+//// As of 2025, Monday, July 28th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2O25.07.24: I had a very off day yesterday due to health issues. This file was prepared a day early, but still applies the next day, as I skipped further work last night, and have to make it up today.
+//// 2025.07.28: I am now taking weekends off from creating new repositories, unless catchup is needed for Friday work. Saturday and Sunday updates for this file should stop almost completely now.
 
 //// OLD MESSAGES
 
+//// 2O25.07.24: I had a very off day yesterday due to health issues. This file was prepared a day early, but still applies the next day, as I skipped further work last night, and have to make it up today.
 //// 2025.07.21: Development on this repository didn't die for the past 3 days, there was just nothing to add. Just another weekend with no new documentation repositories.
 //// 2025.07.16: I forgot to update the core documentation repository again yesterday, data from yesterday was written, but not published until today
 //// 2025.07.10: I forgot to update the core documentation repository yesterday, data from yesterday was written, but not published until today
@@ -20,7 +21,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,236) (many not listed yet)
+//// Documentation Project (3,237) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2452,6 +2453,7 @@ https://github.com/seanpm2001/Learn-M3U
 https://github.com/seanpm2001/Learn-Literate-Haskell
 https://github.com/seanpm2001/Learn-Literate-Agda
 https://github.com/seanpm2001/Learn-Literate-CoffeeScript
+https://github.com/seanpm2001/Learn-JavaScript-ERB
 
 //// LennyOS
 
@@ -4456,8 +4458,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 84 (2025, Saturday, July 26th at 07:31 pm PST)
-//// Line count (including blank lines and compiler line): 4,464
+//// File version: 85 (2025, Monday, July 28th at 07:33 pm PST)
+//// Line count (including blank lines and compiler line): 4,466
 //// ----------------------------------------------------- \\\\
 
 //// End of file
