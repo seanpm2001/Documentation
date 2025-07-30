@@ -7,10 +7,11 @@
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.07.28: I am now taking weekends off from creating new repositories, unless catchup is needed for Friday work. Saturday and Sunday updates for this file should stop almost completely now.
+//// 2025.07.29: My goal for this year of renovating my documentation repository so far has only been partially successful. The REPOLIST file, and near daily updates have been nice, but there is still so much missing.
 
 //// OLD MESSAGES
 
+//// 2025.07.28: I am now taking weekends off from creating new repositories, unless catchup is needed for Friday work. Saturday and Sunday updates for this file should stop almost completely now.
 //// 2O25.07.24: I had a very off day yesterday due to health issues. This file was prepared a day early, but still applies the next day, as I skipped further work last night, and have to make it up today.
 //// 2025.07.21: Development on this repository didn't die for the past 3 days, there was just nothing to add. Just another weekend with no new documentation repositories.
 //// 2025.07.16: I forgot to update the core documentation repository again yesterday, data from yesterday was written, but not published until today
@@ -21,7 +22,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,237) (many not listed yet)
+//// Documentation Project (3,238) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2454,6 +2455,7 @@ https://github.com/seanpm2001/Learn-Literate-Haskell
 https://github.com/seanpm2001/Learn-Literate-Agda
 https://github.com/seanpm2001/Learn-Literate-CoffeeScript
 https://github.com/seanpm2001/Learn-JavaScript-ERB
+https://github.com/seanpm2001/Learn-Jar-Manifest
 
 //// LennyOS
 
@@ -4458,8 +4460,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 85 (2025, Monday, July 28th at 07:33 pm PST)
-//// Line count (including blank lines and compiler line): 4,466
+//// File version: 86 (2025, Tuesday, July 29th at 08:49 pm PST)
+//// Line count (including blank lines and compiler line): 4,468
 //// ----------------------------------------------------- \\\\
 
 //// End of file
