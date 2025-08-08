@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, August 6th
+//// As of 2025, Thursday, August 7th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -23,7 +23,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,235) (many not listed yet)
+//// Documentation Project (3,237) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2463,6 +2463,7 @@ https://github.com/seanpm2001/Learn-HTML-Razor
 https://github.com/seanpm2001/Learn-HTML-PHP
 https://github.com/seanpm2001/Learn-HTML-ERB
 https://github.com/seanpm2001/Learn-HTML-EEX
+https://github.com/seanpm2001/Learn-HTML-ECR
 
 //// LennyOS
 
@@ -3781,6 +3782,7 @@ https://github.com/seanpm2001/SNU_CSAM-K_Docs
 
 //// //// SNU EvidenceLocker
 
+https://github.com/seanpm2001/SNU_2D_EvidenceLocker_Docs
 https://github.com/seanpm2001/SNU_EvidenceLocker_AddToEvidenceLocker_Docs
 
 //// SociaShame
@@ -4468,8 +4470,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 92 (2025, Wednesday, August 6th at 09:01 pm PST)
-//// Line count (including blank lines and compiler line): 4,476
+//// File version: 93 (2025, Thursday, August 7th at 09:12 pm PST)
+//// Line count (including blank lines and compiler line): 4,478
 //// ----------------------------------------------------- \\\\
 
 //// End of file
