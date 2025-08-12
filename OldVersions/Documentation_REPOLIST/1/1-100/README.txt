@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, August 8th
+//// As of 2025, Monday, August 11th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.08.08: Last update of the week today. Will return on 2025, Monday, August 11th
+//// 2025.08.11: Coming back from another weekend, with 5 more consecutive updates planned.
 
 //// OLD MESSAGES
 
+//// 2025.08.08: Last update of the week today. Will return on 2025, Monday, August 11th
 //// 2025.08.04: Coming back from another weekend, with 5 more consecutive updates planned.
 //// 2025.07.29: My goal for this year of renovating my documentation repository so far has only been partially successful. The REPOLIST file, and near daily updates have been nice, but there is still so much missing.
 //// 2025.07.28: I am now taking weekends off from creating new repositories, unless catchup is needed for Friday work. Saturday and Sunday updates for this file should stop almost completely now.
@@ -24,7 +25,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,239) (many not listed yet)
+//// Documentation Project (3,242) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -833,6 +834,7 @@ https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Child-II_Docs
 https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Child-III_Docs
 https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Teen-I_Docs
 https://github.com/seanpm2001/Bliss_Browser_WebChild_Mode_Teen-II_Docs
+https://github.com/seanpm2001/Bliss-Browser_LinkJail_Docs
 
 //// BlueberryOS
 
@@ -2466,6 +2468,7 @@ https://github.com/seanpm2001/Learn-HTML-ERB
 https://github.com/seanpm2001/Learn-HTML-EEX
 https://github.com/seanpm2001/Learn-HTML-ECR
 https://github.com/seanpm2001/Learn-Graph-Modeling-Language
+https://github.com/seanpm2001/Learn-Go-Workspace
 
 //// LennyOS
 
@@ -2733,6 +2736,7 @@ https://github.com/seanpm2001/NUNIX_Emotions_Anger_Docs
 https://github.com/seanpm2001/NUNIX_Emotions_Fear_Docs
 https://github.com/seanpm2001/NUNIX_Emotions_Disgust_Docs
 https://github.com/seanpm2001/NUNIX_Emotions_Empathy_Docs
+https://github.com/seanpm2001/NUNIX_SNBody-Language_Docs
 
 //// Oh Hi Markdown
 
@@ -4473,8 +4477,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 94 (2025, Friday, August 8th at 08:51 pm PST)
-//// Line count (including blank lines and compiler line): 4,481
+//// File version: 95 (2025, Monday, August 11th at 09:22 pm PST)
+//// Line count (including blank lines and compiler line): 4,485
 //// ----------------------------------------------------- \\\\
 
 //// End of file
