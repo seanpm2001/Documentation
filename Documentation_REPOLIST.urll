@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, August 11th
+//// As of 2025, Tuesday, August 12th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -25,7 +25,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,242) (many not listed yet)
+//// Documentation Project (3,247) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -163,6 +163,10 @@ https://github.com/seanpm2001/Seanpm2001-Emoji-Style-Guide
 //// -Ibibyte Mathematical Reference
 
 https://github.com/seanpm2001/-ibibyte_Mathematical_Reference_Docs
+
+//// 2001 platform
+
+https://github.com/seanpm2001/2001-Platform_Docs
 
 //// 3DE
 
@@ -2469,6 +2473,7 @@ https://github.com/seanpm2001/Learn-HTML-EEX
 https://github.com/seanpm2001/Learn-HTML-ECR
 https://github.com/seanpm2001/Learn-Graph-Modeling-Language
 https://github.com/seanpm2001/Learn-Go-Workspace
+https://github.com/seanpm2001/Learn-Git-Revision-List
 
 //// LennyOS
 
@@ -3102,6 +3107,10 @@ https://github.com/seanpm2001/Seanpm2001-Godzilab
 https://github.com/seanpm2001/Seanpm2001-mhGames
 https://github.com/seanpm2001/SUPERCELL
 
+//// Seanpm2001 Platform
+
+https://github.com/seanpm2001/Seanpm2001-Platform_Docs
+
 //// Seanpm2001 Social Media
 
 https://github.com/seanpm2001/Seanpm2001-Codeberg
@@ -3630,6 +3639,10 @@ https://github.com/seanpm2001/SearchKX_Docs
 
 https://github.com/seanpm2001/SeansLifeArchive_Extras_Journal-Calendar_Docs
 
+//// SeanSpokane2015
+
+https://github.com/seanpm2001/SeanSpokane2015-Platform_Docs
+
 //// SeanWallaWalla
 
 https://github.com/seanpm2001/Seanwallawalla-Bots
@@ -3639,6 +3652,7 @@ https://github.com/seanpm2001/Seanwallawalla-Gaming
 https://github.com/seanpm2001/Seanwallawalla_Malware
 https://github.com/seanpm2001/SeanWallaWalla_Health
 https://github.com/seanpm2001/SeanWallaWalla_Operating_Systems
+https://github.com/seanpm2001/SeanWallaWalla-Platform_Docs
 
 //// Self-Care Bot
 
@@ -4477,8 +4491,8 @@ https://github.com/seanpm2001/Zag_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 95 (2025, Monday, August 11th at 09:22 pm PST)
-//// Line count (including blank lines and compiler line): 4,485
+//// File version: 96 (2025, Tuesday, August 12th at 08:20 pm PST)
+//// Line count (including blank lines and compiler line): 4,499
 //// ----------------------------------------------------- \\\\
 
 //// End of file
