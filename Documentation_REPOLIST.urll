@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, August 13th
+//// As of 2025, Thursday, August 14th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -25,7 +25,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,253) (many not listed yet)
+//// Documentation Project (3,255) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2477,6 +2477,7 @@ https://github.com/seanpm2001/Learn-Graph-Modeling-Language
 https://github.com/seanpm2001/Learn-Go-Workspace
 https://github.com/seanpm2001/Learn-Git-Revision-List
 https://github.com/seanpm2001/Learn-Gentoo-Eclass
+https://github.com/seanpm2001/Learn-Gentoo-Ebuild
 
 //// LennyOS
 
@@ -3029,6 +3030,7 @@ https://github.com/seanpm2001/Santa-Software-Suite_Client_Docs
 https://github.com/seanpm2001/Santa-Software-Suite_Core_Docs
 https://github.com/seanpm2001/SSS_Logger_Docs
 https://github.com/seanpm2001/SSS_Santa-Chatbot_Docs
+https://github.com/seanpm2001/Santa-Software-Suite_Santa-Chatbot-Docs
 
 //// SBOM2001
 
@@ -4500,8 +4502,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 97 (2025, Wednesday, August 13th at 08:54 pm PST)
-//// Line count (including blank lines and compiler line): 4,508
+//// File version: 98 (2025, Thursday, August 14th at 09:05 pm PST)
+//// Line count (including blank lines and compiler line): 4,510
 //// ----------------------------------------------------- \\\\
 
 //// End of file
