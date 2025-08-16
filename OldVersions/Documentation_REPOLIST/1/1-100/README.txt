@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, August 14th
+//// As of 2025, Friday, August 15th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.08.11: Coming back from another weekend, with 5 more consecutive updates planned.
+//// 2025.08.15: Last update of the week today. Will return on 2025, Monday, August 18th
 
 //// OLD MESSAGES
 
+//// 2025.08.11: Coming back from another weekend, with 5 more consecutive updates planned.
 //// 2025.08.08: Last update of the week today. Will return on 2025, Monday, August 11th
 //// 2025.08.04: Coming back from another weekend, with 5 more consecutive updates planned.
 //// 2025.07.29: My goal for this year of renovating my documentation repository so far has only been partially successful. The REPOLIST file, and near daily updates have been nice, but there is still so much missing.
@@ -25,7 +26,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,255) (many not listed yet)
+//// Documentation Project (3,256) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2478,6 +2479,7 @@ https://github.com/seanpm2001/Learn-Go-Workspace
 https://github.com/seanpm2001/Learn-Git-Revision-List
 https://github.com/seanpm2001/Learn-Gentoo-Eclass
 https://github.com/seanpm2001/Learn-Gentoo-Ebuild
+https://github.com/seanpm2001/Learn-Fortran-Free-Form
 
 //// LennyOS
 
@@ -4502,8 +4504,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 98 (2025, Thursday, August 14th at 09:05 pm PST)
-//// Line count (including blank lines and compiler line): 4,510
+//// File version: 99 (2025, Friday, August 15th at 08:47 pm PST)
+//// Line count (including blank lines and compiler line): 4,512
 //// ----------------------------------------------------- \\\\
 
 //// End of file
