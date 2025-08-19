@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, August 15th
+//// As of 2025, Monday, August 18th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.08.15: Last update of the week today. Will return on 2025, Monday, August 18th
+//// 2025.08.18: Coming back from another weekend, with 5 more consecutive updates planned.
 
 //// OLD MESSAGES
 
+//// 2025.08.15: Last update of the week today. Will return on 2025, Monday, August 18th
 //// 2025.08.11: Coming back from another weekend, with 5 more consecutive updates planned.
 //// 2025.08.08: Last update of the week today. Will return on 2025, Monday, August 11th
 //// 2025.08.04: Coming back from another weekend, with 5 more consecutive updates planned.
@@ -26,7 +27,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,256) (many not listed yet)
+//// Documentation Project (3,264) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -89,6 +90,8 @@ https://github.com/seanpm2001/Email
 https://github.com/seanpm2001/Googler_Truce
 https://github.com/seanpm2001/Funding
 https://github.com/seanpm2001/Archives
+https://github.com/seanpm2001/Donate
+https://github.com/seanpm2001/BitCoin
 
 //// 📌️ Redirects
 
@@ -1147,6 +1150,9 @@ https://github.com/seanpm2001/DeciCube_Docs
 
 //// DeGoogle Your Life
 
+https://github.com/seanpm2001/UnGoogle-your-Life
+https://github.com/seanpm2001/UnGoogle-your-Life_Docs
+
 //// //// Articles
 
 https://github.com/seanpm2001/DeGoogle-your-Life_Google-Carbon-language
@@ -1156,6 +1162,8 @@ https://github.com/seanpm2001/Why-you-should-have-avoided-Google-Offers
 https://github.com/seanpm2001/Why-you-should-avoid-Google-Protocol-Buffers
 https://github.com/seanpm2001/Why-you-should-avoid-Google-Mojom
 https://github.com/seanpm2001/Why-you-should-stop-using-Google-Ads
+https://github.com/seanpm2001/Political-reasons-for-DeGoogling
+https://github.com/seanpm2001/Political-reasons-for-DeGoogling_Docs
 
 //// //// Google Israel
 
@@ -2480,6 +2488,7 @@ https://github.com/seanpm2001/Learn-Git-Revision-List
 https://github.com/seanpm2001/Learn-Gentoo-Eclass
 https://github.com/seanpm2001/Learn-Gentoo-Ebuild
 https://github.com/seanpm2001/Learn-Fortran-Free-Form
+https://github.com/seanpm2001/Learn-ECLiPSe
 
 //// LennyOS
 
@@ -2615,6 +2624,7 @@ https://github.com/seanpm2001/Meadows_Timeless_Mode_Docs
 https://github.com/seanpm2001/Meadows-Classical-Developer-VM_Docs
 https://github.com/seanpm2001/Meadows_CrashSuite_Bad-OOM-N_Docs
 https://github.com/seanpm2001/Meadows_Kernel-Panic_Docs
+https://github.com/seanpm2001/Meadows-Argon-Framework_Docs
 
 //// //// MEDOS
 
@@ -4504,8 +4514,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 99 (2025, Friday, August 15th at 08:47 pm PST)
-//// Line count (including blank lines and compiler line): 4,512
+//// File version: 100 (2025, Monday, August 18th at 08:05 pm PST)
+//// Line count (including blank lines and compiler line): 4,522
 //// ----------------------------------------------------- \\\\
 
 //// End of file
