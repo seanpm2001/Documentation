@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Tuesday, August 19th
+//// As of 2025, Wednesday, August 20th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -27,7 +27,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,265) (many not listed yet)
+//// Documentation Project (3,268) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -92,6 +92,7 @@ https://github.com/seanpm2001/Funding
 https://github.com/seanpm2001/Archives
 https://github.com/seanpm2001/Donate
 https://github.com/seanpm2001/BitCoin
+https://github.com/seanpm2001/.codeberg
 
 //// 📌️ Redirects
 
@@ -1150,6 +1151,7 @@ https://github.com/seanpm2001/DeciCube_Docs
 
 //// DeGoogle Your Life
 
+https://github.com/seanpm2001/DeGoogle-your-Life_Docs
 https://github.com/seanpm2001/UnGoogle-your-Life
 https://github.com/seanpm2001/UnGoogle-your-Life_Docs
 
@@ -2489,7 +2491,8 @@ https://github.com/seanpm2001/Learn-Gentoo-Eclass
 https://github.com/seanpm2001/Learn-Gentoo-Ebuild
 https://github.com/seanpm2001/Learn-Fortran-Free-Form
 https://github.com/seanpm2001/Learn-ECLiPSe
-Learn-Java-Template-Engine
+https://github.com/seanpm2001/Learn-Java-Template-Engine
+https://github.com/seanpm2001/Learn-Gradle-Kotlin-DSL
 
 //// LennyOS
 
@@ -4515,8 +4518,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 101 (2025, Tuesday, August 19th at 07:04 pm PST)
-//// Line count (including blank lines and compiler line): 4,523
+//// File version: 102 (2025, Wednesday, August 20th at 08:12 pm PST)
+//// Line count (including blank lines and compiler line): 4,526
 //// ----------------------------------------------------- \\\\
 
 //// End of file
