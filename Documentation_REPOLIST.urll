@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, August 21st
+//// As of 2025, Friday, August 22nd
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.08.18: Coming back from another weekend, with 5 more consecutive updates planned.
+//// 2025.08.22: Last update of the week today. Will return on 2025, Monday, August 25th
 
 //// OLD MESSAGES
 
+//// 2025.08.18: Coming back from another weekend, with 5 more consecutive updates planned.
 //// 2025.08.15: Last update of the week today. Will return on 2025, Monday, August 18th
 //// 2025.08.11: Coming back from another weekend, with 5 more consecutive updates planned.
 //// 2025.08.08: Last update of the week today. Will return on 2025, Monday, August 11th
@@ -27,7 +28,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,269) (many not listed yet)
+//// Documentation Project (3,270) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2494,6 +2495,7 @@ https://github.com/seanpm2001/Learn-ECLiPSe
 https://github.com/seanpm2001/Learn-Java-Template-Engine
 https://github.com/seanpm2001/Learn-Gradle-Kotlin-DSL
 https://github.com/seanpm2001/Learn-Elvish-Transcript
+https://github.com/seanpm2001/Learn-BuildStream
 
 //// LennyOS
 
@@ -4519,8 +4521,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 103 (2025, Thursday, August 21st at 06:27 pm PST)
-//// Line count (including blank lines and compiler line): 4,527
+//// File version: 104 (2025, Friday, August 22nd at 07:22 pm PST)
+//// Line count (including blank lines and compiler line): 4,529
 //// ----------------------------------------------------- \\\\
 
 //// End of file
