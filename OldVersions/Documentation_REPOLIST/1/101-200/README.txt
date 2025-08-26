@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, August 22nd
+//// As of 2025, Monday, August 25th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.08.22: Last update of the week today. Will return on 2025, Monday, August 25th
+//// 2025.08.25: Coming back from another weekend, with 4 more consecutive updates planned, before I go on vacation
 
 //// OLD MESSAGES
 
+//// 2025.08.22: Last update of the week today. Will return on 2025, Monday, August 25th
 //// 2025.08.18: Coming back from another weekend, with 5 more consecutive updates planned.
 //// 2025.08.15: Last update of the week today. Will return on 2025, Monday, August 18th
 //// 2025.08.11: Coming back from another weekend, with 5 more consecutive updates planned.
@@ -28,7 +29,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,270) (many not listed yet)
+//// Documentation Project (3,271) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2496,6 +2497,7 @@ https://github.com/seanpm2001/Learn-Java-Template-Engine
 https://github.com/seanpm2001/Learn-Gradle-Kotlin-DSL
 https://github.com/seanpm2001/Learn-Elvish-Transcript
 https://github.com/seanpm2001/Learn-BuildStream
+https://github.com/seanpm2001/Learn-Genero-Per
 
 //// LennyOS
 
@@ -4521,8 +4523,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 104 (2025, Friday, August 22nd at 07:22 pm PST)
-//// Line count (including blank lines and compiler line): 4,529
+//// File version: 105 (2025, Monday, August 25th at 07:17 pm PST)
+//// Line count (including blank lines and compiler line): 4,531
 //// ----------------------------------------------------- \\\\
 
 //// End of file
