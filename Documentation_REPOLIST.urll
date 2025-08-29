@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, August 27th
+//// As of 2025, Thursday, August 28th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.08.25: Coming back from another weekend, with 4 more consecutive updates planned, before I go on vacation
+//// 2025.08.28: Last update of the week today, going on vacation. Will return on 2025, Tuesday, September 2nd
 
 //// OLD MESSAGES
 
+//// 2025.08.25: Coming back from another weekend, with 4 more consecutive updates planned, before I go on vacation
 //// 2025.08.22: Last update of the week today. Will return on 2025, Monday, August 25th
 //// 2025.08.18: Coming back from another weekend, with 5 more consecutive updates planned.
 //// 2025.08.15: Last update of the week today. Will return on 2025, Monday, August 18th
@@ -29,7 +30,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,273) (many not listed yet)
+//// Documentation Project (3,275) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2500,6 +2501,8 @@ https://github.com/seanpm2001/Learn-BuildStream
 https://github.com/seanpm2001/Learn-Genero-Per
 https://github.com/seanpm2001/Learn-GoDot-Resource
 https://github.com/seanpm2001/Learn-Daslang
+https://github.com/seanpm2001/Learn-Edje-Data-Collection
+https://github.com/seanpm2001/Learn-Go-Module
 
 //// LennyOS
 
@@ -4525,8 +4528,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 107 (2025, Wednesday, August 27th at 07:44 pm PST)
-//// Line count (including blank lines and compiler line): 4,533
+//// File version: 108 (2025, Thursday, August 28th at 07:47 pm PST)
+//// Line count (including blank lines and compiler line): 4,536
 //// ----------------------------------------------------- \\\\
 
 //// End of file
