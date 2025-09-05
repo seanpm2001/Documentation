@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, September 3rd
+//// As of 2025, Thursday, September 4th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -30,7 +30,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,278) (many not listed yet)
+//// Documentation Project (3,279) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -59,6 +59,28 @@
 
 //// TODO
 //// Sort list A-Z
+
+//// ~Temporary
+//// Websites (15)
+//// These will eventually be split off into a separate repository, and won't be counted towards the
+//// total documentation repository count. These are temporary entries.
+//// To split off into: /Seanpm2001-Web
+
+https://github.com/seanpm2001/Booty_Website
+https://github.com/seanpm2001/Kotlint_Website
+https://github.com/seanpm2001/WichCraft_Website
+https://github.com/seanpm2001/iStonk_Website
+https://github.com/seanpm2001/Economica_Website
+https://github.com/seanpm2001/Egg_Org_Website
+https://github.com/seanpm2001/OpenTowers_Website
+https://github.com/seanpm2001/BGemJam_Website
+https://github.com/seanpm2001/AUTOMATE-2001_Website
+https://github.com/seanpm2001/Google-Israel_Website
+https://github.com/seanpm2001/Flag-Simulator_Website
+https://github.com/seanpm2001/Gurgle_Website
+https://github.com/seanpm2001/CrowdPoll_Website
+https://github.com/seanpm2001/The-Empties_Website
+https://github.com/seanpm2001/LifeMill_Website
 
 //// 📌️ Special Purpose
 
@@ -2506,6 +2528,7 @@ https://github.com/seanpm2001/Learn-Go-Module
 https://github.com/seanpm2001/Learn-Java-Properties
 https://github.com/seanpm2001/Learn-Go-Checksums
 https://github.com/seanpm2001/Learn-SPARQL
+https://github.com/seanpm2001/Learn-Sail
 
 //// LennyOS
 
@@ -4531,8 +4554,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 110 (2025, Wednesday, September 3rd at 07:39 pm PST)
-//// Line count (including blank lines and compiler line): 4,539
+//// File version: 111 (2025, Thursday, September 4th at 08:14 pm PST)
+//// Line count (including blank lines and compiler line): 4,562
 //// ----------------------------------------------------- \\\\
 
 //// End of file
