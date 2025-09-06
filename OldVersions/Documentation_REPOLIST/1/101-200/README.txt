@@ -3,14 +3,16 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, September 4th
+//// As of 2025, Friday, September 5th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.08.28: Last update of the week today, going on vacation. Will return on 2025, Tuesday, September 2nd
+//// 2025.09.05: Last update of the week today. Will return on 2025, Monday, September 8th
+//// 2025.09.02: Coming back from another weekend, with 4 more consecutive updates planned, before I take a break for the weekend.
 
 //// OLD MESSAGES
 
+//// 2025.08.28: Last update of the week today, going on vacation. Will return on 2025, Tuesday, September 2nd
 //// 2025.08.25: Coming back from another weekend, with 4 more consecutive updates planned, before I go on vacation
 //// 2025.08.22: Last update of the week today. Will return on 2025, Monday, August 25th
 //// 2025.08.18: Coming back from another weekend, with 5 more consecutive updates planned.
@@ -30,7 +32,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,279) (many not listed yet)
+//// Documentation Project (3,280) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -61,7 +63,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (15)
+//// Websites (18)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -81,6 +83,9 @@ https://github.com/seanpm2001/Gurgle_Website
 https://github.com/seanpm2001/CrowdPoll_Website
 https://github.com/seanpm2001/The-Empties_Website
 https://github.com/seanpm2001/LifeMill_Website
+https://github.com/seanpm2001/Crime-City-Rewritten_Website
+https://github.com/seanpm2001/Castle-of-Humanity_Website
+https://github.com/seanpm2001/Colonel-Panic_Website
 
 //// 📌️ Special Purpose
 
@@ -2529,6 +2534,7 @@ https://github.com/seanpm2001/Learn-Java-Properties
 https://github.com/seanpm2001/Learn-Go-Checksums
 https://github.com/seanpm2001/Learn-SPARQL
 https://github.com/seanpm2001/Learn-Sail
+https://github.com/seanpm2001/Learn-Microsoft-Visual-Studio-Solution
 
 //// LennyOS
 
@@ -4554,8 +4560,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 111 (2025, Thursday, September 4th at 08:14 pm PST)
-//// Line count (including blank lines and compiler line): 4,562
+//// File version: 112 (2025, Friday, September 5th at 08:48 pm PST)
+//// Line count (including blank lines and compiler line): 4,568
 //// ----------------------------------------------------- \\\\
 
 //// End of file
