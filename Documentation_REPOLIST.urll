@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, September 5th
+//// As of 2025, Monday, September 8th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -32,7 +32,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,280) (many not listed yet)
+//// Documentation Project (3,282) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2535,6 +2535,7 @@ https://github.com/seanpm2001/Learn-Go-Checksums
 https://github.com/seanpm2001/Learn-SPARQL
 https://github.com/seanpm2001/Learn-Sail
 https://github.com/seanpm2001/Learn-Microsoft-Visual-Studio-Solution
+https://github.com/seanpm2001/Learn-Jest-Snapshot
 
 //// LennyOS
 
@@ -4039,6 +4040,10 @@ https://github.com/seanpm2001/The-Dystopian-Dictionary_Docs
 
 https://github.com/seanpm2001/The-Empties_Docs
 
+//// The Florida Trail
+
+https://github.com/seanpm2001/The-Florida-Trail_Docs
+
 //// The Græyt Macro
 
 https://github.com/seanpm2001/The-Graeyt-Macro_Docs
@@ -4560,8 +4565,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 112 (2025, Friday, September 5th at 08:48 pm PST)
-//// Line count (including blank lines and compiler line): 4,568
+//// File version: 113 (2025, Monday, September 8th at 06:53 pm PST)
+//// Line count (including blank lines and compiler line): 4,573
 //// ----------------------------------------------------- \\\\
 
 //// End of file
