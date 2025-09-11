@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Tuesday, September 9th
+//// As of 2025, Wednesday, September 10th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -33,7 +33,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,284) (many not listed yet)
+//// Documentation Project (3,286) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -64,7 +64,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (20)
+//// Websites (21)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -89,6 +89,7 @@ https://github.com/seanpm2001/Castle-of-Humanity_Website
 https://github.com/seanpm2001/Colonel-Panic_Website
 https://github.com/seanpm2001/The-Florida-Trail_Website
 https://github.com/seanpm2001/Kernel-Panic-Simulator_Website
+https://github.com/seanpm2001/Portable-Progress-Bar_Website
 
 //// 📌️ Special Purpose
 
@@ -2544,6 +2545,7 @@ https://github.com/seanpm2001/Learn-Sail
 https://github.com/seanpm2001/Learn-Microsoft-Visual-Studio-Solution
 https://github.com/seanpm2001/Learn-Jest-Snapshot
 https://github.com/seanpm2001/Learn-HIP
+https://github.com/seanpm2001/Learn-Leo
 
 //// LennyOS
 
@@ -2936,6 +2938,10 @@ https://github.com/seanpm2001/Polyworks-SquareOff_Docs
 //// PongMax
 
 https://github.com/seanpm2001/PongMax_Docs
+
+//// Portable Progress Bar
+
+https://github.com/seanpm2001/Portable-Progress-Bar_Docs
 
 //// Portal Voice Assistant
 
@@ -4573,8 +4579,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 114 (2025, Tuesday, September 9th at 08:43 pm PST)
-//// Line count (including blank lines and compiler line): 4,581
+//// File version: 115 (2025, Wednesday, September 10th at 07:16 pm PST)
+//// Line count (including blank lines and compiler line): 4,587
 //// ----------------------------------------------------- \\\\
 
 //// End of file
