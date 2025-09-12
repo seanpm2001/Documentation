@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, September 10th
+//// As of 2025, Thursday, September 11th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -33,7 +33,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,286) (many not listed yet)
+//// Documentation Project (3,288) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -64,7 +64,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (21)
+//// Websites (22)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -90,6 +90,7 @@ https://github.com/seanpm2001/Colonel-Panic_Website
 https://github.com/seanpm2001/The-Florida-Trail_Website
 https://github.com/seanpm2001/Kernel-Panic-Simulator_Website
 https://github.com/seanpm2001/Portable-Progress-Bar_Website
+https://github.com/seanpm2001/OpenAd-Specification_Website
 
 //// 📌️ Special Purpose
 
@@ -2546,6 +2547,7 @@ https://github.com/seanpm2001/Learn-Microsoft-Visual-Studio-Solution
 https://github.com/seanpm2001/Learn-Jest-Snapshot
 https://github.com/seanpm2001/Learn-HIP
 https://github.com/seanpm2001/Learn-Leo
+https://github.com/seanpm2001/Learn-Vento
 
 //// LennyOS
 
@@ -2819,6 +2821,10 @@ https://github.com/seanpm2001/NUNIX_SNBody-Language_Docs
 //// Oh Hi Markdown
 
 https://github.com/seanpm2001/Oh_Hi_MarkDown_Docs
+
+//// OpenAd Specification
+
+https://github.com/seanpm2001/OpenAd-Specification_Docs
 
 //// OpenGov
 
@@ -4579,8 +4585,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 115 (2025, Wednesday, September 10th at 07:16 pm PST)
-//// Line count (including blank lines and compiler line): 4,587
+//// File version: 116 (2025, Thursday, September 11th at 06:44 pm PST)
+//// Line count (including blank lines and compiler line): 4,593
 //// ----------------------------------------------------- \\\\
 
 //// End of file
