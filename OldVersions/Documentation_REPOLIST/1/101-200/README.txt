@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, September 12th
+//// As of 2025, Monday, September 15th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.09.12: Last update of the week today. Will return on 2025, Monday, September 15th
+//// 2025.09.15: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 
 //// OLD MESSAGES
 
+//// 2025.09.12: Last update of the week today. Will return on 2025, Monday, September 15th
 //// 2025.09.08: Coming back from another weekend, with 5 more consecutive updates planned, before I take a break for the weekend.
 //// 2025.09.05: Last update of the week today. Will return on 2025, Monday, September 8th
 //// 2025.09.02: Coming back from another weekend, with 4 more consecutive updates planned, before I take a break for the weekend.
@@ -34,7 +35,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,290) (many not listed yet)
+//// Documentation Project (3,293) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2550,6 +2551,7 @@ https://github.com/seanpm2001/Learn-HIP
 https://github.com/seanpm2001/Learn-Leo
 https://github.com/seanpm2001/Learn-Vento
 https://github.com/seanpm2001/Learn-Genero-Forms
+https://github.com/seanpm2001/Learn-Answer-Set-Programming
 
 //// LennyOS
 
@@ -2828,6 +2830,8 @@ https://github.com/seanpm2001/Oh_Hi_MarkDown_Docs
 
 https://github.com/seanpm2001/OpenAd-Specification_Docs
 https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Games_Docs
+https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Audio_Docs
+https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Video_Docs
 
 //// OpenGov
 
@@ -4588,8 +4592,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 117 (2025, Friday, September 12th at 06:50 pm PST)
-//// Line count (including blank lines and compiler line): 4,596
+//// File version: 118 (2025, Monday, September 15th at 07:41 pm PST)
+//// Line count (including blank lines and compiler line): 4,600
 //// ----------------------------------------------------- \\\\
 
 //// End of file
