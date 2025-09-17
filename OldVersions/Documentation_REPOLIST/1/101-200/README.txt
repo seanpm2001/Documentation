@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, September 15th
+//// As of 2025, Tuesday, September 19th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -35,7 +35,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,293) (many not listed yet)
+//// Documentation Project (3,295) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2552,6 +2552,7 @@ https://github.com/seanpm2001/Learn-Leo
 https://github.com/seanpm2001/Learn-Vento
 https://github.com/seanpm2001/Learn-Genero-Forms
 https://github.com/seanpm2001/Learn-Answer-Set-Programming
+https://github.com/seanpm2001/Learn-MIT-TiML
 
 //// LennyOS
 
@@ -2832,6 +2833,7 @@ https://github.com/seanpm2001/OpenAd-Specification_Docs
 https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Games_Docs
 https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Audio_Docs
 https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Video_Docs
+https://github.com/seanpm2001/OpenAd-Specification_AdEngine_Images_Docs
 
 //// OpenGov
 
@@ -4592,8 +4594,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 118 (2025, Monday, September 15th at 07:41 pm PST)
-//// Line count (including blank lines and compiler line): 4,600
+//// File version: 119 (2025, Tuesday, September 16th at 08:24 pm PST)
+//// Line count (including blank lines and compiler line): 4,602
 //// ----------------------------------------------------- \\\\
 
 //// End of file
