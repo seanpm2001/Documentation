@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, September 18th
+//// As of 2025, Friday, September 19th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.09.15: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
+//// 2025.09.19: Last update of the week today. Will return on 2025, Monday, September 22nd
 
 //// OLD MESSAGES
 
+//// 2025.09.15: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.09.12: Last update of the week today. Will return on 2025, Monday, September 15th
 //// 2025.09.08: Coming back from another weekend, with 5 more consecutive updates planned, before I take a break for the weekend.
 //// 2025.09.05: Last update of the week today. Will return on 2025, Monday, September 8th
@@ -35,7 +36,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,299) (many not listed yet)
+//// Documentation Project (3,301) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -66,7 +67,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (25)
+//// Websites (26)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -96,6 +97,7 @@ https://github.com/seanpm2001/OpenAd-Specification_Website
 https://github.com/seanpm2001/SimZonns_Website
 https://github.com/seanpm2001/Code-distancing_Website
 https://github.com/seanpm2001/Doorcrete_Website
+https://github.com/seanpm2001/Underune_Maker_Website
 
 //// 📌️ Special Purpose
 
@@ -2558,6 +2560,7 @@ https://github.com/seanpm2001/Learn-Answer-Set-Programming
 https://github.com/seanpm2001/Learn-MIT-TiML
 https://github.com/seanpm2001/Learn-ASL
 https://github.com/seanpm2001/Learn-Sling
+https://github.com/seanpm2001/Learn-CMinusMinus
 
 //// LennyOS
 
@@ -2827,6 +2830,7 @@ https://github.com/seanpm2001/NUNIX_Emotions_Fear_Docs
 https://github.com/seanpm2001/NUNIX_Emotions_Disgust_Docs
 https://github.com/seanpm2001/NUNIX_Emotions_Empathy_Docs
 https://github.com/seanpm2001/NUNIX_SNBody-Language_Docs
+https://github.com/seanpm2001/NUNIX_SNBody_Docs
 
 //// Oh Hi Markdown
 
@@ -4601,8 +4605,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 121 (2025, Thursday, September 18th at 05:41 pm PST)
-//// Line count (including blank lines and compiler line): 4,609
+//// File version: 122 (2025, Friday, September 19th at 08:25 pm PST)
+//// Line count (including blank lines and compiler line): 4,613
 //// ----------------------------------------------------- \\\\
 
 //// End of file
