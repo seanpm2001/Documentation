@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, September 19th
+//// As of 2025, Monday, September 22nd
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.09.19: Last update of the week today. Will return on 2025, Monday, September 22nd
+//// 2025.09.22: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 
 //// OLD MESSAGES
 
+//// 2025.09.19: Last update of the week today. Will return on 2025, Monday, September 22nd
 //// 2025.09.15: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.09.12: Last update of the week today. Will return on 2025, Monday, September 15th
 //// 2025.09.08: Coming back from another weekend, with 5 more consecutive updates planned, before I take a break for the weekend.
@@ -36,7 +37,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,301) (many not listed yet)
+//// Documentation Project (3,302) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2561,6 +2562,7 @@ https://github.com/seanpm2001/Learn-MIT-TiML
 https://github.com/seanpm2001/Learn-ASL
 https://github.com/seanpm2001/Learn-Sling
 https://github.com/seanpm2001/Learn-CMinusMinus
+https://github.com/seanpm2001/Learn-Chemical-Markup-Language
 
 //// LennyOS
 
@@ -4605,8 +4607,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 122 (2025, Friday, September 19th at 08:25 pm PST)
-//// Line count (including blank lines and compiler line): 4,613
+//// File version: 123 (2025, Monday, September 22nd at 07:07 pm PST)
+//// Line count (including blank lines and compiler line): 4,615
 //// ----------------------------------------------------- \\\\
 
 //// End of file
