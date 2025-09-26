@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, September 25th
+//// As of 2025, Thursday, September 26th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -37,7 +37,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,308) (many not listed yet)
+//// Documentation Project (3,311) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2565,6 +2565,7 @@ https://github.com/seanpm2001/Learn-CMinusMinus
 https://github.com/seanpm2001/Learn-Chemical-Markup-Language
 https://github.com/seanpm2001/Learn-Protein-Data-Bank-Format
 https://github.com/seanpm2001/Learn-GROMACS
+https://github.com/seanpm2001/Learn-CHARMM
 
 //// LennyOS
 
@@ -3192,6 +3193,10 @@ https://github.com/seanpm2001/SDE_MobileServer_Plugins_Hugo_Docs
 https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax_Docs
 https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap_Docs
 https://github.com/seanpm2001/SDE_MobileServer_PluginManager_Docs
+
+//// Skeuowie/Skeowie
+
+https://github.com/seanpm2001/Skeuwie_Docs
 
 //// Seanpm2001 DRM Blocklist
 
@@ -4143,6 +4148,10 @@ https://github.com/seanpm2001/uDonate_Docs
 
 https://github.com/seanpm2001/UI-Tour-Guide_Docs
 
+//// Ukraine History Simulator
+
+https://github.com/seanpm2001/UHS_Datasets_Ukraine_Crimea_Docs
+
 //// UltraCompass
 
 https://github.com/seanpm2001/UltraCompass_Docs
@@ -4613,8 +4622,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 125 (2025, Wednesday, September 24th at 09:11 pm PST)
-//// Line count (including blank lines and compiler line): 4,621
+//// File version: 126 (2025, Thursday, September 25th at 08:39 pm PST)
+//// Line count (including blank lines and compiler line): 4,630
 //// ----------------------------------------------------- \\\\
 
 //// End of file
