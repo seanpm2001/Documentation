@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, September 26th
+//// As of 2025, Friday, September 26th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.09.22: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
+//// 2025.09.26: Last update of the week today. Will return on 2025, Monday, September 29th
 
 //// OLD MESSAGES
 
+//// 2025.09.22: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.09.19: Last update of the week today. Will return on 2025, Monday, September 22nd
 //// 2025.09.15: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.09.12: Last update of the week today. Will return on 2025, Monday, September 15th
@@ -37,7 +38,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,311) (many not listed yet)
+//// Documentation Project (3,312) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -68,7 +69,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (26)
+//// Websites (29)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -99,6 +100,9 @@ https://github.com/seanpm2001/SimZonns_Website
 https://github.com/seanpm2001/Code-distancing_Website
 https://github.com/seanpm2001/Doorcrete_Website
 https://github.com/seanpm2001/Underune_Maker_Website
+https://github.com/seanpm2001/StartFsck_Website
+https://github.com/seanpm2001/Nost_Gia_OS_Website
+https://github.com/seanpm2001/Nostalgii_Website
 
 //// 📌️ Special Purpose
 
@@ -2566,6 +2570,7 @@ https://github.com/seanpm2001/Learn-Chemical-Markup-Language
 https://github.com/seanpm2001/Learn-Protein-Data-Bank-Format
 https://github.com/seanpm2001/Learn-GROMACS
 https://github.com/seanpm2001/Learn-CHARMM
+https://github.com/seanpm2001/Learn-General-Simulation-Data
 
 //// LennyOS
 
@@ -4622,8 +4627,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 126 (2025, Thursday, September 25th at 08:39 pm PST)
-//// Line count (including blank lines and compiler line): 4,630
+//// File version: 127 (2025, Friday, September 26th at 09:27 pm PST)
+//// Line count (including blank lines and compiler line): 4,635
 //// ----------------------------------------------------- \\\\
 
 //// End of file
