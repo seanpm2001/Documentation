@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, September 26th
+//// As of 2025, Monday, September 29th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.09.26: Last update of the week today. Will return on 2025, Monday, September 29th
+//// 2025.09.29: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 
 //// OLD MESSAGES
 
+//// 2025.09.26: Last update of the week today. Will return on 2025, Monday, September 29th
 //// 2025.09.22: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.09.19: Last update of the week today. Will return on 2025, Monday, September 22nd
 //// 2025.09.15: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
@@ -38,7 +39,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,312) (many not listed yet)
+//// Documentation Project (3,313) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2571,6 +2572,7 @@ https://github.com/seanpm2001/Learn-Protein-Data-Bank-Format
 https://github.com/seanpm2001/Learn-GROMACS
 https://github.com/seanpm2001/Learn-CHARMM
 https://github.com/seanpm2001/Learn-General-Simulation-Data
+https://github.com/seanpm2001/Learn-Ghemical
 
 //// LennyOS
 
@@ -4627,8 +4629,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 127 (2025, Friday, September 26th at 09:27 pm PST)
-//// Line count (including blank lines and compiler line): 4,635
+//// File version: 128 (2025, Monday, September 29th at 07:18 pm PST)
+//// Line count (including blank lines and compiler line): 4,637
 //// ----------------------------------------------------- \\\\
 
 //// End of file
