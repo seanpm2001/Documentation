@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, September 29th
+//// As of 2025, Tuesday, September 30th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -39,7 +39,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,313) (many not listed yet)
+//// Documentation Project (3,320) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2573,6 +2573,7 @@ https://github.com/seanpm2001/Learn-GROMACS
 https://github.com/seanpm2001/Learn-CHARMM
 https://github.com/seanpm2001/Learn-General-Simulation-Data
 https://github.com/seanpm2001/Learn-Ghemical
+https://github.com/seanpm2001/Learn-SYBYL-Line-Notation
 
 //// LennyOS
 
@@ -3764,6 +3765,12 @@ https://github.com/seanpm2001/SeansLifeArchive_Sleeve
 https://github.com/seanpm2001/SeansLifeArchive_Extras_Field-Report
 https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Game-Center
 https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Travel-Log
+https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Travel-Log_Y2026
+https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Travel-Log_Y2027
+https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Travel-Log_Y2028
+https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Game-Center_Y2026
+https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Game-Center_Y2027
+https://github.com/seanpm2001/SeansLifeArchive_Extras_SeanPatrickMyrick-Game-Center_Y2028
 
 //// SeanSpokane2015
 
@@ -4629,8 +4636,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 128 (2025, Monday, September 29th at 07:18 pm PST)
-//// Line count (including blank lines and compiler line): 4,637
+//// File version: 129 (2025, Tuesday, September 30th at 06:15 pm PST)
+//// Line count (including blank lines and compiler line): 4,644
 //// ----------------------------------------------------- \\\\
 
 //// End of file
