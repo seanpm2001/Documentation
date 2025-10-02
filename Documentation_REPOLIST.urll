@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Tuesday, September 30th
+//// As of 2025, Wednesday, October 1st
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -39,7 +39,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,320) (many not listed yet)
+//// Documentation Project (3,321) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -70,7 +70,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (29)
+//// Websites (32)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -104,6 +104,9 @@ https://github.com/seanpm2001/Underune_Maker_Website
 https://github.com/seanpm2001/StartFsck_Website
 https://github.com/seanpm2001/Nost_Gia_OS_Website
 https://github.com/seanpm2001/Nostalgii_Website
+https://github.com/seanpm2001/iCandy_Website
+https://github.com/seanpm2001/SDE_Merry_Website
+https://github.com/seanpm2001/404Day_Website
 
 //// 📌️ Special Purpose
 
@@ -2574,6 +2577,7 @@ https://github.com/seanpm2001/Learn-CHARMM
 https://github.com/seanpm2001/Learn-General-Simulation-Data
 https://github.com/seanpm2001/Learn-Ghemical
 https://github.com/seanpm2001/Learn-SYBYL-Line-Notation
+https://github.com/seanpm2001/Learn-SMILES
 
 //// LennyOS
 
@@ -4636,8 +4640,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 129 (2025, Tuesday, September 30th at 06:15 pm PST)
-//// Line count (including blank lines and compiler line): 4,644
+//// File version: 130 (2025, Wednesday, October 1st at 09:08 pm PST)
+//// Line count (including blank lines and compiler line): 4,648
 //// ----------------------------------------------------- \\\\
 
 //// End of file
