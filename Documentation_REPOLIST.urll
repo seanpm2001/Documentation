@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, October 2nd
+//// As of 2025, Friday, October 3rd
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.09.29: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
+//// 2025.10.06: Last update of the week today. Will return on 2025, Monday, October 6th
 
 //// OLD MESSAGES
 
+//// 2025.09.29: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.09.26: Last update of the week today. Will return on 2025, Monday, September 29th
 //// 2025.09.22: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.09.19: Last update of the week today. Will return on 2025, Monday, September 22nd
@@ -39,7 +40,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,322) (many not listed yet)
+//// Documentation Project (3,323) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -70,7 +71,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (35)
+//// Websites (38)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -110,6 +111,9 @@ https://github.com/seanpm2001/404Day_Website
 https://github.com/seanpm2001/Bad-Code-Collection_Website
 https://github.com/seanpm2001/GitAttributes-Collection_Website
 https://github.com/seanpm2001/RecursionBot_Website
+https://github.com/seanpm2001/SociaShame_Website
+https://github.com/seanpm2001/Branch-Ranch_Website
+https://github.com/seanpm2001/Backup-Automation-Build-Bot-Y_Website
 
 //// 📌️ Special Purpose
 
@@ -2582,6 +2586,7 @@ https://github.com/seanpm2001/Learn-Ghemical
 https://github.com/seanpm2001/Learn-SYBYL-Line-Notation
 https://github.com/seanpm2001/Learn-SMILES
 https://github.com/seanpm2001/Learn-OpenSMILES
+https://github.com/seanpm2001/Learn-XYZ-Chemical-Language
 
 //// LennyOS
 
@@ -4644,8 +4649,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 131 (2025, Thursday, October 2nd at 09:02 pm PST)
-//// Line count (including blank lines and compiler line): 4,652
+//// File version: 132 (2025, Friday, October 3rd at 06:11 pm PST)
+//// Line count (including blank lines and compiler line): 4,657
 //// ----------------------------------------------------- \\\\
 
 //// End of file
