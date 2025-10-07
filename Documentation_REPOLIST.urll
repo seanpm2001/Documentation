@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, October 3rd
+//// As of 2025, Monday, October 6th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.10.06: Last update of the week today. Will return on 2025, Monday, October 6th
+//// 2025.10.06: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 
 //// OLD MESSAGES
 
+//// 2025.10.03: Last update of the week today. Will return on 2025, Monday, October 6th
 //// 2025.09.29: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.09.26: Last update of the week today. Will return on 2025, Monday, September 29th
 //// 2025.09.22: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
@@ -40,7 +41,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,323) (many not listed yet)
+//// Documentation Project (3,325) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2587,6 +2588,7 @@ https://github.com/seanpm2001/Learn-SYBYL-Line-Notation
 https://github.com/seanpm2001/Learn-SMILES
 https://github.com/seanpm2001/Learn-OpenSMILES
 https://github.com/seanpm2001/Learn-XYZ-Chemical-Language
+https://github.com/seanpm2001/Learn-Linux-PSF-console-font
 
 //// LennyOS
 
@@ -4061,6 +4063,10 @@ https://github.com/seanpm2001/SoftMicro-Scratch_Docs
 
 https://github.com/seanpm2001/SourceBase_Docs
 
+//// SPM2001
+
+https://github.com/seanpm2001/SPM2001
+
 //// Spokane, Washington
 
 https://github.com/seanpm2001/Spokane-Washington
@@ -4649,8 +4655,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 132 (2025, Friday, October 3rd at 06:11 pm PST)
-//// Line count (including blank lines and compiler line): 4,657
+//// File version: 133 (2025, Monday, October 6th at 09:31 pm PST)
+//// Line count (including blank lines and compiler line): 4,663
 //// ----------------------------------------------------- \\\\
 
 //// End of file
