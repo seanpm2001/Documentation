@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, October 6th
+//// As of 2025, Tuesday, October 7th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -41,7 +41,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,325) (many not listed yet)
+//// Documentation Project (3,326) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -72,7 +72,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (38)
+//// Websites (41)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -115,6 +115,9 @@ https://github.com/seanpm2001/RecursionBot_Website
 https://github.com/seanpm2001/SociaShame_Website
 https://github.com/seanpm2001/Branch-Ranch_Website
 https://github.com/seanpm2001/Backup-Automation-Build-Bot-Y_Website
+https://github.com/seanpm2001/LargeNumber_ULIB_Website
+https://github.com/seanpm2001/HealthMeterMaximum_Website
+https://github.com/seanpm2001/DentalBar_WhiteTooth_Pro_Website
 
 //// 📌️ Special Purpose
 
@@ -2589,6 +2592,7 @@ https://github.com/seanpm2001/Learn-SMILES
 https://github.com/seanpm2001/Learn-OpenSMILES
 https://github.com/seanpm2001/Learn-XYZ-Chemical-Language
 https://github.com/seanpm2001/Learn-Linux-PSF-console-font
+https://github.com/seanpm2001/Learn-Bru
 
 //// LennyOS
 
@@ -4655,8 +4659,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 133 (2025, Monday, October 6th at 09:31 pm PST)
-//// Line count (including blank lines and compiler line): 4,663
+//// File version: 134 (2025, Tuesday, October 7th at 09:21 pm PST)
+//// Line count (including blank lines and compiler line): 4,667
 //// ----------------------------------------------------- \\\\
 
 //// End of file
