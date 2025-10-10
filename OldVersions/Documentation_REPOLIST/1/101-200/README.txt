@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, October 8th
+//// As of 2025, Thursday, October 9th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -41,7 +41,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,327) (many not listed yet)
+//// Documentation Project (3,328) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -72,7 +72,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (44)
+//// Websites (47)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -121,6 +121,9 @@ https://github.com/seanpm2001/DentalBar_WhiteTooth_Pro_Website
 https://github.com/seanpm2001/Kornhub_Website
 https://github.com/seanpm2001/Hyper-realistic-farm-simulator_Website
 https://github.com/seanpm2001/PongMax_Website
+https://github.com/seanpm2001/YKDefenderVM_Website
+https://github.com/seanpm2001/Bosky_Website
+https://github.com/seanpm2001/AdBool_Website
 
 //// 📌️ Special Purpose
 
@@ -2597,6 +2600,7 @@ https://github.com/seanpm2001/Learn-XYZ-Chemical-Language
 https://github.com/seanpm2001/Learn-Linux-PSF-console-font
 https://github.com/seanpm2001/Learn-Bru
 https://github.com/seanpm2001/Learn-CookLang
+https://github.com/seanpm2001/Learn-Genero-4GL
 
 //// LennyOS
 
@@ -4663,8 +4667,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 135 (2025, Wednesday, October 8th at 10:40 pm PST)
-//// Line count (including blank lines and compiler line): 4,671
+//// File version: 136 (2025, Thursday, October 9th at 11:07 pm PST)
+//// Line count (including blank lines and compiler line): 4,675
 //// ----------------------------------------------------- \\\\
 
 //// End of file
