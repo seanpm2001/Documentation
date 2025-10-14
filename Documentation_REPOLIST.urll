@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, October 10th
+//// As of 2025, Monday, October 13th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.10.10: Last update of the week today. Will return on 2025, Monday, October 13th
+//// 2025.10.13: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 
 //// OLD MESSAGES
 
+//// 2025.10.10: Last update of the week today. Will return on 2025, Monday, October 13th
 //// 2025.10.06: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.10.03: Last update of the week today. Will return on 2025, Monday, October 6th
 //// 2025.09.29: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
@@ -42,7 +43,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,329) (many not listed yet)
+//// Documentation Project (3,330) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -73,7 +74,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (50)
+//// Websites (53)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -128,6 +129,9 @@ https://github.com/seanpm2001/AdBool_Website
 https://github.com/seanpm2001/ChromaTags_ForGit_Website
 https://github.com/seanpm2001/Advanced_Eye_Chart_Website
 https://github.com/seanpm2001/UI_Tour_Guide_Website
+https://github.com/seanpm2001/App-backpack_Website
+https://github.com/seanpm2001/iBlast_Website
+https://github.com/seanpm2001/FINF-DB_Website
 
 //// 📌️ Special Purpose
 
@@ -2606,6 +2610,7 @@ https://github.com/seanpm2001/Learn-Bru
 https://github.com/seanpm2001/Learn-CookLang
 https://github.com/seanpm2001/Learn-Genero-4GL
 https://github.com/seanpm2001/Learn-Koka
+https://github.com/seanpm2001/Learn-KoLMafia-ASH
 
 //// LennyOS
 
@@ -4672,8 +4677,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 137 (2025, Friday, October 10th at 09:07 pm PST)
-//// Line count (including blank lines and compiler line): 4,680
+//// File version: 138 (2025, Monday, October 13th at 08:07 pm PST)
+//// Line count (including blank lines and compiler line): 4,685
 //// ----------------------------------------------------- \\\\
 
 //// End of file
