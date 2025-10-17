@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, October 15th
+//// As of 2025, Thursday, October 16th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -43,7 +43,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,332) (many not listed yet)
+//// Documentation Project (3,333) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2613,6 +2613,7 @@ https://github.com/seanpm2001/Learn-Koka
 https://github.com/seanpm2001/Learn-KoLMafia-ASH
 https://github.com/seanpm2001/Learn-Lean-4
 https://github.com/seanpm2001/Learn-Nickel
+https://github.com/seanpm2001/Learn-QuakeC
 
 //// LennyOS
 
@@ -4679,8 +4680,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 140 (2025, Wednesday, October 15th at 07:04 pm PST)
-//// Line count (including blank lines and compiler line): 4,687
+//// File version: 141 (2025, Thursday, October 16th at 06:46 pm PST)
+//// Line count (including blank lines and compiler line): 4,688
 //// ----------------------------------------------------- \\\\
 
 //// End of file
