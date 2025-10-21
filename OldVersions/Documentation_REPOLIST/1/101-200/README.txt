@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, October 17th
+//// As of 2025, Monday, October 20th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.10.17: Last update of the week today. Will return on 2025, Monday, October 20th
+//// 2025.10.20: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 
 //// OLD MESSAGES
 
+//// 2025.10.17: Last update of the week today. Will return on 2025, Monday, October 20th
 //// 2025.10.13: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.10.10: Last update of the week today. Will return on 2025, Monday, October 13th
 //// 2025.10.06: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
@@ -44,7 +45,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,334) (many not listed yet)
+//// Documentation Project (3,337) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -75,7 +76,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (55)
+//// Websites (56)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -135,6 +136,7 @@ https://github.com/seanpm2001/iBlast_Website
 https://github.com/seanpm2001/FINF-DB_Website
 https://github.com/seanpm2001/LightSpeedRelayTechnology_Info_Website
 https://github.com/seanpm2001/LANChair_Website
+https://github.com/seanpm2001/UTPM_Website
 
 //// 📌️ Special Purpose
 
@@ -2618,6 +2620,7 @@ https://github.com/seanpm2001/Learn-Lean-4
 https://github.com/seanpm2001/Learn-Nickel
 https://github.com/seanpm2001/Learn-QuakeC
 https://github.com/seanpm2001/Learn-ROS-Interface
+https://github.com/seanpm2001/Learn-LIBTool
 
 //// LennyOS
 
@@ -3207,6 +3210,10 @@ https://github.com/seanpm2001/ScriptKidd_Toolkit_Docs
 
 //// SDE
 
+//// //// Coloress
+
+https://github.com/seanpm2001/Coloress_Docs
+
 //// //// SDE Merry
 
 https://github.com/seanpm2001/SDE_Parousel_Docs
@@ -3246,9 +3253,13 @@ https://github.com/seanpm2001/SDE_MobileServer_Plugins_MathJax_Docs
 https://github.com/seanpm2001/SDE_MobileServer_Plugins_OpenStreetMap_Docs
 https://github.com/seanpm2001/SDE_MobileServer_PluginManager_Docs
 
-//// Skeuowie/Skeowie
+//// //// Skeuowie/Skeowie
 
 https://github.com/seanpm2001/Skeuwie_Docs
+
+//// //// Slick LM
+
+https://github.com/seanpm2001/Slick-LM_docs
 
 //// Seanpm2001 DRM Blocklist
 
@@ -4684,8 +4695,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 142 (2025, Friday, October 17th at 07:18 pm PST)
-//// Line count (including blank lines and compiler line): 4,692
+//// File version: 143 (2025, Monday, October 20th at 07:10 pm PST)
+//// Line count (including blank lines and compiler line): 4,703
 //// ----------------------------------------------------- \\\\
 
 //// End of file
