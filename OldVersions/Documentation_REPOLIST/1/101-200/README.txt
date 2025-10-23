@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Tuesday, October 21st
+//// As of 2025, Wednesday, October 22nd
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -45,7 +45,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,338) (many not listed yet)
+//// Documentation Project (3,339) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -76,7 +76,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (56)
+//// Websites (59)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -137,6 +137,9 @@ https://github.com/seanpm2001/FINF-DB_Website
 https://github.com/seanpm2001/LightSpeedRelayTechnology_Info_Website
 https://github.com/seanpm2001/LANChair_Website
 https://github.com/seanpm2001/UTPM_Website
+https://github.com/seanpm2001/GNU_Car_Website
+https://github.com/seanpm2001/GeniBlock_Website
+https://github.com/seanpm2001/FreeGenie_Website
 
 //// 📌️ Special Purpose
 
@@ -2622,6 +2625,7 @@ https://github.com/seanpm2001/Learn-QuakeC
 https://github.com/seanpm2001/Learn-ROS-Interface
 https://github.com/seanpm2001/Learn-LIBTool
 https://github.com/seanpm2001/Learn-OCL
+https://github.com/seanpm2001/Learn-Txt2Tags
 
 //// LennyOS
 
@@ -4696,8 +4700,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 144 (2025, Tuesday, October 21st at 08:51 pm PST)
-//// Line count (including blank lines and compiler line): 4,704
+//// File version: 145 (2025, Wednesday, October 22nd at 08:25 pm PST)
+//// Line count (including blank lines and compiler line): 4,708
 //// ----------------------------------------------------- \\\\
 
 //// End of file
