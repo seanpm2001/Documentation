@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, October 22nd
+//// As of 2025, Thursday, October 23rd
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -45,7 +45,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,339) (many not listed yet)
+//// Documentation Project (3,340) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -76,7 +76,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (59)
+//// Websites (62)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -140,6 +140,9 @@ https://github.com/seanpm2001/UTPM_Website
 https://github.com/seanpm2001/GNU_Car_Website
 https://github.com/seanpm2001/GeniBlock_Website
 https://github.com/seanpm2001/FreeGenie_Website
+https://github.com/seanpm2001/Halloween-Assistant_Website
+https://github.com/seanpm2001/Turkey-Stories_Website
+https://github.com/seanpm2001/Santa_Software_Suite_Core_Website
 
 //// 📌️ Special Purpose
 
@@ -2626,6 +2629,7 @@ https://github.com/seanpm2001/Learn-ROS-Interface
 https://github.com/seanpm2001/Learn-LIBTool
 https://github.com/seanpm2001/Learn-OCL
 https://github.com/seanpm2001/Learn-Txt2Tags
+https://github.com/seanpm2001/Learn-Genero
 
 //// LennyOS
 
@@ -4700,8 +4704,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 145 (2025, Wednesday, October 22nd at 08:25 pm PST)
-//// Line count (including blank lines and compiler line): 4,708
+//// File version: 146 (2025, Thursday, October 23rd at 08:18 pm PST)
+//// Line count (including blank lines and compiler line): 4,712
 //// ----------------------------------------------------- \\\\
 
 //// End of file
