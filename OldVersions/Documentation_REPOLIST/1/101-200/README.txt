@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, October 23rd
+//// As of 2025, Friday, October 24th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.10.20: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
+//// 2025.10.24: Last update of the week today. Will return on 2025, Monday, October 20th
 
 //// OLD MESSAGES
 
+//// 2025.10.20: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.10.17: Last update of the week today. Will return on 2025, Monday, October 20th
 //// 2025.10.13: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.10.10: Last update of the week today. Will return on 2025, Monday, October 13th
@@ -45,7 +46,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,340) (many not listed yet)
+//// Documentation Project (3,341) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -76,7 +77,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (62)
+//// Websites (65)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -143,6 +144,9 @@ https://github.com/seanpm2001/FreeGenie_Website
 https://github.com/seanpm2001/Halloween-Assistant_Website
 https://github.com/seanpm2001/Turkey-Stories_Website
 https://github.com/seanpm2001/Santa_Software_Suite_Core_Website
+https://github.com/seanpm2001/NimbleBit-Glossary_Website
+https://github.com/seanpm2001/Ratiyo_Website
+https://github.com/seanpm2001/Profa_Or_Antifa_Website
 
 //// 📌️ Special Purpose
 
@@ -2630,6 +2634,7 @@ https://github.com/seanpm2001/Learn-LIBTool
 https://github.com/seanpm2001/Learn-OCL
 https://github.com/seanpm2001/Learn-Txt2Tags
 https://github.com/seanpm2001/Learn-Genero
+https://github.com/seanpm2001/Learn-SPICE
 
 //// LennyOS
 
@@ -4704,8 +4709,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 146 (2025, Thursday, October 23rd at 08:18 pm PST)
-//// Line count (including blank lines and compiler line): 4,712
+//// File version: 147 (2025, Friday, October 24th at 07:58 pm PST)
+//// Line count (including blank lines and compiler line): 4,717
 //// ----------------------------------------------------- \\\\
 
 //// End of file
