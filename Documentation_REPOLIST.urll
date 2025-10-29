@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, October 27th
+//// As of 2025, Tuesday, October 28th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.10.24: Last update of the week today. Will return on 2025, Monday, October 20th
+//// 2025.10.27: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 
 //// OLD MESSAGES
 
+//// 2025.10.24: Last update of the week today. Will return on 2025, Monday, October 20th
 //// 2025.10.20: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.10.17: Last update of the week today. Will return on 2025, Monday, October 20th
 //// 2025.10.13: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
@@ -46,7 +47,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,342) (many not listed yet)
+//// Documentation Project (3,343) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -77,7 +78,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (68)
+//// Websites (71)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -150,6 +151,9 @@ https://github.com/seanpm2001/Profa_Or_Antifa_Website
 https://github.com/seanpm2001/uDonate_Website
 https://github.com/seanpm2001/4096_Website
 https://github.com/seanpm2001/MadLibby_Website
+https://github.com/seanpm2001/Goodbye-World_Website
+https://github.com/seanpm2001/DroneMap_Website
+https://github.com/seanpm2001/Password_Generator_Ultimate_Website
 
 //// 📌️ Special Purpose
 
@@ -2639,6 +2643,7 @@ https://github.com/seanpm2001/Learn-Txt2Tags
 https://github.com/seanpm2001/Learn-Genero
 https://github.com/seanpm2001/Learn-SPICE
 https://github.com/seanpm2001/Learn-ELAN
+https://github.com/seanpm2001/Learn-Karel
 
 //// LennyOS
 
@@ -4713,8 +4718,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 148 (2025, Monday, October 27th at 08:12 pm PST)
-//// Line count (including blank lines and compiler line): 4,721
+//// File version: 149 (2025, Tuesday, October 28th at 09:12 pm PST)
+//// Line count (including blank lines and compiler line): 4,726
 //// ----------------------------------------------------- \\\\
 
 //// End of file
