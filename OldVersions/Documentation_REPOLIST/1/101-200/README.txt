@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Tuesday, October 28th
+//// As of 2025, Thursday, October 30th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -47,7 +47,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,344) (many not listed yet)
+//// Documentation Project (3,345) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -78,7 +78,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (74)
+//// Websites (77)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -157,6 +157,9 @@ https://github.com/seanpm2001/Password_Generator_Ultimate_Website
 https://github.com/seanpm2001/SVG_Video_Website
 https://github.com/seanpm2001/BluPhoneOS_Website
 https://github.com/seanpm2001/GK-Keyboard_Website
+https://github.com/seanpm2001/Computer-cursor-tech-support_Website
+https://github.com/seanpm2001/Self-replicating-machine-research_Website
+https://github.com/seanpm2001/Snapshot-version-control-system_Website
 
 //// 📌️ Special Purpose
 
@@ -2648,6 +2651,7 @@ https://github.com/seanpm2001/Learn-SPICE
 https://github.com/seanpm2001/Learn-ELAN
 https://github.com/seanpm2001/Learn-Karel
 https://github.com/seanpm2001/Learn-Kojo
+https://github.com/seanpm2001/Learn-Kodu
 
 //// LennyOS
 
@@ -4722,8 +4726,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 150 (2025, Wednesday, October 209th at 09:58 pm PST)
-//// Line count (including blank lines and compiler line): 4,730
+//// File version: 151 (2025, Thursday, October 30th at 09:30 pm PST)
+//// Line count (including blank lines and compiler line): 4,734
 //// ----------------------------------------------------- \\\\
 
 //// End of file
