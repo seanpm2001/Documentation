@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, October 30th
+//// As of 2025, Friday, October 31st
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.10.27: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
+//// 2025.10.31: Last update of the week today. Will return on 2025, Monday, November 3rd
 
 //// OLD MESSAGES
 
+//// 2025.10.27: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.10.24: Last update of the week today. Will return on 2025, Monday, October 20th
 //// 2025.10.20: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.10.17: Last update of the week today. Will return on 2025, Monday, October 20th
@@ -47,7 +48,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,345) (many not listed yet)
+//// Documentation Project (3,346) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -78,7 +79,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (77)
+//// Websites (78)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -160,6 +161,7 @@ https://github.com/seanpm2001/GK-Keyboard_Website
 https://github.com/seanpm2001/Computer-cursor-tech-support_Website
 https://github.com/seanpm2001/Self-replicating-machine-research_Website
 https://github.com/seanpm2001/Snapshot-version-control-system_Website
+https://github.com/seanpm2001/Satan-Software-Suite_Website
 
 //// 📌️ Special Purpose
 
@@ -2652,6 +2654,7 @@ https://github.com/seanpm2001/Learn-ELAN
 https://github.com/seanpm2001/Learn-Karel
 https://github.com/seanpm2001/Learn-Kojo
 https://github.com/seanpm2001/Learn-Kodu
+https://github.com/seanpm2001/Learn-LISA
 
 //// LennyOS
 
@@ -4726,8 +4729,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 151 (2025, Thursday, October 30th at 09:30 pm PST)
-//// Line count (including blank lines and compiler line): 4,734
+//// File version: 152 (2025, Friday, October 31st at 09:36 pm PST)
+//// Line count (including blank lines and compiler line): 4,737
 //// ----------------------------------------------------- \\\\
 
 //// End of file
