@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, November 3rd
+//// As of 2025, Tuesday, November 4th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -49,7 +49,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,347) (many not listed yet)
+//// Documentation Project (3,348) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -80,7 +80,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (81)
+//// Websites (84)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -166,6 +166,9 @@ https://github.com/seanpm2001/Satan-Software-Suite_Website
 https://github.com/seanpm2001/OS_Census_Website
 https://github.com/seanpm2001/Senior_Design_Website
 https://github.com/seanpm2001/IGNORE_File_Website
+https://github.com/seanpm2001/Boilerplate-cabinet_Website
+https://github.com/seanpm2001/NexxFetch_Website
+https://github.com/seanpm2001/CountMausoleum_Website
 
 //// 📌️ Special Purpose
 
@@ -2660,6 +2663,7 @@ https://github.com/seanpm2001/Learn-Kojo
 https://github.com/seanpm2001/Learn-Kodu
 https://github.com/seanpm2001/Learn-LISA
 https://github.com/seanpm2001/Learn-Mary
+https://github.com/seanpm2001/Learn-Magma
 
 //// LennyOS
 
@@ -4734,8 +4738,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 153 (2025, Monday, November 3rd at 09:56 pm PST)
-//// Line count (including blank lines and compiler line): 4,742
+//// File version: 154 (2025, Tuesday, November 4th at 08:17 pm PST)
+//// Line count (including blank lines and compiler line): 4,746
 //// ----------------------------------------------------- \\\\
 
 //// End of file
