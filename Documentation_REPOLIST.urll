@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, November 5th
+//// As of 2025, Thursday, November 6th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -49,7 +49,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,349) (many not listed yet)
+//// Documentation Project (3,350) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -80,10 +80,11 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (84)
+//// Websites (87)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
+//// The split-off process will happen between 2025, November 12th and 2025, November 13th
 
 https://github.com/seanpm2001/Booty_Website
 https://github.com/seanpm2001/Kotlint_Website
@@ -169,6 +170,9 @@ https://github.com/seanpm2001/IGNORE_File_Website
 https://github.com/seanpm2001/Boilerplate-cabinet_Website
 https://github.com/seanpm2001/NexxFetch_Website
 https://github.com/seanpm2001/CountMausoleum_Website
+https://github.com/seanpm2001/README-Desktop-LIBrary_Website
+https://github.com/seanpm2001/ShareBoxLIBrary_Website
+https://github.com/seanpm2001/Easy-E-IDE_Website
 
 //// 📌️ Special Purpose
 
@@ -2665,6 +2669,7 @@ https://github.com/seanpm2001/Learn-LISA
 https://github.com/seanpm2001/Learn-Mary
 https://github.com/seanpm2001/Learn-Magma
 https://github.com/seanpm2001/Learn-Zonnon
+https://github.com/seanpm2001/Learn-Wyvern
 
 //// LennyOS
 
@@ -4739,8 +4744,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 155 (2025, Wednesday, November 5th at 08:41 pm PST)
-//// Line count (including blank lines and compiler line): 4,747
+//// File version: 156 (2025, Thursday, November 6th at 05:43 pm PST)
+//// Line count (including blank lines and compiler line): 4,752
 //// ----------------------------------------------------- \\\\
 
 //// End of file
