@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, November 6th
+//// As of 2025, Friday, November 7th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.11.03: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
+//// 2025.11.07: Last update of the week today. Will return on 2025, Monday, November 10th
 
 //// OLD MESSAGES
 
+//// 2025.11.03: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.10.31: Last update of the week today. Will return on 2025, Monday, November 3rd
 //// 2025.10.27: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.10.24: Last update of the week today. Will return on 2025, Monday, October 20th
@@ -49,7 +50,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,350) (many not listed yet)
+//// Documentation Project (3,351) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -80,7 +81,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (87)
+//// Websites (90)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -173,6 +174,9 @@ https://github.com/seanpm2001/CountMausoleum_Website
 https://github.com/seanpm2001/README-Desktop-LIBrary_Website
 https://github.com/seanpm2001/ShareBoxLIBrary_Website
 https://github.com/seanpm2001/Easy-E-IDE_Website
+https://github.com/seanpm2001/Zag_Website
+https://github.com/seanpm2001/The_Bandwidth_Band_Website
+https://github.com/seanpm2001/Camera-privacy-specification_Website
 
 //// 📌️ Special Purpose
 
@@ -2670,6 +2674,7 @@ https://github.com/seanpm2001/Learn-Mary
 https://github.com/seanpm2001/Learn-Magma
 https://github.com/seanpm2001/Learn-Zonnon
 https://github.com/seanpm2001/Learn-Wyvern
+https://github.com/seanpm2001/Learn-Ubercode
 
 //// LennyOS
 
@@ -4744,8 +4749,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 156 (2025, Thursday, November 6th at 05:43 pm PST)
-//// Line count (including blank lines and compiler line): 4,752
+//// File version: 157 (2025, Friday, November 7th at 03:33 pm PST)
+//// Line count (including blank lines and compiler line): 4,757
 //// ----------------------------------------------------- \\\\
 
 //// End of file
