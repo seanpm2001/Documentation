@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, November 7th
+//// As of 2025, Monday, November 10th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.11.07: Last update of the week today. Will return on 2025, Monday, November 10th
+//// 2025.11.10: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 
 //// OLD MESSAGES
 
+//// 2025.11.07: Last update of the week today. Will return on 2025, Monday, November 10th
 //// 2025.11.03: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.10.31: Last update of the week today. Will return on 2025, Monday, November 3rd
 //// 2025.10.27: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
@@ -50,7 +51,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,351) (many not listed yet)
+//// Documentation Project (3,352) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -81,7 +82,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (90)
+//// Websites (93)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -177,6 +178,9 @@ https://github.com/seanpm2001/Easy-E-IDE_Website
 https://github.com/seanpm2001/Zag_Website
 https://github.com/seanpm2001/The_Bandwidth_Band_Website
 https://github.com/seanpm2001/Camera-privacy-specification_Website
+https://github.com/seanpm2001/ARCHIVE_My-Robot-Friend_Website
+https://github.com/seanpm2001/Setup-Go2004-GitHubAction_Website
+https://github.com/seanpm2001/Vim-Autoscroller_Website
 
 //// 📌️ Special Purpose
 
@@ -4749,8 +4753,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 157 (2025, Friday, November 7th at 03:33 pm PST)
-//// Line count (including blank lines and compiler line): 4,757
+//// File version: 158 (2025, Monday, November 10th at 08:34 pm PST)
+//// Line count (including blank lines and compiler line): 4,761
 //// ----------------------------------------------------- \\\\
 
 //// End of file
