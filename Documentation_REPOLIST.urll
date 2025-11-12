@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, November 10th
+//// As of 2025, Tuesday, November 11th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -82,7 +82,7 @@
 //// Sort list A-Z
 
 //// ~Temporary
-//// Websites (93)
+//// Websites (96)
 //// These will eventually be split off into a separate repository, and won't be counted towards the
 //// total documentation repository count. These are temporary entries.
 //// To split off into: /Seanpm2001-Web
@@ -181,6 +181,9 @@ https://github.com/seanpm2001/Camera-privacy-specification_Website
 https://github.com/seanpm2001/ARCHIVE_My-Robot-Friend_Website
 https://github.com/seanpm2001/Setup-Go2004-GitHubAction_Website
 https://github.com/seanpm2001/Vim-Autoscroller_Website
+https://github.com/seanpm2001/Kommunism_Website
+https://github.com/seanpm2001/SlideXMagic_Website
+https://github.com/seanpm2001/AcroSlideXLIBrary_Website
 
 //// 📌️ Special Purpose
 
@@ -2679,6 +2682,7 @@ https://github.com/seanpm2001/Learn-Magma
 https://github.com/seanpm2001/Learn-Zonnon
 https://github.com/seanpm2001/Learn-Wyvern
 https://github.com/seanpm2001/Learn-Ubercode
+https://github.com/seanpm2001/Learn-Strand
 
 //// LennyOS
 
@@ -4753,8 +4757,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 158 (2025, Monday, November 10th at 08:34 pm PST)
-//// Line count (including blank lines and compiler line): 4,761
+//// File version: 159 (2025, Tuesday, November 11th at 07:35 pm PST)
+//// Line count (including blank lines and compiler line): 4,765
 //// ----------------------------------------------------- \\\\
 
 //// End of file
