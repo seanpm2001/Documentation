@@ -3,7 +3,7 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, November 17th
+//// As of 2025, Tuesday, November 18th
 
 //// TODO: Check documentation repositories for the WacOS project
 
@@ -51,7 +51,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,357) (many not listed yet)
+//// Documentation Project (3,358) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2592,6 +2592,7 @@ https://github.com/seanpm2001/Learn-Toi
 https://github.com/seanpm2001/Learn-RPlusPlus
 https://github.com/seanpm2001/Learn-Pharo
 https://github.com/seanpm2001/Learn-Mortran
+https://github.com/seanpm2001/Learn-Hermes
 
 //// LennyOS
 
@@ -4670,8 +4671,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 163 (2025, Monday, November 15th at 09:46 pm PST)
-//// Line count (including blank lines and compiler line): 4,678
+//// File version: 164 (2025, Tuesday, November 18th at 10:28 pm PST)
+//// Line count (including blank lines and compiler line): 4,679
 //// ----------------------------------------------------- \\\\
 
 //// End of file
