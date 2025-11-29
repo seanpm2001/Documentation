@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Thursday, November 27th
+//// As of 2025, Friday, November 28th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.11.26: There have been difficulties this week. I was unable to return to this project until 2025, Wednesday, November 26th. I am hoping I can remain stable enough to continue updates daily until 2025, November 28th, when I will then go for another weekend break.
+//// 2025.11.21: Last update of the week today. Will return on 2025, Monday, December 1st
 
 //// OLD MESSAGES
 
+//// 2025.11.26: There have been difficulties this week. I was unable to return to this project until 2025, Wednesday, November 26th. I am hoping I can remain stable enough to continue updates daily until 2025, November 28th, when I will then go for another weekend break.
 //// 2025.11.21: Last update of the week today. Will return on 2025, Monday, November 24th
 //// 2025.11.17: Coming back from another weekend, with 5 more consecutive updates planned, before I take another break for the weekend.
 //// 2025.11.14: Last update of the week today. Will return on 2025, Monday, November 17th
@@ -55,7 +56,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,365) (many not listed yet)
+//// Documentation Project (3,366) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2604,6 +2605,7 @@ https://github.com/seanpm2001/Learn-Boomerang
 https://github.com/seanpm2001/Learn-Bosque
 https://github.com/seanpm2001/Learn-Cilk
 https://github.com/seanpm2001/Learn-CorVision
+https://github.com/seanpm2001/Learn-CobolScript
 
 //// LennyOS
 
@@ -4682,8 +4684,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 169 (2025, Thursday, November 27th at 10:20 pm PST)
-//// Line count (including blank lines and compiler line): 4,690
+//// File version: 170 (2025, Friday, November 28th at 10:26 pm PST)
+//// Line count (including blank lines and compiler line): 4,692
 //// ----------------------------------------------------- \\\\
 
 //// End of file
