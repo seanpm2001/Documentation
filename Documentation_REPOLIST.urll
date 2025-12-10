@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Friday, December 5th
+//// As of 2025, Tuesday, December 9th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.12.05: Last update of the week today. There wwere difficulties yesterday, which caused me to pause on this project. Will return on 2025, Monday, December 8th
+//// 2025.12.09: There have been difficulties again this week. I was unable to return to this project until 2025, Tuesday, December 9th
 
 //// OLD MESSAGES
 
+//// 2025.12.05: Last update of the week today. There wwere difficulties yesterday, which caused me to pause on this project. Will return on 2025, Monday, December 8th
 //// 2025.12.02: There have been difficulties again this week. I was unable to return to this project until 2025, Tuesday, December 2nd.
 //// 2025.11.28: Last update of the week today. Will return on 2025, Monday, December 1st
 //// 2025.11.26: There have been difficulties this week. I was unable to return to this project until 2025, Wednesday, November 26th. I am hoping I can remain stable enough to continue updates daily until 2025, November 28th, when I will then go for another weekend break.
@@ -4691,8 +4692,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 173 (2025, Friday, December 5th at 10:41 pm PST)
-//// Line count (including blank lines and compiler line): 4,699
+//// File version: 174 (2025, Tuesday, December 9th at 11:25 pm PST)
+//// Line count (including blank lines and compiler line): 4,700
 //// ----------------------------------------------------- \\\\
 
 //// End of file
