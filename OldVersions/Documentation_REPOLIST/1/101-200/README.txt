@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Saturday, December 13th
+//// As of 2025, Wednesday, December 17th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.12.13: Last update of the week today. There were difficulties yesterday, which caused me to work on this project today (a Saturday) I plan to return on 2025, Monday, December 15th, unless something happens
+//// 2025.12.17: There have been difficulties again this week. I was unable to return to this project until 2025, Wednesday, December 17th
 
 //// OLD MESSAGES
 
+//// 2025.12.13: Last update of the week today. There were difficulties yesterday, which caused me to work on this project today (a Saturday) I plan to return on 2025, Monday, December 15th, unless something happens
 //// 2025.12.09: There have been difficulties again this week. I was unable to return to this project until 2025, Tuesday, December 9th
 //// 2025.12.05: Last update of the week today. There wwere difficulties yesterday, which caused me to pause on this project. Will return on 2025, Monday, December 8th
 //// 2025.12.02: There have been difficulties again this week. I was unable to return to this project until 2025, Tuesday, December 2nd.
@@ -60,7 +61,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,374) (many not listed yet)
+//// Documentation Project (3,377) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2618,6 +2619,9 @@ https://github.com/seanpm2001/Learn-CEEMAC
 https://github.com/seanpm2001/Learn-EToys
 https://github.com/seanpm2001/Learn-Esterol
 https://github.com/seanpm2001/Learn-GEORGE
+https://github.com/seanpm2001/Learn-Geometric-Description-Language
+https://github.com/seanpm2001/Learn-MAD
+https://github.com/seanpm2001/Learn-Haggis
 
 //// LennyOS
 
@@ -4696,8 +4700,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 176 (2025, Saturday, December 13th at 11:02 pm PST
-//// Line count (including blank lines and compiler line): 4,704
+//// File version: 177 (2025, Thursday, December 18th at 07:29 pm PST
+//// Line count (including blank lines and compiler line): 4,708
 //// ----------------------------------------------------- \\\\
 
 //// End of file
