@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Wednesday, December 17th
+//// As of 2025, Friday, December 19th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.12.17: There have been difficulties again this week. I was unable to return to this project until 2025, Wednesday, December 17th
+//// 2025.12.19: Last update of the week today. There were difficulties again yesterday, which caused me to work on this project today. There have been lots of setbacks lately. I plan to return on 2025, Monday, December 22nd, unless something happens
 
 //// OLD MESSAGES
 
+//// 2025.12.17: There have been difficulties again this week. I was unable to return to this project until 2025, Wednesday, December 17th
 //// 2025.12.13: Last update of the week today. There were difficulties yesterday, which caused me to work on this project today (a Saturday) I plan to return on 2025, Monday, December 15th, unless something happens
 //// 2025.12.09: There have been difficulties again this week. I was unable to return to this project until 2025, Tuesday, December 9th
 //// 2025.12.05: Last update of the week today. There wwere difficulties yesterday, which caused me to pause on this project. Will return on 2025, Monday, December 8th
@@ -61,7 +62,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,377) (many not listed yet)
+//// Documentation Project (3,379) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2622,6 +2623,8 @@ https://github.com/seanpm2001/Learn-GEORGE
 https://github.com/seanpm2001/Learn-Geometric-Description-Language
 https://github.com/seanpm2001/Learn-MAD
 https://github.com/seanpm2001/Learn-Haggis
+https://github.com/seanpm2001/Learn-JavaFX-Script
+https://github.com/seanpm2001/Learn-Jess
 
 //// LennyOS
 
@@ -4700,8 +4703,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 177 (2025, Thursday, December 18th at 07:29 pm PST
-//// Line count (including blank lines and compiler line): 4,708
+//// File version: 178 (2025, Friday, December 19th at 07:45 pm PST
+//// Line count (including blank lines and compiler line): 4,711
 //// ----------------------------------------------------- \\\\
 
 //// End of file
