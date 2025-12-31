@@ -3,14 +3,15 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all Documentation repositories by @seanpm2001
 //// MAJOR WORK IN PROGRESS
-//// As of 2025, Monday, December 22nd
+//// As of 2025, Tuesday, December 30th
 
 //// TODO: Check documentation repositories for the WacOS project
 
-//// 2025.12.22: I am having a really hard time getting caught back up, and have fallen behind on several projects furthe rthnas I ever have before. Because of this, I decided to take this week off from new repositories. The entries queued for this week were moved to the next availability (2026, September)
+//// 2025.12.30: It took a day longer than planned (or, 8 days longer than planned) but I am back. 25 new repositories should be created this week.
 
 //// OLD MESSAGES
 
+//// 2025.12.22: I am having a really hard time getting caught back up, and have fallen behind on several projects furthe rthnas I ever have before. Because of this, I decided to take this week off from new repositories. The entries queued for this week were moved to the next availability (2026, September)
 //// 2025.12.19: Last update of the week today. There were difficulties again yesterday, which caused me to work on this project today. There have been lots of setbacks lately. I plan to return on 2025, Monday, December 22nd, unless something happens
 //// 2025.12.17: There have been difficulties again this week. I was unable to return to this project until 2025, Wednesday, December 17th
 //// 2025.12.13: Last update of the week today. There were difficulties yesterday, which caused me to work on this project today (a Saturday) I plan to return on 2025, Monday, December 15th, unless something happens
@@ -63,7 +64,7 @@
 //// 2025.06.23: Development on this repository didn't die for the past 3 days, there was just nothing to add
 
 //// ----------------------------------------------------- \\\\
-//// Documentation Project (3,379) (many not listed yet)
+//// Documentation Project (3,381) (many not listed yet)
 //// ----------------------------------------------------- \\\\
 
 //// SORTING
@@ -2626,6 +2627,8 @@ https://github.com/seanpm2001/Learn-MAD
 https://github.com/seanpm2001/Learn-Haggis
 https://github.com/seanpm2001/Learn-JavaFX-Script
 https://github.com/seanpm2001/Learn-Jess
+https://github.com/seanpm2001/Learn-Little-Implementation-Language-_LIL_
+https://github.com/seanpm2001/Learn-LINC-4GL
 
 //// LennyOS
 
@@ -4704,8 +4707,8 @@ https://github.com/seanpm2001/Zephirs_Domain_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 179 (2025, Monday, December 22nd at 07:46 pm PST
-//// Line count (including blank lines and compiler line): 4,712
+//// File version: 180 (2025, Tuesday, December 30th at 11:34 pm PST
+//// Line count (including blank lines and compiler line): 4,715
 //// ----------------------------------------------------- \\\\
 
 //// End of file
